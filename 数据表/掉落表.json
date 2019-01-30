@@ -1,0 +1,28 @@
+{
+    "code": 0,
+    "desc": "掉落表",
+    "data": [
+        {
+            "tid": 1,
+            "loots":
+            [
+                {"localid":1,"category": 1,"quality":1,"chance":0},
+                {"localid":1,"category": 1,"quality":2,"chance":0},
+                {"localid":1,"category": 1,"quality":3,"chance":0},
+                {"localid":1,"category": 1,"quality":4,"chance":0},
+                {"localid":1,"category": 1,"quality":4,"chance":0}
+            ]
+        },
+        {
+            "tid": 2,
+            "loots":
+            [
+                {"localid":1,"category": 1,"quality":1,"chance":0},
+                {"localid":1,"category": 1,"quality":2,"chance":0},
+                {"localid":1,"category": 1,"quality":3,"chance":0},
+                {"localid":1,"category": 1,"quality":4,"chance":0},
+                {"localid":1,"category": 1,"quality":4,"chance":0}
+            ]
+        }
+    ]
+}

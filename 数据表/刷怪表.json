@@ -1,0 +1,36 @@
+{
+    "code": 0,
+    "desc": "刷怪表",
+    "data": [
+        {
+            "guid": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "radius":0,
+            "spwans":
+            [
+                {"tid":1,"chance":0},
+                {"tid":2,"chance":0},
+                {"tid":3,"chance":0},
+                {"tid":4,"chance":0},
+                {"tid":5,"chance":0}
+            ]
+        },
+        {
+            "guid": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "radius":0,
+            "spwans":
+            [
+                {"tid":1,"chance":0},
+                {"tid":2,"chance":0},
+                {"tid":3,"chance":0},
+                {"tid":4,"chance":0},
+                {"tid":5,"chance":0}
+            ]
+        }
+    ]
+}
