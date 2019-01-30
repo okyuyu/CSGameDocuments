@@ -1,0 +1,5 @@
+id,category,view_prefab,weapon_prefab
+1000001,Stick;10,13,1000001
+1000002,Pistol;1,12,1000002
+1000003,AssaultRifle;2,14,1000003
+1000010,Grenade;6,30,1000010

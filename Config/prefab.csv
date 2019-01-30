@@ -1,0 +1,78 @@
+id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
+1,normal;0,normal;0,M4Gun_FPS,f8b19c9a8497d094db7402404ea19da7:188224,0,0,0,0,0,0,0
+2,normal;0,normal;0,human,af525e23d4824504faf2c439ce237022:143814,0,0,0,0,0,0,0
+3,normal;0,normal;0,impat_wall,49bf48ba700479647a677df065f772f3:100000,0,0,0,0,0,0,0
+4,normal;0,normal;0,BloodFX,d57dbdf2451f7164a8709e9c61f813a3:100000,0,0,0,0,0,0,0
+5,normal;0,normal;0,lootbox1,b3c80b9b1eb031247a528b821c753e8b:186818,0,0,0,0,0,0,0
+6,normal;0,normal;0,basemodel,53d344e8499846d4aabd95ae6ab5c41f:170376,0,0,0,0,0,0,0
+7,normal;0,normal;0,bullethole,3c9e98c565465a94b93b25c9824f8919:191252,0,0,0,0,0,0,0
+8,normal;0,normal;0,hitwall1,8d818e495c3758346aa45407ff5fb09f:118546,0,0,0,0,0,0,0
+9,normal;0,normal;0,hitwall2,cc8c288decffd8d4b86a5f3af66ed3fe:198304,0,0,0,0,0,0,0
+10,normal;0,normal;0,hit,2588c582a31f10b448f7d62aa02198e5:189436,0,0,0,0,0,0,0
+11,normal;0,normal;0,p228_shoot,a18b845cff6b0d445b1e3dcc0fcac1f9:194658,0,0,0,0,0,0,0
+12,normal;0,normal;0,handgun1,0566eef33ed32a94abd593c5f38d70d8:138400,0,0,0,0,0,0,0
+13,normal;0,normal;0,knife1,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,0,0
+14,normal;0,normal;0,assault_rifle1,53a600c32876e634e8380bcfce86e341:153098,0,0,0,0,0,0,0
+15,normal;0,normal;0,Zombies,cc40e8d377d2835469ae31efa3cc0f5c:197910,0,0,0,0,0,0,0
+16,normal;0,normal;0,nameItem,c592acc6912a3eb4d85acb68bf46dc2c:104830,0,0,0,0,0,0,0
+17,normal;0,normal;0,ScorePanel,7bf5e6b719315b942995c70d0e030ecf:186014,0,0,0,0,0,0,0
+18,normal;0,normal;0,deathmsg,cbb6fbab995ef864daee18c4e352a92c:168994,0,0,0,0,0,0,0
+19,normal;0,normal;0,gun2,194c0ebeb2da893409787d4c6fedeb4c:21300002,0,0,0,0,0,0,0
+20,normal;0,normal;0,deathmsg00,db4899f2ed99a244db7f26d9e770fc4d:151314,0,0,0,0,0,0,0
+21,normal;0,normal;0,deathmsg02,d632e3f48f386d945a8145202af54999:103856,0,0,0,0,0,0,0
+22,normal;0,normal;0,deathmsg2,a6c925999e76abd489008d82ac379f8b:101362,0,0,0,0,0,0,0
+23,normal;0,normal;0,deathmsg03,afc05e91b07f56f41848664aa4199743:148398,0,0,0,0,0,0,0
+24,normal;0,normal;0,deathmsg3,e7e276d8d5a577d46a95cf5f7ee0a3de:156436,0,0,0,0,0,0,0
+25,normal;0,normal;0,fiveseven_shoot,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,0
+26,normal;0,normal;0,fiveseven_shoot_sound,3f59ac0325438bd428942306e8e45c52:8300000,0,0,0,0,0,0,0
+27,normal;0,normal;0,local_run,383fa144d740cc440aa7bc18602be00a:8300000,0,0,0,0,0,0,0
+28,normal;0,normal;0,clipout,7d2c0f2b82cf3704d802f11623667fc3:136006,0,0,0,0,0,0,0
+29,normal;0,normal;0,clipin,d2ab4221d46c30842ad34768d868983e:152338,0,0,0,0,0,0,0
+30,normal;0,normal;0,grenade_1,837ad8a38e9072148aed419a534f5750:114748,0,0,0,0,0,0,0
+31,normal;0,normal;0,explosionA,5eb03913fcfb2904584dbd6f91831cd7:168886,0,0,0,0,0,0,0
+32,normal;0,normal;0,boltpull,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,0
+33,normal;0,normal;0,knifeattack,567c0648f3c016642979f17789045896:100638,0,0,0,0,0,0,0
+34,normal;0,normal;0,BulletTracer,40969472316929142a4a8bc7837e0a88:100000,0,0,0,0,0,0,0
+35,normal;0,normal;0,CraftItem,212e5fcebb3ab0e4294bafbff7a63a01:174736,0,0,0,0,0,0,0
+36,normal;0,normal;0,MetalIcon,99eb7bd7032309a4d8088465c7e04178:21300020,0,0,0,0,0,0,0
+37,normal;0,normal;0,tempIcon,27a3934fd6b27cf49be96c0f56163e00:2800000,0,0,0,0,0,0,0
+0,weapon;1,mesh;1,no weapon 3person,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
+1,weapon;1,mesh;1,knife1 view,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
+1,weapon;1,icon;2,knife1 icon,0b7ee1047d4171d4d8d85f5f3c066a72:175832,0,0,0,0,0,90,0
+1,weapon;1,icon;2;1,knife1 sp,63a200981045be149b3618abb459cbe1:21300042,0,0,0,0,0,90,0
+1,weapon;1,mesh;1;1,knife1 world,09dfb76e48059b0418e6c7d4fa02dd59:121640,0,0,0,0,0,90,0
+2,weapon;1,mesh;1,Pistol1,1f239ed8c7157de44a446b92d0a9d1ed:117996,0,0,0,0,90,90,0
+2,weapon;1,icon;2;1,knife2 sp,99eb7bd7032309a4d8088465c7e04178:21300010,0,0,0,0,90,90,0
+3,weapon;1,mesh;1,ak47 mesh,fc08f8a9cee7ce24e81130425b341f6e:112436,0.195,-0.061,0.088,0,90,90,0
+3,weapon;1,icon;2,ak47 icon,0,0,0,0,0,0,0,0
+3,weapon;1,icon;2;1,w3 sp,63a200981045be149b3618abb459cbe1:21300082,0,0,0,0,0,0,0
+3,weapon;1,sound;3;0,ak47 sound1,0,0,0,0,0,0,0,0
+3,weapon;1,sound;3;1,ak47 sound2,0,0,0,0,0,0,0,0
+3,weapon;1,mesh;1;1,ak47 view,0,0,0,0,0,0,0,0
+4,weapon;1,icon;2,stun grenades,5ebfa05af44201145af6416f4956946d:180692,0,0,0,0,0,0,0
+4,weapon;1,icon;2;1,w4 sp,63a200981045be149b3618abb459cbe1:21300040,0,0,0,0,0,0,0
+7,weapon;1,icon;2;1,w7 sp,63a200981045be149b3618abb459cbe1:21300078,0,0,0,0,0,0,0
+8,weapon;1,icon;2;1,w8 sp,99eb7bd7032309a4d8088465c7e04178:21300002,0,0,0,0,0,0,0
+9,weapon;1,icon;2;1,w9 sp,63a200981045be149b3618abb459cbe1:21300066,0,0,0,0,0,0,0
+11,weapon;1,icon;2;1,w11 sp,63a200981045be149b3618abb459cbe1:21300062,0,0,0,0,0,0,0
+12,weapon;1,icon;2;1,w12 sp,99eb7bd7032309a4d8088465c7e04178:21300024,0,0,0,0,0,0,0
+23,weapon;1,sound;3;0,handgun1 fire,a18b845cff6b0d445b1e3dcc0fcac1f9:194658,0,0,0,0,0,0,0
+23,weapon;1,icon;2,handgun1 icon,b06c2233b1089b649980166c612bd34c:137812,0,0,0,0,0,0,0
+29,weapon;1,icon;2,ak1 icon,28555f80766a232428a9e35aff394ad1:111484,0,0,0,0,0,0,0
+51,weapon;1,icon;2,gg1 icon,44565461cf8b9ea459bc03fe1a26a091:121228,0,0,0,0,0,0,0
+1,armor;2,icon;2,tshirt5,c8bfccb76c37a23458ea7cd83109eb7d:154568,0,0,0,0,0,0,0
+2,armor;2,icon;2,shorts6,b96c55d6549e33142975965177ecabe9:114676,0,0,0,0,0,0,0
+25,armor;2,icon;2,hat25 icon,c12abf9392a387744be2d65f3174f788:197650,0,0,0,0,0,0,0
+46,armor;2,icon;2,hat46 icon,18c8d3c0f13042147b46f55cb6b268a0:176384,0,0,0,0,0,0,0
+65,armor;2,icon;2,hat65 icon,7f41225b14a931045b5d6a1f91822759:153064,0,0,0,0,0,0,0
+1,material;4,icon;2;1,material1 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
+2,material;4,icon;2;1,material2 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
+3,material;4,icon;2;1,material3 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
+4,material;4,icon;2;1,material4 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
+5,material;4,icon;2;1,material5 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
+6,material;4,icon;2;1,material6 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
+7,material;4,icon;2;1,material7 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
+8,material;4,icon;2;1,material8 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
+1,monster;5,mesh;1,monster1 mesh,cc40e8d377d2835469ae31efa3cc0f5c:197910,0,0,0,0,0,0,0
+1,body;6,mesh;1,body1 mesh,53d344e8499846d4aabd95ae6ab5c41f:170376,0,0,0,0,0,0,0
+0,other;7,mesh;1,default world mesh,594f44880521d3a43ab39dcd4951d874:128128,0,0,0,0,0,0,默认的掉落模型
