@@ -1,2 +1,5 @@
 key,value
 level1,iceworld.unity
+step_offset,0.3
+absolute_height,1
+absolute_radius,0.2
