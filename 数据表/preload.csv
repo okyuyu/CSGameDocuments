@@ -27,7 +27,12 @@ id,type,category,name,asset_category,guid,desc
 25,normal;0,normal;0,BloodFX,asset;0,d57dbdf2451f7164a8709e9c61f813a3,
 26,normal;0,normal;0,bullethole,asset;0,3c9e98c565465a94b93b25c9824f8919,
 27,normal;0,normal;0,AnimationsAB,assetbundle;2,461ec44ad0c048c4d86d31cbf3d08ce0,
+28,normal;0,normal;0,Muzzle,assetbundle;2,da79d894539cdf648bd2bc0291bcc213,
 0,weapon;1,mesh;1,arms@knife_1,assetbundle;2,cd50c6d4bed8506408df301cf35d6bd3,空手模型
 1,weapon;1,mesh;1,arms@knife_1,assetbundle;2,cd50c6d4bed8506408df301cf35d6bd3,拿匕首角色
 23,weapon;1,mesh;1,arms@handgun_1,assetbundle;2,560486cdd66462549a01614eb23255e3,手枪角色模型
+29,weapon;1,mesh;1,arms@assault_rifle_3,assetbundle;2,ec3fbe09270cb2241a36a42d0b9a24ae,步枪角色模型
+51,weapon;1,mesh;1,arms@hand_grenade_1,assetbundle;2,c53972f0d08102e4c8c6e509235fa8cc,手雷形象
+51,weapon;1,mesh;1;1,hand_grenade,assetbundle;2,df7492d5701ac1248a1447647d589866,地上手雷
 1,monster;5,mesh;1,Zombie001,assetbundle;2,e30c99bf9058ba54ca800293f0b31360,僵尸
+1,monster;7,mesh;1,storage01,assetbundle;2,1348e73882ce0ca4c860527d3011b701,储物箱
