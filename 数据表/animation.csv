@@ -1,0 +1,14 @@
+category,WEAPON_ACT_JUMP,WEAPON_ACT_RUN,WEAPON_ACT_DUCK,WEAPON_ACT_DEPLOY,WEAPON_ACT_SHOOT,WEAPON_ACT_RELOAD,WEAPON_ACT_DISARM,WEAPON_ACT_ATTACK1,WEAPON_ACT_ATTACK2,WEAPON_ACT_ATTACK3
+NoWeapon,jump,run,duck,deploy,shoot,null,disarm,null,null,null
+Pistol,pistol_jump,null,null,null,null,null,null,null,null,null
+AssaultRifle,assaultrifle_jump,null,null,null,null,null,null,null,null,null
+SubmachineGun,submachinegun_jump,null,null,null,null,null,null,null,null,null
+Shotgun,shotgun_jump,null,null,null,null,null,null,null,null,null
+SniperRifle,null,null,null,null,null,null,null,null,null,null
+DaggerLike,null,null,null,null,null,null,null,null,null,null
+HammerLike,null,null,null,null,null,null,null,null,null,null
+StickLike,null,null,null,null,null,null,null,null,null,null
+Cannon,null,null,null,null,null,null,null,null,null,null
+LongBow,null,null,null,null,null,null,null,null,null,null
+CrossBow,null,null,null,null,null,null,null,null,null,null
+Grenade,null,null,null,null,null,null,null,null,null,null

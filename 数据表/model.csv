@@ -1,0 +1,3 @@
+id,category,LOWERLEG_LEFT,LOWERLEG_RIGHT,UPPERLEG_LEFT,UPPERLEG_RIGHT,STOMACH,CHEST,UPPERARM_LEFT,UPPERARM_RIGHT,LOWERARM_LEFT,LOWERARM_RIGHT,HEAD,LEFT_HOLD,RIGHT_HOLD,UPPER_BODY
+1,MC_HUMANOID_ATTACK;0,,,,,,,,,,,,,Armature/weapon/hitbox,
+2,MC_HUMANOID_TARGET;1,,,,,Root_jnt/Hips_jnt/Body_jnt,Root_jnt/Hips_jnt/Body_jnt/Spine_jnt,,,,,Root_jnt/Hips_jnt/Body_jnt/Spine_jnt/Head_jnt,,,Root_jnt/Hips_jnt/Body_jnt/Spine_jnt
