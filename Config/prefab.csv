@@ -36,6 +36,15 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 35,normal;0,normal;0,CraftItem,212e5fcebb3ab0e4294bafbff7a63a01:174736,0,0,0,0,0,0,0
 36,normal;0,normal;0,MetalIcon,99eb7bd7032309a4d8088465c7e04178:21300020,0,0,0,0,0,0,0
 37,normal;0,normal;0,tempIcon,27a3934fd6b27cf49be96c0f56163e00:21300000,0,0,0,0,0,0,0
+38,normal;0,normal;0,run_sd,383fa144d740cc440aa7bc18602be00a:8300000,0,0,0,0,0,0,0
+39,normal;0,normal;0,jumpup_sd,fbddfd1eb0635db408cc5cce3926f0da:8300000,0,0,0,0,0,0,0
+40,normal;0,normal;0,jumpground_sd,004aee7951a59bd458a0dbbcbcb9a46f:8300000,0,0,0,0,0,0,0
+41,normal;0,normal;0,zambi1_sd,2afe59018681dfc43a5784b3e9b2c801:8300000,0,0,0,0,0,0,0
+42,normal;0,normal;0,zambiattack_sd,27fcde774b38ec24e90ef4b8d9e4377d:8300000,0,0,0,0,0,0,0
+43,normal;0,normal;0,z_run_sd,879a9d3709f271c4db002a8a3120707a:8300000,0,0,0,0,0,0,0
+44,normal;0,normal;0,zombie_server,cc40e8d377d2835469ae31efa3cc0f5c:197910,0,0,0,0,0,0,0
+45,normal;0,normal;0,viewknife_s,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,0,0
+46,normal;0,normal;0,Muzzle,478609f0cbbfd724790437470feba256:175908,0,0,0,0,0,0,0
 0,weapon;1,mesh;1,no weapon 3person,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
 1,weapon;1,mesh;1,knife1 view,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
 1,weapon;1,icon;2,knife1 icon,0b7ee1047d4171d4d8d85f5f3c066a72:175832,0,0,0,0,0,90,0

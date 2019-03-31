@@ -1,3 +1,3 @@
 id,mapid,tid,positionx,positiony,positionz,radius,tick_time,chance
-1,1,1,0,2,0,1,1,10000
-2,1,1,2,2,2,1,1,0
+1,1,1,1.24,2.015,7.4,0,1,10000
+2,2,1,-455.9,1039.01,-638.7,1,1,10000
