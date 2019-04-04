@@ -38,13 +38,14 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 37,normal;0,normal;0,tempIcon,27a3934fd6b27cf49be96c0f56163e00:21300000,0,0,0,0,0,0,0
 38,normal;0,normal;0,run_sd,383fa144d740cc440aa7bc18602be00a:8300000,0,0,0,0,0,0,0
 39,normal;0,normal;0,jumpup_sd,fbddfd1eb0635db408cc5cce3926f0da:8300000,0,0,0,0,0,0,0
-40,normal;0,normal;0,jumpground_sd,004aee7951a59bd458a0dbbcbcb9a46f:8300000,0,0,0,0,0,0,0
+40,normal;0,normal;0,jumpground_sd,790911e396a73e54caab7bfe828bd289:100000,0,0,0,0,0,0,0
 41,normal;0,normal;0,zambi1_sd,2afe59018681dfc43a5784b3e9b2c801:8300000,0,0,0,0,0,0,0
 42,normal;0,normal;0,zambiattack_sd,27fcde774b38ec24e90ef4b8d9e4377d:8300000,0,0,0,0,0,0,0
 43,normal;0,normal;0,z_run_sd,879a9d3709f271c4db002a8a3120707a:8300000,0,0,0,0,0,0,0
-44,normal;0,normal;0,zombie_server,cc40e8d377d2835469ae31efa3cc0f5c:197910,0,0,0,0,0,0,0
-45,normal;0,normal;0,viewknife_s,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,0,0
+44,normal;0,normal;0,zombie_server,29382aa926ce2924da80ee5374430fa1:100038,0,0,0,0,0,0,0
+45,normal;0,normal;0,viewknife_s,d3523ade88d6e694a9236c47607e8879:100020,0,0,0,0,0,0,0
 46,normal;0,normal;0,Muzzle,478609f0cbbfd724790437470feba256:175908,0,0,0,0,0,0,0
+47,normal;0,normal;0,BloodFXOther,e74036a2fec47604d8d89a76268aaf5d:100000,0,0,0,0,0,0,0
 0,weapon;1,mesh;1,no weapon 3person,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
 1,weapon;1,mesh;1,knife1 view,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
 1,weapon;1,icon;2,knife1 icon,0b7ee1047d4171d4d8d85f5f3c066a72:175832,0,0,0,0,0,90,0
@@ -68,11 +69,18 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 13,weapon;1,icon;2;1,w13 sp,63a200981045be149b3618abb459cbe1:21300084,0,0,0,0,0,0,0
 14,weapon;1,icon;2;1,w14 sp,63a200981045be149b3618abb459cbe1:21300092,0,0,0,0,0,0,0
 16,weapon;1,icon;2;1,w16 sp,63a200981045be149b3618abb459cbe1:21300006,0,0,0,0,0,0,0
-23,weapon;1,sound;3;0,handgun1 fire,a18b845cff6b0d445b1e3dcc0fcac1f9:194658,0,0,0,0,0,0,0
+23,weapon;1,sound;3;0,handgun_fire,44b71bdd728796c4ebd1a274d3ecf1c5:100000,0,0,0,0,0,0,0
+23,weapon;1,sound;3;1,handgun_reload1,7d2c0f2b82cf3704d802f11623667fc3:136006,0,0,0,0,0,0,0
+23,weapon;1,sound;3;2,handgun_reload2,d2ab4221d46c30842ad34768d868983e:152338,0,0,0,0,0,0,0
+23,weapon;1,sound;3;3,handgun_reload3,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,0
 23,weapon;1,icon;2,handgun1 icon,b06c2233b1089b649980166c612bd34c:137812,0,0,0,0,0,0,0
 23,weapon;1,icon;2;1,handgun1 sp,99eb7bd7032309a4d8088465c7e04178:21300000,0,0,0,0,0,0,0
 28,weapon;1,icon;2;1,shotgun1 sp,99eb7bd7032309a4d8088465c7e04178:21300026,0,0,0,0,0,0,0
 29,weapon;1,icon;2,ak1 icon,28555f80766a232428a9e35aff394ad1:111484,0,0,0,0,0,0,0
+29,weapon;1,sound;3;0,ak1_shoot,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,0
+29,weapon;1,sound;3;1,ak1_reload1,8dcfb9a5fdea9c641a75fff607b95511:100000,0,0,0,0,0,0,0
+29,weapon;1,sound;3;2,ak1_reload2,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,0
+29,weapon;1,sound;3;3,ak1_reload3,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,0
 41,weapon;1,icon;2;1,w41sp,63a200981045be149b3618abb459cbe1:21300080,0,0,0,0,0,0,0
 42,weapon;1,icon;2;1,w42sp,63a200981045be149b3618abb459cbe1:21300092,0,0,0,0,0,0,0
 44,weapon;1,icon;2;1,w44sp,63a200981045be149b3618abb459cbe1:21300018,0,0,0,0,0,0,0
@@ -95,6 +103,11 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 6,material;4,icon;2;1,material6 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
 7,material;4,icon;2;1,material7 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
 8,material;4,icon;2;1,material8 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
-1,monster;5,mesh;1,monster1 mesh,cc40e8d377d2835469ae31efa3cc0f5c:197910,0,0,0,0,0,0,0
+0,monster;5,mesh;1,basemonster mesh,cc40e8d377d2835469ae31efa3cc0f5c:197910,0,0,0,0,0,0,0
+1,monster;5,mesh;1;1,monster1 model,fdbb68ca2ab771d4d88b4e7bbf5be04b:2100000,0,0,0,0,0,0,0
+2,monster;5,mesh;1;1,monster2 model,4dca5739dd09ce24088216c584fc104a:2100000,0,0,0,0,0,0,0
+3,monster;5,mesh;1;1,monster3 model,93c5229d91453174c8f6ccb3f06ea222:2100000,0,0,0,0,0,0,0
+4,monster;5,mesh;1;1,monster4 model,6e9d59e67067e154797ccbfab2ccd645:2100000,0,0,0,0,0,0,0
+5,monster;5,mesh;1;1,monster5 model,d26a8a5ef701bca46837f0204a63e537:2100000,0,0,0,0,0,0,0
 1,body;6,mesh;1,body1 mesh,53d344e8499846d4aabd95ae6ab5c41f:170376,0,0,0,0,0,0,0
 0,other;7,mesh;1,default world mesh,594f44880521d3a43ab39dcd4951d874:128128,0,0,0,0,0,0,默认的掉落模型
