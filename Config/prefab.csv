@@ -46,7 +46,24 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 45,normal;0,normal;0,viewknife_s,d3523ade88d6e694a9236c47607e8879:100020,0,0,0,0,0,0,0
 46,normal;0,normal;0,Muzzle,478609f0cbbfd724790437470feba256:175908,0,0,0,0,0,0,0
 47,normal;0,normal;0,BloodFXOther,e74036a2fec47604d8d89a76268aaf5d:100000,0,0,0,0,0,0,0
+48,normal;0,normal;0,joyPanel,ce27f21eb08c92841886bca6ae8f3ffc:189048,0,0,0,0,0,0,0
+49,normal;0,normal;0,impat_wall2,985029ea531ea504d9ebc2e9ac36cd4a:100002,0,0,0,0,0,0,0
+50,normal;0,normal;0,fishline,e9d16568bba2df1488deec8ab8f7f85e:100000,0,0,0,0,0,0,0
+51,normal;0,normal;0,buoys,242860c34d3308f44a4e0c58f7195019:100000,0,0,0,0,0,0,0
+52,normal;0,normal;0,throw_sound1,7fd214084e1c10c43b3c0f1269d7fafb:100000,0,0,0,0,0,0,0
+53,normal;0,normal;0,throw_sound2,1d1b8364114289a4eb466191a3239515:100000,0,0,0,0,0,0,0
+54,normal;0,normal;0,fish_touch,e6c964f8a45d68442bb365c7bfc5d83e:100000,0,0,0,0,0,0,0
+55,normal;0,normal;0,fishing_tension,25d652dccbd2d824e8e2c850412e60ae:100000,0,0,0,0,0,0,0
+56,normal;0,normal;0,fishing_cut,7201ceb7354a68b48a2fe54d3b02642d:100000,0,0,0,0,0,0,0
+57,normal;0,normal;0,fish_hit,af328621e47e97743ae10a4073625bf7:100000,0,0,0,0,0,0,0
+58,normal;0,normal;0,fish_splash,87ed090cf4ddcf341b2919df177af682:100000,0,0,0,0,0,0,0
+59,normal;0,normal;0,fish_jump,7d65428b3b6898f40a824fb4a2d0ddba:100000,0,0,0,0,0,0,0
+60,normal;0,normal;0,cut_wood,5f45c32634ccfc44b8d97be3fe5e5328:100000,0,0,0,0,0,0,0
+61,normal;0,normal;0,cut_wood_sound,79ce112238098d7459820f81bd1e4a24:100000,0,0,0,0,0,0,0
+62,normal;0,normal;0,swing,587221073f36e6743a959ecb122a0641:100000,0,0,0,0,0,0,0
+63,normal;0,normal;0,pickup_item,58cd2b1a55667b34eb09be87b5888892:100000,0,0,0,0,0,0,0
 0,weapon;1,mesh;1,no weapon 3person,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
+0,weapon;1,mesh;1;1,no weapon 1person,75aa758f1bad7df41b28d8f990ba20d1:100022,0,0,0,0,0,90,0
 1,weapon;1,mesh;1,knife1 view,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
 1,weapon;1,icon;2,knife1 icon,0b7ee1047d4171d4d8d85f5f3c066a72:175832,0,0,0,0,0,90,0
 1,weapon;1,icon;2;1,knife1 sp,63a200981045be149b3618abb459cbe1:21300042,0,0,0,0,0,90,0
@@ -69,10 +86,11 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 13,weapon;1,icon;2;1,w13 sp,63a200981045be149b3618abb459cbe1:21300084,0,0,0,0,0,0,0
 14,weapon;1,icon;2;1,w14 sp,63a200981045be149b3618abb459cbe1:21300092,0,0,0,0,0,0,0
 16,weapon;1,icon;2;1,w16 sp,63a200981045be149b3618abb459cbe1:21300006,0,0,0,0,0,0,0
-23,weapon;1,sound;3;0,handgun_fire,44b71bdd728796c4ebd1a274d3ecf1c5:100000,0,0,0,0,0,0,0
-23,weapon;1,sound;3;1,handgun_reload1,7d2c0f2b82cf3704d802f11623667fc3:136006,0,0,0,0,0,0,0
-23,weapon;1,sound;3;2,handgun_reload2,d2ab4221d46c30842ad34768d868983e:152338,0,0,0,0,0,0,0
-23,weapon;1,sound;3;3,handgun_reload3,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,0
+23,weapon;1,sound;3;0,handgun23_fire,44b71bdd728796c4ebd1a274d3ecf1c5:100000,0,0,0,0,0,0,0
+23,weapon;1,sound;3;1,handgun23_reload1,7d2c0f2b82cf3704d802f11623667fc3:136006,0,0,0,0,0,0,0
+23,weapon;1,sound;3;2,handgun23_reload2,d2ab4221d46c30842ad34768d868983e:152338,0,0,0,0,0,0,0
+23,weapon;1,sound;3;3,handgun23_reload3,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,0
+23,weapon;1,sound;3;4,handgun23_deploy,ffb1ee3bd05c140469174a34d2f2164f:100000,0,0,0,0,0,0,0
 23,weapon;1,icon;2,handgun1 icon,b06c2233b1089b649980166c612bd34c:137812,0,0,0,0,0,0,0
 23,weapon;1,icon;2;1,handgun1 sp,99eb7bd7032309a4d8088465c7e04178:21300000,0,0,0,0,0,0,0
 28,weapon;1,icon;2;1,shotgun1 sp,99eb7bd7032309a4d8088465c7e04178:21300026,0,0,0,0,0,0,0
@@ -90,12 +108,14 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 51,weapon;1,icon;2,gg1 icon,44565461cf8b9ea459bc03fe1a26a091:121228,0,0,0,0,0,0,0
 51,weapon;1,icon;2;1,gg1sp,63a200981045be149b3618abb459cbe1:21300050,0,0,0,0,0,0,0
 52,weapon;1,icon;2;1,w52sp,63a200981045be149b3618abb459cbe1:21300036,0,0,0,0,0,0,0
+65,weapon;1,icon;2,w65sp,63a200981045be149b3618abb459cbe1:21300104,0,0,0,0,0,0,0
 1,armor;2,icon;2,tshirt5,c8bfccb76c37a23458ea7cd83109eb7d:154568,0,0,0,0,0,0,0
 2,armor;2,icon;2,shorts6,b96c55d6549e33142975965177ecabe9:114676,0,0,0,0,0,0,0
 25,armor;2,icon;2,hat25 icon,c12abf9392a387744be2d65f3174f788:197650,0,0,0,0,0,0,0
 46,armor;2,icon;2,hat46 icon,18c8d3c0f13042147b46f55cb6b268a0:176384,0,0,0,0,0,0,0
 65,armor;2,icon;2,hat65 icon,7f41225b14a931045b5d6a1f91822759:153064,0,0,0,0,0,0,0
 1,material;4,icon;2;1,material1 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
+2,material;4,mesh;1;1,material2 mesh,9ec46b09d83db554a9eb67b41c12c8ef:100000,0,0,0,-90,0,0,0
 2,material;4,icon;2;1,material2 sp,63a200981045be149b3618abb459cbe1:21300010,0,0,0,0,0,0,0
 3,material;4,icon;2;1,material3 sp,63a200981045be149b3618abb459cbe1:21300012,0,0,0,0,0,0,0
 4,material;4,icon;2;1,material4 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0

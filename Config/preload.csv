@@ -36,6 +36,7 @@ id,type,category,name,asset_category,guid,posx,posy,posz,anglex,angley,anglez,de
 29,weapon;1,mesh;1;2,assault_rifle_3,assetbundle;2,21c2e494ad0b7cc429fa6fac89fe9f5b,0.16,-0.002,0.114,0,90,90,步枪角色模型
 51,weapon;1,mesh;1,arms@hand_grenade_1,assetbundle;2,c53972f0d08102e4c8c6e509235fa8cc,0,0,0,0,0,0,手雷形象
 51,weapon;1,mesh;1;1,hand_grenade,assetbundle;2,df7492d5701ac1248a1447647d589866,0,0,0,0,0,0,地上手雷
+65,weapon;1,mesh;1,arms@fishrod,assetbundle;2,9355b52ccd30bc74887d445731676ffe,0,0,0,0,0,0,鱼竿形象
 0,monster;5,mesh;1,BaseZombie,assetbundle;2,9f15a51facac2e94abcc2586da38d231,0,0,0,0,0,0,僵尸
 1,body;6,mesh;1,basemodel,assetbundle;2,ddd829eb0c2f009459e7c88b5c3f5046,0,0,0,0,0,0,僵尸
 1,trigger;7,mesh;1,storage01,assetbundle;2,1348e73882ce0ca4c860527d3011b701,0,0,0,0,0,0,储物箱

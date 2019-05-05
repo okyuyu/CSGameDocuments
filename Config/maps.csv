@@ -2,4 +2,4 @@ mapid,sector_size,field_wide,field_length,spwan_point,scene,serverscene
 1,100,1000,1000,0;0;0,iceworld.unity,iceworld.unity
 2,100,2000,2000,0;0;0,level0.unity,level0.unity
 101,50,2000,2000,0;0;0,StreamingAssets/SA_Demo.unity,SA_DemoServer.unity
-10000,100,2000,2000,0;0;0,StreamingAssets/maptest.unity,maptest.unity
+10000,100,2000,2000,0;0;0,StreamingAssets/SA_Demo.unity,SA_DemoServer.unity
