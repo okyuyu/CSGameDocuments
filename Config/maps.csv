@@ -1,6 +1,6 @@
 mapid,sector_size,field_wide,field_length,spwan_point,scene,serverscene
 1,100,1000,1000,0;0;0,iceworld.unity,iceworld.unity
-2,100,2000,2000,0;0;0,level0.unity,level0.unity
+2,200,4000,4000,0;0;0,StreamingAssets/level0_0.unity,level0.unity
 101,50,2000,2000,0;0;0,StreamingAssets/SA_Demo.unity,SA_DemoServer.unity
 102,50,2000,2000,0;0;0,StreamingAssets/RuntimeScene.unity,RuntimeScene.unity
 10000,100,2000,2000,0;0;0,StreamingAssets/SA_Demo.unity,SA_DemoServer.unity
