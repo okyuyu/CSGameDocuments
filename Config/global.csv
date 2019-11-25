@@ -1,5 +1,6 @@
 key,value
-testmap,2
+testmap,0
+testhost,0
 spwanmonster,1
 zombie_attack_tick,1
 sound,0

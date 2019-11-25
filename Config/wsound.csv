@@ -1,6 +1,7 @@
 category,clipout_delay/pre_throw,clipin_delay,boltpull_delay,throw_deloy
 NoWeapon,0,0,0,0
 Pistol,0.1,0.9,1.92,0
+Rifle,0.42,1.7,2.25,0
 AssaultRifle,0.42,1.22,2.25,0
 SubmachineGun,0.3,1,2,0
 Shotgun,0.3,1,2,0
