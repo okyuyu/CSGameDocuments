@@ -27,7 +27,7 @@ id,type,category,name,asset_category,guid,posx,posy,posz,anglex,angley,anglez,de
 26,normal;0,normal;0,bullethole,asset;0,3c9e98c565465a94b93b25c9824f8919,0,0,0,0,0,0,
 27,normal;0,normal;0,AnimationsAB,assetbundle;2,461ec44ad0c048c4d86d31cbf3d08ce0,0,0,0,0,0,0,
 28,normal;0,normal;0,Muzzle,assetbundle;2,da79d894539cdf648bd2bc0291bcc213,0,0,0,0,0,0,
-0,weapon;1,mesh;1,arms@empty,assetbundle;2,3e311a6101c82fd4cb492f541739d648,0,0,0,0,0,0,空手模型
+0,weapon;1,mesh;1,arms@empty,assetbundle;2,3e311a6101c82fd4cb492f541739d648,0,-2.4,-0.15,5,0,0,空手模型
 1,weapon;1,mesh;1,arms@woodknife,assetbundle;2,e1182555a26a17246990d66031533153,0,0,0,0,0,0,拿匕首角色
 1,weapon;1;2,mesh;1;2,knife_1,assetbundle;2,ccc60bd8260cab74690469e801f6df73,0.053,0,0,0,0,90,拿匕首角色
 2,weapon;1,mesh;1,arms@knife01,assetbundle;2,4cfeb8d7d7ddf154594740c68f9caeb8,0,0,0,0,0,0,拿匕首角色

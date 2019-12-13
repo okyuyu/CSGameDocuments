@@ -1,12 +1,40 @@
-ï»¿KEY,VALUE
-ID_USER,ç”¨æˆ·
-ID_PASS,å¯†ç 
-slime,å²èŠå§†
-char,è§’ è‰²
-bag,èƒŒ åŒ…
-instance,å‰¯ æœ¬
-skill,æŠ€ èƒ½
-craft,åˆ¶ ä½œ
-click_fetch,(ç‚¹å‡»æ‹¾å–)
-gain_item,è·å¾—<color=#c1f019ff>%s</color>
-gain_exp,<color=#d69414ff>ç»éªŒå€¼+%d</color>
+KEY,chs,english
+ID_USER,ÓÃ»§,user
+ID_PASS,ÃÜÂë,password
+slime,Ê·ÈRÄ·,slime
+char,½Ç É«,char
+bag,±³ °ü,pack
+instance,¸± ±¾,instance
+skill,¼¼ ÄÜ,skill
+craft,ÖÆ ×÷,craft
+click_fetch,(µã»÷Ê°È¡),click fetch
+gain_item,»ñµÃ<color=#c1f019ff>%s</color>,get<color=#c1f019ff>%s</color>
+gain_exp,<color=#d69414ff>¾­ÑéÖµ+%d</color>,<color=#d69414ff>EXP+%d</color>
+weapon,ÎäÆ÷,
+armor,»¤¼×,
+decorate,×°ÊÎÆ·,
+consume,ÏûºÄÆ·,
+drug,Ò©Æ·,
+food,Ê³Îï,
+drink,ÒûÁÏ,
+attack,¹¥»÷Á¦,
+defense,·ÀÓùÁ¦,
+life_percent,×î´óÉúÃüÖµÔö¼Ód%%%,
+durable,ÄÍ¾Ã¶È,
+durable_extra,ÄÍ¾Ã¶È +%d,
+reduce_weight,ÎïÆ·ÖØÁ¿¼õÉÙd%%%,
+attack_extra,¹¥»÷Á¦ +%d,
+attack_percent,¹¥»÷Á¦Ôö¼Ód%%%,
+defense_extra,·ÀÓùÁ¦ +%d,
+defense_percent,·ÀÓùÁ¦Ôö¼Ód%%%,
+critical_strike,ÖÂÃüÒ»»÷¼¸ÂÊÔö¼Ód%%%,
+reduce_injury,ÊÜµ½µÄÉËº¦¼õÉÙd%%%,
+attack_speed,¹¥»÷ËÙ¶ÈÔö¼Ód%%%,
+reload_speed,×°µ¯ËÙ¶ÈÔö¼Ód%%%,
+move_speed,ÒÆ¶¯ËÙ¶ÈÔö¼Ód%%%,
+lucky_extra,ĞÒÔËÖµ +d%,
+range_percent,¹¥»÷¾àÀëÔö¼Ód%%%,
+life_extra,ÉúÃüÖµ +d%,
+use_drug,Ê¹ÓÃ: »Ö¸´%dµãÉúÃüÖµ,
+use_water,Ê¹ÓÃ: »Ö¸´%dµã¿Ú¿ÊÖµ,
+use_food,Ê¹ÓÃ: »Ö¸´%dµã¼¢¶öÖµ,
