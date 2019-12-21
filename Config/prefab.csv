@@ -69,6 +69,7 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 68,normal;0,normal;0,engineNormal,fe0ff90131dd99d4491da1c3e5697821:8300000,0,0,0,0,0,0,0
 69,normal;0,normal;0,enginePower,ff8bb0607aef780458797ec8856946ca:8300000,0,0,0,0,0,0,0
 70,normal;0,normal;0,bagitembg,c6b8c7b9ee3ba374aac38ca74cb0de58:100000,0,0,0,0,0,0,0
+71,normal;0,normal;0,chatitem,b01504d37135e5d43b32c0b52db9ec9a:100002,0,0,0,0,0,0,0
 0,weapon;1,mesh;1,no weapon 3person,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
 0,weapon;1,mesh;1;1,no weapon 1person,75aa758f1bad7df41b28d8f990ba20d1:100022,0,0,0,0,0,90,0
 1,weapon;1,mesh;1,knife1 view,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
@@ -225,9 +226,11 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 206,Consume;3,icon;2;1,gouhuo icon,b84a5c63a24a74943a8d280025f54579:21300058,0,0,0,0,0,0,0
 207,Consume;3,icon;2;1,bushoujia icon,b84a5c63a24a74943a8d280025f54579:21300078,0,0,0,0,0,0,0
 208,Consume;3,icon;2;1,yuer icon,b84a5c63a24a74943a8d280025f54579:21300074,0,0,0,0,0,0,0
+209,Consume;3,icon;2;1,qiuying icon,b84a5c63a24a74943a8d280025f54579:21300070,0,0,0,0,0,0,0
+210,Consume;3,icon;2;1,maomao icon,b84a5c63a24a74943a8d280025f54579:21300002,0,0,0,0,0,0,0
 301,Consume;3,icon;2;1,car icon,b84a5c63a24a74943a8d280025f54579:21300046,0,0,0,0,0,0,0
 1,material;4,icon;2;1,material1 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
-2,material;4,mesh;1;1,material2 mesh,9ec46b09d83db554a9eb67b41c12c8ef:100000,0,0,0,-90,0,0,0
+2,material;4,mesh;1;1,material2 mesh,d0c3d2014156b31478a0e1afde30f1c7:100000,0,0,0,0,0,0,0
 2,material;4,icon;2;1,material2 sp,63a200981045be149b3618abb459cbe1:21300010,0,0,0,0,0,0,0
 3,material;4,icon;2;1,material3 sp,63a200981045be149b3618abb459cbe1:21300012,0,0,0,0,0,0,0
 4,material;4,icon;2;1,material4 sp,b84a5c63a24a74943a8d280025f54579:21300068,0,0,0,0,0,0,0

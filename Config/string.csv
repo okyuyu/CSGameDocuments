@@ -6,13 +6,35 @@ char,角 色,char
 bag,背 包,pack
 instance,副 本,instance
 skill,技 能,skill
+Grid,格子数,grid
 craft,制 作,craft
 click_fetch,(点击拾取),click fetch
-gain_item,获得<color=#c1f019ff>%s</color>,get<color=#c1f019ff>%s</color>
+gain_item,获得[%s],get<color=#c1f019ff>%s</color>
+Pistol,手枪,
+Rifle,步枪,
+AssaultRifle,突击步枪,
+SubmachineGun,冲锋枪,
+Shotgun,散弹枪,
+SniperRifle,狙击步枪,
+Grenade,手雷,
+Cannon,炮,
+knife,小刀,
+Axe,斧子,
+Saw,锯子,
+Hammer,锤子,
+Stick,棍子,
+Sword,大剑,
+LongBow,弓,
+CrossBow,弩,
+WindStick,回旋镖,
+FishRod,鱼竿,
+Tool,工具,
 gain_exp,<color=#d69414ff>经验值+%d</color>,<color=#d69414ff>EXP+%d</color>
 weapon,武器,
-armor,护甲,
-decorate,装饰品,
+equip,装备,
+armor,防具,
+decorate,饰品,
+material,材料,
 consume,消耗品,
 drug,药品,
 food,食物,
@@ -32,9 +54,10 @@ reduce_injury,受到的伤害减少d%%%,
 attack_speed,攻击速度增加d%%%,
 reload_speed,装弹速度增加d%%%,
 move_speed,移动速度增加d%%%,
-lucky_extra,幸运值 +d%,
+lucky_extra,幸运值 +%d,
 range_percent,攻击距离增加d%%%,
-life_extra,生命值 +d%,
+life_extra,生命值 +%d,
+grid_extra,格子数 +%d,
 use_drug,使用: 恢复%d点生命值,
 use_water,使用: 恢复%d点口渴值,
 use_food,使用: 恢复%d点饥饿值,
