@@ -84,12 +84,11 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 3,weapon;1,icon;2;1,w3 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300022,0,0,0,0,0,0,0
 3,weapon;1,sound;3;0,ak47 sound1,0,0,0,0,0,0,0,0
 3,weapon;1,sound;3;1,ak47 sound2,0,0,0,0,0,0,0,0
-3,weapon;1,mesh;1;1,ak47 view,0,0,0,0,0,0,0,0
 4,weapon;1,icon;2,stun grenades,5ebfa05af44201145af6416f4956946d:180692,0,0,0,0,0,0,0
 4,weapon;1,icon;2;1,w4 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300042,0,0,0,0,0,0,0
 4,weapon;1,effect;4,w4 effect,a6f5aa60bb1a7974fa40f1269815a92b:100000,0,0,0,0,0,0,0
 7,weapon;1,icon;2;1,w7 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300052,0,0,0,0,0,0,0
-8,weapon;1,icon;2;1,w8 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300024,0,0,0,0,0,0,0
+8,weapon;1,icon;2;1,w8 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300000,0,0,0,0,0,0,0
 9,weapon;1,icon;2;1,w9 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300016,0,0,0,0,0,0,0
 10,weapon;1,icon;2;1,w10 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300068,0,0,0,0,0,0,0
 11,weapon;1,icon;2;1,w11 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300040,0,0,0,0,0,0,0
@@ -103,7 +102,7 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 23,weapon;1,sound;3;3,handgun23_reload3,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,0
 23,weapon;1,sound;3;4,handgun23_deploy,ffb1ee3bd05c140469174a34d2f2164f:100000,0,0,0,0,0,0,0
 23,weapon;1,icon;2,handgun1 icon,b06c2233b1089b649980166c612bd34c:137812,0,0,0,0,0,0,0
-23,weapon;1,icon;2;1,handgun23 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300004,0,0,0,0,0,0,0
+23,weapon;1,icon;2;1,handgun23 sp,961d2ffa3bf4c1e438a674322767b896:21300044,0,0,0,0,0,0,0
 24,weapon;1,icon;2;1,handgun24 sp,961d2ffa3bf4c1e438a674322767b896:21300032,0,0,0,0,0,0,0
 25,weapon;1,icon;2;1,handgun25 sp,961d2ffa3bf4c1e438a674322767b896:21300040,0,0,0,0,0,0,0
 26,weapon;1,icon;2;1,handgun26 sp,961d2ffa3bf4c1e438a674322767b896:21300072,0,0,0,0,0,0,0
@@ -124,7 +123,7 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 39,weapon;1,icon;2;1,w39 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300082,0,0,0,0,0,0,0
 40,weapon;1,icon;2;1,w40 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300076,0,0,0,0,0,0,0
 41,weapon;1,icon;2;1,w41sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300044,0,0,0,0,0,0,0
-42,weapon;1,icon;2;1,w42sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300054,0,0,0,0,0,0,0
+42,weapon;1,icon;2;1,w42sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300086,0,0,0,0,0,0,0
 43,weapon;1,icon;2;1,w43sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300080,0,0,0,0,0,0,0
 44,weapon;1,icon;2;1,w44sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300032,0,0,0,0,0,0,0
 45,weapon;1,icon;2;1,w45sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300012,0,0,0,0,0,0,0
@@ -229,6 +228,7 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 39,Consume;3,icon;2;1,jitui icon,b84a5c63a24a74943a8d280025f54579:21300100,0,0,0,0,0,0,0
 51,Consume;3,icon;2;1,huoji icon,b84a5c63a24a74943a8d280025f54579:21300066,0,0,0,0,0,0,0
 55,Consume;3,icon;2;1,xigua icon,b84a5c63a24a74943a8d280025f54579:21300076,0,0,0,0,0,0,0
+56,Consume;3,icon;2;1,shadingyu icon,b84a5c63a24a74943a8d280025f54579:21300006,0,0,0,0,0,0,0
 101,Consume;3,icon;2;1,xiyaoxiang icon,b84a5c63a24a74943a8d280025f54579:21300080,0,0,0,0,0,0,0
 102,Consume;3,icon;2;1,bengdai icon,b84a5c63a24a74943a8d280025f54579:21300094,0,0,0,0,0,0,0
 105,Consume;3,icon;2;1,shengshang icon,b84a5c63a24a74943a8d280025f54579:21300054,0,0,0,0,0,0,0
@@ -257,7 +257,7 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 6,material;4,icon;2;1,material6 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
 7,material;4,icon;2;1,material7 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
 8,material;4,icon;2;1,material8 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
-9,material;4,icon;2;1,material9 sp,b84a5c63a24a74943a8d280025f54579:21300060,0,0,0,0,0,0,0
+9,material;4,icon;2;1,material9 sp,b84a5c63a24a74943a8d280025f54579:21300096,0,0,0,0,0,0,0
 0,monster;5,mesh;1,basemonster mesh,cc40e8d377d2835469ae31efa3cc0f5c:197910,0,0,0,0,0,0,0
 1000,monster;5,skin;2;1,m1000 skin,c9d763f339ced4f4bba37cad458124e5:2100000,0,0,0,0,0,0,0
 1001,monster;5,skin;2;1,m1001 skin,bfa1aaed27bc995418f9b21096a255bc:2100000,0,0,0,0,0,0,0

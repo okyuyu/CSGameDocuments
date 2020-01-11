@@ -8,11 +8,14 @@ Shotgun,0.3,1,2,0
 SniperRifle,0.3,1,2,0
 Grenade,0.3,1,2,0
 Cannon,0.3,1,2,0
-Dagger,0.3,1,2,0
+Knife,0.3,1,2,0
+Axe,0.3,1,2,0
+Saw,0.3,1,2,0
 Hammer,0.3,1,2,0
 Stick,0.3,1,2,0
-Katana,0.3,1,2,0
+Sword,0.3,1,2,0
 LongBow,0.3,1,2,0
 CrossBow,0.3,1,2,0
-Noun,0,0,0,0
+Dart,0,0,0,0
+WindStick,0,0,0,0
 FishRod,0,0,0,0.5
