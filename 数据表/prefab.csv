@@ -36,15 +36,38 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 35,normal;0,normal;0,CraftItem,212e5fcebb3ab0e4294bafbff7a63a01:174736,0,0,0,0,0,0,0
 36,normal;0,normal;0,MetalIcon,99eb7bd7032309a4d8088465c7e04178:21300020,0,0,0,0,0,0,0
 37,normal;0,normal;0,tempIcon,27a3934fd6b27cf49be96c0f56163e00:21300000,0,0,0,0,0,0,0
-38,normal;0,normal;0,run_sd,383fa144d740cc440aa7bc18602be00a:8300000,0,0,0,0,0,0,0
+38,normal;0,normal;0,run_sd,dcb43f93334d5864f94ff0ca1031ed88:8300000,0,0,0,0,0,0,0
 39,normal;0,normal;0,jumpup_sd,fbddfd1eb0635db408cc5cce3926f0da:8300000,0,0,0,0,0,0,0
-40,normal;0,normal;0,jumpground_sd,004aee7951a59bd458a0dbbcbcb9a46f:8300000,0,0,0,0,0,0,0
+40,normal;0,normal;0,jumpground_sd,790911e396a73e54caab7bfe828bd289:100000,0,0,0,0,0,0,0
 41,normal;0,normal;0,zambi1_sd,2afe59018681dfc43a5784b3e9b2c801:8300000,0,0,0,0,0,0,0
 42,normal;0,normal;0,zambiattack_sd,27fcde774b38ec24e90ef4b8d9e4377d:8300000,0,0,0,0,0,0,0
 43,normal;0,normal;0,z_run_sd,879a9d3709f271c4db002a8a3120707a:8300000,0,0,0,0,0,0,0
-44,normal;0,normal;0,zombie_server,cc40e8d377d2835469ae31efa3cc0f5c:197910,0,0,0,0,0,0,0
-45,normal;0,normal;0,viewknife_s,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,0,0
+44,normal;0,normal;0,zombie_server,29382aa926ce2924da80ee5374430fa1:100038,0,0,0,0,0,0,0
+45,normal;0,normal;0,viewknife_s,d3523ade88d6e694a9236c47607e8879:100020,0,0,0,0,0,0,0
+46,normal;0,normal;0,Muzzle,478609f0cbbfd724790437470feba256:175908,0,0,0,0,0,0,0
+47,normal;0,normal;0,BloodFXOther,e74036a2fec47604d8d89a76268aaf5d:100000,0,0,0,0,0,0,0
+48,normal;0,normal;0,joyPanel,ce27f21eb08c92841886bca6ae8f3ffc:189048,0,0,0,0,0,0,0
+49,normal;0,normal;0,impat_wall2,985029ea531ea504d9ebc2e9ac36cd4a:100002,0,0,0,0,0,0,0
+50,normal;0,normal;0,fishline,e9d16568bba2df1488deec8ab8f7f85e:100000,0,0,0,0,0,0,0
+51,normal;0,normal;0,buoys,242860c34d3308f44a4e0c58f7195019:100000,0,0,0,0,0,0,0
+52,normal;0,normal;0,throw_sound1,7fd214084e1c10c43b3c0f1269d7fafb:100000,0,0,0,0,0,0,0
+53,normal;0,normal;0,throw_sound2,1d1b8364114289a4eb466191a3239515:100000,0,0,0,0,0,0,0
+54,normal;0,normal;0,fish_touch,e6c964f8a45d68442bb365c7bfc5d83e:100000,0,0,0,0,0,0,0
+55,normal;0,normal;0,fishing_tension,25d652dccbd2d824e8e2c850412e60ae:100000,0,0,0,0,0,0,0
+56,normal;0,normal;0,fishing_cut,7201ceb7354a68b48a2fe54d3b02642d:100000,0,0,0,0,0,0,0
+57,normal;0,normal;0,fish_hit,af328621e47e97743ae10a4073625bf7:100000,0,0,0,0,0,0,0
+58,normal;0,normal;0,fish_splash,87ed090cf4ddcf341b2919df177af682:100000,0,0,0,0,0,0,0
+59,normal;0,normal;0,fish_jump,7d65428b3b6898f40a824fb4a2d0ddba:100000,0,0,0,0,0,0,0
+60,normal;0,normal;0,cut_wood,5f45c32634ccfc44b8d97be3fe5e5328:100000,0,0,0,0,0,0,0
+61,normal;0,normal;0,cut_wood_sound,79ce112238098d7459820f81bd1e4a24:100000,0,0,0,0,0,0,0
+62,normal;0,normal;0,swing,587221073f36e6743a959ecb122a0641:100000,0,0,0,0,0,0,0
+63,normal;0,normal;0,pickup_item,58cd2b1a55667b34eb09be87b5888892:100000,0,0,0,0,0,0,0
+64,normal;0,normal;0,bagitem,0b7ee1047d4171d4d8d85f5f3c066a72:175832,0,0,0,0,0,0,0
+65,normal;0,normal;0,drink_sound,4af02a0acb76e6343982c2cd1ed0e4ba:100000,0,0,0,0,0,0,0
+66,normal;0,normal;0,eat_sound,a60acf1a860584e419e3f1fc19a2c7a3:100000,0,0,0,0,0,0,0
+67,normal;0,normal;0,Projectiles01,a6f5aa60bb1a7974fa40f1269815a92b:100000,0,0,0,0,0,0,0
 0,weapon;1,mesh;1,no weapon 3person,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
+0,weapon;1,mesh;1;1,no weapon 1person,75aa758f1bad7df41b28d8f990ba20d1:100022,0,0,0,0,0,90,0
 1,weapon;1,mesh;1,knife1 view,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
 1,weapon;1,icon;2,knife1 icon,0b7ee1047d4171d4d8d85f5f3c066a72:175832,0,0,0,0,0,90,0
 1,weapon;1,icon;2;1,knife1 sp,63a200981045be149b3618abb459cbe1:21300042,0,0,0,0,0,90,0
@@ -59,6 +82,7 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 3,weapon;1,mesh;1;1,ak47 view,0,0,0,0,0,0,0,0
 4,weapon;1,icon;2,stun grenades,5ebfa05af44201145af6416f4956946d:180692,0,0,0,0,0,0,0
 4,weapon;1,icon;2;1,w4 sp,63a200981045be149b3618abb459cbe1:21300040,0,0,0,0,0,0,0
+4,weapon;1,effect;4,w4 effect,a6f5aa60bb1a7974fa40f1269815a92b:100000,0,0,0,0,0,0,0
 7,weapon;1,icon;2;1,w7 sp,63a200981045be149b3618abb459cbe1:21300078,0,0,0,0,0,0,0
 8,weapon;1,icon;2;1,w8 sp,99eb7bd7032309a4d8088465c7e04178:21300002,0,0,0,0,0,0,0
 9,weapon;1,icon;2;1,w9 sp,63a200981045be149b3618abb459cbe1:21300066,0,0,0,0,0,0,0
@@ -67,11 +91,20 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 13,weapon;1,icon;2;1,w13 sp,63a200981045be149b3618abb459cbe1:21300084,0,0,0,0,0,0,0
 14,weapon;1,icon;2;1,w14 sp,63a200981045be149b3618abb459cbe1:21300092,0,0,0,0,0,0,0
 16,weapon;1,icon;2;1,w16 sp,63a200981045be149b3618abb459cbe1:21300006,0,0,0,0,0,0,0
-23,weapon;1,sound;3;0,handgun1 fire,a18b845cff6b0d445b1e3dcc0fcac1f9:194658,0,0,0,0,0,0,0
+23,weapon;1,sound;3;0,handgun23_fire,44b71bdd728796c4ebd1a274d3ecf1c5:100000,0,0,0,0,0,0,0
+23,weapon;1,sound;3;1,handgun23_reload1,7d2c0f2b82cf3704d802f11623667fc3:136006,0,0,0,0,0,0,0
+23,weapon;1,sound;3;2,handgun23_reload2,d2ab4221d46c30842ad34768d868983e:152338,0,0,0,0,0,0,0
+23,weapon;1,sound;3;3,handgun23_reload3,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,0
+23,weapon;1,sound;3;4,handgun23_deploy,ffb1ee3bd05c140469174a34d2f2164f:100000,0,0,0,0,0,0,0
 23,weapon;1,icon;2,handgun1 icon,b06c2233b1089b649980166c612bd34c:137812,0,0,0,0,0,0,0
-23,weapon;1,icon;2;1,handgun1 sp,99eb7bd7032309a4d8088465c7e04178:21300000,0,0,0,0,0,0,0
-28,weapon;1,icon;2;1,shotgun1 sp,99eb7bd7032309a4d8088465c7e04178:21300026,0,0,0,0,0,0,0
+23,weapon;1,icon;2;1,handgun1 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300004,0,0,0,0,0,0,0
+28,weapon;1,icon;2;1,shotgun1 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300002,0,0,0,0,0,0,0
 29,weapon;1,icon;2,ak1 icon,28555f80766a232428a9e35aff394ad1:111484,0,0,0,0,0,0,0
+29,weapon;1,icon;2;1,ak1 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300050,0,0,0,0,0,0,0
+29,weapon;1,sound;3;0,ak1_shoot,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,0
+29,weapon;1,sound;3;1,ak1_reload1,8dcfb9a5fdea9c641a75fff607b95511:100000,0,0,0,0,0,0,0
+29,weapon;1,sound;3;2,ak1_reload2,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,0
+29,weapon;1,sound;3;3,ak1_reload3,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,0
 41,weapon;1,icon;2;1,w41sp,63a200981045be149b3618abb459cbe1:21300080,0,0,0,0,0,0,0
 42,weapon;1,icon;2;1,w42sp,63a200981045be149b3618abb459cbe1:21300092,0,0,0,0,0,0,0
 44,weapon;1,icon;2;1,w44sp,63a200981045be149b3618abb459cbe1:21300018,0,0,0,0,0,0,0
@@ -81,19 +114,46 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 51,weapon;1,icon;2,gg1 icon,44565461cf8b9ea459bc03fe1a26a091:121228,0,0,0,0,0,0,0
 51,weapon;1,icon;2;1,gg1sp,63a200981045be149b3618abb459cbe1:21300050,0,0,0,0,0,0,0
 52,weapon;1,icon;2;1,w52sp,63a200981045be149b3618abb459cbe1:21300036,0,0,0,0,0,0,0
+65,weapon;1,icon;2,w65 icon,63a200981045be149b3618abb459cbe1:21300104,0,0,0,0,0,0,0
+65,weapon;1,icon;2;1,w65sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300048,0,0,0,0,0,0,0
+66,weapon;1,icon;2;1,w66sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300062,0,0,0,0,0,0,0
+66,weapon;1,effect;4,w66effect,a040b6d5768a6cb42a09a785d6ad18ae:100000,0,0,0,0,0,0,0
 1,armor;2,icon;2,tshirt5,c8bfccb76c37a23458ea7cd83109eb7d:154568,0,0,0,0,0,0,0
 2,armor;2,icon;2,shorts6,b96c55d6549e33142975965177ecabe9:114676,0,0,0,0,0,0,0
 25,armor;2,icon;2,hat25 icon,c12abf9392a387744be2d65f3174f788:197650,0,0,0,0,0,0,0
 46,armor;2,icon;2,hat46 icon,18c8d3c0f13042147b46f55cb6b268a0:176384,0,0,0,0,0,0,0
 65,armor;2,icon;2,hat65 icon,7f41225b14a931045b5d6a1f91822759:153064,0,0,0,0,0,0,0
+100,armor;2,icon;2;1,100_2 sp,924f4b4e8c9cab440a458383de87ce27:21300008,0,0,0,0,0,0,0
+1,Consume;3,mesh;1;1,Consume1Mesh,59dfe7b51577a7d4db452ee2f5dedbcf:100000,0,0,0,0,0,0,0
+19,Consume;3,mesh;1;1,Consume19Mesh,c2ff255a4f87e8847b7de2647fec831c:100000,0,0,0,0,0,0,0
+24,Consume;3,mesh;1;1,Consume24Mesh,6499ac1611dc1b34cbcececec7f087d9:100000,0,0,0,0,0,0,0
+25,Consume;3,mesh;1;1,Consume25Mesh,d6c9cbf51730aaf4c9189df2519bd7ab:100000,0,0,0,0,0,0,0
+28,Consume;3,mesh;1;1,Consume28Mesh,1a183f83b982f6c468e99805f8e11496:100000,0,0,0,0,0,0,0
+31,Consume;3,icon;2;1,3_31 icon,b84a5c63a24a74943a8d280025f54579:21300000,0,0,0,0,0,0,0
+102,Consume;3,icon;2;1,3_102 icon,b84a5c63a24a74943a8d280025f54579:21300066,0,0,0,0,0,0,0
+200,Consume;3,icon;2;1,3_200 icon,b84a5c63a24a74943a8d280025f54579:21300068,0,0,0,0,0,0,0
+201,Consume;3,icon;2;1,3_201 icon,b84a5c63a24a74943a8d280025f54579:21300056,0,0,0,0,0,0,0
+202,Consume;3,icon;2;1,3_202 icon,b84a5c63a24a74943a8d280025f54579:21300078,0,0,0,0,0,0,0
+203,Consume;3,icon;2;1,3_203 icon,b84a5c63a24a74943a8d280025f54579:21300076,0,0,0,0,0,0,0
+204,Consume;3,icon;2;1,3_204 icon,b84a5c63a24a74943a8d280025f54579:21300062,0,0,0,0,0,0,0
+205,Consume;3,icon;2;1,3_205 icon,b84a5c63a24a74943a8d280025f54579:21300046,0,0,0,0,0,0,0
+206,Consume;3,icon;2;1,3_206 icon,b84a5c63a24a74943a8d280025f54579:21300018,0,0,0,0,0,0,0
+207,Consume;3,icon;2;1,3_207 icon,b84a5c63a24a74943a8d280025f54579:21300088,0,0,0,0,0,0,0
 1,material;4,icon;2;1,material1 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
+2,material;4,mesh;1;1,material2 mesh,9ec46b09d83db554a9eb67b41c12c8ef:100000,0,0,0,-90,0,0,0
 2,material;4,icon;2;1,material2 sp,63a200981045be149b3618abb459cbe1:21300010,0,0,0,0,0,0,0
 3,material;4,icon;2;1,material3 sp,63a200981045be149b3618abb459cbe1:21300012,0,0,0,0,0,0,0
-4,material;4,icon;2;1,material4 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
+4,material;4,icon;2;1,material4 sp,b84a5c63a24a74943a8d280025f54579:21300068,0,0,0,0,0,0,0
 5,material;4,icon;2;1,material5 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
 6,material;4,icon;2;1,material6 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
 7,material;4,icon;2;1,material7 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
 8,material;4,icon;2;1,material8 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
-1,monster;5,mesh;1,monster1 mesh,cc40e8d377d2835469ae31efa3cc0f5c:197910,0,0,0,0,0,0,0
+9,material;4,icon;2;1,material9 sp,b84a5c63a24a74943a8d280025f54579:21300060,0,0,0,0,0,0,0
+0,monster;5,mesh;1,basemonster mesh,cc40e8d377d2835469ae31efa3cc0f5c:197910,0,0,0,0,0,0,0
+1,monster;5,mesh;1;1,monster1 model,fdbb68ca2ab771d4d88b4e7bbf5be04b:2100000,0,0,0,0,0,0,0
+2,monster;5,mesh;1;1,monster2 model,4dca5739dd09ce24088216c584fc104a:2100000,0,0,0,0,0,0,0
+3,monster;5,mesh;1;1,monster3 model,93c5229d91453174c8f6ccb3f06ea222:2100000,0,0,0,0,0,0,0
+4,monster;5,mesh;1;1,monster4 model,6e9d59e67067e154797ccbfab2ccd645:2100000,0,0,0,0,0,0,0
+5,monster;5,mesh;1;1,monster5 model,d26a8a5ef701bca46837f0204a63e537:2100000,0,0,0,0,0,0,0
 1,body;6,mesh;1,body1 mesh,53d344e8499846d4aabd95ae6ab5c41f:170376,0,0,0,0,0,0,0
-0,other;7,mesh;1,default world mesh,594f44880521d3a43ab39dcd4951d874:128128,0,0,0,0,0,0,默认的掉落模型
+1,collect;8,mesh;1;1,Vegetation1,b9b76ac2965f20a4cb74b811bfbf250e:100000,0,0,0,0,0,0,0

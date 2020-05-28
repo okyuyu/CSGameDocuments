@@ -1,4 +1,4 @@
-KEY,VALUE
+﻿KEY,VALUE
 ID_USER,用户
 ID_PASS,密码
 slime,史萊姆
@@ -7,3 +7,6 @@ bag,背 包
 instance,副 本
 skill,技 能
 craft,制 作
+click_fetch,(点击拾取)
+gain_item,获得<color=#c1f019ff>%s</color>
+gain_exp,<color=#d69414ff>经验值+%d</color>
