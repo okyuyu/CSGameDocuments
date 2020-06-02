@@ -1,18 +1,20 @@
-key,value,desc
-testmap,2,
+ï»¿key,value,desc
+testmap,1,
 testhost,1,
 spwanmonster,1,
 zombie_attack_tick,1,
 sound,0,
 music,0,
 base_health,50,
-base_weight,50,"³öÉú¸ºÖØ,ÏŞÖÆĞ¯´ø×°±¸µÄ×î´óÊıÁ¿"
-base_grid,20,³öÉú¸ñ×Ó
-punch_attack,5,¿ÕÊÖÉËº¦
+base_weight,50,"å‡ºç”Ÿè´Ÿé‡,é™åˆ¶æºå¸¦è£…å¤‡çš„æœ€å¤§æ•°é‡"
+base_grid,20,å‡ºç”Ÿæ ¼å­
+punch_attack,5,ç©ºæ‰‹ä¼¤å®³
 min_move_speed,6,
 max_move_speed,7.8,
 min_monster_move,2,
 max_monster_move,8,
 dash_speed,10,
-craft_delay,0,
+craft_delay,2,
 default_name,player,
+audio_enable,0,
+testbag,1,0è¡¨ç¤ºæ²¡æœ‰;å¤§äº1è¡¨ç¤ºæµ‹è¯•èƒŒåŒ…id

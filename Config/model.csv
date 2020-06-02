@@ -1,3 +1,4 @@
-id,category,LOWERLEG_LEFT,LOWERLEG_RIGHT,UPPERLEG_LEFT,UPPERLEG_RIGHT,STOMACH,CHEST,UPPERARM_LEFT,UPPERARM_RIGHT,LOWERARM_LEFT,LOWERARM_RIGHT,HEAD,LEFT_HOLD,RIGHT_HOLD,UPPER_BODY
-1,MC_HUMANOID_ATTACK;0,,,,,,,,,,,,,Armature/weapon/hitbox,
-2,MC_HUMANOID_TARGET;1,,,,,Root_jnt/Hips_jnt/Body_jnt,Root_jnt/Hips_jnt/Body_jnt/Spine_jnt,,,,,Root_jnt/Hips_jnt/Body_jnt/Spine_jnt/Head_jnt,,,Root_jnt/Hips_jnt/Body_jnt/Spine_jnt
+id_category,PrefabName,LOWERLEG_LEFT,LOWERLEG_RIGHT,UPPERLEG_LEFT,UPPERLEG_RIGHT,STOMACH,CHEST,UPPERARM_LEFT,UPPERARM_RIGHT,LOWERARM_LEFT,LOWERARM_RIGHT,HEAD,LEFT_HOLD,RIGHT_HOLD,UPPER_BODY
+0,,,,,,,,,,,,,,hitbox,
+1,zombie_server,LowerLeg_Left_jnt,LowerLeg_Right_jnt,UpperLeg_Left_jnt,UpperLeg_Right_jnt,Body_jnt,Spine_jnt,UpperArm_Left_jnt,UpperArm_Right_jnt,LowerArm_Left_jnt,LowerArm_Right_jnt,Head_jnt,,,Spine_jnt
+2,SpiderModel,,,,,Bone Stomach,Bone Center_Rot,,,,,Bone Head,,,

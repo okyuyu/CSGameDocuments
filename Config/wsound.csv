@@ -16,6 +16,8 @@ Stick,0.3,1,2,0
 Sword,0.3,1,2,0
 LongBow,0.3,1,2,0
 CrossBow,0.3,1,2,0
-Dart,0,0,0,0
-WindStick,0,0,0,0
+Dart,0,0,0,0.5
+WindStick,0,0,0,0.5
 FishRod,0,0,0,0.5
+Tool,0.3,1,2,0
+NailGun,0.1,0.9,1.92,0
