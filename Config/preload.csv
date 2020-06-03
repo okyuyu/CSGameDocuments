@@ -98,7 +98,7 @@ id,type,category,name,asset_category,guid,posx,posy,posz,anglex,angley,anglez,de
 47,weapon;1,mesh;1;1,Pickaxe,assetbundle;2,95eb44b03b226d747acb9a9d0e287428,0,0,0,0,0,-90,步枪角色模型
 48,weapon;1,mesh;1,arms@Rake,assetbundle;2,743bfbb0c2ed44c4aad0ab52c719daec,0,-0.3,0,0,0,0,步枪角色模型
 48,weapon;1,mesh;1;1,Rake,assetbundle;2,1e62a2ce3a7ac2840b2c1056e331bba2,0,0,0,0,0,-90,步枪角色模型
-51,weapon;1,mesh;1,arms@hand_grenade_1,assetbundle;2,c53972f0d08102e4c8c6e509235fa8cc,0,-0.4,0,0,0,0,手雷形象
+51,weapon;1,mesh;1,arms@grenade,assetbundle;2,29082e1a9df46b245ae84790feb20ff5,0,-0.4,-0.5,5,0,0,手雷形象
 51,weapon;1,mesh;1;1,hand_grenade,assetbundle;2,df7492d5701ac1248a1447647d589866,0,0,0,0,0,0,地上手雷
 54,weapon;1,mesh;1,arms@axe01,assetbundle;2,9b0c40832df5f8c4989524adb5b74462,0,-0.4,0,0,0,0,手雷形象
 54,weapon;1,mesh;1;1,Fireaxe,assetbundle;2,efb75c1fdf3e11c44b1a4b47c0d6a725,0,0,0,0,0,-90,手雷形象

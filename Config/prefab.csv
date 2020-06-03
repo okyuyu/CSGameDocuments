@@ -87,6 +87,8 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 86,normal;0,normal;0,arrow_hit,df586577bfc84ab4a950b02fab23e17f:100000,0,0,0,0,0,0,0
 87,normal;0,normal;0,nailgun_fire,f898622bda6fbb745871c2de87e34ffe:100000,0,0,0,0,0,0,0
 88,normal;0,normal;0,catch,4ba1bd2610d3bbf4caf6ad845bbcb9b1:100000,0,0,0,0,0,0,0
+89,normal;0,normal;0,grenade_pin,92bdd760d1c843f438b8ad65b0831b06:100000,0,0,0,0,0,0,0
+90,normal;0,normal;0,throw,49abca501a5a77d488a858a932c3c958:100000,0,0,0,0,0,0,0
 0,weapon;1,mesh;1,no weapon 3person,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
 0,weapon;1,mesh;1;1,no weapon 1person,75aa758f1bad7df41b28d8f990ba20d1:100022,0,0,0,0,0,90,0
 1,weapon;1,mesh;1,knife1 view,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
@@ -151,6 +153,8 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 48,weapon;1,icon;2;1,w48sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300014,0,0,0,0,0,0,0
 51,weapon;1,icon;2,gg1 icon,44565461cf8b9ea459bc03fe1a26a091:121228,0,0,0,0,0,0,0
 51,weapon;1,icon;2;1,gg1sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300060,0,0,0,0,0,0,0
+51,weapon;1,effect;4,w51effect,0143e7ed0e68afe4c80749367f23cc52:184016,0,0,0,0,0,0,0
+51,weapon;1,effect;4;1,w51bombeffect,c3d1a845b1e87ea468b51d2c6a2b2d25:100012,0,0,0,0,0,0,0
 52,weapon;1,icon;2;1,w52sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300058,0,0,0,0,0,0,0
 54,weapon;1,icon;2;1,w54sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300024,0,0,0,0,0,0,0
 57,weapon;1,icon;2;1,w57sp,961d2ffa3bf4c1e438a674322767b896:21300080,0,0,0,0,0,0,0
@@ -273,6 +277,8 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 205,Consume;3,icon;2;1,shengzi icon,b84a5c63a24a74943a8d280025f54579:21300044,0,0,0,0,0,0,0
 206,Consume;3,icon;2;1,gouhuo icon,b84a5c63a24a74943a8d280025f54579:21300058,0,0,0,0,0,0,0
 207,Consume;3,icon;2;1,bushoujia icon,b84a5c63a24a74943a8d280025f54579:21300078,0,0,0,0,0,0,0
+207,Consume;3,effect;4,trap entity,de0323e7c86f33246bf2eef4b3e05fbd:100000,0,0,0,0,0,0,0
+207,Consume;3,effect;4;1,trap fire,a33ef1b2d7ceebb46a204c0049f5d81a:100004,0,0,0,0,0,0,0
 208,Consume;3,icon;2;1,yuer icon,b84a5c63a24a74943a8d280025f54579:21300074,0,0,0,0,0,0,0
 209,Consume;3,icon;2;1,qiuying icon,b84a5c63a24a74943a8d280025f54579:21300070,0,0,0,0,0,0,0
 210,Consume;3,icon;2;1,maomao icon,b84a5c63a24a74943a8d280025f54579:21300002,0,0,0,0,0,0,0
