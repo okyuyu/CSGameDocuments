@@ -89,6 +89,7 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 88,normal;0,normal;0,catch,4ba1bd2610d3bbf4caf6ad845bbcb9b1:100000,0,0,0,0,0,0,0
 89,normal;0,normal;0,grenade_pin,92bdd760d1c843f438b8ad65b0831b06:100000,0,0,0,0,0,0,0
 90,normal;0,normal;0,throw,49abca501a5a77d488a858a932c3c958:100000,0,0,0,0,0,0,0
+91,normal;0,normal;0,use_bandage,9df671a2614b2c143872d82c3701214c:100000,0,0,0,0,0,0,0
 0,weapon;1,mesh;1,no weapon 3person,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
 0,weapon;1,mesh;1;1,no weapon 1person,75aa758f1bad7df41b28d8f990ba20d1:100022,0,0,0,0,0,90,0
 1,weapon;1,mesh;1,knife1 view,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
@@ -249,13 +250,14 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 27,Consume;3,icon;2;1,beef icon,b84a5c63a24a74943a8d280025f54579:21300018,0,0,0,0,0,0,0
 28,Consume;3,icon;2;1,tiantian icon,b84a5c63a24a74943a8d280025f54579:21300026,0,0,0,0,0,0,0
 30,Consume;3,icon;2;1,pingguo icon,b84a5c63a24a74943a8d280025f54579:21300042,0,0,0,0,0,0,0
-31,Consume;3,icon;2;1,tiancai icon,b84a5c63a24a74943a8d280025f54579:21300000,0,0,0,0,0,0,0
+31,Consume;3,icon;2;1,tiancai icon,b84a5c63a24a74943a8d280025f54579:21300024,0,0,0,0,0,0,0
 34,Consume;3,icon;2;1,beer icon,b84a5c63a24a74943a8d280025f54579:21300000,0,0,0,0,0,0,0
 35,Consume;3,icon;2;1,guojiang icon,b84a5c63a24a74943a8d280025f54579:21300050,0,0,0,0,0,0,0
 36,Consume;3,icon;2;1,weisji icon,b84a5c63a24a74943a8d280025f54579:21300000,0,0,0,0,0,0,0
 37,Consume;3,icon;2;1,banana icon,b84a5c63a24a74943a8d280025f54579:21300064,0,0,0,0,0,0,0
 38,Consume;3,icon;2;1,hanbao icon,b84a5c63a24a74943a8d280025f54579:21300020,0,0,0,0,0,0,0
 39,Consume;3,icon;2;1,jitui icon,b84a5c63a24a74943a8d280025f54579:21300100,0,0,0,0,0,0,0
+42,Consume;3,icon;2;1,soda icon,b84a5c63a24a74943a8d280025f54579:21300072,0,0,0,0,0,0,0
 51,Consume;3,icon;2;1,huoji icon,b84a5c63a24a74943a8d280025f54579:21300066,0,0,0,0,0,0,0
 55,Consume;3,icon;2;1,xigua icon,b84a5c63a24a74943a8d280025f54579:21300076,0,0,0,0,0,0,0
 56,Consume;3,icon;2;1,shadingyu icon,b84a5c63a24a74943a8d280025f54579:21300006,0,0,0,0,0,0,0
@@ -282,6 +284,7 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 208,Consume;3,icon;2;1,yuer icon,b84a5c63a24a74943a8d280025f54579:21300074,0,0,0,0,0,0,0
 209,Consume;3,icon;2;1,qiuying icon,b84a5c63a24a74943a8d280025f54579:21300070,0,0,0,0,0,0,0
 210,Consume;3,icon;2;1,maomao icon,b84a5c63a24a74943a8d280025f54579:21300002,0,0,0,0,0,0,0
+211,Consume;3,icon;2;1,juji icon,b84a5c63a24a74943a8d280025f54579:21300056,0,0,0,0,0,0,0
 301,Consume;3,icon;2;1,car icon,b84a5c63a24a74943a8d280025f54579:21300046,0,0,0,0,0,0,0
 1000,Consume;3,icon;2;1,material1 sp,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,0
 1001,Consume;3,mesh;1;1,material2 mesh,d0c3d2014156b31478a0e1afde30f1c7:100000,0,0,0,0,0,0,0

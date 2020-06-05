@@ -136,7 +136,7 @@ id,type,category,name,asset_category,guid,posx,posy,posz,anglex,angley,anglez,de
 81,weapon;1,mesh;1;1,SCARL,assetbundle;2,e2a73d15ae1aeae4fb674177abd8f2e2,0,0,0,0,0,-90,鱼竿形象
 82,weapon;1,mesh;1,arms@KSG,assetbundle;2,a79a18657990f074cacb8f67d8449dbc,0.1,-0.3,-0.15,5,0,0,鱼竿形象
 82,weapon;1,mesh;1;1,KSG,assetbundle;2,8a5a0b02290a0d64ab3253ef450e393a,0,0,0,0,0,-90,鱼竿形象
-83,weapon;1,mesh;1,arms@sawnoff,assetbundle;2,6236038b6cc8ce946add8e6e2c90905d,0.1,-0.3,-0.15,5,0,0,鱼竿形象
+83,weapon;1,mesh;1,arms@sawnoff,assetbundle;2,6236038b6cc8ce946add8e6e2c90905d,0.1,-0.3,-0.4,5,0,0,鱼竿形象
 83,weapon;1,mesh;1;1,sawn_off_shotgun,assetbundle;2,18925afef2fff57439c79223c7b17e95,0,0,0,0,0,-90,鱼竿形象
 84,weapon;1,mesh;1,arms@shot_gun,assetbundle;2,2b9612136ab995c45af07ede4f20b875,0.1,-0.3,-0.15,5,0,0,鱼竿形象
 84,weapon;1,mesh;1;1,shotgun,assetbundle;2,3e5ca7f426760b24ab6e8f32b6fa8129,0,0,0,0,0,-90,鱼竿形象
@@ -146,7 +146,7 @@ id,type,category,name,asset_category,guid,posx,posy,posz,anglex,angley,anglez,de
 86,weapon;1,mesh;1;1,XM1014,assetbundle;2,026497db8e116f94ba21ca19e8450605,0,0,0,0,0,-90,鱼竿形象
 87,weapon;1,mesh;1,arms@FMG-9,assetbundle;2,b0f6e2959c274124c81066517fdb1fa8,0.1,-0.3,-0.15,5,0,0,鱼竿形象
 87,weapon;1,mesh;1;1,FMG-9,assetbundle;2,da35a107c0539f34eb7f7e49b8f2e6a6,0,0,0,0,0,-90,鱼竿形象
-88,weapon;1,mesh;1,arms@MP5,assetbundle;2,b37e0b6c6c4653b4cb637d67f02b46b1,0.1,-0.3,-0.15,5,0,0,鱼竿形象
+88,weapon;1,mesh;1,arms@MP5,assetbundle;2,b37e0b6c6c4653b4cb637d67f02b46b1,0.15,-0.4,-0.1,10,0,0,鱼竿形象
 88,weapon;1,mesh;1;1,MP5,assetbundle;2,73e6779e81e7c154f948451db8a38e9b,0,0,0,0,0,-90,鱼竿形象
 89,weapon;1,mesh;1,arms@MP5SD,assetbundle;2,a5504fb2a0f785640bee9c37e1f68c4d,0.1,-0.3,-0.15,5,0,0,鱼竿形象
 89,weapon;1,mesh;1;1,MP5SD,assetbundle;2,9adc85f0ddb3d5b4ab277197c63ace6b,0,0,0,0,0,-90,鱼竿形象
@@ -168,7 +168,7 @@ id,type,category,name,asset_category,guid,posx,posy,posz,anglex,angley,anglez,de
 97,weapon;1,mesh;1;1,AWP,assetbundle;2,ae50c1dde3872264286da0f22f9807bd,0,0,0,0,0,-90,鱼竿形象
 98,weapon;1,mesh;1,arms@BarrettSniper,assetbundle;2,5a3467a311727d447bf4ad3887a2910d,0.1,-0.3,-0.15,5,0,0,鱼竿形象
 98,weapon;1,mesh;1;1,BarrettSniper,assetbundle;2,57d37f5544dc6b44f94c754ffdffdab9,0,0,0,0,0,-90,鱼竿形象
-99,weapon;1,mesh;1,arms@KAR98K,assetbundle;2,f8266099de3e11944bc6c133c9a3de29,0.1,-0.3,-0.15,5,0,0,鱼竿形象
+99,weapon;1,mesh;1,arms@KAR98K,assetbundle;2,f8266099de3e11944bc6c133c9a3de29,0.15,-0.3,-0.1,5,0,0,鱼竿形象
 99,weapon;1,mesh;1;1,KAR98K,assetbundle;2,8279e84c5368f494c9203e9c200a8cd2,0,0,0,0,0,-90,鱼竿形象
 100,weapon;1,mesh;1,arms@Sniper,assetbundle;2,ed8d990246509af47aa8b9f58b06f6e3,0.1,-0.3,-0.15,5,0,0,武器
 100,weapon;1,mesh;1;1,Sniper,assetbundle;2,26a3c20cafbed844e8e81d54a4f83a78,0,0,0,0,0,-90,武器
