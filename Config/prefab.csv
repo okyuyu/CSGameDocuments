@@ -140,6 +140,7 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 29,weapon;1,sound;3;2,ak1_reload2,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,0
 29,weapon;1,sound;3;3,ak1_reload3,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,0
 29,weapon;1,sound;3;4,ak1_draw,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,0
+35,weapon;1,icon;2;1,w35 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300072,0,0,0,0,0,0,0
 36,weapon;1,icon;2;1,ak36 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300064,0,0,0,0,0,0,0
 37,weapon;1,icon;2;1,ak37 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300070,0,0,0,0,0,0,0
 38,weapon;1,icon;2;1,w38 sp,6d8ba0a095ad6ac40bd1243f6dec5b61:21300010,0,0,0,0,0,0,0
@@ -266,8 +267,10 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 59,Consume;3,icon;2;1,xueyu icon,b84a5c63a24a74943a8d280025f54579:21300116,0,0,0,0,0,0,0
 101,Consume;3,icon;2;1,xiyaoxiang icon,b84a5c63a24a74943a8d280025f54579:21300080,0,0,0,0,0,0,0
 102,Consume;3,icon;2;1,bengdai icon,b84a5c63a24a74943a8d280025f54579:21300094,0,0,0,0,0,0,0
+103,Consume;3,icon;2;1,jiedu icon,b84a5c63a24a74943a8d280025f54579:21300120,0,0,0,0,0,0,0
 105,Consume;3,icon;2;1,shengshang icon,b84a5c63a24a74943a8d280025f54579:21300054,0,0,0,0,0,0,0
 110,Consume;3,icon;2;1,xuedai icon,b84a5c63a24a74943a8d280025f54579:21300090,0,0,0,0,0,0,0
+116,Consume;3,icon;2;1,jiaban icon,b84a5c63a24a74943a8d280025f54579:21300118,0,0,0,0,0,0,0
 117,Consume;3,icon;2;1,shengming icon,b84a5c63a24a74943a8d280025f54579:21300032,0,0,0,0,0,0,0
 118,Consume;3,icon;2;1,zhandou icon,b84a5c63a24a74943a8d280025f54579:21300028,0,0,0,0,0,0,0
 119,Consume;3,icon;2;1,fangyu icon,b84a5c63a24a74943a8d280025f54579:21300036,0,0,0,0,0,0,0

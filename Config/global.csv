@@ -14,8 +14,9 @@ max_move_speed,7.8,
 min_monster_move,2,
 max_monster_move,8,
 dash_speed,10,
-craft_delay,2,
+craft_delay,1,
 default_name,player,
 audio_enable,0,
 testbag,1,0表示没有;大于1表示测试背包id
 one_drink,200,一口消耗的毫升数量
+max_level,50,最大等级
