@@ -240,8 +240,10 @@ id,type,category,name,asset_category,guid,posx,posy,posz,anglex,angley,anglez,de
 207,consume;3,mesh;1;1,BearTrap,assetbundle;2,a022e7480d5b66d46a69ce3a2939a707,0,0,0,0,0,0,≤∂ ﬁº–
 208,consume;3,mesh;1;1,CannedFood_03,assetbundle;2,ff7dc155f087bb348a1b4ff0667aa59b,0,0,0,0,0,0,”„∂¸
 300,consume;3,mesh;1;1,Moto,assetbundle;2,b28dec3b8d664ec4593fc9b580f0c14e,0,0,0,0,0,0,”„∏Õ–ŒœÛ
-301,consume;3,mesh;1;1,CarFPS,assetbundle;2,24b17eb700b845a44bc1083f35f6c76f,0.75,-2.2,-0.4,0,0,0,car
+301,consume;3,mesh;1,CarFPS,assetbundle;2,24b17eb700b845a44bc1083f35f6c76f,0.75,-2.2,-0.4,0,0,0,car
+301,consume;3,mesh;1;1,MuscleCarA,assetbundle;2,c9303e3cd95c3f54d9e76e323a59bed7,0,0,0,0,0,0,world car
 1001,consume;3,mesh;1;1,wood,assetbundle;2,e00fdb8073a25184490e4beb876183ed,0,0,0,0,0,0,ƒæ≤ƒ
+1008,consume;3,mesh;1;1,cobweb,assetbundle;2,18192c4b4d5bf7644b17debdc6b63f31,0,0,0,0,0,0,wang
 0,monster;5,mesh;1,BaseZombie,assetbundle;2,9f15a51facac2e94abcc2586da38d231,0,0,0,0,0,0,≤‚ ‘Ω© ¨
 1,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,ºŸ»À
 2,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,≈¿ ¨
@@ -452,3 +454,4 @@ id,type,category,name,asset_category,guid,posx,posy,posz,anglex,angley,anglez,de
 10037,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,æﬁ ¨
 16000,monster;5,mesh;1,Spider,assetbundle;2,34ee4bc1a6d58cf4ca6ecb4fa1099c9d,0,0,0,0,0,0,Spider
 1,body;6,mesh;1,SimplePeople,assetbundle;2,c20a3f0e36f10e24db51b6884f8d28c9,0,0,0,0,0,0,body
+1,collet;8,mesh;1;1,beetroot,assetbundle;2,7813c34e1c587c24d89e213601752338,0,0,0,0,0,0,colloet

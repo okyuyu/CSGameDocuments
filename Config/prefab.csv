@@ -90,6 +90,10 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 89,normal;0,normal;0,grenade_pin,92bdd760d1c843f438b8ad65b0831b06:100000,0,0,0,0,0,0,0
 90,normal;0,normal;0,throw,49abca501a5a77d488a858a932c3c958:100000,0,0,0,0,0,0,0
 91,normal;0,normal;0,use_bandage,9df671a2614b2c143872d82c3701214c:100000,0,0,0,0,0,0,0
+92,normal;0,normal;0,hit_wood,f008cea64e429a443974be24f1123d1c:100000,0,0,0,0,0,0,0
+93,normal;0,normal;0,misfire,07b03a69a808bcb408e8314536ed3257:100000,0,0,0,0,0,0,0
+94,normal;0,normal;0,drop_item,ee2b6a833c825194488b4142e8cbd07a:100000,0,0,0,0,0,0,0
+95,normal;0,normal;0,level0.tome,3346971e644d5d742995bfdec3abecfc:4900000,0,0,0,0,0,0,0
 0,weapon;1,mesh;1,no weapon 3person,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
 0,weapon;1,mesh;1;1,no weapon 1person,75aa758f1bad7df41b28d8f990ba20d1:100022,0,0,0,0,0,90,0
 1,weapon;1,mesh;1,knife1 view,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
@@ -124,7 +128,7 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 23,weapon;1,sound;3;3,handgun23_reload3,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,0
 23,weapon;1,sound;3;4,handgun23_deploy,ffb1ee3bd05c140469174a34d2f2164f:100000,0,0,0,0,0,0,0
 23,weapon;1,icon;2,handgun1 icon,b06c2233b1089b649980166c612bd34c:137812,0,0,0,0,0,0,0
-23,weapon;1,icon;2;1,handgun23 sp,961d2ffa3bf4c1e438a674322767b896:21300044,0,0,0,0,0,0,0
+23,weapon;1,icon;2;1,handgun23 sp,961d2ffa3bf4c1e438a674322767b896:21300036,0,0,0,0,0,0,0
 24,weapon;1,icon;2;1,handgun24 sp,961d2ffa3bf4c1e438a674322767b896:21300032,0,0,0,0,0,0,0
 25,weapon;1,icon;2;1,handgun25 sp,961d2ffa3bf4c1e438a674322767b896:21300040,0,0,0,0,0,0,0
 26,weapon;1,icon;2;1,handgun26 sp,961d2ffa3bf4c1e438a674322767b896:21300072,0,0,0,0,0,0,0
