@@ -94,6 +94,7 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 93,normal;0,normal;0,misfire,07b03a69a808bcb408e8314536ed3257:100000,0,0,0,0,0,0,0
 94,normal;0,normal;0,drop_item,ee2b6a833c825194488b4142e8cbd07a:100000,0,0,0,0,0,0,0
 95,normal;0,normal;0,level0.tome,3346971e644d5d742995bfdec3abecfc:4900000,0,0,0,0,0,0,0
+96,normal;0,normal;0,gather,bbd4eb111420d244182811f484a9ebee:100000,0,0,0,0,0,0,0
 0,weapon;1,mesh;1,no weapon 3person,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
 0,weapon;1,mesh;1;1,no weapon 1person,75aa758f1bad7df41b28d8f990ba20d1:100022,0,0,0,0,0,90,0
 1,weapon;1,mesh;1,knife1 view,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
