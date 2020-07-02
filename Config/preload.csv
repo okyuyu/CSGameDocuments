@@ -453,5 +453,6 @@ id,type,category,name,asset_category,guid,posx,posy,posz,anglex,angley,anglez,de
 10036,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ÞÊ¬
 10037,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ÞÊ¬
 16000,monster;5,mesh;1,Spider,assetbundle;2,34ee4bc1a6d58cf4ca6ecb4fa1099c9d,0,0,0,0,0,0,Spider
+17000,monster;5,mesh;1,Bomber,assetbundle;2,818a95b8d01db414cada4125babaadd2,0,0,0,0,0,0,Bomber
 1,body;6,mesh;1,SimplePeople,assetbundle;2,c20a3f0e36f10e24db51b6884f8d28c9,0,0,0,0,0,0,body
 1,collet;8,mesh;1;1,beetroot,assetbundle;2,7813c34e1c587c24d89e213601752338,0,0,0,0,0,0,colloet

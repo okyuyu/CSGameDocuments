@@ -95,6 +95,11 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 94,normal;0,normal;0,drop_item,ee2b6a833c825194488b4142e8cbd07a:100000,0,0,0,0,0,0,0
 95,normal;0,normal;0,level0.tome,3346971e644d5d742995bfdec3abecfc:4900000,0,0,0,0,0,0,0
 96,normal;0,normal;0,gather,bbd4eb111420d244182811f484a9ebee:100000,0,0,0,0,0,0,0
+97,normal;0,normal;0,bombfire,c75484ad37e9d384b93bd1305888d836:100000,0,0,0,0,0,0,0
+98,normal;0,normal;0,SpiderBite,d413843f7cf415b4d9ffda1de030fd1e:100000,0,0,0,0,0,0,0
+99,normal;0,normal;0,SpiderIdle,f17e26d4d584de241b8753bf4c7523b6:100000,0,0,0,0,0,0,0
+100,normal;0,normal;0,ZombieDeath,0f33881ff81d26246ac7815f72bb9f04:100000,0,0,0,0,0,0,0
+101,normal;0,normal;0,SpiderDeath,3a60a73d9d94ee244b5df4c737188314:100000,0,0,0,0,0,0,0
 0,weapon;1,mesh;1,no weapon 3person,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
 0,weapon;1,mesh;1;1,no weapon 1person,75aa758f1bad7df41b28d8f990ba20d1:100022,0,0,0,0,0,90,0
 1,weapon;1,mesh;1,knife1 view,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
