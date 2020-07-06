@@ -100,6 +100,9 @@ id,type,category,name,fileid,posx,posy,posz,anglex,angley,anglez,desc
 99,normal;0,normal;0,SpiderIdle,f17e26d4d584de241b8753bf4c7523b6:100000,0,0,0,0,0,0,0
 100,normal;0,normal;0,ZombieDeath,0f33881ff81d26246ac7815f72bb9f04:100000,0,0,0,0,0,0,0
 101,normal;0,normal;0,SpiderDeath,3a60a73d9d94ee244b5df4c737188314:100000,0,0,0,0,0,0,0
+102,normal;0,normal;0,ZombieScream,0103b130af588e4428c30e1a2fd8495d:100000,0,0,0,0,0,0,0
+103,normal;0,normal;0,ZombieAttackW,dd816603b1057ff4688175e82f69fb11:100000,0,0,0,0,0,0,0
+104,normal;0,normal;0,ZombieIdleW,0575eaa5a2ac0b04db9a8bdbc7dd6081:100000,0,0,0,0,0,0,0
 0,weapon;1,mesh;1,no weapon 3person,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
 0,weapon;1,mesh;1;1,no weapon 1person,75aa758f1bad7df41b28d8f990ba20d1:100022,0,0,0,0,0,90,0
 1,weapon;1,mesh;1,knife1 view,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,0
