@@ -1,0 +1,965 @@
+id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,desc
+1,normal;0,normal;0,M4Gun_FPS,assetobject;1,f8b19c9a8497d094db7402404ea19da7:188224,0,0,0,0,0,0,ÃèÊö
+2,normal;0,normal;0,human,assetobject;1,af525e23d4824504faf2c439ce237022:143814,0,0,0,0,0,0,ÃèÊö
+3,normal;0,normal;0,impat_wall,assetobject;1,49bf48ba700479647a677df065f772f3:100000,0,0,0,0,0,0,ÃèÊö
+4,normal;0,normal;0,BloodFX,assetobject;1,e19dc9e10917c7e47a3ff242a10abac6:100000,0,0,0,0,0,0,ÃèÊö
+5,normal;0,normal;0,lootbox1,assetobject;1,b3c80b9b1eb031247a528b821c753e8b:186818,0,0,0,0,0,0,ÃèÊö
+6,normal;0,normal;0,basemodel,assetobject;1,53d344e8499846d4aabd95ae6ab5c41f:170376,0,0,0,0,0,0,ÃèÊö
+7,normal;0,normal;0,bullethole,assetobject;1,3c9e98c565465a94b93b25c9824f8919:191252,0,0,0,0,0,0,ÃèÊö
+8,normal;0,normal;0,hitwall1,assetobject;1,8d818e495c3758346aa45407ff5fb09f:118546,0,0,0,0,0,0,ÃèÊö
+9,normal;0,normal;0,hitwall2,assetobject;1,cc8c288decffd8d4b86a5f3af66ed3fe:198304,0,0,0,0,0,0,ÃèÊö
+10,normal;0,normal;0,hit,assetobject;1,2588c582a31f10b448f7d62aa02198e5:189436,0,0,0,0,0,0,ÃèÊö
+11,normal;0,normal;0,p228_shoot,assetobject;1,a18b845cff6b0d445b1e3dcc0fcac1f9:194658,0,0,0,0,0,0,ÃèÊö
+12,normal;0,normal;0,handgun1,assetobject;1,0566eef33ed32a94abd593c5f38d70d8:138400,0,0,0,0,0,0,ÃèÊö
+13,normal;0,normal;0,knife1,assetobject;1,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,0,ÃèÊö
+14,normal;0,normal;0,assault_rifle1,assetobject;1,53a600c32876e634e8380bcfce86e341:153098,0,0,0,0,0,0,ÃèÊö
+15,normal;0,normal;0,Zombies,assetobject;1,cc40e8d377d2835469ae31efa3cc0f5c:197910,0,0,0,0,0,0,ÃèÊö
+16,normal;0,normal;0,nameItem,assetobject;1,c592acc6912a3eb4d85acb68bf46dc2c:104830,0,0,0,0,0,0,ÃèÊö
+17,normal;0,normal;0,ScorePanel,assetobject;1,7bf5e6b719315b942995c70d0e030ecf:186014,0,0,0,0,0,0,ÃèÊö
+18,normal;0,normal;0,deathmsg,assetobject;1,cbb6fbab995ef864daee18c4e352a92c:168994,0,0,0,0,0,0,ÃèÊö
+19,normal;0,normal;0,gun2,assetobject;1,194c0ebeb2da893409787d4c6fedeb4c:21300002,0,0,0,0,0,0,ÃèÊö
+20,normal;0,normal;0,deathmsg00,assetobject;1,db4899f2ed99a244db7f26d9e770fc4d:151314,0,0,0,0,0,0,ÃèÊö
+21,normal;0,normal;0,deathmsg02,assetobject;1,d632e3f48f386d945a8145202af54999:103856,0,0,0,0,0,0,ÃèÊö
+22,normal;0,normal;0,deathmsg2,assetobject;1,a6c925999e76abd489008d82ac379f8b:101362,0,0,0,0,0,0,ÃèÊö
+23,normal;0,normal;0,deathmsg03,assetobject;1,afc05e91b07f56f41848664aa4199743:148398,0,0,0,0,0,0,ÃèÊö
+24,normal;0,normal;0,deathmsg3,assetobject;1,e7e276d8d5a577d46a95cf5f7ee0a3de:156436,0,0,0,0,0,0,ÃèÊö
+25,normal;0,normal;0,fiveseven_shoot,assetobject;1,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,ÃèÊö
+26,normal;0,normal;0,fiveseven_shoot_sound,assetobject;1,3f59ac0325438bd428942306e8e45c52:8300000,0,0,0,0,0,0,ÃèÊö
+27,normal;0,normal;0,local_run,assetobject;1,383fa144d740cc440aa7bc18602be00a:8300000,0,0,0,0,0,0,ÃèÊö
+28,normal;0,normal;0,clipout,assetobject;1,7d2c0f2b82cf3704d802f11623667fc3:136006,0,0,0,0,0,0,ÃèÊö
+29,normal;0,normal;0,clipin,assetobject;1,d2ab4221d46c30842ad34768d868983e:152338,0,0,0,0,0,0,ÃèÊö
+30,normal;0,normal;0,grenade_1,assetobject;1,837ad8a38e9072148aed419a534f5750:114748,0,0,0,0,0,0,ÃèÊö
+31,normal;0,normal;0,explosionA,assetobject;1,5eb03913fcfb2904584dbd6f91831cd7:168886,0,0,0,0,0,0,ÃèÊö
+32,normal;0,normal;0,boltpull,assetobject;1,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,ÃèÊö
+33,normal;0,normal;0,knifeattack,assetobject;1,567c0648f3c016642979f17789045896:100638,0,0,0,0,0,0,ÃèÊö
+34,normal;0,normal;0,BulletTracer,assetobject;1,40969472316929142a4a8bc7837e0a88:100000,0,0,0,0,0,0,ÃèÊö
+35,normal;0,normal;0,CraftItem,assetobject;1,212e5fcebb3ab0e4294bafbff7a63a01:100006,0,0,0,0,0,0,ÃèÊö
+36,normal;0,normal;0,MetalIcon,assetobject;1,99eb7bd7032309a4d8088465c7e04178:21300020,0,0,0,0,0,0,ÃèÊö
+37,normal;0,normal;0,tempIcon,assetobject;1,27a3934fd6b27cf49be96c0f56163e00:21300000,0,0,0,0,0,0,ÃèÊö
+38,normal;0,normal;0,run_sd,assetobject;1,fdb24e51014fc8342bf15b618cc65555:8300000,0,0,0,0,0,0,ÃèÊö
+39,normal;0,normal;0,jumpup_sd,assetobject;1,fbddfd1eb0635db408cc5cce3926f0da:8300000,0,0,0,0,0,0,ÃèÊö
+40,normal;0,normal;0,jumpground_sd,assetobject;1,790911e396a73e54caab7bfe828bd289:100000,0,0,0,0,0,0,ÃèÊö
+41,normal;0,normal;0,zombie_idle_sd,assetobject;1,967b50fdfb13f8a4088446fbaa7eefc8:100000,0,0,0,0,0,0,ÃèÊö
+42,normal;0,normal;0,zombie_attack_sd,assetobject;1,1b1252362570ff1469fdb0df583e1a8a:100000,0,0,0,0,0,0,ÃèÊö
+43,normal;0,normal;0,z_run_sd,assetobject;1,879a9d3709f271c4db002a8a3120707a:8300000,0,0,0,0,0,0,ÃèÊö
+44,normal;0,normal;0,zombie_server,assetobject;1,73da0717f99e05b4ca45407c26843604:100038,0,0,0,0,0,0,ÃèÊö
+45,normal;0,normal;0,viewknife_s,assetobject;1,cca80f9427136764fb94a11152265eaa:100024,0,0,0,0,0,0,ÃèÊö
+46,normal;0,normal;0,Muzzle,assetobject;1,478609f0cbbfd724790437470feba256:175908,0,0,0,0,0,0,ÃèÊö
+47,normal;0,normal;0,BloodFXOther,assetobject;1,e74036a2fec47604d8d89a76268aaf5d:100000,0,0,0,0,0,0,ÃèÊö
+48,normal;0,normal;0,joyPanel,assetobject;1,ce27f21eb08c92841886bca6ae8f3ffc:189048,0,0,0,0,0,0,ÃèÊö
+49,normal;0,normal;0,impat_wall2,assetobject;1,985029ea531ea504d9ebc2e9ac36cd4a:100002,0,0,0,0,0,0,ÃèÊö
+50,normal;0,normal;0,fishline,assetobject;1,e9d16568bba2df1488deec8ab8f7f85e:100000,0,0,0,0,0,0,ÃèÊö
+51,normal;0,normal;0,buoys,assetobject;1,242860c34d3308f44a4e0c58f7195019:100000,0,0,0,0,0,0,ÃèÊö
+52,normal;0,normal;0,throw_sound1,assetobject;1,7fd214084e1c10c43b3c0f1269d7fafb:100000,0,0,0,0,0,0,ÃèÊö
+53,normal;0,normal;0,throw_sound2,assetobject;1,1d1b8364114289a4eb466191a3239515:100000,0,0,0,0,0,0,ÃèÊö
+54,normal;0,normal;0,fish_touch,assetobject;1,e6c964f8a45d68442bb365c7bfc5d83e:100000,0,0,0,0,0,0,ÃèÊö
+55,normal;0,normal;0,fishing_tension,assetobject;1,25d652dccbd2d824e8e2c850412e60ae:100000,0,0,0,0,0,0,ÃèÊö
+56,normal;0,normal;0,fishing_cut,assetobject;1,7201ceb7354a68b48a2fe54d3b02642d:100000,0,0,0,0,0,0,ÃèÊö
+57,normal;0,normal;0,fish_hit,assetobject;1,af328621e47e97743ae10a4073625bf7:100000,0,0,0,0,0,0,ÃèÊö
+58,normal;0,normal;0,fish_splash,assetobject;1,87ed090cf4ddcf341b2919df177af682:100000,0,0,0,0,0,0,ÃèÊö
+59,normal;0,normal;0,fish_jump,assetobject;1,7d65428b3b6898f40a824fb4a2d0ddba:100000,0,0,0,0,0,0,ÃèÊö
+60,normal;0,normal;0,cut_wood,assetobject;1,5f45c32634ccfc44b8d97be3fe5e5328:100000,0,0,0,0,0,0,ÃèÊö
+61,normal;0,normal;0,cut_wood_sound,assetobject;1,79ce112238098d7459820f81bd1e4a24:100000,0,0,0,0,0,0,ÃèÊö
+62,normal;0,normal;0,swing,assetobject;1,587221073f36e6743a959ecb122a0641:100000,0,0,0,0,0,0,ÃèÊö
+63,normal;0,normal;0,pickup_item,assetobject;1,58cd2b1a55667b34eb09be87b5888892:100000,0,0,0,0,0,0,ÃèÊö
+64,normal;0,normal;0,bagitem,assetobject;1,0b7ee1047d4171d4d8d85f5f3c066a72:175832,0,0,0,0,0,0,ÃèÊö
+65,normal;0,normal;0,drink_sound,assetobject;1,4af02a0acb76e6343982c2cd1ed0e4ba:100000,0,0,0,0,0,0,ÃèÊö
+66,normal;0,normal;0,eat_sound,assetobject;1,a60acf1a860584e419e3f1fc19a2c7a3:100000,0,0,0,0,0,0,ÃèÊö
+67,normal;0,normal;0,Projectiles01,assetobject;1,a6f5aa60bb1a7974fa40f1269815a92b:100000,0,0,0,0,0,0,ÃèÊö
+68,normal;0,normal;0,engineNormal,assetobject;1,fe0ff90131dd99d4491da1c3e5697821:8300000,0,0,0,0,0,0,ÃèÊö
+69,normal;0,normal;0,enginePower,assetobject;1,ff8bb0607aef780458797ec8856946ca:8300000,0,0,0,0,0,0,ÃèÊö
+70,normal;0,normal;0,bagitembg,assetobject;1,c6b8c7b9ee3ba374aac38ca74cb0de58:100000,0,0,0,0,0,0,ÃèÊö
+71,normal;0,normal;0,chatitem,assetobject;1,b01504d37135e5d43b32c0b52db9ec9a:100002,0,0,0,0,0,0,ÃèÊö
+72,normal;0,normal;0,clickitem,assetobject;1,ab25ab6f7f44b9c498f10a363659fc52:100000,0,0,0,0,0,0,ÃèÊö
+73,normal;0,normal;0,Acid,assetobject;1,2df474cbe5486a04cb6fb9d7d6c5078c:100000,0,0,0,0,0,0,ÃèÊö
+74,normal;0,normal;0,SpiderModel,assetobject;1,40427705aa350ed4f8936bc33ee7bd36:100102,0,0,0,0,0,0,ÃèÊö
+75,normal;0,normal;0,GhostEffect,assetobject;1,c5e52d9cb72ae1d4994ed1ddcde0f799:100012,0,0,0,0,0,0,ÃèÊö
+76,normal;0,normal;0,lookover,assetobject;1,5a06be7e989173242949d4174753c294:100000,0,0,0,0,0,0,ÃèÊö
+77,normal;0,normal;0,clock,assetobject;1,61244d245fca2e943a189c863b2da2cc:100000,0,0,0,0,0,0,ÃèÊö
+78,normal;0,normal;0,resolve,assetobject;1,d8e2dcde8ad76704195d828f93e4c2f7:100000,0,0,0,0,0,0,ÃèÊö
+79,normal;0,normal;0,repair,assetobject;1,69c1b51c36bac8e4dad2b3169ee24acc:100000,0,0,0,0,0,0,ÃèÊö
+80,normal;0,normal;0,click,assetobject;1,e206e5c2e5b76dd48b58306fcf73d58b:100000,0,0,0,0,0,0,ÃèÊö
+81,normal;0,normal;0,shortcut,assetobject;1,c601be2beb499b54b8bcf8fc36407200:100000,0,0,0,0,0,0,ÃèÊö
+82,normal;0,normal;0,dryfire_pistol,assetobject;1,fdc8a1e9c1c83fe498ccccdec87ceeaa:100000,0,0,0,0,0,0,ÃèÊö
+83,normal;0,normal;0,dryfire_rifle,assetobject;1,aef73e0a84440fd468778f90ff090f16:100000,0,0,0,0,0,0,ÃèÊö
+84,normal;0,normal;0,arrow_fire,assetobject;1,6bfde0a9811b41d4db0c870b99e1617d:100000,0,0,0,0,0,0,ÃèÊö
+85,normal;0,normal;0,arrow_reload,assetobject;1,4b4fa47ec6cb27f42ac1055ee51788c4:100000,0,0,0,0,0,0,ÃèÊö
+86,normal;0,normal;0,arrow_hit,assetobject;1,df586577bfc84ab4a950b02fab23e17f:100000,0,0,0,0,0,0,ÃèÊö
+87,normal;0,normal;0,nailgun_fire,assetobject;1,f898622bda6fbb745871c2de87e34ffe:100000,0,0,0,0,0,0,ÃèÊö
+88,normal;0,normal;0,catch,assetobject;1,4ba1bd2610d3bbf4caf6ad845bbcb9b1:100000,0,0,0,0,0,0,ÃèÊö
+89,normal;0,normal;0,grenade_pin,assetobject;1,92bdd760d1c843f438b8ad65b0831b06:100000,0,0,0,0,0,0,ÃèÊö
+90,normal;0,normal;0,throw,assetobject;1,49abca501a5a77d488a858a932c3c958:100000,0,0,0,0,0,0,ÃèÊö
+91,normal;0,normal;0,use_bandage,assetobject;1,9df671a2614b2c143872d82c3701214c:100000,0,0,0,0,0,0,ÃèÊö
+92,normal;0,normal;0,hit_wood,assetobject;1,f008cea64e429a443974be24f1123d1c:100000,0,0,0,0,0,0,ÃèÊö
+93,normal;0,normal;0,misfire,assetobject;1,07b03a69a808bcb408e8314536ed3257:100000,0,0,0,0,0,0,ÃèÊö
+94,normal;0,normal;0,drop_item,assetobject;1,ee2b6a833c825194488b4142e8cbd07a:100000,0,0,0,0,0,0,ÃèÊö
+95,normal;0,normal;0,level0.tome,assetobject;1,3346971e644d5d742995bfdec3abecfc:4900000,0,0,0,0,0,0,ÃèÊö
+96,normal;0,normal;0,gather,assetobject;1,bbd4eb111420d244182811f484a9ebee:100000,0,0,0,0,0,0,ÃèÊö
+97,normal;0,normal;0,bombfire,assetobject;1,c75484ad37e9d384b93bd1305888d836:100000,0,0,0,0,0,0,ÃèÊö
+98,normal;0,normal;0,SpiderBite,assetobject;1,d413843f7cf415b4d9ffda1de030fd1e:100000,0,0,0,0,0,0,ÃèÊö
+99,normal;0,normal;0,SpiderIdle,assetobject;1,f17e26d4d584de241b8753bf4c7523b6:100000,0,0,0,0,0,0,ÃèÊö
+100,normal;0,normal;0,ZombieDeath,assetobject;1,0f33881ff81d26246ac7815f72bb9f04:100000,0,0,0,0,0,0,ÃèÊö
+101,normal;0,normal;0,SpiderDeath,assetobject;1,3a60a73d9d94ee244b5df4c737188314:100000,0,0,0,0,0,0,ÃèÊö
+102,normal;0,normal;0,ZombieScream,assetobject;1,0103b130af588e4428c30e1a2fd8495d:100000,0,0,0,0,0,0,ÃèÊö
+103,normal;0,normal;0,ZombieAttackW,assetobject;1,dd816603b1057ff4688175e82f69fb11:100000,0,0,0,0,0,0,ÃèÊö
+104,normal;0,normal;0,ZombieIdleW,assetobject;1,0575eaa5a2ac0b04db9a8bdbc7dd6081:100000,0,0,0,0,0,0,ÃèÊö
+0,weapon;1,mesh;1,no weapon 3person,assetobject;1,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,ÃèÊö
+0,weapon;1,mesh;1;1,no weapon 1person,assetobject;1,75aa758f1bad7df41b28d8f990ba20d1:100022,0,0,0,0,0,90,ÃèÊö
+1,weapon;1,mesh;1,knife1 view,assetobject;1,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,ÃèÊö
+1,weapon;1,icon;2,knife1 icon,assetobject;1,0b7ee1047d4171d4d8d85f5f3c066a72:175832,0,0,0,0,0,90,ÃèÊö
+1,weapon;1,icon;2;1,knife1 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300042,0,0,0,0,0,90,ÃèÊö
+1,weapon;1,mesh;1;1,knife1 world,assetobject;1,09dfb76e48059b0418e6c7d4fa02dd59:121640,0,0,0,0,0,90,ÃèÊö
+1,weapon;1,sound;3;4,knife1 deploy sound,assetobject;1,e6d9f4f729bbc6a4d82e6ecd5374bfda:100000,0,0,0,0,0,0,ÃèÊö
+2,weapon;1,mesh;1,Pistol1,assetobject;1,1f239ed8c7157de44a446b92d0a9d1ed:117996,0,0,0,0,90,90,ÃèÊö
+2,weapon;1,icon;2;1,knife2 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300084,0,0,0,0,90,90,ÃèÊö
+3,weapon;1,mesh;1,ak47 mesh,assetobject;1,fc08f8a9cee7ce24e81130425b341f6e:112436,0.195,-0.061,0.088,0,90,90,ÃèÊö
+3,weapon;1,icon;2,ak47 icon,assetobject;1,0,0,0,0,0,0,0,ÃèÊö
+3,weapon;1,icon;2;1,w3 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300022,0,0,0,0,0,0,ÃèÊö
+3,weapon;1,sound;3;0,ak47 sound1,assetobject;1,0,0,0,0,0,0,0,ÃèÊö
+3,weapon;1,sound;3;1,ak47 sound2,assetobject;1,0,0,0,0,0,0,0,ÃèÊö
+4,weapon;1,icon;2,stun grenades,assetobject;1,5ebfa05af44201145af6416f4956946d:180692,0,0,0,0,0,0,ÃèÊö
+4,weapon;1,icon;2;1,w4 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300042,0,0,0,0,0,0,ÃèÊö
+4,weapon;1,effect;4,w4 effect,assetobject;1,a6f5aa60bb1a7974fa40f1269815a92b:100000,0,0,0,0,0,0,ÃèÊö
+6,weapon;1,icon;2;1,w6 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300088,0,0,0,0,0,0,ÃèÊö
+6,weapon;1,effect;4,w6 effect,assetobject;1,52167e6603f86f146a05bb7d63390928:100000,0,0,0,0,0,0,ÃèÊö
+7,weapon;1,icon;2;1,w7 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300052,0,0,0,0,0,0,ÃèÊö
+8,weapon;1,icon;2;1,w8 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300000,0,0,0,0,0,0,ÃèÊö
+9,weapon;1,icon;2;1,w9 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300016,0,0,0,0,0,0,ÃèÊö
+10,weapon;1,icon;2;1,w10 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300068,0,0,0,0,0,0,ÃèÊö
+11,weapon;1,icon;2;1,w11 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300040,0,0,0,0,0,0,ÃèÊö
+12,weapon;1,icon;2;1,w12 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300034,0,0,0,0,0,0,ÃèÊö
+13,weapon;1,icon;2;1,w13 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300036,0,0,0,0,0,0,ÃèÊö
+14,weapon;1,icon;2;1,w14 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300054,0,0,0,0,0,0,ÃèÊö
+16,weapon;1,icon;2;1,w16 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300008,0,0,0,0,0,0,ÃèÊö
+23,weapon;1,sound;3;0,handgun23_fire,assetobject;1,44b71bdd728796c4ebd1a274d3ecf1c5:100000,0,0,0,0,0,0,ÃèÊö
+23,weapon;1,sound;3;1,handgun23_reload1,assetobject;1,7d2c0f2b82cf3704d802f11623667fc3:136006,0,0,0,0,0,0,ÃèÊö
+23,weapon;1,sound;3;2,handgun23_reload2,assetobject;1,d2ab4221d46c30842ad34768d868983e:152338,0,0,0,0,0,0,ÃèÊö
+23,weapon;1,sound;3;3,handgun23_reload3,assetobject;1,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,ÃèÊö
+23,weapon;1,sound;3;4,handgun23_deploy,assetobject;1,ffb1ee3bd05c140469174a34d2f2164f:100000,0,0,0,0,0,0,ÃèÊö
+23,weapon;1,icon;2,handgun1 icon,assetobject;1,b06c2233b1089b649980166c612bd34c:137812,0,0,0,0,0,0,ÃèÊö
+23,weapon;1,icon;2;1,handgun23 sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300036,0,0,0,0,0,0,ÃèÊö
+24,weapon;1,icon;2;1,handgun24 sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300032,0,0,0,0,0,0,ÃèÊö
+25,weapon;1,icon;2;1,handgun25 sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300040,0,0,0,0,0,0,ÃèÊö
+26,weapon;1,icon;2;1,handgun26 sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300072,0,0,0,0,0,0,ÃèÊö
+27,weapon;1,icon;2;1,handgun27 sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300042,0,0,0,0,0,0,ÃèÊö
+28,weapon;1,icon;2;1,shotgun1 sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300012,0,0,0,0,0,0,ÃèÊö
+28,weapon;1,sound;3;0,w28_shoot,assetobject;1,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,ÃèÊö
+28,weapon;1,sound;3;1,handgun28_reload1,assetobject;1,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,ÃèÊö
+28,weapon;1,sound;3;2,handgun28_reload2,assetobject;1,d4dce846e57e0514aa0a7c43d343d2f3:100000,0,0,0,0,0,0,ÃèÊö
+29,weapon;1,icon;2,ak1 icon,assetobject;1,28555f80766a232428a9e35aff394ad1:111484,0,0,0,0,0,0,ÃèÊö
+29,weapon;1,icon;2;1,ak1 sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300022,0,0,0,0,0,0,ÃèÊö
+29,weapon;1,sound;3;0,ak1_shoot,assetobject;1,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,ÃèÊö
+29,weapon;1,sound;3;1,ak1_reload1,assetobject;1,8dcfb9a5fdea9c641a75fff607b95511:100000,0,0,0,0,0,0,ÃèÊö
+29,weapon;1,sound;3;2,ak1_reload2,assetobject;1,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,ÃèÊö
+29,weapon;1,sound;3;3,ak1_reload3,assetobject;1,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,ÃèÊö
+29,weapon;1,sound;3;4,ak1_draw,assetobject;1,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,ÃèÊö
+35,weapon;1,icon;2;1,w35 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300072,0,0,0,0,0,0,ÃèÊö
+36,weapon;1,icon;2;1,ak36 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300064,0,0,0,0,0,0,ÃèÊö
+37,weapon;1,icon;2;1,ak37 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300070,0,0,0,0,0,0,ÃèÊö
+38,weapon;1,icon;2;1,w38 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300010,0,0,0,0,0,0,ÃèÊö
+39,weapon;1,icon;2;1,w39 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300082,0,0,0,0,0,0,ÃèÊö
+40,weapon;1,icon;2;1,w40 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300076,0,0,0,0,0,0,ÃèÊö
+41,weapon;1,icon;2;1,w41sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300044,0,0,0,0,0,0,ÃèÊö
+42,weapon;1,icon;2;1,w42sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300086,0,0,0,0,0,0,ÃèÊö
+43,weapon;1,icon;2;1,w43sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300080,0,0,0,0,0,0,ÃèÊö
+44,weapon;1,icon;2;1,w44sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300032,0,0,0,0,0,0,ÃèÊö
+45,weapon;1,icon;2;1,w45sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300012,0,0,0,0,0,0,ÃèÊö
+47,weapon;1,icon;2;1,w47sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300030,0,0,0,0,0,0,ÃèÊö
+48,weapon;1,icon;2;1,w48sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300014,0,0,0,0,0,0,ÃèÊö
+51,weapon;1,icon;2,gg1 icon,assetobject;1,44565461cf8b9ea459bc03fe1a26a091:121228,0,0,0,0,0,0,ÃèÊö
+51,weapon;1,icon;2;1,gg1sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300060,0,0,0,0,0,0,ÃèÊö
+51,weapon;1,effect;4,w51effect,assetobject;1,0143e7ed0e68afe4c80749367f23cc52:184016,0,0,0,0,0,0,ÃèÊö
+51,weapon;1,effect;4;1,w51bombeffect,assetobject;1,c3d1a845b1e87ea468b51d2c6a2b2d25:100012,0,0,0,0,0,0,ÃèÊö
+52,weapon;1,icon;2;1,w52sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300058,0,0,0,0,0,0,ÃèÊö
+54,weapon;1,icon;2;1,w54sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300024,0,0,0,0,0,0,ÃèÊö
+57,weapon;1,icon;2;1,w57sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300080,0,0,0,0,0,0,ÃèÊö
+57,weapon;1,sound;3;0,w57fire,assetobject;1,f898622bda6fbb745871c2de87e34ffe:100000,0,0,0,0,0,0,ÃèÊö
+57,weapon;1,sound;3;1,w57_reload1,assetobject;1,7d2c0f2b82cf3704d802f11623667fc3:136006,0,0,0,0,0,0,ÃèÊö
+57,weapon;1,sound;3;2,w57_reload2,assetobject;1,d2ab4221d46c30842ad34768d868983e:152338,0,0,0,0,0,0,ÃèÊö
+57,weapon;1,sound;3;3,w57_reload3,assetobject;1,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,ÃèÊö
+57,weapon;1,sound;3;4,w57_deploy,assetobject;1,ffb1ee3bd05c140469174a34d2f2164f:100000,0,0,0,0,0,0,ÃèÊö
+64,weapon;1,icon;2;1,w64sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300026,0,0,0,0,0,0,ÃèÊö
+65,weapon;1,icon;2,w65 icon,assetobject;1,63a200981045be149b3618abb459cbe1:21300104,0,0,0,0,0,0,ÃèÊö
+65,weapon;1,icon;2;1,w65sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300048,0,0,0,0,0,0,ÃèÊö
+66,weapon;1,icon;2;1,w66sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300062,0,0,0,0,0,0,ÃèÊö
+66,weapon;1,effect;4,w66effect,assetobject;1,a040b6d5768a6cb42a09a785d6ad18ae:100000,0,0,0,0,0,0,ÃèÊö
+67,weapon;1,icon;2;1,w67sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300074,0,0,0,0,0,0,ÃèÊö
+67,weapon;1,effect;4,w67effect,assetobject;1,ca03f33c9eefb5749afa46202c8256ee:100000,0,0,0,0,0,0,ÃèÊö
+69,weapon;1,icon;2;1,w69sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300066,0,0,0,0,0,0,ÃèÊö
+71,weapon;1,icon;2;1,w71sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300068,0,0,0,0,0,0,ÃèÊö
+72,weapon;1,icon;2;1,w72sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300082,0,0,0,0,0,0,ÃèÊö
+73,weapon;1,icon;2;1,w73sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300070,0,0,0,0,0,0,ÃèÊö
+74,weapon;1,icon;2;1,w74sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300034,0,0,0,0,0,0,ÃèÊö
+75,weapon;1,icon;2;1,w75sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300048,0,0,0,0,0,0,ÃèÊö
+76,weapon;1,icon;2;1,w76sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300026,0,0,0,0,0,0,ÃèÊö
+77,weapon;1,icon;2;1,w77sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300060,0,0,0,0,0,0,ÃèÊö
+78,weapon;1,icon;2;1,w78sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300018,0,0,0,0,0,0,ÃèÊö
+79,weapon;1,icon;2;1,w79sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300030,0,0,0,0,0,0,ÃèÊö
+80,weapon;1,icon;2;1,w80sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300052,0,0,0,0,0,0,ÃèÊö
+81,weapon;1,icon;2;1,w81sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300064,0,0,0,0,0,0,ÃèÊö
+82,weapon;1,icon;2;1,w82sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300076,0,0,0,0,0,0,ÃèÊö
+83,weapon;1,icon;2;1,w83sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300078,0,0,0,0,0,0,ÃèÊö
+84,weapon;1,icon;2;1,w84sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300014,0,0,0,0,0,0,ÃèÊö
+85,weapon;1,icon;2;1,w85sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300062,0,0,0,0,0,0,ÃèÊö
+86,weapon;1,icon;2;1,w86sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300024,0,0,0,0,0,0,ÃèÊö
+87,weapon;1,icon;2;1,w87sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300020,0,0,0,0,0,0,ÃèÊö
+88,weapon;1,icon;2;1,w88sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300006,0,0,0,0,0,0,ÃèÊö
+89,weapon;1,icon;2;1,w89sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300028,0,0,0,0,0,0,ÃèÊö
+90,weapon;1,icon;2;1,w90sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300056,0,0,0,0,0,0,ÃèÊö
+91,weapon;1,icon;2;1,w91sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300074,0,0,0,0,0,0,ÃèÊö
+92,weapon;1,icon;2;1,w92sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300050,0,0,0,0,0,0,ÃèÊö
+93,weapon;1,icon;2;1,w93sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300004,0,0,0,0,0,0,ÃèÊö
+94,weapon;1,icon;2;1,w94sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300054,0,0,0,0,0,0,ÃèÊö
+95,weapon;1,icon;2;1,w95sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300002,0,0,0,0,0,0,ÃèÊö
+96,weapon;1,icon;2;1,w96sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300000,0,0,0,0,0,0,ÃèÊö
+97,weapon;1,icon;2;1,w97sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300016,0,0,0,0,0,0,ÃèÊö
+98,weapon;1,icon;2;1,w98sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300008,0,0,0,0,0,0,ÃèÊö
+99,weapon;1,icon;2;1,w99sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300058,0,0,0,0,0,0,ÃèÊö
+100,weapon;1,icon;2;1,w100sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300066,0,0,0,0,0,0,ÃèÊö
+1,armor;2,icon;2;1,cap1,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300032,0,0,0,0,0,0,ÃèÊö
+3,armor;2,icon;2;1,moto cap3,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300036,0,0,0,0,0,0,ÃèÊö
+4,armor;2,icon;2;1,safe cap3,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300042,0,0,0,0,0,0,ÃèÊö
+22,armor;2,icon;2;1,shirt22,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300018,0,0,0,0,0,0,ÃèÊö
+23,armor;2,icon;2;1,shirt23,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300004,0,0,0,0,0,0,ÃèÊö
+24,armor;2,icon;2;1,shirt24,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300012,0,0,0,0,0,0,ÃèÊö
+25,armor;2,icon;2;1,shirt25,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300024,0,0,0,0,0,0,ÃèÊö
+26,armor;2,icon;2;1,shirt26,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300006,0,0,0,0,0,0,ÃèÊö
+27,armor;2,icon;2;1,shirt27,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300022,0,0,0,0,0,0,ÃèÊö
+28,armor;2,icon;2;1,shirt28,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300016,0,0,0,0,0,0,ÃèÊö
+29,armor;2,icon;2;1,shirt29,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300000,0,0,0,0,0,0,ÃèÊö
+31,armor;2,icon;2;1,shirt31,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300028,0,0,0,0,0,0,ÃèÊö
+32,armor;2,icon;2;1,shirt32,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300002,0,0,0,0,0,0,ÃèÊö
+46,armor;2,icon;2;1,pants46 icon,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300030,0,0,0,0,0,0,ÃèÊö
+48,armor;2,icon;2;1,pants48 icon,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300040,0,0,0,0,0,0,ÃèÊö
+51,armor;2,icon;2;1,pants51 icon,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300038,0,0,0,0,0,0,ÃèÊö
+60,armor;2,icon;2;1,shoes60 icon,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300050,0,0,0,0,0,0,ÃèÊö
+61,armor;2,icon;2;1,shoes61 icon,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300044,0,0,0,0,0,0,ÃèÊö
+62,armor;2,icon;2;1,shoes62 icon,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300048,0,0,0,0,0,0,ÃèÊö
+65,armor;2,icon;2;1,hat65 icon,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300010,0,0,0,0,0,0,ÃèÊö
+69,armor;2,icon;2;1,shoes69 icon,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300046,0,0,0,0,0,0,ÃèÊö
+80,armor;2,icon;2;1,hand80 icon,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300034,0,0,0,0,0,0,ÃèÊö
+100,armor;2,icon;2;1,bag100 sp,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300008,0,0,0,0,0,0,ÃèÊö
+101,armor;2,icon;2;1,bag101 sp,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300020,0,0,0,0,0,0,ÃèÊö
+1,Consume;3,mesh;1;1,Consume1Mesh,assetobject;1,59dfe7b51577a7d4db452ee2f5dedbcf:100000,0,0,0,0,0,0,ÃèÊö
+19,Consume;3,mesh;1;1,Consume19Mesh,assetobject;1,c2ff255a4f87e8847b7de2647fec831c:100000,0,0,0,0,0,0,ÃèÊö
+24,Consume;3,mesh;1;1,Consume24Mesh,assetobject;1,6499ac1611dc1b34cbcececec7f087d9:100000,0,0,0,0,0,0,ÃèÊö
+25,Consume;3,mesh;1;1,Consume25Mesh,assetobject;1,d6c9cbf51730aaf4c9189df2519bd7ab:100000,0,0,0,0,0,0,ÃèÊö
+28,Consume;3,mesh;1;1,Consume28Mesh,assetobject;1,1a183f83b982f6c468e99805f8e11496:100000,0,0,0,0,0,0,ÃèÊö
+1,Consume;3,icon;2;1,pit icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300082,0,0,0,0,0,0,ÃèÊö
+2,Consume;3,icon;2;1,tomato icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300014,0,0,0,0,0,0,ÃèÊö
+5,Consume;3,icon;2;1,cococale icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300084,0,0,0,0,0,0,ÃèÊö
+7,Consume;3,icon;2;1,peigen icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300086,0,0,0,0,0,0,ÃèÊö
+8,Consume;3,icon;2;1,beef can icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300052,0,0,0,0,0,0,ÃèÊö
+9,Consume;3,icon;2;1,sd fish can icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300034,0,0,0,0,0,0,ÃèÊö
+10,Consume;3,icon;2;1,water icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300016,0,0,0,0,0,0,ÃèÊö
+11,Consume;3,icon;2;1,pinguo water icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300068,0,0,0,0,0,0,ÃèÊö
+15,Consume;3,icon;2;1,box milk icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300038,0,0,0,0,0,0,ÃèÊö
+19,Consume;3,icon;2;1,coklate icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300012,0,0,0,0,0,0,ÃèÊö
+20,Consume;3,icon;2;1,nengliang icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300060,0,0,0,0,0,0,ÃèÊö
+21,Consume;3,icon;2;1,huluobo icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300088,0,0,0,0,0,0,ÃèÊö
+22,Consume;3,icon;2;1,yumi icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300106,0,0,0,0,0,0,ÃèÊö
+23,Consume;3,icon;2;1,junliang icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300062,0,0,0,0,0,0,ÃèÊö
+24,Consume;3,icon;2;1,sanmizhi icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300020,0,0,0,0,0,0,ÃèÊö
+25,Consume;3,icon;2;1,nainao icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300022,0,0,0,0,0,0,ÃèÊö
+27,Consume;3,icon;2;1,beef icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300018,0,0,0,0,0,0,ÃèÊö
+28,Consume;3,icon;2;1,tiantian icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300026,0,0,0,0,0,0,ÃèÊö
+30,Consume;3,icon;2;1,pingguo icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300042,0,0,0,0,0,0,ÃèÊö
+31,Consume;3,icon;2;1,tiancai icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300024,0,0,0,0,0,0,ÃèÊö
+34,Consume;3,icon;2;1,beer icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300000,0,0,0,0,0,0,ÃèÊö
+35,Consume;3,icon;2;1,guojiang icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300050,0,0,0,0,0,0,ÃèÊö
+36,Consume;3,icon;2;1,weisji icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300000,0,0,0,0,0,0,ÃèÊö
+37,Consume;3,icon;2;1,banana icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300064,0,0,0,0,0,0,ÃèÊö
+38,Consume;3,icon;2;1,hanbao icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300020,0,0,0,0,0,0,ÃèÊö
+39,Consume;3,icon;2;1,jitui icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300100,0,0,0,0,0,0,ÃèÊö
+42,Consume;3,icon;2;1,soda icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300072,0,0,0,0,0,0,ÃèÊö
+51,Consume;3,icon;2;1,huoji icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300066,0,0,0,0,0,0,ÃèÊö
+55,Consume;3,icon;2;1,xigua icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300076,0,0,0,0,0,0,ÃèÊö
+56,Consume;3,icon;2;1,shadingyu icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300006,0,0,0,0,0,0,ÃèÊö
+57,Consume;3,icon;2;1,spider icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300110,0,0,0,0,0,0,ÃèÊö
+58,Consume;3,icon;2;1,liyu icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300114,0,0,0,0,0,0,ÃèÊö
+59,Consume;3,icon;2;1,xueyu icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300116,0,0,0,0,0,0,ÃèÊö
+101,Consume;3,icon;2;1,xiyaoxiang icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300080,0,0,0,0,0,0,ÃèÊö
+102,Consume;3,icon;2;1,bengdai icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300094,0,0,0,0,0,0,ÃèÊö
+103,Consume;3,icon;2;1,jiedu icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300120,0,0,0,0,0,0,ÃèÊö
+105,Consume;3,icon;2;1,shengshang icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300054,0,0,0,0,0,0,ÃèÊö
+110,Consume;3,icon;2;1,xuedai icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300090,0,0,0,0,0,0,ÃèÊö
+116,Consume;3,icon;2;1,jiaban icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300118,0,0,0,0,0,0,ÃèÊö
+117,Consume;3,icon;2;1,shengming icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300032,0,0,0,0,0,0,ÃèÊö
+118,Consume;3,icon;2;1,zhandou icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300028,0,0,0,0,0,0,ÃèÊö
+119,Consume;3,icon;2;1,fangyu icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300036,0,0,0,0,0,0,ÃèÊö
+200,Consume;3,icon;2;1,tieding icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300098,0,0,0,0,0,0,ÃèÊö
+201,Consume;3,icon;2;1,jianshi icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300108,0,0,0,0,0,0,ÃèÊö
+202,Consume;3,icon;2;1,handgun bullet icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300104,0,0,0,0,0,0,ÃèÊö
+203,Consume;3,icon;2;1,buqiangzidang icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300102,0,0,0,0,0,0,ÃèÊö
+204,Consume;3,icon;2;1,sandanzidang icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300030,0,0,0,0,0,0,ÃèÊö
+205,Consume;3,icon;2;1,shengzi icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300044,0,0,0,0,0,0,ÃèÊö
+206,Consume;3,icon;2;1,gouhuo icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300058,0,0,0,0,0,0,ÃèÊö
+207,Consume;3,icon;2;1,bushoujia icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300078,0,0,0,0,0,0,ÃèÊö
+207,Consume;3,effect;4,trap entity,assetobject;1,de0323e7c86f33246bf2eef4b3e05fbd:100000,0,0,0,0,0,0,ÃèÊö
+207,Consume;3,effect;4;1,trap fire,assetobject;1,a33ef1b2d7ceebb46a204c0049f5d81a:100004,0,0,0,0,0,0,ÃèÊö
+208,Consume;3,icon;2;1,yuer icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300074,0,0,0,0,0,0,ÃèÊö
+209,Consume;3,icon;2;1,qiuying icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300070,0,0,0,0,0,0,ÃèÊö
+210,Consume;3,icon;2;1,maomao icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300002,0,0,0,0,0,0,ÃèÊö
+211,Consume;3,icon;2;1,juji icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300056,0,0,0,0,0,0,ÃèÊö
+301,Consume;3,icon;2;1,car icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300046,0,0,0,0,0,0,ÃèÊö
+1000,Consume;3,icon;2;1,material1 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,ÃèÊö
+1001,Consume;3,mesh;1;1,material2 mesh,assetobject;1,d0c3d2014156b31478a0e1afde30f1c7:100000,0,0,0,0,0,0,ÃèÊö
+1001,Consume;3,icon;2;1,material2 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300010,0,0,0,0,0,0,ÃèÊö
+1002,Consume;3,icon;2;1,material3 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300012,0,0,0,0,0,0,ÃèÊö
+1003,Consume;3,icon;2;1,material4 sp,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300068,0,0,0,0,0,0,ÃèÊö
+1004,Consume;3,icon;2;1,material5 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,ÃèÊö
+1005,Consume;3,icon;2;1,material6 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,ÃèÊö
+1006,Consume;3,icon;2;1,material7 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,ÃèÊö
+1007,Consume;3,icon;2;1,material8 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,ÃèÊö
+1008,Consume;3,icon;2;1,material9 sp,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300096,0,0,0,0,0,0,ÃèÊö
+0,monster;5,mesh;1,basemonster mesh,assetobject;1,cc40e8d377d2835469ae31efa3cc0f5c:197910,0,0,0,0,0,0,ÃèÊö
+1000,monster;5,skin;2;1,m1000 skin,assetobject;1,c9d763f339ced4f4bba37cad458124e5:2100000,0,0,0,0,0,0,ÃèÊö
+1001,monster;5,skin;2;1,m1001 skin,assetobject;1,bfa1aaed27bc995418f9b21096a255bc:2100000,0,0,0,0,0,0,ÃèÊö
+1002,monster;5,skin;2;1,m1002 skin,assetobject;1,2e79dbe9d6090f544a40d2803d64facd:2100000,0,0,0,0,0,0,ÃèÊö
+1003,monster;5,skin;2;1,m1003 skin,assetobject;1,1067063f2ba7a274fa567df78f37f463:2100000,0,0,0,0,0,0,ÃèÊö
+1004,monster;5,skin;2;1,m1004 skin,assetobject;1,a88806c1373441e4e961d91e63de6f24:2100000,0,0,0,0,0,0,ÃèÊö
+1005,monster;5,skin;2;1,m1005 skin,assetobject;1,55df0cddfa58b244b9823f52ee0df438:2100000,0,0,0,0,0,0,ÃèÊö
+1006,monster;5,skin;2;1,m1006 skin,assetobject;1,981a8d56a840b1942967b5d1bc533ab0:2100000,0,0,0,0,0,0,ÃèÊö
+1007,monster;5,skin;2;1,m1007 skin,assetobject;1,91a84d32c6e3a10409b57f7e0b3dc61e:2100000,0,0,0,0,0,0,ÃèÊö
+1008,monster;5,skin;2;1,m1008 skin,assetobject;1,239dea8c56b7a46418789547b9267be7:2100000,0,0,0,0,0,0,ÃèÊö
+1009,monster;5,skin;2;1,m1009 skin,assetobject;1,8da7c9b52d487164e8611a8c5f59fa9a:2100000,0,0,0,0,0,0,ÃèÊö
+1010,monster;5,skin;2;1,m1010 skin,assetobject;1,f9998dae7a74eee489764d2733d4a785:2100000,0,0,0,0,0,0,ÃèÊö
+1011,monster;5,skin;2;1,m1011 skin,assetobject;1,08f6793f0fc9d2040a16151b610b649c:2100000,0,0,0,0,0,0,ÃèÊö
+1012,monster;5,skin;2;1,m1012 skin,assetobject;1,d17b4bbcc9e3cdd43978fe8e74dd5ba7:2100000,0,0,0,0,0,0,ÃèÊö
+1013,monster;5,skin;2;1,m1013 skin,assetobject;1,48c05a64b9723234a85c172062646ab8:2100000,0,0,0,0,0,0,ÃèÊö
+2000,monster;5,skin;2;1,m2000 skin,assetobject;1,a8d5ecb8f5247d14b8f9de0b9f7284af:2100000,0,0,0,0,0,0,ÃèÊö
+2001,monster;5,skin;2;1,m2001 skin,assetobject;1,3897d3fdcbbd27144b944439504219cb:2100000,0,0,0,0,0,0,ÃèÊö
+2002,monster;5,skin;2;1,m2002 skin,assetobject;1,2948d8d2a273f0e41a7214c06f7913ad:2100000,0,0,0,0,0,0,ÃèÊö
+2003,monster;5,skin;2;1,m2003 skin,assetobject;1,da955d6362e85b0449ef23e36ab9fc73:2100000,0,0,0,0,0,0,ÃèÊö
+2004,monster;5,skin;2;1,m2004 skin,assetobject;1,bfa1aaed27bc995418f9b21096a255bc:2100000,0,0,0,0,0,0,ÃèÊö
+2005,monster;5,skin;2;1,m2005 skin,assetobject;1,f9244b6a40935194a80f1134a7e8ae63:2100000,0,0,0,0,0,0,ÃèÊö
+2006,monster;5,skin;2;1,m2006 skin,assetobject;1,2e79dbe9d6090f544a40d2803d64facd:2100000,0,0,0,0,0,0,ÃèÊö
+2007,monster;5,skin;2;1,m2007 skin,assetobject;1,1568de6a45e854f47a4b859d52b1f6af:2100000,0,0,0,0,0,0,ÃèÊö
+2008,monster;5,skin;2;1,m2008 skin,assetobject;1,87a555cd5a7c9c24c8a8fc39f787f89d:2100000,0,0,0,0,0,0,ÃèÊö
+2009,monster;5,skin;2;1,m2009 skin,assetobject;1,d17b4bbcc9e3cdd43978fe8e74dd5ba7:2100000,0,0,0,0,0,0,ÃèÊö
+2010,monster;5,skin;2;1,m2010 skin,assetobject;1,f16469659146b8b458232432f6531249:2100000,0,0,0,0,0,0,ÃèÊö
+2011,monster;5,skin;2;1,m2011 skin,assetobject;1,1067063f2ba7a274fa567df78f37f463:2100000,0,0,0,0,0,0,ÃèÊö
+2012,monster;5,skin;2;1,m2012 skin,assetobject;1,ed19c3a8580a36c4c9b30237516e33a9:2100000,0,0,0,0,0,0,ÃèÊö
+2013,monster;5,skin;2;1,m2013 skin,assetobject;1,91a84d32c6e3a10409b57f7e0b3dc61e:2100000,0,0,0,0,0,0,ÃèÊö
+2014,monster;5,skin;2;1,m2014 skin,assetobject;1,239dea8c56b7a46418789547b9267be7:2100000,0,0,0,0,0,0,ÃèÊö
+2015,monster;5,skin;2;1,m2015 skin,assetobject;1,f9998dae7a74eee489764d2733d4a785:2100000,0,0,0,0,0,0,ÃèÊö
+2016,monster;5,skin;2;1,m2016 skin,assetobject;1,08f6793f0fc9d2040a16151b610b649c:2100000,0,0,0,0,0,0,ÃèÊö
+2017,monster;5,skin;2;1,m2017 skin,assetobject;1,74aeca62d22b13c4da6480547856a9de:2100000,0,0,0,0,0,0,ÃèÊö
+2018,monster;5,skin;2;1,m2018 skin,assetobject;1,48c05a64b9723234a85c172062646ab8:2100000,0,0,0,0,0,0,ÃèÊö
+2019,monster;5,skin;2;1,m2019 skin,assetobject;1,8da7c9b52d487164e8611a8c5f59fa9a:2100000,0,0,0,0,0,0,ÃèÊö
+2020,monster;5,skin;2;1,m2020 skin,assetobject;1,df48552a8a321d840bda0aad6741e440:2100000,0,0,0,0,0,0,ÃèÊö
+2021,monster;5,skin;2;1,m2021 skin,assetobject;1,78f76e19b3bb70c49972c0c9291b8e74:2100000,0,0,0,0,0,0,ÃèÊö
+2022,monster;5,skin;2;1,m2022 skin,assetobject;1,2cdf849c3a08ac14680edf69ffe0c59e:2100000,0,0,0,0,0,0,ÃèÊö
+2023,monster;5,skin;2;1,m2023 skin,assetobject;1,0c98ab4bd0a9fef48804cedcda4e6948:2100000,0,0,0,0,0,0,ÃèÊö
+2024,monster;5,skin;2;1,m2024 skin,assetobject;1,767d1de62475d0f4bb0e51102aa05799:2100000,0,0,0,0,0,0,ÃèÊö
+2025,monster;5,skin;2;1,m2025 skin,assetobject;1,aa10794e4ff618249b7816ef2d2cbf5b:2100000,0,0,0,0,0,0,ÃèÊö
+2026,monster;5,skin;2;1,m2026 skin,assetobject;1,dacdf47c885e2054cac30317a83ed0fd:2100000,0,0,0,0,0,0,ÃèÊö
+2027,monster;5,skin;2;1,m2027 skin,assetobject;1,6fd0bf9d81168a34d99f47a05aea40eb:2100000,0,0,0,0,0,0,ÃèÊö
+3000,monster;5,skin;2;1,m3000 skin,assetobject;1,a8d5ecb8f5247d14b8f9de0b9f7284af:2100000,0,0,0,0,0,0,ÃèÊö
+3001,monster;5,skin;2;1,m3001 skin,assetobject;1,3897d3fdcbbd27144b944439504219cb:2100000,0,0,0,0,0,0,ÃèÊö
+3002,monster;5,skin;2;1,m3002 skin,assetobject;1,2948d8d2a273f0e41a7214c06f7913ad:2100000,0,0,0,0,0,0,ÃèÊö
+3003,monster;5,skin;2;1,m3003 skin,assetobject;1,da955d6362e85b0449ef23e36ab9fc73:2100000,0,0,0,0,0,0,ÃèÊö
+3004,monster;5,skin;2;1,m3004 skin,assetobject;1,bfa1aaed27bc995418f9b21096a255bc:2100000,0,0,0,0,0,0,ÃèÊö
+3005,monster;5,skin;2;1,m3005 skin,assetobject;1,f9244b6a40935194a80f1134a7e8ae63:2100000,0,0,0,0,0,0,ÃèÊö
+3006,monster;5,skin;2;1,m3006 skin,assetobject;1,2e79dbe9d6090f544a40d2803d64facd:2100000,0,0,0,0,0,0,ÃèÊö
+3007,monster;5,skin;2;1,m3007 skin,assetobject;1,1568de6a45e854f47a4b859d52b1f6af:2100000,0,0,0,0,0,0,ÃèÊö
+3008,monster;5,skin;2;1,m3008 skin,assetobject;1,87a555cd5a7c9c24c8a8fc39f787f89d:2100000,0,0,0,0,0,0,ÃèÊö
+3009,monster;5,skin;2;1,m3009 skin,assetobject;1,d17b4bbcc9e3cdd43978fe8e74dd5ba7:2100000,0,0,0,0,0,0,ÃèÊö
+3010,monster;5,skin;2;1,m3010 skin,assetobject;1,f16469659146b8b458232432f6531249:2100000,0,0,0,0,0,0,ÃèÊö
+3011,monster;5,skin;2;1,m3011 skin,assetobject;1,1067063f2ba7a274fa567df78f37f463:2100000,0,0,0,0,0,0,ÃèÊö
+3012,monster;5,skin;2;1,m3012 skin,assetobject;1,ed19c3a8580a36c4c9b30237516e33a9:2100000,0,0,0,0,0,0,ÃèÊö
+3013,monster;5,skin;2;1,m3013 skin,assetobject;1,91a84d32c6e3a10409b57f7e0b3dc61e:2100000,0,0,0,0,0,0,ÃèÊö
+3014,monster;5,skin;2;1,m3014 skin,assetobject;1,239dea8c56b7a46418789547b9267be7:2100000,0,0,0,0,0,0,ÃèÊö
+3015,monster;5,skin;2;1,m3015 skin,assetobject;1,f9998dae7a74eee489764d2733d4a785:2100000,0,0,0,0,0,0,ÃèÊö
+3016,monster;5,skin;2;1,m3016 skin,assetobject;1,08f6793f0fc9d2040a16151b610b649c:2100000,0,0,0,0,0,0,ÃèÊö
+3017,monster;5,skin;2;1,m3017 skin,assetobject;1,74aeca62d22b13c4da6480547856a9de:2100000,0,0,0,0,0,0,ÃèÊö
+3018,monster;5,skin;2;1,m3018 skin,assetobject;1,48c05a64b9723234a85c172062646ab8:2100000,0,0,0,0,0,0,ÃèÊö
+3019,monster;5,skin;2;1,m3019 skin,assetobject;1,8da7c9b52d487164e8611a8c5f59fa9a:2100000,0,0,0,0,0,0,ÃèÊö
+3020,monster;5,skin;2;1,m3020 skin,assetobject;1,df48552a8a321d840bda0aad6741e440:2100000,0,0,0,0,0,0,ÃèÊö
+3021,monster;5,skin;2;1,m3021 skin,assetobject;1,78f76e19b3bb70c49972c0c9291b8e74:2100000,0,0,0,0,0,0,ÃèÊö
+3022,monster;5,skin;2;1,m3022 skin,assetobject;1,2cdf849c3a08ac14680edf69ffe0c59e:2100000,0,0,0,0,0,0,ÃèÊö
+3023,monster;5,skin;2;1,m3023 skin,assetobject;1,0c98ab4bd0a9fef48804cedcda4e6948:2100000,0,0,0,0,0,0,ÃèÊö
+3024,monster;5,skin;2;1,m3024 skin,assetobject;1,767d1de62475d0f4bb0e51102aa05799:2100000,0,0,0,0,0,0,ÃèÊö
+3025,monster;5,skin;2;1,m3025 skin,assetobject;1,aa10794e4ff618249b7816ef2d2cbf5b:2100000,0,0,0,0,0,0,ÃèÊö
+3026,monster;5,skin;2;1,m3026 skin,assetobject;1,dacdf47c885e2054cac30317a83ed0fd:2100000,0,0,0,0,0,0,ÃèÊö
+3027,monster;5,skin;2;1,m3027 skin,assetobject;1,6fd0bf9d81168a34d99f47a05aea40eb:2100000,0,0,0,0,0,0,ÃèÊö
+3028,monster;5,skin;2;1,m3028 skin,assetobject;1,e125a0551672a854abf4a6e334396c0c:2100000,0,0,0,0,0,0,ÃèÊö
+3029,monster;5,skin;2;1,m3029 skin,assetobject;1,eb3ad557c9dd1b14784017ab457ff4a0:2100000,0,0,0,0,0,0,ÃèÊö
+3030,monster;5,skin;2;1,m3030 skin,assetobject;1,00aacee9d8ffae84fb62d448f4bc824e:2100000,0,0,0,0,0,0,ÃèÊö
+3031,monster;5,skin;2;1,m3031 skin,assetobject;1,92621d7f0b05fc448b9f6aba82d7f7fa:2100000,0,0,0,0,0,0,ÃèÊö
+3032,monster;5,skin;2;1,m3032 skin,assetobject;1,a231cc5587d4fa0418b2ddde5541aa7e:2100000,0,0,0,0,0,0,ÃèÊö
+3033,monster;5,skin;2;1,m3033 skin,assetobject;1,0dbc4d9862cb8ff44973598e512cf4e4:2100000,0,0,0,0,0,0,ÃèÊö
+3034,monster;5,skin;2;1,m3034 skin,assetobject;1,0ddea791457ce8e47ad3234e3b5a4fba:2100000,0,0,0,0,0,0,ÃèÊö
+3035,monster;5,skin;2;1,m3035 skin,assetobject;1,a88806c1373441e4e961d91e63de6f24:2100000,0,0,0,0,0,0,ÃèÊö
+3036,monster;5,skin;2;1,m3036 skin,assetobject;1,55df0cddfa58b244b9823f52ee0df438:2100000,0,0,0,0,0,0,ÃèÊö
+3037,monster;5,skin;2;1,m3037 skin,assetobject;1,981a8d56a840b1942967b5d1bc533ab0:2100000,0,0,0,0,0,0,ÃèÊö
+3038,monster;5,skin;2;1,m3038 skin,assetobject;1,3c4992bb675325b41a5d25a048efa322:2100000,0,0,0,0,0,0,ÃèÊö
+3039,monster;5,skin;2;1,m3039 skin,assetobject;1,d21beb032f35c924aa68a2f2f75d1ef7:2100000,0,0,0,0,0,0,ÃèÊö
+3040,monster;5,skin;2;1,m3040 skin,assetobject;1,ff0cd7aeac6e12f418cf1dc3c801fab3:2100000,0,0,0,0,0,0,ÃèÊö
+3041,monster;5,skin;2;1,m3041 skin,assetobject;1,a437b1744c7233a4a9bf85d810677a1c:2100000,0,0,0,0,0,0,ÃèÊö
+3042,monster;5,skin;2;1,m3042 skin,assetobject;1,5ef81d7a4b373994b990abf00e95104d:2100000,0,0,0,0,0,0,ÃèÊö
+3043,monster;5,skin;2;1,m3043 skin,assetobject;1,e208072a603a3354cae2ad671e8599d5:2100000,0,0,0,0,0,0,ÃèÊö
+3044,monster;5,skin;2;1,m3044 skin,assetobject;1,7a2b87cf585f9c84fb1c7a0e68908232:2100000,0,0,0,0,0,0,ÃèÊö
+4000,monster;5,skin;2;1,m4000 skin,assetobject;1,ebba2444c42742a4d8409550da0be484:2100000,0,0,0,0,0,0,ÃèÊö
+4001,monster;5,skin;2;1,m4001 skin,assetobject;1,97189593b464da04993d25b07c9dc011:2100000,0,0,0,0,0,0,ÃèÊö
+4002,monster;5,skin;2;1,m4002 skin,assetobject;1,da955d6362e85b0449ef23e36ab9fc73:2100000,0,0,0,0,0,0,ÃèÊö
+4003,monster;5,skin;2;1,m4003 skin,assetobject;1,75097af0e253fa54a9d51ef967bb3197:2100000,0,0,0,0,0,0,ÃèÊö
+4004,monster;5,skin;2;1,m4004 skin,assetobject;1,81fa00465ea8d7244a8dd8995aa96fa8:2100000,0,0,0,0,0,0,ÃèÊö
+4005,monster;5,skin;2;1,m4005 skin,assetobject;1,bfca5bdf4c45408459dea4513e21bcce:2100000,0,0,0,0,0,0,ÃèÊö
+4006,monster;5,skin;2;1,m4006 skin,assetobject;1,e0ab88b1cb4b7a14985d388cf20736b0:2100000,0,0,0,0,0,0,ÃèÊö
+4007,monster;5,skin;2;1,m4007 skin,assetobject;1,6adc1ee0c475600448c50dd49a213056:2100000,0,0,0,0,0,0,ÃèÊö
+4008,monster;5,skin;2;1,m4008 skin,assetobject;1,1c6dd3dcf311fbd42904690ddbed3891:2100000,0,0,0,0,0,0,ÃèÊö
+4009,monster;5,skin;2;1,m4009 skin,assetobject;1,54cbfbb4bd5d0254a9a584d2f09d4d78:2100000,0,0,0,0,0,0,ÃèÊö
+4010,monster;5,skin;2;1,m4010 skin,assetobject;1,e14ce8fdb73d912408b99fa351dc58aa:2100000,0,0,0,0,0,0,ÃèÊö
+4011,monster;5,skin;2;1,m4011 skin,assetobject;1,f42d559405b46f242bd15816b0a6f8a4:2100000,0,0,0,0,0,0,ÃèÊö
+4012,monster;5,skin;2;1,m4012 skin,assetobject;1,44967caf29fec38468873f13c45af885:2100000,0,0,0,0,0,0,ÃèÊö
+4013,monster;5,skin;2;1,m4013 skin,assetobject;1,4bc708d14f05c584d960a58dcd98f2ed:2100000,0,0,0,0,0,0,ÃèÊö
+4014,monster;5,skin;2;1,m4014 skin,assetobject;1,9852f61080b2b724694b4c681d55ebd4:2100000,0,0,0,0,0,0,ÃèÊö
+4015,monster;5,skin;2;1,m4015 skin,assetobject;1,a8dc2083959031247972c81035273ba5:2100000,0,0,0,0,0,0,ÃèÊö
+4016,monster;5,skin;2;1,m4016 skin,assetobject;1,c06e072ecac5b194387173bf0031a0d4:2100000,0,0,0,0,0,0,ÃèÊö
+4017,monster;5,skin;2;1,m4017 skin,assetobject;1,b69f40974ad5c704887ee22703cebb71:2100000,0,0,0,0,0,0,ÃèÊö
+4018,monster;5,skin;2;1,m4018 skin,assetobject;1,e8c96e596424c9348b13a8b1216456d2:2100000,0,0,0,0,0,0,ÃèÊö
+4019,monster;5,skin;2;1,m4019 skin,assetobject;1,f9063b12d4f2d764583aab036922a61b:2100000,0,0,0,0,0,0,ÃèÊö
+4020,monster;5,skin;2;1,m4020 skin,assetobject;1,3fb6bf5fc8e1e254da0245977bafc1dd:2100000,0,0,0,0,0,0,ÃèÊö
+4021,monster;5,skin;2;1,m4021 skin,assetobject;1,1910a78af4f1d7e468271943bcc23100:2100000,0,0,0,0,0,0,ÃèÊö
+4022,monster;5,skin;2;1,m4022 skin,assetobject;1,225eaf11cc3eb0949b287d7842612cd5:2100000,0,0,0,0,0,0,ÃèÊö
+4023,monster;5,skin;2;1,m4023 skin,assetobject;1,9666da1026682034fbf6fb7c650879b5:2100000,0,0,0,0,0,0,ÃèÊö
+4024,monster;5,skin;2;1,m4024 skin,assetobject;1,1e31390b161cc024cbcdccd114fc8dfe:2100000,0,0,0,0,0,0,ÃèÊö
+4025,monster;5,skin;2;1,m4025 skin,assetobject;1,8468c91cc3d55df4281ff97a20386ecb:2100000,0,0,0,0,0,0,ÃèÊö
+4026,monster;5,skin;2;1,m4026 skin,assetobject;1,8f02a4fa4f0d16d4b896e827f367c8a1:2100000,0,0,0,0,0,0,ÃèÊö
+4027,monster;5,skin;2;1,m4027 skin,assetobject;1,8872d30719368e042a3f2deac94c0a20:2100000,0,0,0,0,0,0,ÃèÊö
+5000,monster;5,skin;2;1,m5000 skin,assetobject;1,d2f3da30f2ad05f4fbc260e255739902:2100000,0,0,0,0,0,0,ÃèÊö
+5001,monster;5,skin;2;1,m5001 skin,assetobject;1,2190ee1187c60c849a625beed37c9429:2100000,0,0,0,0,0,0,ÃèÊö
+5002,monster;5,skin;2;1,m5002 skin,assetobject;1,2d024515bdbf57a46b1e7e8750a04e17:2100000,0,0,0,0,0,0,ÃèÊö
+5003,monster;5,skin;2;1,m5003 skin,assetobject;1,757b973d497508e43a633422518b79ea:2100000,0,0,0,0,0,0,ÃèÊö
+5004,monster;5,skin;2;1,m5004 skin,assetobject;1,566a349e2fa731b429203cda419aa11c:2100000,0,0,0,0,0,0,ÃèÊö
+5005,monster;5,skin;2;1,m5005 skin,assetobject;1,f42d559405b46f242bd15816b0a6f8a4:2100000,0,0,0,0,0,0,ÃèÊö
+5006,monster;5,skin;2;1,m5006 skin,assetobject;1,44967caf29fec38468873f13c45af885:2100000,0,0,0,0,0,0,ÃèÊö
+5007,monster;5,skin;2;1,m5007 skin,assetobject;1,4bc708d14f05c584d960a58dcd98f2ed:2100000,0,0,0,0,0,0,ÃèÊö
+5008,monster;5,skin;2;1,m5008 skin,assetobject;1,a4f9c02d6f0f5944080ceb8629057bda:2100000,0,0,0,0,0,0,ÃèÊö
+5009,monster;5,skin;2;1,m5009 skin,assetobject;1,4d8ecc7d5d9fa5542ace8bce52adfceb:2100000,0,0,0,0,0,0,ÃèÊö
+5010,monster;5,skin;2;1,m5010 skin,assetobject;1,45df2fa7ca683bf4ba97e79391ae3113:2100000,0,0,0,0,0,0,ÃèÊö
+5011,monster;5,skin;2;1,m5011 skin,assetobject;1,cfbee2de75c2b514ba0234192b88822a:2100000,0,0,0,0,0,0,ÃèÊö
+5012,monster;5,skin;2;1,m5012 skin,assetobject;1,0e80f813c67d6d045acdca6d2675ef1c:2100000,0,0,0,0,0,0,ÃèÊö
+5013,monster;5,skin;2;1,m5013 skin,assetobject;1,5d56d9f784e265c4b96665062714ef5d:2100000,0,0,0,0,0,0,ÃèÊö
+5014,monster;5,skin;2;1,m5014 skin,assetobject;1,3e9983319c5a93547bc8d3bb7ac1cfab:2100000,0,0,0,0,0,0,ÃèÊö
+5015,monster;5,skin;2;1,m5015 skin,assetobject;1,a567f040a2d1fcc48af79c7e401d8b3b:2100000,0,0,0,0,0,0,ÃèÊö
+5016,monster;5,skin;2;1,m5016 skin,assetobject;1,30a221706d7664e4da5a873df84f1c86:2100000,0,0,0,0,0,0,ÃèÊö
+5017,monster;5,skin;2;1,m5017 skin,assetobject;1,3ebb45d28d167554383e1eb01c416048:2100000,0,0,0,0,0,0,ÃèÊö
+5018,monster;5,skin;2;1,m5018 skin,assetobject;1,0ae1ac50aeb0e51459ffb01a229488b3:2100000,0,0,0,0,0,0,ÃèÊö
+5019,monster;5,skin;2;1,m5019 skin,assetobject;1,d37f0ee6d13590743a6f432135f4043d:2100000,0,0,0,0,0,0,ÃèÊö
+5020,monster;5,skin;2;1,m5020 skin,assetobject;1,484f2dd9aad639f489c73265ec27b15d:2100000,0,0,0,0,0,0,ÃèÊö
+5021,monster;5,skin;2;1,m5021 skin,assetobject;1,ce70b2b75aeccd8478d3a9319b969948:2100000,0,0,0,0,0,0,ÃèÊö
+5022,monster;5,skin;2;1,m5022 skin,assetobject;1,8fb27c4d583da6b42a3f1762b8ff9a8e:2100000,0,0,0,0,0,0,ÃèÊö
+5023,monster;5,skin;2;1,m5023 skin,assetobject;1,9c06a3c618cd7cd41bd4c1f8b9e862c6:2100000,0,0,0,0,0,0,ÃèÊö
+5024,monster;5,skin;2;1,m5024 skin,assetobject;1,9dcb593cb82b2be4f8e84077fc9eccb8:2100000,0,0,0,0,0,0,ÃèÊö
+5025,monster;5,skin;2;1,m5025 skin,assetobject;1,5d6d219959aeafb499f871c5e9bc7a1d:2100000,0,0,0,0,0,0,ÃèÊö
+5026,monster;5,skin;2;1,m5026 skin,assetobject;1,430581bf08d6cb5429262c4d99e3d456:2100000,0,0,0,0,0,0,ÃèÊö
+5027,monster;5,skin;2;1,m5027 skin,assetobject;1,5f3bc4889cba32c45903ffb20d4b3889:2100000,0,0,0,0,0,0,ÃèÊö
+5028,monster;5,skin;2;1,m5028 skin,assetobject;1,d96b70d0f9d7a5f4c9f0b7d11f802d71:2100000,0,0,0,0,0,0,ÃèÊö
+5029,monster;5,skin;2;1,m5029 skin,assetobject;1,9aae974e360cfc141bbe4232a4105fdf:2100000,0,0,0,0,0,0,ÃèÊö
+5030,monster;5,skin;2;1,m5030 skin,assetobject;1,f629689c4941e454a87826da5aa5c023:2100000,0,0,0,0,0,0,ÃèÊö
+5031,monster;5,skin;2;1,m5031 skin,assetobject;1,0d726e8a444177a4c9b0e78a1cf354f4:2100000,0,0,0,0,0,0,ÃèÊö
+5032,monster;5,skin;2;1,m5032 skin,assetobject;1,20fdfdd5c7fedbb45bdcb4ebeb45a14a:2100000,0,0,0,0,0,0,ÃèÊö
+5033,monster;5,skin;2;1,m5033 skin,assetobject;1,df627ae627fb60a4782a27b469a56507:2100000,0,0,0,0,0,0,ÃèÊö
+5034,monster;5,skin;2;1,m5034 skin,assetobject;1,a77799bc20f47ea4eb7e2984ad78e561:2100000,0,0,0,0,0,0,ÃèÊö
+5035,monster;5,skin;2;1,m5035 skin,assetobject;1,5e249a34536b5a242a4792c4911c7fc0:2100000,0,0,0,0,0,0,ÃèÊö
+5036,monster;5,skin;2;1,m5036 skin,assetobject;1,bea5fd8e33858eb49855f1dcf570d639:2100000,0,0,0,0,0,0,ÃèÊö
+5037,monster;5,skin;2;1,m5037 skin,assetobject;1,5fea27059086556459e1b5a0d829541a:2100000,0,0,0,0,0,0,ÃèÊö
+6000,monster;5,skin;2;1,m6000 skin,assetobject;1,d2f3da30f2ad05f4fbc260e255739902:2100000,0,0,0,0,0,0,ÃèÊö
+6001,monster;5,skin;2;1,m6001 skin,assetobject;1,2190ee1187c60c849a625beed37c9429:2100000,0,0,0,0,0,0,ÃèÊö
+6002,monster;5,skin;2;1,m6002 skin,assetobject;1,2d024515bdbf57a46b1e7e8750a04e17:2100000,0,0,0,0,0,0,ÃèÊö
+6003,monster;5,skin;2;1,m6003 skin,assetobject;1,757b973d497508e43a633422518b79ea:2100000,0,0,0,0,0,0,ÃèÊö
+6004,monster;5,skin;2;1,m6004 skin,assetobject;1,566a349e2fa731b429203cda419aa11c:2100000,0,0,0,0,0,0,ÃèÊö
+6005,monster;5,skin;2;1,m6005 skin,assetobject;1,f42d559405b46f242bd15816b0a6f8a4:2100000,0,0,0,0,0,0,ÃèÊö
+6006,monster;5,skin;2;1,m6006 skin,assetobject;1,44967caf29fec38468873f13c45af885:2100000,0,0,0,0,0,0,ÃèÊö
+6007,monster;5,skin;2;1,m6007 skin,assetobject;1,4bc708d14f05c584d960a58dcd98f2ed:2100000,0,0,0,0,0,0,ÃèÊö
+6008,monster;5,skin;2;1,m6008 skin,assetobject;1,a4f9c02d6f0f5944080ceb8629057bda:2100000,0,0,0,0,0,0,ÃèÊö
+6009,monster;5,skin;2;1,m6009 skin,assetobject;1,4d8ecc7d5d9fa5542ace8bce52adfceb:2100000,0,0,0,0,0,0,ÃèÊö
+6010,monster;5,skin;2;1,m6010 skin,assetobject;1,45df2fa7ca683bf4ba97e79391ae3113:2100000,0,0,0,0,0,0,ÃèÊö
+6011,monster;5,skin;2;1,m6011 skin,assetobject;1,cfbee2de75c2b514ba0234192b88822a:2100000,0,0,0,0,0,0,ÃèÊö
+6012,monster;5,skin;2;1,m6012 skin,assetobject;1,0e80f813c67d6d045acdca6d2675ef1c:2100000,0,0,0,0,0,0,ÃèÊö
+6013,monster;5,skin;2;1,m6013 skin,assetobject;1,5d56d9f784e265c4b96665062714ef5d:2100000,0,0,0,0,0,0,ÃèÊö
+6014,monster;5,skin;2;1,m6014 skin,assetobject;1,3e9983319c5a93547bc8d3bb7ac1cfab:2100000,0,0,0,0,0,0,ÃèÊö
+6015,monster;5,skin;2;1,m6015 skin,assetobject;1,a567f040a2d1fcc48af79c7e401d8b3b:2100000,0,0,0,0,0,0,ÃèÊö
+6016,monster;5,skin;2;1,m6016 skin,assetobject;1,30a221706d7664e4da5a873df84f1c86:2100000,0,0,0,0,0,0,ÃèÊö
+6017,monster;5,skin;2;1,m6017 skin,assetobject;1,3ebb45d28d167554383e1eb01c416048:2100000,0,0,0,0,0,0,ÃèÊö
+6018,monster;5,skin;2;1,m6018 skin,assetobject;1,0ae1ac50aeb0e51459ffb01a229488b3:2100000,0,0,0,0,0,0,ÃèÊö
+6019,monster;5,skin;2;1,m6019 skin,assetobject;1,d37f0ee6d13590743a6f432135f4043d:2100000,0,0,0,0,0,0,ÃèÊö
+6020,monster;5,skin;2;1,m6020 skin,assetobject;1,484f2dd9aad639f489c73265ec27b15d:2100000,0,0,0,0,0,0,ÃèÊö
+6021,monster;5,skin;2;1,m6021 skin,assetobject;1,ce70b2b75aeccd8478d3a9319b969948:2100000,0,0,0,0,0,0,ÃèÊö
+6022,monster;5,skin;2;1,m6022 skin,assetobject;1,8fb27c4d583da6b42a3f1762b8ff9a8e:2100000,0,0,0,0,0,0,ÃèÊö
+6023,monster;5,skin;2;1,m6023 skin,assetobject;1,9c06a3c618cd7cd41bd4c1f8b9e862c6:2100000,0,0,0,0,0,0,ÃèÊö
+6024,monster;5,skin;2;1,m6024 skin,assetobject;1,9dcb593cb82b2be4f8e84077fc9eccb8:2100000,0,0,0,0,0,0,ÃèÊö
+6025,monster;5,skin;2;1,m6025 skin,assetobject;1,5d6d219959aeafb499f871c5e9bc7a1d:2100000,0,0,0,0,0,0,ÃèÊö
+6026,monster;5,skin;2;1,m6026 skin,assetobject;1,430581bf08d6cb5429262c4d99e3d456:2100000,0,0,0,0,0,0,ÃèÊö
+6027,monster;5,skin;2;1,m6027 skin,assetobject;1,5f3bc4889cba32c45903ffb20d4b3889:2100000,0,0,0,0,0,0,ÃèÊö
+6028,monster;5,skin;2;1,m6028 skin,assetobject;1,d96b70d0f9d7a5f4c9f0b7d11f802d71:2100000,0,0,0,0,0,0,ÃèÊö
+6029,monster;5,skin;2;1,m6029 skin,assetobject;1,9aae974e360cfc141bbe4232a4105fdf:2100000,0,0,0,0,0,0,ÃèÊö
+6030,monster;5,skin;2;1,m6030 skin,assetobject;1,f629689c4941e454a87826da5aa5c023:2100000,0,0,0,0,0,0,ÃèÊö
+6031,monster;5,skin;2;1,m6031 skin,assetobject;1,0d726e8a444177a4c9b0e78a1cf354f4:2100000,0,0,0,0,0,0,ÃèÊö
+6032,monster;5,skin;2;1,m6032 skin,assetobject;1,20fdfdd5c7fedbb45bdcb4ebeb45a14a:2100000,0,0,0,0,0,0,ÃèÊö
+6033,monster;5,skin;2;1,m6033 skin,assetobject;1,df627ae627fb60a4782a27b469a56507:2100000,0,0,0,0,0,0,ÃèÊö
+6034,monster;5,skin;2;1,m6034 skin,assetobject;1,a77799bc20f47ea4eb7e2984ad78e561:2100000,0,0,0,0,0,0,ÃèÊö
+6035,monster;5,skin;2;1,m6035 skin,assetobject;1,5e249a34536b5a242a4792c4911c7fc0:2100000,0,0,0,0,0,0,ÃèÊö
+6036,monster;5,skin;2;1,m6036 skin,assetobject;1,bea5fd8e33858eb49855f1dcf570d639:2100000,0,0,0,0,0,0,ÃèÊö
+6037,monster;5,skin;2;1,m6037 skin,assetobject;1,5fea27059086556459e1b5a0d829541a:2100000,0,0,0,0,0,0,ÃèÊö
+7000,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
+7001,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
+7002,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
+7003,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
+7004,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
+7005,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
+7006,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
+7007,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
+7008,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
+7009,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
+16000,monster;5,skin;2;1,m16000 skin,assetobject;1,685775caee8e35d4599e5bcc06720029:2100000,0,0,0,0,0,0,ÃèÊö
+1,body;6,mesh;1,body1 mesh,assetobject;1,53d344e8499846d4aabd95ae6ab5c41f:170376,0,0,0,0,0,0,ÃèÊö
+1,collect;8,mesh;1;1,Vegetation1,assetobject;1,b9b76ac2965f20a4cb74b811bfbf250e:100000,0,0,0,0,0,0,ÃèÊö
+1,Jewelry;10,icon;2;1,jingji icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300012,0,0,0,0,0,0,ÃèÊö
+2,Jewelry;10,icon;2;1,lucky icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300020,0,0,0,0,0,0,ÃèÊö
+3,Jewelry;10,icon;2;1,redqiangwei icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300002,0,0,0,0,0,0,ÃèÊö
+4,Jewelry;10,icon;2;1,cross icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300014,0,0,0,0,0,0,ÃèÊö
+5,Jewelry;10,icon;2;1,ti bone icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300010,0,0,0,0,0,0,ÃèÊö
+6,Jewelry;10,icon;2;1,def strong icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300024,0,0,0,0,0,0,ÃèÊö
+7,Jewelry;10,icon;2;1,attack strong icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300028,0,0,0,0,0,0,ÃèÊö
+8,Jewelry;10,icon;2;1,life strong icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300026,0,0,0,0,0,0,ÃèÊö
+9,Jewelry;10,icon;2;1,def trans icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300030,0,0,0,0,0,0,ÃèÊö
+10,Jewelry;10,icon;2;1,attack trans icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300006,0,0,0,0,0,0,ÃèÊö
+11,Jewelry;10,icon;2;1,life trans icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300018,0,0,0,0,0,0,ÃèÊö
+12,Jewelry;10,icon;2;1,glass icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300008,0,0,0,0,0,0,ÃèÊö
+13,Jewelry;10,icon;2;1,face icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300022,0,0,0,0,0,0,ÃèÊö
+15,Jewelry;10,icon;2;1,mabiao icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300016,0,0,0,0,0,0,ÃèÊö
+16,Jewelry;10,icon;2;1,ti tui icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300032,0,0,0,0,0,0,ÃèÊö
+17,Jewelry;10,icon;2;1,heart icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300000,0,0,0,0,0,0,ÃèÊö
+100,Jewelry;10,icon;2;1,tigerfinger icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300034,0,0,0,0,0,0,ÃèÊö
+0,weapon;1,mesh;1,arms@empty,assetbundle;2,3e311a6101c82fd4cb492f541739d648,0,-2.5,0,0,0,0,¿ÕÊÖÄ£ĞÍ
+1,weapon;1,mesh;1,arms@woodknife,assetbundle;2,e1182555a26a17246990d66031533153,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
+1,weapon;1,mesh;1;1,woodKnife,assetbundle;2,62998a47e2643b046924123a44b43815,0,0,0,0,0,-90,ÄÃØ°Ê×½ÇÉ«
+1,weapon;1;2,mesh;1;2,knife_1,assetbundle;2,ccc60bd8260cab74690469e801f6df73,0.053,0,0,0,0,90,ÄÃØ°Ê×½ÇÉ«
+2,weapon;1,mesh;1,arms@knife01,assetbundle;2,4cfeb8d7d7ddf154594740c68f9caeb8,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
+2,weapon;1,mesh;1;1,knife_1,assetbundle;2,ccc60bd8260cab74690469e801f6df73,0,0,0,0,0,-90,ÄÃØ°Ê×½ÇÉ«
+3,weapon;1,mesh;1,arms@ButcherKnife,assetbundle;2,430f28687500dab478260469cef0f06f,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
+3,weapon;1,mesh;1;1,ButcherKnife,assetbundle;2,de1c46e50da246f4abf9fb1723af5647,0,0,0,0,0,-90,ÄÃØ°Ê×½ÇÉ«
+4,weapon;1,mesh;1,arms@windstick_1,assetbundle;2,31d0fd70c312a9c4cb63d0895bf0b910,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
+4,weapon;1,mesh;1;1,Projectiles01,assetbundle;2,166d41e076d83d84a85f9aa7e87596a3,0,0,0,0,0,0,ÄÃØ°Ê×½ÇÉ«
+6,weapon;1,mesh;1,arms@Boomerang,assetbundle;2,920d2f34a94cfe440a11dbaeecbba387,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
+7,weapon;1,mesh;1,arms@wrench01,assetbundle;2,01bd3f05e5c400c46a4b39db50d0d32f,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
+7,weapon;1,mesh;1;1,wrench_1,assetbundle;2,c57f24a43bbcb5d48b3911f463d6a526,0,0,0,0,0,-90,ÄÃØ°Ê×½ÇÉ«
+8,weapon;1,mesh;1,arms@handaxe,assetbundle;2,d47759da336b1834ca4cf2a22d53735a,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
+8,weapon;1,mesh;1;1,Handaxe,assetbundle;2,55802a5c4cb41c84f8a19a120f43f1e7,0,0,0,0,0,0,ÄÃØ°Ê×½ÇÉ«
+9,weapon;1,mesh;1,arms@saw,assetbundle;2,8222bf5bd6fd70d43b389cad8661196a,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
+9,weapon;1,mesh;1;1,saw,assetbundle;2,3be09d9d5fb59144d86e1709efc0f862,0,0,0,0,0,-90,ÄÃØ°Ê×½ÇÉ«
+10,weapon;1,mesh;1,arms@chainsaw,assetbundle;2,025596a3e7e2def41841529a763f53fc,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
+10,weapon;1,mesh;1;1,chainsaw_1,assetbundle;2,5c83087219753f34190ee98b9d3365c5,0,0,0,0,0,-90,ÄÃØ°Ê×½ÇÉ«
+11,weapon;1,mesh;1,arms@hammer01,assetbundle;2,80e642e6958826a4d8d966c81ed68564,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
+11,weapon;1,mesh;1;1,Hammer,assetbundle;2,2424838c85c5f664a85d9243e5b6569f,0,0,0,0,0,-90,ÄÃØ°Ê×½ÇÉ«
+12,weapon;1,mesh;1,arms@sledgehammer01,assetbundle;2,b16553fa5c013cc45b1701d9f09eb732,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
+12,weapon;1,mesh;1;1,sledge_hammer_2,assetbundle;2,7f637a59525cc5d4088eb2ce800df23a,0,0,0,0,0,-90,ÄÃØ°Ê×½ÇÉ«
+13,weapon;1,mesh;1,arms@woodPipe,assetbundle;2,a9ec4958a11869945bbf357955c9400a,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
+13,weapon;1,mesh;1;1,woodStick,assetbundle;2,1eb449a63ad101d4883cd0413b478544,0,0,0,0,0,-90,ÄÃØ°Ê×½ÇÉ«
+14,weapon;1,mesh;1,arms@ironPipe,assetbundle;2,ceba7afcb020bb741a7c058736ade8e7,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
+14,weapon;1,mesh;1;1,ironPipe,assetbundle;2,08e13add95da1804fa8798f4f0c9c535,0,0,0,0,0,-90,ÄÃØ°Ê×½ÇÉ«
+16,weapon;1,mesh;1,arms@LongBow,assetbundle;2,a5f7bec1d05279b44bb4f8a7162362d8,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
+16,weapon;1,mesh;1;1,Bow,assetbundle;2,85aedf7cd2cbc5241b69c54a17155d0a,0,0,0,0,0,-90,ÄÃØ°Ê×½ÇÉ«
+23,weapon;1,mesh;1,arms@Pistol,assetbundle;2,80d221c80283c05439416d885894690b,-0.1,-0.4,-0.5,5,0,0,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
+23,weapon;1,mesh;1;1,Pistol,assetbundle;2,2b977819a12ceba4587431bfcf95320b,0,0,0,0,0,-90,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
+23,weapon;1,mesh;1;2,handgun_1,assetbundle;2,fd8bf623410b8dc44bbaa7dcee6cab94,0.118,0,0.062,0,90,90,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
+24,weapon;1,mesh;1,arms@GLOCK20,assetbundle;2,13c4b42ee3fde8048a328bf53fa7dce0,-0.1,-0.25,-0.5,5,0,0,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
+24,weapon;1,mesh;1;1,GLOCK20,assetbundle;2,ad8185acf3cabd64d969c372e889ddc0,0,0,0,0,0,-90,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
+25,weapon;1,mesh;1,arms@p228,assetbundle;2,1f7fc0b822438ca4fba2612ac9bf58a6,-0.1,-0.25,-0.5,5,0,0,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
+25,weapon;1,mesh;1;1,p228,assetbundle;2,6029e4f1fe1e3314092cdeddd2d721bc,0,0,0,0,0,-90,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
+26,weapon;1,mesh;1,arms@BerettaElite,assetbundle;2,ac7e875ed4565b447bc3f0a64d72901d,-0.1,-0.25,-0.5,5,0,0,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
+26,weapon;1,mesh;1;1,BerettaElite,assetbundle;2,a52513fb72a556745b4608f7fcc65b17,0,0,0,0,0,-90,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
+27,weapon;1,mesh;1,arms@DesertEagle,assetbundle;2,e40242870678db549966520723aa7f30,-0.1,-0.25,-0.5,5,0,0,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
+27,weapon;1,mesh;1;1,DesertEagle,assetbundle;2,bef1aef8eaf0f624c85535e4e7ac732c,0,0,0,0,0,-90,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
+28,weapon;1,mesh;1,arms@sniper1,assetbundle;2,79a8cf4677fd3e845a113e75aa8e0bd4,0,-0.3,-0.1,5,0,0,²½Ç¹½ÇÉ«Ä£ĞÍ
+28,weapon;1,mesh;1;1,ThumperGrenadeLauncher,assetbundle;2,2768fcbe8d39e2c4a9283c2a347e2293,0,0,0,0,0,-90,²½Ç¹½ÇÉ«Ä£ĞÍ
+29,weapon;1,mesh;1,arms@AK47,assetbundle;2,45df29770d1f7a74eb2d41bba3fc1ffd,0.15,-0.4,-0.1,10,0,0,²½Ç¹½ÇÉ«Ä£ĞÍ
+29,weapon;1,mesh;1;1,AK47,assetbundle;2,b7c3fb2ee8032c2479bdd985ba86c546,0,0,0,0,0,-90,²½Ç¹½ÇÉ«Ä£ĞÍ
+29,weapon;1,mesh;1;2,assault_rifle_3,assetbundle;2,21c2e494ad0b7cc429fa6fac89fe9f5b,0.16,-0.002,0.114,0,90,90,²½Ç¹½ÇÉ«Ä£ĞÍ
+35,weapon;1,mesh;1,arms@baseball,assetbundle;2,150d8fcac87007641bfeca26b2370bc9,0,-0.5,-0.5,5,0,0,²½Ç¹½ÇÉ«Ä£ĞÍ
+35,weapon;1,mesh;1;1,baseball_bat_5,assetbundle;2,2cac3451c1815fa4480fa8f8f1303c60,0,0,0,0,0,-90,²½Ç¹½ÇÉ«Ä£ĞÍ
+36,weapon;1,mesh;1,arms@HockeyStick,assetbundle;2,36bc063f7735678408ed0abb29dd9bf8,0,-0.5,-0.5,5,0,0,²½Ç¹½ÇÉ«Ä£ĞÍ
+36,weapon;1,mesh;1;1,HockeyStick,assetbundle;2,4933e36edddafdf40a9d1f64db92b96c,0,0,0,0,0,-90,²½Ç¹½ÇÉ«Ä£ĞÍ
+37,weapon;1,mesh;1,arms@golfclub,assetbundle;2,95e778d4daf0fbf4f9205b80cd0dd5c7,0,-0.5,-0.5,5,0,0,²½Ç¹½ÇÉ«Ä£ĞÍ
+37,weapon;1,mesh;1;1,golf_club,assetbundle;2,a5df70b2e3b699f43a07a729261cef73,0.1,-0.3,-0.15,5,0,-90,²½Ç¹½ÇÉ«Ä£ĞÍ
+38,weapon;1,mesh;1,arms@Machete,assetbundle;2,23fe24e3a24be7d4e97ec791c2c619de,0,-0.5,-0.5,5,0,0,²½Ç¹½ÇÉ«Ä£ĞÍ
+38,weapon;1,mesh;1;1,SA_Wep_Machete,assetbundle;2,f84941fb9e08d73418a825a279fb6ef2,0,0,0,0,0,-90,²½Ç¹½ÇÉ«Ä£ĞÍ
+39,weapon;1,mesh;1,arms@policebaton,assetbundle;2,a5e91157c3225dc47b5af2e1360875a3,0,-0.5,-0.5,5,0,0,²½Ç¹½ÇÉ«Ä£ĞÍ
+39,weapon;1,mesh;1;1,police_baton,assetbundle;2,d539266b805c553439fdf61d30eb67b4,0,0,0,0,0,-90,²½Ç¹½ÇÉ«Ä£ĞÍ
+40,weapon;1,mesh;1,arms@pan,assetbundle;2,c332053aa8298c74b8ef7d01bdc5733d,0,-0.5,-0.5,5,0,0,²½Ç¹½ÇÉ«Ä£ĞÍ
+40,weapon;1,mesh;1;1,SA_Wep_Pan,assetbundle;2,401c4e004f3b397418c4a02b971c1ad9,0,0,0,0,0,-90,²½Ç¹½ÇÉ«Ä£ĞÍ
+41,weapon;1,mesh;1,arms@ToolSpade,assetbundle;2,35519e6befd36074a8ff523809e28f81,0,-0.5,-0.5,5,0,0,²½Ç¹½ÇÉ«Ä£ĞÍ
+41,weapon;1,mesh;1;1,ToolSpade,assetbundle;2,00252a8ddb9154d40b9c24845fe82abc,0,0,0,0,0,-90,²½Ç¹½ÇÉ«Ä£ĞÍ
+42,weapon;1,mesh;1,arms@ironPipe,assetbundle;2,ceba7afcb020bb741a7c058736ade8e7,0,-0.5,-0.5,5,0,0,²½Ç¹½ÇÉ«Ä£ĞÍ
+42,weapon;1,mesh;1;1,ironPipe,assetbundle;2,08e13add95da1804fa8798f4f0c9c535,0,0,0,0,0,-90,²½Ç¹½ÇÉ«Ä£ĞÍ
+43,weapon;1,mesh;1,arms@crowbar,assetbundle;2,06ab98832d1bbe947b5cf717d4882668,0,-0.5,-0.5,5,0,0,²½Ç¹½ÇÉ«Ä£ĞÍ
+43,weapon;1,mesh;1;1,crowbar_1,assetbundle;2,811e7d1ec8eb3a94c8b213badce00276,0,0,0,0,0,-90,²½Ç¹½ÇÉ«Ä£ĞÍ
+44,weapon;1,mesh;1,arms@Paddle,assetbundle;2,95b858ef295e2b24696db1237b62a114,0,-0.5,-0.5,5,0,0,²½Ç¹½ÇÉ«Ä£ĞÍ
+44,weapon;1,mesh;1;1,Paddle,assetbundle;2,998d2898b18abcf4fb0133d9efe794a3,0,0,0,0,0,-90,²½Ç¹½ÇÉ«Ä£ĞÍ
+45,weapon;1,mesh;1,arms@pitchfork01,assetbundle;2,4849f1472b79d4744984b4089a025956,0,-0.5,-0.5,5,0,0,²½Ç¹½ÇÉ«Ä£ĞÍ
+45,weapon;1,mesh;1;1,pitchfork,assetbundle;2,b061f5ff01925e3489835a2f91cd7bf5,0,0,0,0,0,-90,²½Ç¹½ÇÉ«Ä£ĞÍ
+47,weapon;1,mesh;1,arms@Pickaxe,assetbundle;2,275784a281b27b449aea90fcda29724b,0,-0.5,-0.5,0,0,0,²½Ç¹½ÇÉ«Ä£ĞÍ
+47,weapon;1,mesh;1;1,Pickaxe,assetbundle;2,95eb44b03b226d747acb9a9d0e287428,0,0,0,0,0,-90,²½Ç¹½ÇÉ«Ä£ĞÍ
+48,weapon;1,mesh;1,arms@Rake,assetbundle;2,743bfbb0c2ed44c4aad0ab52c719daec,0,-0.5,-0.5,0,0,0,²½Ç¹½ÇÉ«Ä£ĞÍ
+48,weapon;1,mesh;1;1,Rake,assetbundle;2,1e62a2ce3a7ac2840b2c1056e331bba2,0,0,0,0,0,-90,²½Ç¹½ÇÉ«Ä£ĞÍ
+51,weapon;1,mesh;1,arms@grenade,assetbundle;2,29082e1a9df46b245ae84790feb20ff5,0,-0.4,-0.5,5,0,0,ÊÖÀ×ĞÎÏó
+51,weapon;1,mesh;1;1,hand_grenade,assetbundle;2,df7492d5701ac1248a1447647d589866,0,0,0,0,0,0,µØÉÏÊÖÀ×
+54,weapon;1,mesh;1,arms@axe01,assetbundle;2,9b0c40832df5f8c4989524adb5b74462,0,-0.4,-0.5,5,0,0,ÊÖÀ×ĞÎÏó
+54,weapon;1,mesh;1;1,Fireaxe,assetbundle;2,efb75c1fdf3e11c44b1a4b47c0d6a725,0,0,0,0,0,-90,ÊÖÀ×ĞÎÏó
+57,weapon;1,mesh;1,arms@Nailgun,assetbundle;2,9a2951273e528fb408d05ea60e3f430e,-0.1,-0.4,-0.5,5,0,0,ÊÖÀ×ĞÎÏó
+57,weapon;1,mesh;1;1,Nailgun,assetbundle;2,84a7e62d9d9bb65489641e004af1ba4f,0,0,0,0,0,-90,ÊÖÀ×ĞÎÏó
+65,weapon;1,mesh;1,arms@FishingRod,assetbundle;2,62a9dfcd24058e34eb04abed409f6b05,-0.1,-0.5,-0.15,0,0,0,Óã¸ÍĞÎÏó
+65,weapon;1,mesh;1;1,FishingRod,assetbundle;2,288dfeac45a8f66489f5c062ed2c4314,0,0,0,0,0,0,Óã¸ÍĞÎÏó
+66,weapon;1,mesh;1,arms@Darts,assetbundle;2,bbddd9f4011416d489b7783153c6ca0d,-0.1,-0.4,-0.5,0,0,0,Óã¸ÍĞÎÏó
+66,weapon;1,mesh;1;1,Darts01,assetbundle;2,97f54610101152247948de743941a145,0,0,0,0,0,0,Óã¸ÍĞÎÏó
+67,weapon;1,mesh;1,arms@BrokenBottle,assetbundle;2,bd9bdeb0c04d79d4aadaa800fd891781,-0.1,-0.4,-0.5,0,0,0,Óã¸ÍĞÎÏó
+67,weapon;1,mesh;1;1,BrokenBottle,assetbundle;2,d38feaea1e79040469ad99d38dac514a,0,0,0,0,0,0,Óã¸ÍĞÎÏó
+69,weapon;1,mesh;1,arms@CriketBat,assetbundle;2,46fd8ee400aaac546a99def4f9943de1,0,-0.4,0,0,0,0,Óã¸ÍĞÎÏó
+69,weapon;1,mesh;1;1,CriketBat,assetbundle;2,63c1d9269aec18e47b752fe38f4b9dff,0,0,0,0,0,0,Óã¸ÍĞÎÏó
+71,weapon;1,mesh;1,arms@ColtAnaconda,assetbundle;2,33edd12ba30bbf44ba6a3b74f2145bf8,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+71,weapon;1,mesh;1;1,ColtAnaconda,assetbundle;2,2d12cdd3cb927874a8d45dc51334f999,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+72,weapon;1,mesh;1,arms@DetectiveRevolver,assetbundle;2,90378b1f2531cdf4db00ee67cff5d35f,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+72,weapon;1,mesh;1;1,DetectiveRevolver,assetbundle;2,0b9bbdfd3ab0d954998cfab4a50ef1c0,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+73,weapon;1,mesh;1,arms@PPK,assetbundle;2,75d0e5c473363794686859af1ea7f9b6,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+73,weapon;1,mesh;1;1,PPK,assetbundle;2,b1167b99c3fbfd84296065d659806225,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+74,weapon;1,mesh;1,arms@usp45,assetbundle;2,0f0083061d8ef114fab9e20eaa1f26c5,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+74,weapon;1,mesh;1;1,USP45,assetbundle;2,db3a721409393c944abdb3e8db6591f3,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+75,weapon;1,mesh;1,arms@AR15,assetbundle;2,e9e282cbe81b9ac40a4370aa5fba42da,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+75,weapon;1,mesh;1;1,AR15,assetbundle;2,17eacc6d2d0f50a4b80f86663310a071,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+76,weapon;1,mesh;1,arms@AUG,assetbundle;2,bcf1ef1f39f9a51448568f7e99b0728a,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+76,weapon;1,mesh;1;1,AUG,assetbundle;2,b3f830ebfa3c5e54f90b2047447796b1,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+77,weapon;1,mesh;1,arms@FAL,assetbundle;2,b85f4c76729c320418f68ddcc272bf39,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+77,weapon;1,mesh;1;1,FAL,assetbundle;2,e0d2f8d549b97d14c9587c2ede6c04a9,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+78,weapon;1,mesh;1,arms@G36C,assetbundle;2,1492545e33d78b948aa92bba0f9760e1,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+78,weapon;1,mesh;1;1,G36C,assetbundle;2,6cf8992f1a0c4f047b06d30b8744ca18,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+79,weapon;1,mesh;1,arms@M4A1,assetbundle;2,4b439c2b0619360469ef7cf7bc83a375,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+79,weapon;1,mesh;1;1,M4A1,assetbundle;2,f473a51e55044574da0acdeaee75854d,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+80,weapon;1,mesh;1,arms@M16,assetbundle;2,707d48ce55cc14d40b5b2b81bad40c9f,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+80,weapon;1,mesh;1;1,M16,assetbundle;2,4279614b7e6cd294aa8c92c3b181222b,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+81,weapon;1,mesh;1,arms@SCARL,assetbundle;2,5ddc1d98b44c9864eb0272b830af3ed2,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+81,weapon;1,mesh;1;1,SCARL,assetbundle;2,e2a73d15ae1aeae4fb674177abd8f2e2,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+82,weapon;1,mesh;1,arms@KSG,assetbundle;2,a79a18657990f074cacb8f67d8449dbc,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+82,weapon;1,mesh;1;1,KSG,assetbundle;2,8a5a0b02290a0d64ab3253ef450e393a,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+83,weapon;1,mesh;1,arms@sawnoff,assetbundle;2,6236038b6cc8ce946add8e6e2c90905d,0.1,-0.3,-0.4,5,0,0,Óã¸ÍĞÎÏó
+83,weapon;1,mesh;1;1,sawn_off_shotgun,assetbundle;2,18925afef2fff57439c79223c7b17e95,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+84,weapon;1,mesh;1,arms@shot_gun,assetbundle;2,2b9612136ab995c45af07ede4f20b875,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+84,weapon;1,mesh;1;1,shotgun,assetbundle;2,3e5ca7f426760b24ab6e8f32b6fa8129,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+85,weapon;1,mesh;1,arms@SPAS-12,assetbundle;2,66242374e4bf4e944aec2743156ad25a,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+85,weapon;1,mesh;1;1,SPAS-12,assetbundle;2,fb16985e98b94834088bb3cfc3f63c71,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+86,weapon;1,mesh;1,arms@XM1014,assetbundle;2,9de17596636761f4fb4350d25ef04f8f,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+86,weapon;1,mesh;1;1,XM1014,assetbundle;2,026497db8e116f94ba21ca19e8450605,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+87,weapon;1,mesh;1,arms@FMG-9,assetbundle;2,b0f6e2959c274124c81066517fdb1fa8,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+87,weapon;1,mesh;1;1,FMG-9,assetbundle;2,da35a107c0539f34eb7f7e49b8f2e6a6,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+88,weapon;1,mesh;1,arms@MP5,assetbundle;2,b37e0b6c6c4653b4cb637d67f02b46b1,0.15,-0.4,-0.1,10,0,0,Óã¸ÍĞÎÏó
+88,weapon;1,mesh;1;1,MP5,assetbundle;2,73e6779e81e7c154f948451db8a38e9b,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+89,weapon;1,mesh;1,arms@MP5SD,assetbundle;2,a5504fb2a0f785640bee9c37e1f68c4d,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+89,weapon;1,mesh;1;1,MP5SD,assetbundle;2,9adc85f0ddb3d5b4ab277197c63ace6b,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+90,weapon;1,mesh;1,arms@MP40,assetbundle;2,dd10325c4fe2c77498412218f731224c,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+90,weapon;1,mesh;1;1,MP40,assetbundle;2,c3d283dbf367f124c9d40e4423a59a9b,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+91,weapon;1,mesh;1,arms@TEC-9,assetbundle;2,1c89c8e63f81d4c41930cd66ab8f6d91,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+91,weapon;1,mesh;1;1,TEC-9,assetbundle;2,8ad4bd1c473f1d944b0eaea090b73e9f,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+92,weapon;1,mesh;1,arms@TommyGun,assetbundle;2,fd64de07b8184ab46894f7de8aae1552,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+92,weapon;1,mesh;1;1,TommyGun,assetbundle;2,3e82dfd72813d3c43a9f51b9e71fe047,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+93,weapon;1,mesh;1,arms@UMP9,assetbundle;2,2ec76ef80a302714f86b7aec8e19d618,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+93,weapon;1,mesh;1;1,UMP9,assetbundle;2,b7ad3422ac76b984f9474abb4f5cbb60,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+94,weapon;1,mesh;1,arms@UZI,assetbundle;2,e53b6753d15419d4b8bce7d9176ca7db,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+94,weapon;1,mesh;1;1,UZI,assetbundle;2,aa6cdb355b724474291dfeae84fa7d1a,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+95,weapon;1,mesh;1,arms@VZ61,assetbundle;2,1c86ca596c235794e84195b7cd5727f2,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+95,weapon;1,mesh;1;1,VZ61,assetbundle;2,46d55c525dc24a544bce7be57964d84c,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+96,weapon;1,mesh;1,arms@AWM,assetbundle;2,b6d48296f016ce148865b915cb4af9bb,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+96,weapon;1,mesh;1;1,AWM,assetbundle;2,338f3f248fd4176458e5f130cb08f43b,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+97,weapon;1,mesh;1,arms@AWP,assetbundle;2,c344ae57e72dbef4cb2c70d42b889772,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+97,weapon;1,mesh;1;1,AWP,assetbundle;2,ae50c1dde3872264286da0f22f9807bd,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+98,weapon;1,mesh;1,arms@BarrettSniper,assetbundle;2,5a3467a311727d447bf4ad3887a2910d,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+98,weapon;1,mesh;1;1,BarrettSniper,assetbundle;2,57d37f5544dc6b44f94c754ffdffdab9,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+99,weapon;1,mesh;1,arms@KAR98K,assetbundle;2,f8266099de3e11944bc6c133c9a3de29,0.15,-0.3,-0.1,5,0,0,Óã¸ÍĞÎÏó
+99,weapon;1,mesh;1;1,KAR98K,assetbundle;2,8279e84c5368f494c9203e9c200a8cd2,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
+100,weapon;1,mesh;1,arms@Sniper,assetbundle;2,ed8d990246509af47aa8b9f58b06f6e3,0.1,-0.3,-0.15,5,0,0,ÎäÆ÷
+100,weapon;1,mesh;1;1,Sniper,assetbundle;2,26a3c20cafbed844e8e81d54a4f83a78,0,0,0,0,0,-90,ÎäÆ÷
+1,Armor;2,mesh;1;1,cap1,assetbundle;2,e396cde1fe201e743926f987589c4d63,0,0,0,0,0,0,µØÉÏ»ÒÉ«ĞİÏĞÃ±
+3,Armor;2,mesh;1;1,cap5,assetbundle;2,fc25a8c1221d7664bb7d4bc7ca647873,0,0,0,0,0,0,µØÉÏÄ¦ÍĞÍ·¿ø
+4,Armor;2,mesh;1;1,cap2,assetbundle;2,a2cf4ad56143aa346b001d61e5c62013,0,0,0,0,0,0,µØÉÏ°²È«Ã±
+22,Armor;2,mesh;1;1,tshirt2,assetbundle;2,58e8a4163a694fd4d8e2989c76b6ed1c,0,0,0,0,0,0,µØÉÏ±È»ùÄá
+23,Armor;2,mesh;1;1,tshirt6,assetbundle;2,77ec800020789c246b00790ad3656d8b,0,0,0,0,0,0,µØÉÏÄ¨ĞØ
+24,Armor;2,mesh;1;1,tshirt2,assetbundle;2,58e8a4163a694fd4d8e2989c76b6ed1c,0,0,0,0,0,0,µØÉÏ»ÆÉ«±³ĞÄ
+25,Armor;2,mesh;1;1,tshirt3,assetbundle;2,cef1d835f9518ac46a0117a80b41fa5c,0,0,0,0,0,0,µØÉÏºìÉ«TĞô
+26,Armor;2,mesh;1;1,clothes4,assetbundle;2,af827a4c89bb4ec4e8130d9d55ff049e,0,0,0,0,0,0,µØÉÏºÚÉ«Î÷×°
+27,Armor;2,mesh;1;1,clothes1,assetbundle;2,189b33d7789cd194cbdf324ac4cd4ecf,0,0,0,0,0,0,µØÉÏ°×É«Ò½»¤·ş
+28,Armor;2,mesh;1;1,clothes4,assetbundle;2,af827a4c89bb4ec4e8130d9d55ff049e,0,0,0,0,0,0,µØÉÏºÚÉ«¼Ğ¿Ë
+29,Armor;2,mesh;1;1,tshirt4,assetbundle;2,6d62463f78b672a4a96a200d95738569,0,0,0,0,0,0,µØÉÏÇô·ş
+31,Armor;2,mesh;1;1,clothes2,assetbundle;2,f20e265b4c737514c9efc748c327a312,0,0,0,0,0,0,µØÉÏ»ÆÉ«ĞİÏĞ·ş
+32,Armor;2,mesh;1;1,clothes5,assetbundle;2,2892357f4532ee1468986d48cfba4f30,0,0,0,0,0,0,µØÉÏÀ¶É«ÔË¶¯·ş
+46,Armor;2,mesh;1;1,pants5,assetbundle;2,c0ce39f59e45e2147ad7fda6de9ee6ec,0,0,0,0,0,0,µØÉÏÀ¶É«ÌõÎÆ¶Ì¿ã
+48,Armor;2,mesh;1;1,trousers2,assetbundle;2,888991383cd69fa44bf5b424be16a126,0,0,0,0,0,0,µØÉÏºÚÉ«Î÷×°³¤¿ã
+51,Armor;2,mesh;1;1,trousers1,assetbundle;2,01d6b68813ca67f469fa9b7e106a00ff,0,0,0,0,0,0,µØÉÏÀ¶É«Å£×Ğ¿ã
+60,Armor;2,mesh;1;1,shoes4,assetbundle;2,f6b3ca25c55a7d8428dfa6724960a988,0,0,0,0,0,0,µØÉÏºÚÉ«Æ¤Ğ¬
+61,Armor;2,mesh;1;1,shoes3,assetbundle;2,d39a2c2bb17711740b5b83927814ccc7,0,0,0,0,0,0,ºìÉ«·«²¼Ğ¬
+62,Armor;2,mesh;1;1,shoes5,assetbundle;2,2e1c54b826b13d7478b93c26833584a2,0,0,0,0,0,0,À¶É«ÔË¶¯Ğ¬
+65,Armor;2,mesh;1;1,shoes6,assetbundle;2,0d4aa249a14844d4da5b5be12d492876,0,0,0,0,0,0,ÂÌÉ«´óÍ·Ğ¬
+69,Armor;2,mesh;1;1,shoes2,assetbundle;2,834a8e4f60e462f49901a9235115cff7,0,0,0,0,0,0,»ÆÉ«Æ¤Ñ¥
+80,Armor;2,mesh;1;1,gloves6,assetbundle;2,09557ca11876aa846a3d2e83cd1cd304,0,0,0,0,0,0,ÂÌÉ«ÊÖÌ×
+100,Armor;2,mesh;1;1,pack1,assetbundle;2,55e85a039036d3341b336ab9e4633fa0,0,0,0,0,0,0,ÊÖÌá±³°ü
+101,Armor;2,mesh;1;1,pack2,assetbundle;2,526e6fd137506984eb9f2f6d956b738a,0,0,0,0,0,0,ÊÖÌá±³°ü
+200,Armor;2,mesh;1;1,clothes5,assetbundle;2,2892357f4532ee1468986d48cfba4f30,0,0,0,0,0,0,·Àµ¯ÒÂ
+1,consume;3,mesh;1;1,CannedFood_01,assetbundle;2,940431e9cb589e34ea89e8cb643d910f,0,0,0,0,0,0,¶¹×Ó¹ŞÍ·
+2,consume;3,mesh;1;1,CannedFood_02,assetbundle;2,477931219785316469b839fb2c685025,0,0,0,0,0,0,¶¹×Ó¹ŞÍ·
+4,consume;3,mesh;1;1,CannedFood_05,assetbundle;2,5fce4691548ab424797ee6834b9e35de,0,0,0,0,0,0,½ğÇ¹Óã¹ŞÍ·
+5,consume;3,mesh;1;1,CocaCola,assetbundle;2,8a369981cb41e394a93452acf0c70b96,0,0,0,0,0,0,¿É¿Ú¿ÉÀÖ
+7,consume;3,mesh;1;1,CannedFood_02,assetbundle;2,477931219785316469b839fb2c685025,0,0,0,0,0,0,Åà¸ù
+8,consume;3,mesh;1;1,CannedFood_01,assetbundle;2,940431e9cb589e34ea89e8cb643d910f,0,0,0,0,0,0,Å£Èâ¹ŞÍ·
+9,consume;3,mesh;1;1,CannedFood_05,assetbundle;2,5fce4691548ab424797ee6834b9e35de,0,0,0,0,0,0,É³¶¡Óã¹ŞÍ·
+10,consume;3,mesh;1;1,WaterBottle,assetbundle;2,90ce70258e1dd4f49ae0336ddf13eb8f,0,0,0,0,0,0,Æ¿×°Ë®
+11,consume;3,mesh;1;1,juice,assetbundle;2,87b6e033ba5792c489109411c423385b,0,0,0,0,0,0,Æ»¹ûÖ­
+15,consume;3,mesh;1;1,BoxedMilk,assetbundle;2,c45f5abb98649a741a8559d1bc58d4fd,0,0,0,0,0,0,ºĞ×°Å£ÄÌ
+19,consume;3,mesh;1;1,chocolate,assetbundle;2,02acd35bdb044754696f812422f1034e,0,0,0,0,0,0,ÇÉ¿ËÁ¦
+20,consume;3,mesh;1;1,ChocolateBar_02,assetbundle;2,9b7c53b433683f444bbbbf2f99c02af6,0,0,0,0,0,0,ÄÜÁ¿°ô
+21,consume;3,mesh;1;1,OrganicCarrot,assetbundle;2,17e34797439302543bc05eccef0cae99,0,0,0,0,0,0,ºúÂÜ²·
+22,consume;3,mesh;1;1,Corn,assetbundle;2,5e7367859630b9f41ab1768a8c7b845e,0,0,0,0,0,0,ÓñÃ×
+23,consume;3,mesh;1;1,MRE,assetbundle;2,2452125aa464ee54397417789304e395,0,0,0,0,0,0,¾üÁ¸
+24,consume;3,mesh;1;1,sandwich,assetbundle;2,6ff40bb019c247f45b30ae14ab2d45f8,0,0,0,0,0,0,ÈıÎÄÖÎ
+25,consume;3,mesh;1;1,cheese,assetbundle;2,608f808e85ad59246a38dae8dd819557,0,0,0,0,0,0,ÄÌÀÒ
+27,consume;3,mesh;1;1,Meat_Steak_Raw,assetbundle;2,6b91308ee382da641b40880281ec5a37,0,0,0,0,0,0,Å£Èâ
+28,consume;3,mesh;1;1,Bakery_Donut_01,assetbundle;2,40fac3f173902894cb67fc414bad6013,0,0,0,0,0,0,ÌğÌğÈ¦
+30,consume;3,mesh;1;1,Apple_04,assetbundle;2,7aff2875001df914a89e0f7612bfe2ba,0,0,0,0,0,0,apple
+31,consume;3,mesh;1;1,beetroot,assetbundle;2,7813c34e1c587c24d89e213601752338,0,0,0,0,0,0,Ìğ²Ë
+34,consume;3,mesh;1;1,Whisky,assetbundle;2,9bebff679ed9f1143b7d04e7184383b4,0,0,0,0,0,0,Æ¡¾Æ
+35,consume;3,mesh;1;1,jam,assetbundle;2,85ab38ed98eb53c43bae7fa9145da8a1,0,0,0,0,0,0,¹û½´
+37,consume;3,mesh;1;1,Banana,assetbundle;2,03d8fb82919f6b449a0ab9c0413d9715,0,0,0,0,0,0,Ïã½¶
+38,consume;3,mesh;1;1,Hamburger,assetbundle;2,2db6266d6acd00f43b5d829e5124d630,0,0,0,0,0,0,ºº±¤
+39,consume;3,mesh;1;1,Meat_ChickenLeg,assetbundle;2,b49a9f5f912159c4b9f2d550f26b7a4e,0,0,0,0,0,0,¼¦ÍÈ
+42,consume;3,mesh;1;1,SodaCan,assetbundle;2,c6b436cbcaca84a4a993a67f2b501604,0,0,0,0,0,0,Ìı×°ËÕ´ò
+51,consume;3,mesh;1;1,Meat_Chicken,assetbundle;2,87704db4ffb26a14cb148733d26a16e8,0,0,0,0,0,0,¼¦Èâ
+55,consume;3,mesh;1;1,WaterMelon_01,assetbundle;2,1eab0f9429e75f34fa7923843123f891,0,0,0,0,0,0,Î÷¹Ï
+101,consume;3,mesh;1;1,HealthPack_01,assetbundle;2,c4bed2c51afa0b443bf5213340ec20d3,0,0,0,0,0,0,Ò½ÁÆÏä
+102,consume;3,mesh;1;1,Tape,assetbundle;2,2aa90df32a1af8b46b64007251c526cf,0,0,0,0,0,0,±Á´ø
+105,consume;3,mesh;1;1,adrenaline,assetbundle;2,6fe2305a65b45a24bbd053441c7f44b0,0,0,0,0,0,0,ÉöÉÏÏÙËØ
+110,consume;3,mesh;1;1,BloodBag,assetbundle;2,f641d476d495c1d4f8f469f8b40236b5,0,0,0,0,0,0,Ñª´ü
+117,consume;3,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,½ºÄÒ
+118,consume;3,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,½ºÄÒ
+119,consume;3,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,½ºÄÒ
+202,consume;3,mesh;1;1,Ammo_Handgun,assetbundle;2,7553fc205aea3e74e982f035ad0543ff,0,0,0,0,0,0,×Óµ¯
+203,consume;3,mesh;1;1,AmmoRifle,assetbundle;2,6e199730a8cbfe74cabc32415ee1599f,0,0,0,0,0,0,×Óµ¯
+204,consume;3,mesh;1;1,Ammo_Shotgun,assetbundle;2,c2003354b07b73e41ac0227ab9cb1574,0,0,0,0,0,0,×Óµ¯
+205,consume;3,mesh;1;1,Rope,assetbundle;2,d064de97e8fc3844f89668921788857f,0,0,0,0,0,0,Éş×Ó
+207,consume;3,mesh;1;1,BearTrap,assetbundle;2,a022e7480d5b66d46a69ce3a2939a707,0,0,0,0,0,0,²¶ÊŞ¼Ğ
+208,consume;3,mesh;1;1,CannedFood_03,assetbundle;2,ff7dc155f087bb348a1b4ff0667aa59b,0,0,0,0,0,0,Óã¶ü
+300,consume;3,mesh;1;1,Moto,assetbundle;2,b28dec3b8d664ec4593fc9b580f0c14e,0,0,0,0,0,0,Óã¸ÍĞÎÏó
+301,consume;3,mesh;1,CarFPS,assetbundle;2,24b17eb700b845a44bc1083f35f6c76f,0.75,-2.2,-0.4,0,0,0,car
+301,consume;3,mesh;1;1,MuscleCarA,assetbundle;2,c9303e3cd95c3f54d9e76e323a59bed7,0,0,0,0,0,0,world car
+1001,consume;3,mesh;1;1,wood,assetbundle;2,e00fdb8073a25184490e4beb876183ed,0,0,0,0,0,0,Ä¾²Ä
+1008,consume;3,mesh;1;1,cobweb,assetbundle;2,18192c4b4d5bf7644b17debdc6b63f31,0,0,0,0,0,0,wang
+0,monster;5,mesh;1,BaseZombie,assetbundle;2,9f15a51facac2e94abcc2586da38d231,0,0,0,0,0,0,²âÊÔ½©Ê¬
+1,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,¼ÙÈË
+2,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+3,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+4,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+5,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+6,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+1000,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,¼ÙÈË
+1001,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,¼ÙÈË
+1002,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,¼ÙÈË
+1003,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,¼ÙÈË
+1004,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,¼ÙÈË
+1005,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,¼ÙÈË
+1006,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,¼ÙÈË
+1007,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,¼ÙÈË
+1008,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,¼ÙÈË
+1009,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,¼ÙÈË
+1010,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,¼ÙÈË
+1011,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,¼ÙÈË
+1012,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,¼ÙÈË
+1013,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,¼ÙÈË
+2000,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2001,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2002,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2003,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2004,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2005,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2006,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2007,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2008,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2009,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2010,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2011,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2012,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2013,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2014,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2015,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2016,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2017,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2018,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2019,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2020,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2021,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2022,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2023,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2024,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2025,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2026,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+2027,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
+3000,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3001,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3002,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3003,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3004,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3005,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3006,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3007,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3008,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3009,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3010,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3011,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3012,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3013,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3014,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3015,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3016,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3017,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3018,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3019,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3020,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3021,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3022,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3023,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3024,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3025,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3026,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3027,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3028,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3029,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3030,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3031,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3032,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3033,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3034,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3035,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3036,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3037,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3038,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3039,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3040,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3041,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3042,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3043,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+3044,monster;5,mesh;1,Walker,assetbundle;2,291ef80f94d2c0647a0224f4d6be0dc3,0,0,0,0,0,0,ĞĞÊ¬
+4000,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4001,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4002,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4003,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4004,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4005,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4006,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4007,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4008,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4009,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4010,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4011,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4012,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4013,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4014,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4015,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4016,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4017,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4018,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4019,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4020,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4021,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4022,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4023,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4024,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4025,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4026,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+4027,monster;5,mesh;1,Noisy,assetbundle;2,f5c87d544b5a40d4094e2accf4b3798e,0,0,0,0,0,0,½ĞÊ¬
+5000,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5001,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5002,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5003,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5004,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5005,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5006,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5007,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5008,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5009,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5010,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5011,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5012,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5013,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5014,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5015,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5016,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5017,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5018,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5019,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5020,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5021,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5022,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5023,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5024,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5025,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5026,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5027,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5028,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5029,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5030,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5031,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5032,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5033,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5034,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5035,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5036,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+5037,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+7000,monster;5,mesh;1,Vomitor,assetbundle;2,0863098c18199f642867498d730f129e,0,0,0,0,0,0,Å»ÍÂ½©Ê¬
+7001,monster;5,mesh;1,Vomitor,assetbundle;2,0863098c18199f642867498d730f129e,0,0,0,0,0,0,Å»ÍÂ½©Ê¬
+7002,monster;5,mesh;1,Vomitor,assetbundle;2,0863098c18199f642867498d730f129e,0,0,0,0,0,0,Å»ÍÂ½©Ê¬
+7003,monster;5,mesh;1,Vomitor,assetbundle;2,0863098c18199f642867498d730f129e,0,0,0,0,0,0,Å»ÍÂ½©Ê¬
+7004,monster;5,mesh;1,Vomitor,assetbundle;2,0863098c18199f642867498d730f129e,0,0,0,0,0,0,Å»ÍÂ½©Ê¬
+7005,monster;5,mesh;1,Vomitor,assetbundle;2,0863098c18199f642867498d730f129e,0,0,0,0,0,0,Å»ÍÂ½©Ê¬
+7006,monster;5,mesh;1,Vomitor,assetbundle;2,0863098c18199f642867498d730f129e,0,0,0,0,0,0,Å»ÍÂ½©Ê¬
+7007,monster;5,mesh;1,Vomitor,assetbundle;2,0863098c18199f642867498d730f129e,0,0,0,0,0,0,Å»ÍÂ½©Ê¬
+7008,monster;5,mesh;1,Vomitor,assetbundle;2,0863098c18199f642867498d730f129e,0,0,0,0,0,0,Å»ÍÂ½©Ê¬
+7009,monster;5,mesh;1,Vomitor,assetbundle;2,0863098c18199f642867498d730f129e,0,0,0,0,0,0,Å»ÍÂ½©Ê¬
+10000,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10001,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10002,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10003,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10004,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10005,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10006,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10007,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10008,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10009,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10010,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10011,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10012,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10013,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10014,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10015,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10016,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10017,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10018,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10019,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10020,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10021,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10022,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10023,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10024,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10025,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10026,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10027,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10028,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10029,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10030,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10031,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10032,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10033,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10034,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10035,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10036,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+10037,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+16000,monster;5,mesh;1,Spider,assetbundle;2,34ee4bc1a6d58cf4ca6ecb4fa1099c9d,0,0,0,0,0,0,Spider
+17000,monster;5,mesh;1,Bomber,assetbundle;2,818a95b8d01db414cada4125babaadd2,0,0,0,0,0,0,Bomber
+1,body;6,mesh;1,SimplePeople,assetbundle;2,c20a3f0e36f10e24db51b6884f8d28c9,0,0,0,0,0,0,body
+1,collet;8,mesh;1;1,beetroot,assetbundle;2,7813c34e1c587c24d89e213601752338,0,0,0,0,0,0,colloet
