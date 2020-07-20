@@ -1,4 +1,15 @@
 ﻿KEY,chs,english
+YouDie,你死了!,
+DeleteItemMsg,销毁[%s],
+DecomposeMsg,分解[%s],
+FractureStateMsg,你骨折了!,
+BleedingStateMsg,你出血了!,
+PoisonStateMsg,你中毒了!,
+BulletThroughStateMsg,你被贯穿了!,
+SoulDrainStateMsg,你被精神控制了!,
+LeaveStuck,/stuck 卡住自救,
+CloseChat,/disable 隐藏聊天框,
+EnterGame,成功进入游戏!,
 FishingGuide,制作一支鱼竿就可以去钓鱼啰!,
 CrafeGuide,尝试用获得的木材制作武器和工具!,
 CutGuide,尝试一下是否能用拳头获得一些木材!,
@@ -18,6 +29,7 @@ Grid,格子数,grid
 craft,制 作,craft
 click_fetch,(点击拾取),click fetch
 gain_item,获得[%s],get<color=#c1f019ff>%s</color>
+Pants,裤子,
 Pistol,手枪,
 Rifle,步枪,
 AssaultRifle,突击步枪,
@@ -59,12 +71,17 @@ strengthen,增强,
 ammo,弹药,
 attack,攻击力,
 defense,防御力,
+globle_resistance,全体抗性 +%.1f%%,
+poisoning_resistance,中毒抗性 +%.1f%%,
+fracture_resistance,骨折抗性 +%.1f%%,
+hemorrhagic_resistance,出血抗性 +%.1f%%,
 life_percent,最大生命值增加%.1f%%,
 durable,耐久度,
 durable_extra,耐久度 +%d,
 reduce_weight,物品重量减少%.1f%%,
 attack_extra,攻击力 +%.1f,
 attack_percent,全局伤害增加%.1f%%,
+evasion_extra,闪避力 +%d,
 defense_extra,防御力 +%d,
 defense_percent,防御力增加%.1f%%,
 critical_strike,致命一击几率增加%.1f%%,
@@ -85,6 +102,7 @@ use_water,使用: 恢复%d点口渴值,
 use_food,使用: 恢复%d点饥饿值,
 use_food_water,使用: 恢复%d点饥饿值和%d点口渴值,
 use_strengthen,使用: 永久提高身体的某项基本属性,
+decompose_extra,分解得到的材料更多,
 no_attribute,普通的白色物品,
 material_desc,生存必须的基本材料,
 ammo_desc,武器的弹药,
@@ -121,7 +139,7 @@ Skill_22,钢铁皮肤,Iron Skin
 Skill_23,完美防御,Perfect Defense
 Skill_24,敏捷,Agility
 Skill_25,躲避,Dodge
-Skill_26,烈士意志,Warrior Willpower
+Skill_26,战士意志,Warrior Willpower
 Skill_27,药剂师,Pharmaceutist
 Skill_28,美食家,Foodie
 Skill_29,生存专家,Survivalist
@@ -134,6 +152,45 @@ Skill_35,螺旋弹,Spiral Bullet
 Skill_36,快速装弹,Quick Reload
 Skill_37,鹰眼,Eagle Eyes
 Skill_38,神射手,Marksman
+SkillDesc_0,增加投掷武器的飞行距离,腕力
+SkillDesc_1,投掷武器的伤害更加稳定,投掷精通
+SkillDesc_2,使用近战武器时有更快的攻击速度,攻速强化
+SkillDesc_3,生命值增加,生命强化
+SkillDesc_4,全局生命力增加,血泵
+SkillDesc_5,角色的基础攻击力增加,武器精通
+SkillDesc_6,未实装技能,战斗精通
+SkillDesc_7,全局伤害提高,内脏打击
+SkillDesc_8,未实装技能,超运
+SkillDesc_9,全局幸运值提高,幸运星
+SkillDesc_10,移动速度提高,快速移动
+SkillDesc_11,能量的回复速度提高,快速充能
+SkillDesc_12,能量的消耗速度减少,持久续航
+SkillDesc_13,基础暴击率提高,弱点探测
+SkillDesc_14,基础暴击伤害提高,完美伤害
+SkillDesc_15,提高角色对毒性的抵抗能力,洁净
+SkillDesc_16,未实装技能,抗体
+SkillDesc_17,提高角色对出血的抵抗能力,血小板
+SkillDesc_18,未实装技能,血屏障
+SkillDesc_19,提高角色对骨折的抵抗能力,胫骨强化
+SkillDesc_20,未实装技能,精钢铁骨
+SkillDesc_21,角色的基础防御能力增加,防御增强
+SkillDesc_22,角色的全局防御能力增加,钢铁皮肤
+SkillDesc_23,未实装技能,完美防御
+SkillDesc_24,角色的基础闪避能力增加,敏捷
+SkillDesc_25,角色的全局闪避能力增加,躲避
+SkillDesc_26,生命大于攻击者的基础伤害遭受其致命打击时不会死亡,战士意志
+SkillDesc_27,药物的治疗效果提高,药剂师
+SkillDesc_28,食物和赢料的效果提高,美食家
+SkillDesc_29,基础的生存能力提高,生存专家
+SkillDesc_30,获得使用钝器敲碎骨头的能力,碎骨
+SkillDesc_31,攻击骨折的目标能够造成更多伤害,关节拆卸
+SkillDesc_32,获得使用利刃割开血管的能力,放血
+SkillDesc_33,攻击出血的目标能够造成更多伤害,动脉切割
+SkillDesc_34,获得使用射击武器贯穿目标的能力,贯穿射击
+SkillDesc_35,攻击被贯穿的目标能够造成更多伤害,螺旋弹
+SkillDesc_36,装弹速度提高,快速装弹
+SkillDesc_37,增加射击武器的射程,鹰眼
+SkillDesc_38,射击武器的伤害稳定性增加,神射手
 Armor_1,灰色休闲帽,
 Armor_2,防暴头盔,
 Armor_3,摩托盔,
@@ -426,7 +483,7 @@ Consume_400,水壶,
 Consume_1000,石块,
 Consume_1001,木材,
 Consume_1002,铁锭,
-Consume_1003,保留,
+Consume_1003,塑胶块,
 Consume_1004,布料,
 Consume_1005,空瓶,
 Consume_1006,电池,
@@ -434,3 +491,4 @@ Consume_1007,火药,
 Consume_1008,蛛网,
 Consume_1009,铁片,
 Collet_1,甜根菜,
+Collet_2,尸体,

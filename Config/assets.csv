@@ -103,16 +103,12 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 102,normal;0,normal;0,ZombieScream,assetobject;1,0103b130af588e4428c30e1a2fd8495d:100000,0,0,0,0,0,0,ÃèÊö
 103,normal;0,normal;0,ZombieAttackW,assetobject;1,dd816603b1057ff4688175e82f69fb11:100000,0,0,0,0,0,0,ÃèÊö
 104,normal;0,normal;0,ZombieIdleW,assetobject;1,0575eaa5a2ac0b04db9a8bdbc7dd6081:100000,0,0,0,0,0,0,ÃèÊö
-0,weapon;1,mesh;1,no weapon 3person,assetobject;1,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,ÃèÊö
 0,weapon;1,mesh;1;1,no weapon 1person,assetobject;1,75aa758f1bad7df41b28d8f990ba20d1:100022,0,0,0,0,0,90,ÃèÊö
-1,weapon;1,mesh;1,knife1 view,assetobject;1,d3523ade88d6e694a9236c47607e8879:118006,0,0,0,0,0,90,ÃèÊö
 1,weapon;1,icon;2,knife1 icon,assetobject;1,0b7ee1047d4171d4d8d85f5f3c066a72:175832,0,0,0,0,0,90,ÃèÊö
 1,weapon;1,icon;2;1,knife1 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300042,0,0,0,0,0,90,ÃèÊö
-1,weapon;1,mesh;1;1,knife1 world,assetobject;1,09dfb76e48059b0418e6c7d4fa02dd59:121640,0,0,0,0,0,90,ÃèÊö
 1,weapon;1,sound;3;4,knife1 deploy sound,assetobject;1,e6d9f4f729bbc6a4d82e6ecd5374bfda:100000,0,0,0,0,0,0,ÃèÊö
 2,weapon;1,mesh;1,Pistol1,assetobject;1,1f239ed8c7157de44a446b92d0a9d1ed:117996,0,0,0,0,90,90,ÃèÊö
 2,weapon;1,icon;2;1,knife2 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300084,0,0,0,0,90,90,ÃèÊö
-3,weapon;1,mesh;1,ak47 mesh,assetobject;1,fc08f8a9cee7ce24e81130425b341f6e:112436,0.195,-0.061,0.088,0,90,90,ÃèÊö
 3,weapon;1,icon;2,ak47 icon,assetobject;1,0,0,0,0,0,0,0,ÃèÊö
 3,weapon;1,icon;2;1,w3 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300022,0,0,0,0,0,0,ÃèÊö
 3,weapon;1,sound;3;0,ak47 sound1,assetobject;1,0,0,0,0,0,0,0,ÃèÊö
@@ -229,6 +225,7 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 29,armor;2,icon;2;1,shirt29,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300000,0,0,0,0,0,0,ÃèÊö
 31,armor;2,icon;2;1,shirt31,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300028,0,0,0,0,0,0,ÃèÊö
 32,armor;2,icon;2;1,shirt32,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300002,0,0,0,0,0,0,ÃèÊö
+37,armor;2,icon;2;1,shirt32,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300026,0,0,0,0,0,0,°×É«ÌåĞô
 46,armor;2,icon;2;1,pants46 icon,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300030,0,0,0,0,0,0,ÃèÊö
 48,armor;2,icon;2;1,pants48 icon,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300040,0,0,0,0,0,0,ÃèÊö
 51,armor;2,icon;2;1,pants51 icon,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300038,0,0,0,0,0,0,ÃèÊö
@@ -303,16 +300,14 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 211,Consume;3,icon;2;1,juji icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300056,0,0,0,0,0,0,ÃèÊö
 301,Consume;3,icon;2;1,car icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300046,0,0,0,0,0,0,ÃèÊö
 1000,Consume;3,icon;2;1,material1 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,ÃèÊö
-1001,Consume;3,mesh;1;1,material2 mesh,assetobject;1,d0c3d2014156b31478a0e1afde30f1c7:100000,0,0,0,0,0,0,ÃèÊö
 1001,Consume;3,icon;2;1,material2 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300010,0,0,0,0,0,0,ÃèÊö
 1002,Consume;3,icon;2;1,material3 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300012,0,0,0,0,0,0,ÃèÊö
-1003,Consume;3,icon;2;1,material4 sp,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300068,0,0,0,0,0,0,ÃèÊö
+1003,Consume;3,icon;2;1,material4 sp,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300040,0,0,0,0,0,0,ÃèÊö
 1004,Consume;3,icon;2;1,material5 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,ÃèÊö
 1005,Consume;3,icon;2;1,material6 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,ÃèÊö
 1006,Consume;3,icon;2;1,material7 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,ÃèÊö
 1007,Consume;3,icon;2;1,material8 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,ÃèÊö
 1008,Consume;3,icon;2;1,material9 sp,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300096,0,0,0,0,0,0,ÃèÊö
-0,monster;5,mesh;1,basemonster mesh,assetobject;1,cc40e8d377d2835469ae31efa3cc0f5c:197910,0,0,0,0,0,0,ÃèÊö
 1000,monster;5,skin;2;1,m1000 skin,assetobject;1,c9d763f339ced4f4bba37cad458124e5:2100000,0,0,0,0,0,0,ÃèÊö
 1001,monster;5,skin;2;1,m1001 skin,assetobject;1,bfa1aaed27bc995418f9b21096a255bc:2100000,0,0,0,0,0,0,ÃèÊö
 1002,monster;5,skin;2;1,m1002 skin,assetobject;1,2e79dbe9d6090f544a40d2803d64facd:2100000,0,0,0,0,0,0,ÃèÊö
@@ -516,7 +511,6 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 7009,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
 16000,monster;5,skin;2;1,m16000 skin,assetobject;1,685775caee8e35d4599e5bcc06720029:2100000,0,0,0,0,0,0,ÃèÊö
 1,body;6,mesh;1,body1 mesh,assetobject;1,53d344e8499846d4aabd95ae6ab5c41f:170376,0,0,0,0,0,0,ÃèÊö
-1,collect;8,mesh;1;1,Vegetation1,assetobject;1,b9b76ac2965f20a4cb74b811bfbf250e:100000,0,0,0,0,0,0,ÃèÊö
 1,Jewelry;10,icon;2;1,jingji icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300012,0,0,0,0,0,0,ÃèÊö
 2,Jewelry;10,icon;2;1,lucky icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300020,0,0,0,0,0,0,ÃèÊö
 3,Jewelry;10,icon;2;1,redqiangwei icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300002,0,0,0,0,0,0,ÃèÊö
@@ -545,6 +539,7 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 4,weapon;1,mesh;1,arms@windstick_1,assetbundle;2,31d0fd70c312a9c4cb63d0895bf0b910,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
 4,weapon;1,mesh;1;1,Projectiles01,assetbundle;2,166d41e076d83d84a85f9aa7e87596a3,0,0,0,0,0,0,ÄÃØ°Ê×½ÇÉ«
 6,weapon;1,mesh;1,arms@Boomerang,assetbundle;2,920d2f34a94cfe440a11dbaeecbba387,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
+6,weapon;1,mesh;1;1,boomerangModel,assetbundle;2,ccfff31515a4cc042822fa0231832e72,0,0,0,0,0,0,ÄÃØ°Ê×½ÇÉ«
 7,weapon;1,mesh;1,arms@wrench01,assetbundle;2,01bd3f05e5c400c46a4b39db50d0d32f,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
 7,weapon;1,mesh;1;1,wrench_1,assetbundle;2,c57f24a43bbcb5d48b3911f463d6a526,0,0,0,0,0,-90,ÄÃØ°Ê×½ÇÉ«
 8,weapon;1,mesh;1,arms@handaxe,assetbundle;2,d47759da336b1834ca4cf2a22d53735a,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
@@ -614,10 +609,10 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 65,weapon;1,mesh;1,arms@FishingRod,assetbundle;2,62a9dfcd24058e34eb04abed409f6b05,-0.1,-0.5,-0.15,0,0,0,Óã¸ÍĞÎÏó
 65,weapon;1,mesh;1;1,FishingRod,assetbundle;2,288dfeac45a8f66489f5c062ed2c4314,0,0,0,0,0,0,Óã¸ÍĞÎÏó
 66,weapon;1,mesh;1,arms@Darts,assetbundle;2,bbddd9f4011416d489b7783153c6ca0d,-0.1,-0.4,-0.5,0,0,0,Óã¸ÍĞÎÏó
-66,weapon;1,mesh;1;1,Darts01,assetbundle;2,97f54610101152247948de743941a145,0,0,0,0,0,0,Óã¸ÍĞÎÏó
+66,weapon;1,mesh;1;1,Darts01Model,assetbundle;2,620372a8bb18e1f4da1bff7f341bc903,0,0,0,0,0,0,Óã¸ÍĞÎÏó
 67,weapon;1,mesh;1,arms@BrokenBottle,assetbundle;2,bd9bdeb0c04d79d4aadaa800fd891781,-0.1,-0.4,-0.5,0,0,0,Óã¸ÍĞÎÏó
-67,weapon;1,mesh;1;1,BrokenBottle,assetbundle;2,d38feaea1e79040469ad99d38dac514a,0,0,0,0,0,0,Óã¸ÍĞÎÏó
-69,weapon;1,mesh;1,arms@CriketBat,assetbundle;2,46fd8ee400aaac546a99def4f9943de1,0,-0.4,0,0,0,0,Óã¸ÍĞÎÏó
+67,weapon;1,mesh;1;1,BrokenBottleModel,assetbundle;2,e3e3142826489604194021b73c255cb6,0,0,0,0,0,0,Óã¸ÍĞÎÏó
+69,weapon;1,mesh;1,arms@CriketBat,assetbundle;2,46fd8ee400aaac546a99def4f9943de1,0,-0.4,-0.5,0,0,0,Óã¸ÍĞÎÏó
 69,weapon;1,mesh;1;1,CriketBat,assetbundle;2,63c1d9269aec18e47b752fe38f4b9dff,0,0,0,0,0,0,Óã¸ÍĞÎÏó
 71,weapon;1,mesh;1,arms@ColtAnaconda,assetbundle;2,33edd12ba30bbf44ba6a3b74f2145bf8,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
 71,weapon;1,mesh;1;1,ColtAnaconda,assetbundle;2,2d12cdd3cb927874a8d45dc51334f999,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
@@ -692,9 +687,10 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 29,Armor;2,mesh;1;1,tshirt4,assetbundle;2,6d62463f78b672a4a96a200d95738569,0,0,0,0,0,0,µØÉÏÇô·ş
 31,Armor;2,mesh;1;1,clothes2,assetbundle;2,f20e265b4c737514c9efc748c327a312,0,0,0,0,0,0,µØÉÏ»ÆÉ«ĞİÏĞ·ş
 32,Armor;2,mesh;1;1,clothes5,assetbundle;2,2892357f4532ee1468986d48cfba4f30,0,0,0,0,0,0,µØÉÏÀ¶É«ÔË¶¯·ş
+37,Armor;2,mesh;1;1,tshirt1,assetbundle;2,decfa9999f209514e82ef90e93807ac0,0,0,0,0,0,0,µØÉÏ°×É«TĞô
 46,Armor;2,mesh;1;1,pants5,assetbundle;2,c0ce39f59e45e2147ad7fda6de9ee6ec,0,0,0,0,0,0,µØÉÏÀ¶É«ÌõÎÆ¶Ì¿ã
 48,Armor;2,mesh;1;1,trousers2,assetbundle;2,888991383cd69fa44bf5b424be16a126,0,0,0,0,0,0,µØÉÏºÚÉ«Î÷×°³¤¿ã
-51,Armor;2,mesh;1;1,trousers1,assetbundle;2,01d6b68813ca67f469fa9b7e106a00ff,0,0,0,0,0,0,µØÉÏÀ¶É«Å£×Ğ¿ã
+51,Armor;2,mesh;1;1,trousers4,assetbundle;2,3fe07c54381141c46a2dd19a044591c9,0,0,0,0,0,0,µØÉÏÀ¶É«Å£×Ğ¿ã
 60,Armor;2,mesh;1;1,shoes4,assetbundle;2,f6b3ca25c55a7d8428dfa6724960a988,0,0,0,0,0,0,µØÉÏºÚÉ«Æ¤Ğ¬
 61,Armor;2,mesh;1;1,shoes3,assetbundle;2,d39a2c2bb17711740b5b83927814ccc7,0,0,0,0,0,0,ºìÉ«·«²¼Ğ¬
 62,Armor;2,mesh;1;1,shoes5,assetbundle;2,2e1c54b826b13d7478b93c26833584a2,0,0,0,0,0,0,À¶É«ÔË¶¯Ğ¬
@@ -733,10 +729,13 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 42,consume;3,mesh;1;1,SodaCan,assetbundle;2,c6b436cbcaca84a4a993a67f2b501604,0,0,0,0,0,0,Ìı×°ËÕ´ò
 51,consume;3,mesh;1;1,Meat_Chicken,assetbundle;2,87704db4ffb26a14cb148733d26a16e8,0,0,0,0,0,0,¼¦Èâ
 55,consume;3,mesh;1;1,WaterMelon_01,assetbundle;2,1eab0f9429e75f34fa7923843123f891,0,0,0,0,0,0,Î÷¹Ï
+57,consume;3,mesh;1;1,TinySpider,assetbundle;2,ac2db9ab0ed2df64e8d68d589f949223,0,0,0,0,0,0,Ö©ÖëÈâ
 101,consume;3,mesh;1;1,HealthPack_01,assetbundle;2,c4bed2c51afa0b443bf5213340ec20d3,0,0,0,0,0,0,Ò½ÁÆÏä
 102,consume;3,mesh;1;1,Tape,assetbundle;2,2aa90df32a1af8b46b64007251c526cf,0,0,0,0,0,0,±Á´ø
+103,consume;3,mesh;1;1,Drug01,assetbundle;2,d6067f4ea5a729340984e0113337a858,0,0,0,0,0,0,½â¶¾¼Á
 105,consume;3,mesh;1;1,adrenaline,assetbundle;2,6fe2305a65b45a24bbd053441c7f44b0,0,0,0,0,0,0,ÉöÉÏÏÙËØ
 110,consume;3,mesh;1;1,BloodBag,assetbundle;2,f641d476d495c1d4f8f469f8b40236b5,0,0,0,0,0,0,Ñª´ü
+112,consume;3,mesh;1;1,HealthPack_01,assetbundle;2,c4bed2c51afa0b443bf5213340ec20d3,0,0,0,0,0,0,¼±¾È°ü
 117,consume;3,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,½ºÄÒ
 118,consume;3,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,½ºÄÒ
 119,consume;3,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,½ºÄÒ
@@ -963,3 +962,4 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 17000,monster;5,mesh;1,Bomber,assetbundle;2,818a95b8d01db414cada4125babaadd2,0,0,0,0,0,0,Bomber
 1,body;6,mesh;1,SimplePeople,assetbundle;2,c20a3f0e36f10e24db51b6884f8d28c9,0,0,0,0,0,0,body
 1,collet;8,mesh;1;1,beetroot,assetbundle;2,7813c34e1c587c24d89e213601752338,0,0,0,0,0,0,colloet
+2,collet;8,mesh;1;1,corpse,assetbundle;2,417b1a2e97bb5b845bdcfa9b38447035:102900000,0,0,0,0,0,0,corpse

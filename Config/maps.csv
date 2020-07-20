@@ -1,6 +1,6 @@
 mapid,sector_size,field_wide,field_length,spwan_point,sea_level,sea_rect,scene,serverscene
 1,100,500,500,0;4;0,0,0;0;0;0,StreamingAssets/iceworld.unity,iceworld.unity
-2,205,4096,4096,-1218;55.7;-1070,50,-2048;1390;2048;2048,StreamingAssets/level0_0.unity,level0/level0_0.unity
+2,205,4096,4096,-1218;55.7;-1070,50,-2048;1390;2048;2048,StreamingAssets/level0_0.unity,level0/level0_s.unity
 101,50,2000,2000,0;0;0,50,0;0;0;0,StreamingAssets/SA_Demo.unity,SA_DemoServer.unity
 102,50,2000,2000,0;0;0,50,0;0;0;0,StreamingAssets/RuntimeScene.unity,RuntimeScene.unity
 10000,100,2000,2000,0;0;0,50,0;0;0;0,StreamingAssets/SA_Demo.unity,SA_DemoServer.unity
