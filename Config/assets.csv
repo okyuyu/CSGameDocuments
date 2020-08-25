@@ -103,11 +103,13 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 102,normal;0,normal;0,ZombieScream,assetobject;1,0103b130af588e4428c30e1a2fd8495d:100000,0,0,0,0,0,0,ÃèÊö
 103,normal;0,normal;0,ZombieAttackW,assetobject;1,dd816603b1057ff4688175e82f69fb11:100000,0,0,0,0,0,0,ÃèÊö
 104,normal;0,normal;0,ZombieIdleW,assetobject;1,0575eaa5a2ac0b04db9a8bdbc7dd6081:100000,0,0,0,0,0,0,ÃèÊö
+105,normal;0,normal;0,buildwood,assetobject;1,afee9f5dbb1308349bec5e7c21691df3:100000,0,0,0,0,0,0,ÃèÊö
+106,normal;0,normal;0,HitWoodBuilding,assetobject;1,6c17d3498cc9d5a4783997af1216335d:100000,0,0,0,0,0,0,ÃèÊö
+107,normal;0,normal;0,BuildingDisable,assetobject;1,d29060229cf1de84c9b1bbac19eef3cd:100000,0,0,0,0,0,0,ÃèÊö
 0,weapon;1,mesh;1;1,no weapon 1person,assetobject;1,75aa758f1bad7df41b28d8f990ba20d1:100022,0,0,0,0,0,90,ÃèÊö
 1,weapon;1,icon;2,knife1 icon,assetobject;1,0b7ee1047d4171d4d8d85f5f3c066a72:175832,0,0,0,0,0,90,ÃèÊö
 1,weapon;1,icon;2;1,knife1 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300042,0,0,0,0,0,90,ÃèÊö
 1,weapon;1,sound;3;4,knife1 deploy sound,assetobject;1,e6d9f4f729bbc6a4d82e6ecd5374bfda:100000,0,0,0,0,0,0,ÃèÊö
-2,weapon;1,mesh;1,Pistol1,assetobject;1,1f239ed8c7157de44a446b92d0a9d1ed:117996,0,0,0,0,90,90,ÃèÊö
 2,weapon;1,icon;2;1,knife2 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300084,0,0,0,0,90,90,ÃèÊö
 3,weapon;1,icon;2,ak47 icon,assetobject;1,0,0,0,0,0,0,0,ÃèÊö
 3,weapon;1,icon;2;1,w3 sp,assetobject;1,6d8ba0a095ad6ac40bd1243f6dec5b61:21300022,0,0,0,0,0,0,ÃèÊö
@@ -135,13 +137,34 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 23,weapon;1,icon;2,handgun1 icon,assetobject;1,b06c2233b1089b649980166c612bd34c:137812,0,0,0,0,0,0,ÃèÊö
 23,weapon;1,icon;2;1,handgun23 sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300036,0,0,0,0,0,0,ÃèÊö
 24,weapon;1,icon;2;1,handgun24 sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300032,0,0,0,0,0,0,ÃèÊö
+24,weapon;1,sound;3;0,handgun24_fire,assetobject;1,44b71bdd728796c4ebd1a274d3ecf1c5:100000,0,0,0,0,0,0,ÃèÊö
+24,weapon;1,sound;3;1,handgun24_reload1,assetobject;1,7d2c0f2b82cf3704d802f11623667fc3:136006,0,0,0,0,0,0,ÃèÊö
+24,weapon;1,sound;3;2,handgun24_reload2,assetobject;1,d2ab4221d46c30842ad34768d868983e:152338,0,0,0,0,0,0,ÃèÊö
+24,weapon;1,sound;3;3,handgun24_reload3,assetobject;1,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,ÃèÊö
+24,weapon;1,sound;3;4,handgun24_deploy,assetobject;1,ffb1ee3bd05c140469174a34d2f2164f:100000,0,0,0,0,0,0,ÃèÊö
 25,weapon;1,icon;2;1,handgun25 sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300040,0,0,0,0,0,0,ÃèÊö
+25,weapon;1,sound;3;0,handgun25_fire,assetobject;1,44b71bdd728796c4ebd1a274d3ecf1c5:100000,0,0,0,0,0,0,ÃèÊö
+25,weapon;1,sound;3;1,handgun25_reload1,assetobject;1,7d2c0f2b82cf3704d802f11623667fc3:136006,0,0,0,0,0,0,ÃèÊö
+25,weapon;1,sound;3;2,handgun25_reload2,assetobject;1,d2ab4221d46c30842ad34768d868983e:152338,0,0,0,0,0,0,ÃèÊö
+25,weapon;1,sound;3;3,handgun25_reload3,assetobject;1,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,ÃèÊö
+25,weapon;1,sound;3;4,handgun25_deploy,assetobject;1,ffb1ee3bd05c140469174a34d2f2164f:100000,0,0,0,0,0,0,ÃèÊö
 26,weapon;1,icon;2;1,handgun26 sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300072,0,0,0,0,0,0,ÃèÊö
+26,weapon;1,sound;3;0,handgun26_fire,assetobject;1,44b71bdd728796c4ebd1a274d3ecf1c5:100000,0,0,0,0,0,0,ÃèÊö
+26,weapon;1,sound;3;1,handgun26_reload1,assetobject;1,7d2c0f2b82cf3704d802f11623667fc3:136006,0,0,0,0,0,0,ÃèÊö
+26,weapon;1,sound;3;2,handgun26_reload2,assetobject;1,d2ab4221d46c30842ad34768d868983e:152338,0,0,0,0,0,0,ÃèÊö
+26,weapon;1,sound;3;3,handgun26_reload3,assetobject;1,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,ÃèÊö
+26,weapon;1,sound;3;4,handgun26_deploy,assetobject;1,ffb1ee3bd05c140469174a34d2f2164f:100000,0,0,0,0,0,0,ÃèÊö
 27,weapon;1,icon;2;1,handgun27 sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300042,0,0,0,0,0,0,ÃèÊö
+27,weapon;1,sound;3;0,handgun23_fire,assetobject;1,44b71bdd728796c4ebd1a274d3ecf1c5:100000,0,0,0,0,0,0,ÃèÊö
+27,weapon;1,sound;3;1,handgun27_reload1,assetobject;1,7d2c0f2b82cf3704d802f11623667fc3:136006,0,0,0,0,0,0,ÃèÊö
+27,weapon;1,sound;3;2,handgun27_reload2,assetobject;1,d2ab4221d46c30842ad34768d868983e:152338,0,0,0,0,0,0,ÃèÊö
+27,weapon;1,sound;3;3,handgun27_reload3,assetobject;1,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,ÃèÊö
+27,weapon;1,sound;3;4,handgun27_deploy,assetobject;1,ffb1ee3bd05c140469174a34d2f2164f:100000,0,0,0,0,0,0,ÃèÊö
 28,weapon;1,icon;2;1,shotgun1 sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300012,0,0,0,0,0,0,ÃèÊö
 28,weapon;1,sound;3;0,w28_shoot,assetobject;1,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,ÃèÊö
 28,weapon;1,sound;3;1,handgun28_reload1,assetobject;1,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,ÃèÊö
 28,weapon;1,sound;3;2,handgun28_reload2,assetobject;1,d4dce846e57e0514aa0a7c43d343d2f3:100000,0,0,0,0,0,0,ÃèÊö
+28,weapon;1,sound;3;4,w28_draw,assetobject;1,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,ÃèÊö
 29,weapon;1,icon;2,ak1 icon,assetobject;1,28555f80766a232428a9e35aff394ad1:111484,0,0,0,0,0,0,ÃèÊö
 29,weapon;1,icon;2;1,ak1 sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300022,0,0,0,0,0,0,ÃèÊö
 29,weapon;1,sound;3;0,ak1_shoot,assetobject;1,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,ÃèÊö
@@ -186,16 +209,66 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 72,weapon;1,icon;2;1,w72sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300082,0,0,0,0,0,0,ÃèÊö
 73,weapon;1,icon;2;1,w73sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300070,0,0,0,0,0,0,ÃèÊö
 74,weapon;1,icon;2;1,w74sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300034,0,0,0,0,0,0,ÃèÊö
+74,weapon;1,sound;3;0,handgun74_fire,assetobject;1,44b71bdd728796c4ebd1a274d3ecf1c5:100000,0,0,0,0,0,0,ÃèÊö
+74,weapon;1,sound;3;1,handgun74_reload1,assetobject;1,7d2c0f2b82cf3704d802f11623667fc3:136006,0,0,0,0,0,0,ÃèÊö
+74,weapon;1,sound;3;2,handgun74_reload2,assetobject;1,d2ab4221d46c30842ad34768d868983e:152338,0,0,0,0,0,0,ÃèÊö
+74,weapon;1,sound;3;3,handgun74_reload3,assetobject;1,52cab93d62e5d774bb9370fb66bc95ca:143590,0,0,0,0,0,0,ÃèÊö
+74,weapon;1,sound;3;4,handgun74_deploy,assetobject;1,ffb1ee3bd05c140469174a34d2f2164f:100000,0,0,0,0,0,0,ÃèÊö
 75,weapon;1,icon;2;1,w75sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300048,0,0,0,0,0,0,ÃèÊö
+75,weapon;1,sound;3;0,w75_shoot,assetobject;1,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,ÃèÊö
+75,weapon;1,sound;3;1,w75_reload1,assetobject;1,8dcfb9a5fdea9c641a75fff607b95511:100000,0,0,0,0,0,0,ÃèÊö
+75,weapon;1,sound;3;2,w75_reload2,assetobject;1,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,ÃèÊö
+75,weapon;1,sound;3;3,w75_reload3,assetobject;1,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,ÃèÊö
+75,weapon;1,sound;3;4,w75_draw,assetobject;1,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,ÃèÊö
 76,weapon;1,icon;2;1,w76sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300026,0,0,0,0,0,0,ÃèÊö
+76,weapon;1,sound;3;0,w76_shoot,assetobject;1,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,ÃèÊö
+76,weapon;1,sound;3;1,w76_reload1,assetobject;1,8dcfb9a5fdea9c641a75fff607b95511:100000,0,0,0,0,0,0,ÃèÊö
+76,weapon;1,sound;3;2,w76_reload2,assetobject;1,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,ÃèÊö
+76,weapon;1,sound;3;3,w76_reload3,assetobject;1,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,ÃèÊö
+76,weapon;1,sound;3;4,w76_draw,assetobject;1,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,ÃèÊö
 77,weapon;1,icon;2;1,w77sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300060,0,0,0,0,0,0,ÃèÊö
+77,weapon;1,sound;3;0,w77_shoot,assetobject;1,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,ÃèÊö
+77,weapon;1,sound;3;1,w77_reload1,assetobject;1,8dcfb9a5fdea9c641a75fff607b95511:100000,0,0,0,0,0,0,ÃèÊö
+77,weapon;1,sound;3;2,w77_reload2,assetobject;1,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,ÃèÊö
+77,weapon;1,sound;3;3,w77_reload3,assetobject;1,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,ÃèÊö
+77,weapon;1,sound;3;4,w77_draw,assetobject;1,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,ÃèÊö
 78,weapon;1,icon;2;1,w78sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300018,0,0,0,0,0,0,ÃèÊö
+78,weapon;1,sound;3;0,w78_shoot,assetobject;1,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,ÃèÊö
+78,weapon;1,sound;3;1,w78_reload1,assetobject;1,8dcfb9a5fdea9c641a75fff607b95511:100000,0,0,0,0,0,0,ÃèÊö
+78,weapon;1,sound;3;2,w78_reload2,assetobject;1,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,ÃèÊö
+78,weapon;1,sound;3;3,w78_reload3,assetobject;1,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,ÃèÊö
+78,weapon;1,sound;3;4,w78_draw,assetobject;1,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,ÃèÊö
 79,weapon;1,icon;2;1,w79sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300030,0,0,0,0,0,0,ÃèÊö
+79,weapon;1,sound;3;0,w79_shoot,assetobject;1,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,ÃèÊö
+79,weapon;1,sound;3;1,w79_reload1,assetobject;1,8dcfb9a5fdea9c641a75fff607b95511:100000,0,0,0,0,0,0,ÃèÊö
+79,weapon;1,sound;3;2,w79_reload2,assetobject;1,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,ÃèÊö
+79,weapon;1,sound;3;3,w79_reload3,assetobject;1,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,ÃèÊö
+79,weapon;1,sound;3;4,w79_draw,assetobject;1,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,ÃèÊö
 80,weapon;1,icon;2;1,w80sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300052,0,0,0,0,0,0,ÃèÊö
+80,weapon;1,sound;3;0,w80_shoot,assetobject;1,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,ÃèÊö
+80,weapon;1,sound;3;1,w80_reload1,assetobject;1,8dcfb9a5fdea9c641a75fff607b95511:100000,0,0,0,0,0,0,ÃèÊö
+80,weapon;1,sound;3;2,w80_reload2,assetobject;1,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,ÃèÊö
+80,weapon;1,sound;3;3,w80_reload3,assetobject;1,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,ÃèÊö
+80,weapon;1,sound;3;4,w80_draw,assetobject;1,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,ÃèÊö
 81,weapon;1,icon;2;1,w81sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300064,0,0,0,0,0,0,ÃèÊö
+81,weapon;1,sound;3;0,w81_shoot,assetobject;1,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,ÃèÊö
+81,weapon;1,sound;3;1,w81_reload1,assetobject;1,8dcfb9a5fdea9c641a75fff607b95511:100000,0,0,0,0,0,0,ÃèÊö
+81,weapon;1,sound;3;2,w81_reload2,assetobject;1,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,ÃèÊö
+81,weapon;1,sound;3;3,w81_reload3,assetobject;1,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,ÃèÊö
+81,weapon;1,sound;3;4,w81_draw,assetobject;1,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,ÃèÊö
 82,weapon;1,icon;2;1,w82sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300076,0,0,0,0,0,0,ÃèÊö
 83,weapon;1,icon;2;1,w83sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300078,0,0,0,0,0,0,ÃèÊö
+83,weapon;1,sound;3;0,w83_shoot,assetobject;1,92f935782c19f2a4ea91a3463f2e9a67:100000,0,0,0,0,0,0,ÃèÊö
+83,weapon;1,sound;3;1,w83_reload1,assetobject;1,8dcfb9a5fdea9c641a75fff607b95511:100000,0,0,0,0,0,0,ÃèÊö
+83,weapon;1,sound;3;2,w83_reload2,assetobject;1,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,ÃèÊö
+83,weapon;1,sound;3;3,w83_reload3,assetobject;1,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,ÃèÊö
+83,weapon;1,sound;3;4,w83_draw,assetobject;1,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,ÃèÊö
 84,weapon;1,icon;2;1,w84sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300014,0,0,0,0,0,0,ÃèÊö
+84,weapon;1,sound;3;0,w84_shoot,assetobject;1,92f935782c19f2a4ea91a3463f2e9a67:100000,0,0,0,0,0,0,ÃèÊö
+84,weapon;1,sound;3;1,w84_reload1,assetobject;1,8dcfb9a5fdea9c641a75fff607b95511:100000,0,0,0,0,0,0,ÃèÊö
+84,weapon;1,sound;3;2,w84_reload2,assetobject;1,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,ÃèÊö
+84,weapon;1,sound;3;3,w84_reload3,assetobject;1,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,ÃèÊö
+84,weapon;1,sound;3;4,w84_draw,assetobject;1,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,ÃèÊö
 85,weapon;1,icon;2;1,w85sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300062,0,0,0,0,0,0,ÃèÊö
 86,weapon;1,icon;2;1,w86sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300024,0,0,0,0,0,0,ÃèÊö
 87,weapon;1,icon;2;1,w87sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300020,0,0,0,0,0,0,ÃèÊö
@@ -210,8 +283,26 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 96,weapon;1,icon;2;1,w96sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300000,0,0,0,0,0,0,ÃèÊö
 97,weapon;1,icon;2;1,w97sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300016,0,0,0,0,0,0,ÃèÊö
 98,weapon;1,icon;2;1,w98sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300008,0,0,0,0,0,0,ÃèÊö
+98,weapon;1,sound;3;0,w98_shoot,assetobject;1,499ba76c96a1b004b906ade729f93655:100000,0,0,0,0,0,0,ÃèÊö
+98,weapon;1,sound;3;1,w98_reload1,assetobject;1,8dcfb9a5fdea9c641a75fff607b95511:100000,0,0,0,0,0,0,ÃèÊö
+98,weapon;1,sound;3;2,w98_reload2,assetobject;1,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,ÃèÊö
+98,weapon;1,sound;3;3,w98_reload3,assetobject;1,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,ÃèÊö
+98,weapon;1,sound;3;4,w98_draw,assetobject;1,e43c62fdf50a7384caa901bf06cdb59a:100000,0,0,0,0,0,0,ÃèÊö
 99,weapon;1,icon;2;1,w99sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300058,0,0,0,0,0,0,ÃèÊö
+99,weapon;1,sound;3;0,w99_shoot,assetobject;1,499ba76c96a1b004b906ade729f93655:100000,0,0,0,0,0,0,ÃèÊö
+99,weapon;1,sound;3;1,w99_reload1,assetobject;1,8dcfb9a5fdea9c641a75fff607b95511:100000,0,0,0,0,0,0,ÃèÊö
+99,weapon;1,sound;3;2,w99_reload2,assetobject;1,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,ÃèÊö
+99,weapon;1,sound;3;3,w99_reload3,assetobject;1,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,ÃèÊö
+99,weapon;1,sound;3;4,w99_draw,assetobject;1,e43c62fdf50a7384caa901bf06cdb59a:100000,0,0,0,0,0,0,ÃèÊö
 100,weapon;1,icon;2;1,w100sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300066,0,0,0,0,0,0,ÃèÊö
+100,weapon;1,sound;3;0,w100_shoot,assetobject;1,499ba76c96a1b004b906ade729f93655:100000,0,0,0,0,0,0,ÃèÊö
+100,weapon;1,sound;3;1,w100_reload1,assetobject;1,8dcfb9a5fdea9c641a75fff607b95511:100000,0,0,0,0,0,0,ÃèÊö
+100,weapon;1,sound;3;2,w100_reload2,assetobject;1,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,ÃèÊö
+100,weapon;1,sound;3;3,w100_reload3,assetobject;1,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,ÃèÊö
+100,weapon;1,sound;3;4,w100_draw,assetobject;1,e43c62fdf50a7384caa901bf06cdb59a:100000,0,0,0,0,0,0,ÃèÊö
+1000,weapon;1,effect;4,w1000effect,assetobject;1,f038f7623e484e14983c1b38a06ff1eb:100000,0,0,0,0,0,0,ÍÀµ¶ÌØĞ§
+1001,weapon;1,effect;4,effect w1001,assetobject;1,2df474cbe5486a04cb6fb9d7d6c5078c:100000,0,0,0,0,0,0,ËáÒº
+1002,weapon;1,effect;4,effect w1002,assetobject;1,0b648a9a861426148b12e1fdde3fe7ff:100000,0,0,0,50,0,0,Í¶Ê¯
 1,armor;2,icon;2;1,cap1,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300032,0,0,0,0,0,0,ÃèÊö
 3,armor;2,icon;2;1,moto cap3,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300036,0,0,0,0,0,0,ÃèÊö
 4,armor;2,icon;2;1,safe cap3,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300042,0,0,0,0,0,0,ÃèÊö
@@ -235,13 +326,10 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 65,armor;2,icon;2;1,hat65 icon,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300010,0,0,0,0,0,0,ÃèÊö
 69,armor;2,icon;2;1,shoes69 icon,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300046,0,0,0,0,0,0,ÃèÊö
 80,armor;2,icon;2;1,hand80 icon,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300034,0,0,0,0,0,0,ÃèÊö
-100,armor;2,icon;2;1,bag100 sp,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300008,0,0,0,0,0,0,ÃèÊö
-101,armor;2,icon;2;1,bag101 sp,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300020,0,0,0,0,0,0,ÃèÊö
-1,Consume;3,mesh;1;1,Consume1Mesh,assetobject;1,59dfe7b51577a7d4db452ee2f5dedbcf:100000,0,0,0,0,0,0,ÃèÊö
-19,Consume;3,mesh;1;1,Consume19Mesh,assetobject;1,c2ff255a4f87e8847b7de2647fec831c:100000,0,0,0,0,0,0,ÃèÊö
-24,Consume;3,mesh;1;1,Consume24Mesh,assetobject;1,6499ac1611dc1b34cbcececec7f087d9:100000,0,0,0,0,0,0,ÃèÊö
-25,Consume;3,mesh;1;1,Consume25Mesh,assetobject;1,d6c9cbf51730aaf4c9189df2519bd7ab:100000,0,0,0,0,0,0,ÃèÊö
-28,Consume;3,mesh;1;1,Consume28Mesh,assetobject;1,1a183f83b982f6c468e99805f8e11496:100000,0,0,0,0,0,0,ÃèÊö
+82,armor;2,icon;2;1,hand82 icon,assetobject;1,924f4b4e8c9cab440a458383de87ce27:21300054,0,0,0,0,0,0,¹¤×÷ÊÖÌ×
+100,armor;2,icon;2;1,bag100 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300112,0,0,0,0,0,0,ÃèÊö
+101,armor;2,icon;2;1,bag101 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300054,0,0,0,0,0,0,ÃèÊö
+102,armor;2,icon;2;1,bag102 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300028,0,0,0,0,0,0,ÃèÊö
 1,Consume;3,icon;2;1,pit icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300082,0,0,0,0,0,0,ÃèÊö
 2,Consume;3,icon;2;1,tomato icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300014,0,0,0,0,0,0,ÃèÊö
 5,Consume;3,icon;2;1,cococale icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300084,0,0,0,0,0,0,ÃèÊö
@@ -256,7 +344,7 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 21,Consume;3,icon;2;1,huluobo icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300088,0,0,0,0,0,0,ÃèÊö
 22,Consume;3,icon;2;1,yumi icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300106,0,0,0,0,0,0,ÃèÊö
 23,Consume;3,icon;2;1,junliang icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300062,0,0,0,0,0,0,ÃèÊö
-24,Consume;3,icon;2;1,sanmizhi icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300020,0,0,0,0,0,0,ÃèÊö
+24,Consume;3,icon;2;1,sanmizhi icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300122,0,0,0,0,0,0,ÃèÊö
 25,Consume;3,icon;2;1,nainao icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300022,0,0,0,0,0,0,ÃèÊö
 27,Consume;3,icon;2;1,beef icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300018,0,0,0,0,0,0,ÃèÊö
 28,Consume;3,icon;2;1,tiantian icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300026,0,0,0,0,0,0,ÃèÊö
@@ -275,11 +363,12 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 57,Consume;3,icon;2;1,spider icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300110,0,0,0,0,0,0,ÃèÊö
 58,Consume;3,icon;2;1,liyu icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300114,0,0,0,0,0,0,ÃèÊö
 59,Consume;3,icon;2;1,xueyu icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300116,0,0,0,0,0,0,ÃèÊö
-101,Consume;3,icon;2;1,xiyaoxiang icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300080,0,0,0,0,0,0,ÃèÊö
+101,Consume;3,icon;2;1,xiyaoxiang icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300126,0,0,0,0,0,0,ÃèÊö
 102,Consume;3,icon;2;1,bengdai icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300094,0,0,0,0,0,0,ÃèÊö
 103,Consume;3,icon;2;1,jiedu icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300120,0,0,0,0,0,0,ÃèÊö
 105,Consume;3,icon;2;1,shengshang icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300054,0,0,0,0,0,0,ÃèÊö
 110,Consume;3,icon;2;1,xuedai icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300090,0,0,0,0,0,0,ÃèÊö
+112,Consume;3,icon;2;1,jijiubao icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300080,0,0,0,0,0,0,ÃèÊö
 116,Consume;3,icon;2;1,jiaban icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300118,0,0,0,0,0,0,ÃèÊö
 117,Consume;3,icon;2;1,shengming icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300032,0,0,0,0,0,0,ÃèÊö
 118,Consume;3,icon;2;1,zhandou icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300028,0,0,0,0,0,0,ÃèÊö
@@ -299,6 +388,36 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 210,Consume;3,icon;2;1,maomao icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300002,0,0,0,0,0,0,ÃèÊö
 211,Consume;3,icon;2;1,juji icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300056,0,0,0,0,0,0,ÃèÊö
 301,Consume;3,icon;2;1,car icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300046,0,0,0,0,0,0,ÃèÊö
+500,Consume;3,mesh;1;0,building mesh1,assetobject;1,68d204459ef2efd48b76d3d62030221a:100000,0,0,0,0,0,0,ÃèÊö
+500,Consume;3,mesh;1;1,building mesh1,assetobject;1,82b7326dca74e84458b6fe8c8661197e:100000,0,0,0,0,0,0,ÃèÊö
+500,Consume;3,icon;2;1,building icon1,assetobject;1,c1a908d71528c5f4aab9741a2ae13835:21300012,0,0,0,0,0,0,ÃèÊö
+501,Consume;3,mesh;1;0,building mesh2,assetobject;1,3a60cd194349dc546abaf64e72edf32d:100000,0,0,0,0,0,0,ÃèÊö
+501,Consume;3,mesh;1;1,building mesh2,assetobject;1,f539e5899120a9240a3c506500632dfe:100000,0,0,0,0,0,0,ÃèÊö
+501,Consume;3,icon;2;1,building icon2,assetobject;1,c1a908d71528c5f4aab9741a2ae13835:21300010,0,0,0,0,0,0,ÃèÊö
+502,Consume;3,mesh;1;0,building mesh3,assetobject;1,ebbdba77e7046834e8c6d847ec9a76ce:100000,0,0,0,0,0,0,ÃèÊö
+502,Consume;3,mesh;1;1,building mesh3,assetobject;1,56899025e3dc8b340b87ce7f713da2cb:100000,0,0,0,0,0,0,ÃèÊö
+502,Consume;3,icon;2;1,building icon3,assetobject;1,c1a908d71528c5f4aab9741a2ae13835:21300002,0,0,0,0,0,0,ÃèÊö
+503,Consume;3,mesh;1;0,building mesh4,assetobject;1,9347b7d6844ae4e45b0439131c5906b8:100000,0,0,0,0,0,0,ÃèÊö
+503,Consume;3,mesh;1;1,building mesh4,assetobject;1,5812b1dbb69b5374a873a2fc9fc2e176:100000,0,0,0,0,0,0,ÃèÊö
+503,Consume;3,icon;2;1,building icon4,assetobject;1,c1a908d71528c5f4aab9741a2ae13835:21300000,0,0,0,0,0,0,ÃèÊö
+504,Consume;3,mesh;1;0,building mesh5,assetobject;1,2cd8155cbfedcc8499793f7605a306d1:100000,0,0,0,0,0,0,ÃèÊö
+504,Consume;3,mesh;1;1,building mesh5,assetobject;1,97ffa480d30b96648bc83b396d7f0661:100000,0,0,0,0,0,0,ÃèÊö
+504,Consume;3,icon;2;1,building icon5,assetobject;1,c1a908d71528c5f4aab9741a2ae13835:21300004,0,0,0,0,0,0,ÃèÊö
+505,Consume;3,mesh;1;0,building mesh6,assetobject;1,3db4315cfc7c3da45b4e3e7b9708bd3f:100000,0,0,0,0,0,0,ÃèÊö
+505,Consume;3,mesh;1;1,building mesh6,assetobject;1,859f5c2997c32054bbe5e66add89371f:100000,0,0,0,0,0,0,ÃèÊö
+505,Consume;3,icon;2;1,building icon6,assetobject;1,c1a908d71528c5f4aab9741a2ae13835:21300008,0,0,0,0,0,0,ÃèÊö
+506,Consume;3,mesh;1;0,building mesh7,assetobject;1,e93a132ccdcdb4f4582649553e915ba2:100000,0,0,0,0,0,0,ÃèÊö
+506,Consume;3,mesh;1;1,building mesh7,assetobject;1,286aeaeb86320ec499e0ca6565e68507:100000,0,0,0,0,0,0,ÃèÊö
+506,Consume;3,icon;2;1,building icon7,assetobject;1,c1a908d71528c5f4aab9741a2ae13835:21300014,0,0,0,0,0,0,ÃèÊö
+507,Consume;3,mesh;1;0,building mesh8,assetobject;1,54c16ee7aef9bc74fa85d8acf3e8c419:100000,0,0,0,0,0,0,ÃèÊö
+507,Consume;3,mesh;1;1,building mesh8,assetobject;1,815a5e16e040f324b9c915dbf52d28d7:100000,0,0,0,0,0,0,ÃèÊö
+507,Consume;3,icon;2;1,building icon8,assetobject;1,c1a908d71528c5f4aab9741a2ae13835:21300006,0,0,0,0,0,0,ÃèÊö
+508,Consume;3,mesh;1;0,building mesh9,assetobject;1,862d7e2585fc4a64a86f70ff3356f107:100000,0,0,0,0,0,0,ÃèÊö
+508,Consume;3,mesh;1;1,building mesh9,assetobject;1,be9f08527f25e354584d834c9eecefa6:100000,0,0,0,0,0,0,ÃèÊö
+508,Consume;3,icon;2;1,building icon9,assetobject;1,c1a908d71528c5f4aab9741a2ae13835:21300016,0,0,0,0,0,0,ÃèÊö
+600,Consume;3,mesh;1;0,building icon600,assetobject;1,dac2de87ccbafea48b459b04a2fe5d04:100000,0,0,0,0,0,0,ÃèÊö
+600,Consume;3,mesh;1;1,building icon600,assetobject;1,a0127439ea4704b429f6d91b9e63c2d2:100000,0,0,0,0,0,0,ÃèÊö
+600,Consume;3,icon;2;1,building icon600,assetobject;1,c1a908d71528c5f4aab9741a2ae13835:21300018,0,0,0,0,0,0,ÃèÊö
 1000,Consume;3,icon;2;1,material1 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,ÃèÊö
 1001,Consume;3,icon;2;1,material2 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300010,0,0,0,0,0,0,ÃèÊö
 1002,Consume;3,icon;2;1,material3 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300012,0,0,0,0,0,0,ÃèÊö
@@ -308,6 +427,7 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 1006,Consume;3,icon;2;1,material7 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,ÃèÊö
 1007,Consume;3,icon;2;1,material8 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,ÃèÊö
 1008,Consume;3,icon;2;1,material9 sp,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300096,0,0,0,0,0,0,ÃèÊö
+1009,Consume;3,icon;2;1,material10 sp,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300124,0,0,0,0,0,0,ÃèÊö
 1000,monster;5,skin;2;1,m1000 skin,assetobject;1,c9d763f339ced4f4bba37cad458124e5:2100000,0,0,0,0,0,0,ÃèÊö
 1001,monster;5,skin;2;1,m1001 skin,assetobject;1,bfa1aaed27bc995418f9b21096a255bc:2100000,0,0,0,0,0,0,ÃèÊö
 1002,monster;5,skin;2;1,m1002 skin,assetobject;1,2e79dbe9d6090f544a40d2803d64facd:2100000,0,0,0,0,0,0,ÃèÊö
@@ -423,82 +543,85 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 4025,monster;5,skin;2;1,m4025 skin,assetobject;1,8468c91cc3d55df4281ff97a20386ecb:2100000,0,0,0,0,0,0,ÃèÊö
 4026,monster;5,skin;2;1,m4026 skin,assetobject;1,8f02a4fa4f0d16d4b896e827f367c8a1:2100000,0,0,0,0,0,0,ÃèÊö
 4027,monster;5,skin;2;1,m4027 skin,assetobject;1,8872d30719368e042a3f2deac94c0a20:2100000,0,0,0,0,0,0,ÃèÊö
-5000,monster;5,skin;2;1,m5000 skin,assetobject;1,d2f3da30f2ad05f4fbc260e255739902:2100000,0,0,0,0,0,0,ÃèÊö
-5001,monster;5,skin;2;1,m5001 skin,assetobject;1,2190ee1187c60c849a625beed37c9429:2100000,0,0,0,0,0,0,ÃèÊö
-5002,monster;5,skin;2;1,m5002 skin,assetobject;1,2d024515bdbf57a46b1e7e8750a04e17:2100000,0,0,0,0,0,0,ÃèÊö
-5003,monster;5,skin;2;1,m5003 skin,assetobject;1,757b973d497508e43a633422518b79ea:2100000,0,0,0,0,0,0,ÃèÊö
-5004,monster;5,skin;2;1,m5004 skin,assetobject;1,566a349e2fa731b429203cda419aa11c:2100000,0,0,0,0,0,0,ÃèÊö
-5005,monster;5,skin;2;1,m5005 skin,assetobject;1,f42d559405b46f242bd15816b0a6f8a4:2100000,0,0,0,0,0,0,ÃèÊö
-5006,monster;5,skin;2;1,m5006 skin,assetobject;1,44967caf29fec38468873f13c45af885:2100000,0,0,0,0,0,0,ÃèÊö
-5007,monster;5,skin;2;1,m5007 skin,assetobject;1,4bc708d14f05c584d960a58dcd98f2ed:2100000,0,0,0,0,0,0,ÃèÊö
-5008,monster;5,skin;2;1,m5008 skin,assetobject;1,a4f9c02d6f0f5944080ceb8629057bda:2100000,0,0,0,0,0,0,ÃèÊö
-5009,monster;5,skin;2;1,m5009 skin,assetobject;1,4d8ecc7d5d9fa5542ace8bce52adfceb:2100000,0,0,0,0,0,0,ÃèÊö
-5010,monster;5,skin;2;1,m5010 skin,assetobject;1,45df2fa7ca683bf4ba97e79391ae3113:2100000,0,0,0,0,0,0,ÃèÊö
-5011,monster;5,skin;2;1,m5011 skin,assetobject;1,cfbee2de75c2b514ba0234192b88822a:2100000,0,0,0,0,0,0,ÃèÊö
-5012,monster;5,skin;2;1,m5012 skin,assetobject;1,0e80f813c67d6d045acdca6d2675ef1c:2100000,0,0,0,0,0,0,ÃèÊö
-5013,monster;5,skin;2;1,m5013 skin,assetobject;1,5d56d9f784e265c4b96665062714ef5d:2100000,0,0,0,0,0,0,ÃèÊö
-5014,monster;5,skin;2;1,m5014 skin,assetobject;1,3e9983319c5a93547bc8d3bb7ac1cfab:2100000,0,0,0,0,0,0,ÃèÊö
-5015,monster;5,skin;2;1,m5015 skin,assetobject;1,a567f040a2d1fcc48af79c7e401d8b3b:2100000,0,0,0,0,0,0,ÃèÊö
-5016,monster;5,skin;2;1,m5016 skin,assetobject;1,30a221706d7664e4da5a873df84f1c86:2100000,0,0,0,0,0,0,ÃèÊö
-5017,monster;5,skin;2;1,m5017 skin,assetobject;1,3ebb45d28d167554383e1eb01c416048:2100000,0,0,0,0,0,0,ÃèÊö
-5018,monster;5,skin;2;1,m5018 skin,assetobject;1,0ae1ac50aeb0e51459ffb01a229488b3:2100000,0,0,0,0,0,0,ÃèÊö
-5019,monster;5,skin;2;1,m5019 skin,assetobject;1,d37f0ee6d13590743a6f432135f4043d:2100000,0,0,0,0,0,0,ÃèÊö
-5020,monster;5,skin;2;1,m5020 skin,assetobject;1,484f2dd9aad639f489c73265ec27b15d:2100000,0,0,0,0,0,0,ÃèÊö
-5021,monster;5,skin;2;1,m5021 skin,assetobject;1,ce70b2b75aeccd8478d3a9319b969948:2100000,0,0,0,0,0,0,ÃèÊö
-5022,monster;5,skin;2;1,m5022 skin,assetobject;1,8fb27c4d583da6b42a3f1762b8ff9a8e:2100000,0,0,0,0,0,0,ÃèÊö
-5023,monster;5,skin;2;1,m5023 skin,assetobject;1,9c06a3c618cd7cd41bd4c1f8b9e862c6:2100000,0,0,0,0,0,0,ÃèÊö
-5024,monster;5,skin;2;1,m5024 skin,assetobject;1,9dcb593cb82b2be4f8e84077fc9eccb8:2100000,0,0,0,0,0,0,ÃèÊö
-5025,monster;5,skin;2;1,m5025 skin,assetobject;1,5d6d219959aeafb499f871c5e9bc7a1d:2100000,0,0,0,0,0,0,ÃèÊö
-5026,monster;5,skin;2;1,m5026 skin,assetobject;1,430581bf08d6cb5429262c4d99e3d456:2100000,0,0,0,0,0,0,ÃèÊö
-5027,monster;5,skin;2;1,m5027 skin,assetobject;1,5f3bc4889cba32c45903ffb20d4b3889:2100000,0,0,0,0,0,0,ÃèÊö
-5028,monster;5,skin;2;1,m5028 skin,assetobject;1,d96b70d0f9d7a5f4c9f0b7d11f802d71:2100000,0,0,0,0,0,0,ÃèÊö
-5029,monster;5,skin;2;1,m5029 skin,assetobject;1,9aae974e360cfc141bbe4232a4105fdf:2100000,0,0,0,0,0,0,ÃèÊö
-5030,monster;5,skin;2;1,m5030 skin,assetobject;1,f629689c4941e454a87826da5aa5c023:2100000,0,0,0,0,0,0,ÃèÊö
-5031,monster;5,skin;2;1,m5031 skin,assetobject;1,0d726e8a444177a4c9b0e78a1cf354f4:2100000,0,0,0,0,0,0,ÃèÊö
-5032,monster;5,skin;2;1,m5032 skin,assetobject;1,20fdfdd5c7fedbb45bdcb4ebeb45a14a:2100000,0,0,0,0,0,0,ÃèÊö
-5033,monster;5,skin;2;1,m5033 skin,assetobject;1,df627ae627fb60a4782a27b469a56507:2100000,0,0,0,0,0,0,ÃèÊö
-5034,monster;5,skin;2;1,m5034 skin,assetobject;1,a77799bc20f47ea4eb7e2984ad78e561:2100000,0,0,0,0,0,0,ÃèÊö
-5035,monster;5,skin;2;1,m5035 skin,assetobject;1,5e249a34536b5a242a4792c4911c7fc0:2100000,0,0,0,0,0,0,ÃèÊö
-5036,monster;5,skin;2;1,m5036 skin,assetobject;1,bea5fd8e33858eb49855f1dcf570d639:2100000,0,0,0,0,0,0,ÃèÊö
-5037,monster;5,skin;2;1,m5037 skin,assetobject;1,5fea27059086556459e1b5a0d829541a:2100000,0,0,0,0,0,0,ÃèÊö
-6000,monster;5,skin;2;1,m6000 skin,assetobject;1,d2f3da30f2ad05f4fbc260e255739902:2100000,0,0,0,0,0,0,ÃèÊö
-6001,monster;5,skin;2;1,m6001 skin,assetobject;1,2190ee1187c60c849a625beed37c9429:2100000,0,0,0,0,0,0,ÃèÊö
-6002,monster;5,skin;2;1,m6002 skin,assetobject;1,2d024515bdbf57a46b1e7e8750a04e17:2100000,0,0,0,0,0,0,ÃèÊö
-6003,monster;5,skin;2;1,m6003 skin,assetobject;1,757b973d497508e43a633422518b79ea:2100000,0,0,0,0,0,0,ÃèÊö
-6004,monster;5,skin;2;1,m6004 skin,assetobject;1,566a349e2fa731b429203cda419aa11c:2100000,0,0,0,0,0,0,ÃèÊö
-6005,monster;5,skin;2;1,m6005 skin,assetobject;1,f42d559405b46f242bd15816b0a6f8a4:2100000,0,0,0,0,0,0,ÃèÊö
-6006,monster;5,skin;2;1,m6006 skin,assetobject;1,44967caf29fec38468873f13c45af885:2100000,0,0,0,0,0,0,ÃèÊö
-6007,monster;5,skin;2;1,m6007 skin,assetobject;1,4bc708d14f05c584d960a58dcd98f2ed:2100000,0,0,0,0,0,0,ÃèÊö
-6008,monster;5,skin;2;1,m6008 skin,assetobject;1,a4f9c02d6f0f5944080ceb8629057bda:2100000,0,0,0,0,0,0,ÃèÊö
-6009,monster;5,skin;2;1,m6009 skin,assetobject;1,4d8ecc7d5d9fa5542ace8bce52adfceb:2100000,0,0,0,0,0,0,ÃèÊö
-6010,monster;5,skin;2;1,m6010 skin,assetobject;1,45df2fa7ca683bf4ba97e79391ae3113:2100000,0,0,0,0,0,0,ÃèÊö
-6011,monster;5,skin;2;1,m6011 skin,assetobject;1,cfbee2de75c2b514ba0234192b88822a:2100000,0,0,0,0,0,0,ÃèÊö
-6012,monster;5,skin;2;1,m6012 skin,assetobject;1,0e80f813c67d6d045acdca6d2675ef1c:2100000,0,0,0,0,0,0,ÃèÊö
-6013,monster;5,skin;2;1,m6013 skin,assetobject;1,5d56d9f784e265c4b96665062714ef5d:2100000,0,0,0,0,0,0,ÃèÊö
-6014,monster;5,skin;2;1,m6014 skin,assetobject;1,3e9983319c5a93547bc8d3bb7ac1cfab:2100000,0,0,0,0,0,0,ÃèÊö
-6015,monster;5,skin;2;1,m6015 skin,assetobject;1,a567f040a2d1fcc48af79c7e401d8b3b:2100000,0,0,0,0,0,0,ÃèÊö
-6016,monster;5,skin;2;1,m6016 skin,assetobject;1,30a221706d7664e4da5a873df84f1c86:2100000,0,0,0,0,0,0,ÃèÊö
-6017,monster;5,skin;2;1,m6017 skin,assetobject;1,3ebb45d28d167554383e1eb01c416048:2100000,0,0,0,0,0,0,ÃèÊö
-6018,monster;5,skin;2;1,m6018 skin,assetobject;1,0ae1ac50aeb0e51459ffb01a229488b3:2100000,0,0,0,0,0,0,ÃèÊö
-6019,monster;5,skin;2;1,m6019 skin,assetobject;1,d37f0ee6d13590743a6f432135f4043d:2100000,0,0,0,0,0,0,ÃèÊö
-6020,monster;5,skin;2;1,m6020 skin,assetobject;1,484f2dd9aad639f489c73265ec27b15d:2100000,0,0,0,0,0,0,ÃèÊö
-6021,monster;5,skin;2;1,m6021 skin,assetobject;1,ce70b2b75aeccd8478d3a9319b969948:2100000,0,0,0,0,0,0,ÃèÊö
-6022,monster;5,skin;2;1,m6022 skin,assetobject;1,8fb27c4d583da6b42a3f1762b8ff9a8e:2100000,0,0,0,0,0,0,ÃèÊö
-6023,monster;5,skin;2;1,m6023 skin,assetobject;1,9c06a3c618cd7cd41bd4c1f8b9e862c6:2100000,0,0,0,0,0,0,ÃèÊö
-6024,monster;5,skin;2;1,m6024 skin,assetobject;1,9dcb593cb82b2be4f8e84077fc9eccb8:2100000,0,0,0,0,0,0,ÃèÊö
-6025,monster;5,skin;2;1,m6025 skin,assetobject;1,5d6d219959aeafb499f871c5e9bc7a1d:2100000,0,0,0,0,0,0,ÃèÊö
-6026,monster;5,skin;2;1,m6026 skin,assetobject;1,430581bf08d6cb5429262c4d99e3d456:2100000,0,0,0,0,0,0,ÃèÊö
-6027,monster;5,skin;2;1,m6027 skin,assetobject;1,5f3bc4889cba32c45903ffb20d4b3889:2100000,0,0,0,0,0,0,ÃèÊö
-6028,monster;5,skin;2;1,m6028 skin,assetobject;1,d96b70d0f9d7a5f4c9f0b7d11f802d71:2100000,0,0,0,0,0,0,ÃèÊö
-6029,monster;5,skin;2;1,m6029 skin,assetobject;1,9aae974e360cfc141bbe4232a4105fdf:2100000,0,0,0,0,0,0,ÃèÊö
-6030,monster;5,skin;2;1,m6030 skin,assetobject;1,f629689c4941e454a87826da5aa5c023:2100000,0,0,0,0,0,0,ÃèÊö
-6031,monster;5,skin;2;1,m6031 skin,assetobject;1,0d726e8a444177a4c9b0e78a1cf354f4:2100000,0,0,0,0,0,0,ÃèÊö
-6032,monster;5,skin;2;1,m6032 skin,assetobject;1,20fdfdd5c7fedbb45bdcb4ebeb45a14a:2100000,0,0,0,0,0,0,ÃèÊö
-6033,monster;5,skin;2;1,m6033 skin,assetobject;1,df627ae627fb60a4782a27b469a56507:2100000,0,0,0,0,0,0,ÃèÊö
-6034,monster;5,skin;2;1,m6034 skin,assetobject;1,a77799bc20f47ea4eb7e2984ad78e561:2100000,0,0,0,0,0,0,ÃèÊö
-6035,monster;5,skin;2;1,m6035 skin,assetobject;1,5e249a34536b5a242a4792c4911c7fc0:2100000,0,0,0,0,0,0,ÃèÊö
-6036,monster;5,skin;2;1,m6036 skin,assetobject;1,bea5fd8e33858eb49855f1dcf570d639:2100000,0,0,0,0,0,0,ÃèÊö
-6037,monster;5,skin;2;1,m6037 skin,assetobject;1,5fea27059086556459e1b5a0d829541a:2100000,0,0,0,0,0,0,ÃèÊö
+5000,monster;5,skin;2;1,m5000 skin,assetobject;1,a8d5ecb8f5247d14b8f9de0b9f7284af:2100000,0,0,0,0,0,0,ÃèÊö
+5001,monster;5,skin;2;1,m5001 skin,assetobject;1,3897d3fdcbbd27144b944439504219cb:2100000,0,0,0,0,0,0,ÃèÊö
+5002,monster;5,skin;2;1,m5002 skin,assetobject;1,2948d8d2a273f0e41a7214c06f7913ad:2100000,0,0,0,0,0,0,ÃèÊö
+5003,monster;5,skin;2;1,m5003 skin,assetobject;1,da955d6362e85b0449ef23e36ab9fc73:2100000,0,0,0,0,0,0,ÃèÊö
+5004,monster;5,skin;2;1,m5004 skin,assetobject;1,bfa1aaed27bc995418f9b21096a255bc:2100000,0,0,0,0,0,0,ÃèÊö
+5005,monster;5,skin;2;1,m5005 skin,assetobject;1,f9244b6a40935194a80f1134a7e8ae63:2100000,0,0,0,0,0,0,ÃèÊö
+5006,monster;5,skin;2;1,m5006 skin,assetobject;1,2e79dbe9d6090f544a40d2803d64facd:2100000,0,0,0,0,0,0,ÃèÊö
+5007,monster;5,skin;2;1,m5007 skin,assetobject;1,1568de6a45e854f47a4b859d52b1f6af:2100000,0,0,0,0,0,0,ÃèÊö
+5008,monster;5,skin;2;1,m5008 skin,assetobject;1,87a555cd5a7c9c24c8a8fc39f787f89d:2100000,0,0,0,0,0,0,ÃèÊö
+5009,monster;5,skin;2;1,m5009 skin,assetobject;1,d17b4bbcc9e3cdd43978fe8e74dd5ba7:2100000,0,0,0,0,0,0,ÃèÊö
+5010,monster;5,skin;2;1,m5010 skin,assetobject;1,f16469659146b8b458232432f6531249:2100000,0,0,0,0,0,0,ÃèÊö
+5011,monster;5,skin;2;1,m5011 skin,assetobject;1,1067063f2ba7a274fa567df78f37f463:2100000,0,0,0,0,0,0,ÃèÊö
+5012,monster;5,skin;2;1,m5012 skin,assetobject;1,ed19c3a8580a36c4c9b30237516e33a9:2100000,0,0,0,0,0,0,ÃèÊö
+5013,monster;5,skin;2;1,m5013 skin,assetobject;1,91a84d32c6e3a10409b57f7e0b3dc61e:2100000,0,0,0,0,0,0,ÃèÊö
+5014,monster;5,skin;2;1,m5014 skin,assetobject;1,239dea8c56b7a46418789547b9267be7:2100000,0,0,0,0,0,0,ÃèÊö
+5015,monster;5,skin;2;1,m5015 skin,assetobject;1,f9998dae7a74eee489764d2733d4a785:2100000,0,0,0,0,0,0,ÃèÊö
+5016,monster;5,skin;2;1,m5016 skin,assetobject;1,08f6793f0fc9d2040a16151b610b649c:2100000,0,0,0,0,0,0,ÃèÊö
+5017,monster;5,skin;2;1,m5017 skin,assetobject;1,74aeca62d22b13c4da6480547856a9de:2100000,0,0,0,0,0,0,ÃèÊö
+5018,monster;5,skin;2;1,m5018 skin,assetobject;1,48c05a64b9723234a85c172062646ab8:2100000,0,0,0,0,0,0,ÃèÊö
+5019,monster;5,skin;2;1,m5019 skin,assetobject;1,8da7c9b52d487164e8611a8c5f59fa9a:2100000,0,0,0,0,0,0,ÃèÊö
+5020,monster;5,skin;2;1,m5020 skin,assetobject;1,df48552a8a321d840bda0aad6741e440:2100000,0,0,0,0,0,0,ÃèÊö
+5021,monster;5,skin;2;1,m5021 skin,assetobject;1,78f76e19b3bb70c49972c0c9291b8e74:2100000,0,0,0,0,0,0,ÃèÊö
+5022,monster;5,skin;2;1,m5022 skin,assetobject;1,2cdf849c3a08ac14680edf69ffe0c59e:2100000,0,0,0,0,0,0,ÃèÊö
+5023,monster;5,skin;2;1,m5023 skin,assetobject;1,0c98ab4bd0a9fef48804cedcda4e6948:2100000,0,0,0,0,0,0,ÃèÊö
+5024,monster;5,skin;2;1,m5024 skin,assetobject;1,767d1de62475d0f4bb0e51102aa05799:2100000,0,0,0,0,0,0,ÃèÊö
+5025,monster;5,skin;2;1,m5025 skin,assetobject;1,aa10794e4ff618249b7816ef2d2cbf5b:2100000,0,0,0,0,0,0,ÃèÊö
+5026,monster;5,skin;2;1,m5026 skin,assetobject;1,dacdf47c885e2054cac30317a83ed0fd:2100000,0,0,0,0,0,0,ÃèÊö
+5027,monster;5,skin;2;1,m5027 skin,assetobject;1,6fd0bf9d81168a34d99f47a05aea40eb:2100000,0,0,0,0,0,0,ÃèÊö
+5028,monster;5,skin;2;1,m5028 skin,assetobject;1,e125a0551672a854abf4a6e334396c0c:2100000,0,0,0,0,0,0,ÃèÊö
+5029,monster;5,skin;2;1,m5029 skin,assetobject;1,eb3ad557c9dd1b14784017ab457ff4a0:2100000,0,0,0,0,0,0,ÃèÊö
+5030,monster;5,skin;2;1,m5030 skin,assetobject;1,00aacee9d8ffae84fb62d448f4bc824e:2100000,0,0,0,0,0,0,ÃèÊö
+5031,monster;5,skin;2;1,m5031 skin,assetobject;1,92621d7f0b05fc448b9f6aba82d7f7fa:2100000,0,0,0,0,0,0,ÃèÊö
+5032,monster;5,skin;2;1,m5032 skin,assetobject;1,a231cc5587d4fa0418b2ddde5541aa7e:2100000,0,0,0,0,0,0,ÃèÊö
+5033,monster;5,skin;2;1,m5033 skin,assetobject;1,0dbc4d9862cb8ff44973598e512cf4e4:2100000,0,0,0,0,0,0,ÃèÊö
+5034,monster;5,skin;2;1,m5034 skin,assetobject;1,0ddea791457ce8e47ad3234e3b5a4fba:2100000,0,0,0,0,0,0,ÃèÊö
+5035,monster;5,skin;2;1,m5035 skin,assetobject;1,a88806c1373441e4e961d91e63de6f24:2100000,0,0,0,0,0,0,ÃèÊö
+5036,monster;5,skin;2;1,m5036 skin,assetobject;1,55df0cddfa58b244b9823f52ee0df438:2100000,0,0,0,0,0,0,ÃèÊö
+5037,monster;5,skin;2;1,skin m5037,assetobject;1,981a8d56a840b1942967b5d1bc533ab0:2100000,0,0,0,0,0,0,ÃèÊö
+5038,monster;5,skin;2;1,skin m5038,assetobject;1,3c4992bb675325b41a5d25a048efa322:2100000,0,0,0,0,0,0,ÃèÊö
+5039,monster;5,skin;2;1,skin m5039,assetobject;1,d21beb032f35c924aa68a2f2f75d1ef7:2100000,0,0,0,0,0,0,ÃèÊö
+5040,monster;5,skin;2;1,skin m5040,assetobject;1,ff0cd7aeac6e12f418cf1dc3c801fab3:2100000,0,0,0,0,0,0,ÃèÊö
+5041,monster;5,skin;2;1,skin m5041,assetobject;1,a437b1744c7233a4a9bf85d810677a1c:2100000,0,0,0,0,0,0,ÃèÊö
+5042,monster;5,skin;2;1,skin m5042,assetobject;1,5ef81d7a4b373994b990abf00e95104d:2100000,0,0,0,0,0,0,ÃèÊö
+5043,monster;5,skin;2;1,skin m5043,assetobject;1,e208072a603a3354cae2ad671e8599d5:2100000,0,0,0,0,0,0,ÃèÊö
+5044,monster;5,skin;2;1,skin m5044,assetobject;1,7a2b87cf585f9c84fb1c7a0e68908232:2100000,0,0,0,0,0,0,ÃèÊö
+6000,monster;5,skin;2;1,m6002 skin,assetobject;1,2d024515bdbf57a46b1e7e8750a04e17:2100000,0,0,0,0,0,0,ÃèÊö
+6001,monster;5,skin;2;1,m6003 skin,assetobject;1,757b973d497508e43a633422518b79ea:2100000,0,0,0,0,0,0,ÃèÊö
+6002,monster;5,skin;2;1,m6004 skin,assetobject;1,566a349e2fa731b429203cda419aa11c:2100000,0,0,0,0,0,0,ÃèÊö
+6003,monster;5,skin;2;1,m6005 skin,assetobject;1,f42d559405b46f242bd15816b0a6f8a4:2100000,0,0,0,0,0,0,ÃèÊö
+6004,monster;5,skin;2;1,m6006 skin,assetobject;1,44967caf29fec38468873f13c45af885:2100000,0,0,0,0,0,0,ÃèÊö
+6005,monster;5,skin;2;1,m6007 skin,assetobject;1,4bc708d14f05c584d960a58dcd98f2ed:2100000,0,0,0,0,0,0,ÃèÊö
+6006,monster;5,skin;2;1,m6010 skin,assetobject;1,45df2fa7ca683bf4ba97e79391ae3113:2100000,0,0,0,0,0,0,ÃèÊö
+6007,monster;5,skin;2;1,m6011 skin,assetobject;1,cfbee2de75c2b514ba0234192b88822a:2100000,0,0,0,0,0,0,ÃèÊö
+6008,monster;5,skin;2;1,m6012 skin,assetobject;1,0e80f813c67d6d045acdca6d2675ef1c:2100000,0,0,0,0,0,0,ÃèÊö
+6009,monster;5,skin;2;1,m6013 skin,assetobject;1,5d56d9f784e265c4b96665062714ef5d:2100000,0,0,0,0,0,0,ÃèÊö
+6010,monster;5,skin;2;1,m6014 skin,assetobject;1,3e9983319c5a93547bc8d3bb7ac1cfab:2100000,0,0,0,0,0,0,ÃèÊö
+6011,monster;5,skin;2;1,m6015 skin,assetobject;1,a567f040a2d1fcc48af79c7e401d8b3b:2100000,0,0,0,0,0,0,ÃèÊö
+6012,monster;5,skin;2;1,m6016 skin,assetobject;1,30a221706d7664e4da5a873df84f1c86:2100000,0,0,0,0,0,0,ÃèÊö
+6013,monster;5,skin;2;1,m6017 skin,assetobject;1,3ebb45d28d167554383e1eb01c416048:2100000,0,0,0,0,0,0,ÃèÊö
+6014,monster;5,skin;2;1,m6018 skin,assetobject;1,0ae1ac50aeb0e51459ffb01a229488b3:2100000,0,0,0,0,0,0,ÃèÊö
+6015,monster;5,skin;2;1,m6019 skin,assetobject;1,d37f0ee6d13590743a6f432135f4043d:2100000,0,0,0,0,0,0,ÃèÊö
+6016,monster;5,skin;2;1,m6020 skin,assetobject;1,484f2dd9aad639f489c73265ec27b15d:2100000,0,0,0,0,0,0,ÃèÊö
+6017,monster;5,skin;2;1,m6021 skin,assetobject;1,ce70b2b75aeccd8478d3a9319b969948:2100000,0,0,0,0,0,0,ÃèÊö
+6018,monster;5,skin;2;1,m6022 skin,assetobject;1,8fb27c4d583da6b42a3f1762b8ff9a8e:2100000,0,0,0,0,0,0,ÃèÊö
+6019,monster;5,skin;2;1,m6023 skin,assetobject;1,9c06a3c618cd7cd41bd4c1f8b9e862c6:2100000,0,0,0,0,0,0,ÃèÊö
+6020,monster;5,skin;2;1,m6024 skin,assetobject;1,9dcb593cb82b2be4f8e84077fc9eccb8:2100000,0,0,0,0,0,0,ÃèÊö
+6021,monster;5,skin;2;1,m6025 skin,assetobject;1,5d6d219959aeafb499f871c5e9bc7a1d:2100000,0,0,0,0,0,0,ÃèÊö
+6022,monster;5,skin;2;1,m6026 skin,assetobject;1,430581bf08d6cb5429262c4d99e3d456:2100000,0,0,0,0,0,0,ÃèÊö
+6023,monster;5,skin;2;1,m6027 skin,assetobject;1,5f3bc4889cba32c45903ffb20d4b3889:2100000,0,0,0,0,0,0,ÃèÊö
+6024,monster;5,skin;2;1,m6028 skin,assetobject;1,d96b70d0f9d7a5f4c9f0b7d11f802d71:2100000,0,0,0,0,0,0,ÃèÊö
+6025,monster;5,skin;2;1,m6029 skin,assetobject;1,9aae974e360cfc141bbe4232a4105fdf:2100000,0,0,0,0,0,0,ÃèÊö
+6026,monster;5,skin;2;1,m6030 skin,assetobject;1,f629689c4941e454a87826da5aa5c023:2100000,0,0,0,0,0,0,ÃèÊö
+6027,monster;5,skin;2;1,m6031 skin,assetobject;1,0d726e8a444177a4c9b0e78a1cf354f4:2100000,0,0,0,0,0,0,ÃèÊö
+6028,monster;5,skin;2;1,m6032 skin,assetobject;1,20fdfdd5c7fedbb45bdcb4ebeb45a14a:2100000,0,0,0,0,0,0,ÃèÊö
+6029,monster;5,skin;2;1,m6033 skin,assetobject;1,df627ae627fb60a4782a27b469a56507:2100000,0,0,0,0,0,0,ÃèÊö
+6030,monster;5,skin;2;1,m6034 skin,assetobject;1,a77799bc20f47ea4eb7e2984ad78e561:2100000,0,0,0,0,0,0,ÃèÊö
+6031,monster;5,skin;2;1,m6035 skin,assetobject;1,5e249a34536b5a242a4792c4911c7fc0:2100000,0,0,0,0,0,0,ÃèÊö
+6032,monster;5,skin;2;1,m6036 skin,assetobject;1,bea5fd8e33858eb49855f1dcf570d639:2100000,0,0,0,0,0,0,ÃèÊö
+6033,monster;5,skin;2;1,m6037 skin,assetobject;1,5fea27059086556459e1b5a0d829541a:2100000,0,0,0,0,0,0,ÃèÊö
 7000,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
 7001,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
 7002,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
@@ -509,7 +632,42 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 7007,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
 7008,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
 7009,monster;5,skin;2;1,m7000 skin,assetobject;1,c03d4bdabd435a5418385b56fcff1f82:2100000,0,0,0,0,0,0,ÃèÊö
+12000,monster;5,skin;2;1,m12000 skin,assetobject;1,33b0a8955817145468f654c3300b28cc:2100000,0,0,0,0,0,0,ÓÄÁé½©Ê¬µÄ²ÄÖÊ
 16000,monster;5,skin;2;1,m16000 skin,assetobject;1,685775caee8e35d4599e5bcc06720029:2100000,0,0,0,0,0,0,ÃèÊö
+18000,monster;5,skin;2;1,skin m18000,assetobject;1,2d024515bdbf57a46b1e7e8750a04e17:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18001,monster;5,skin;2;1,skin m18001,assetobject;1,757b973d497508e43a633422518b79ea:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18002,monster;5,skin;2;1,skin m18002,assetobject;1,566a349e2fa731b429203cda419aa11c:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18003,monster;5,skin;2;1,skin m18003,assetobject;1,f42d559405b46f242bd15816b0a6f8a4:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18004,monster;5,skin;2;1,skin m18004,assetobject;1,44967caf29fec38468873f13c45af885:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18005,monster;5,skin;2;1,skin m18005,assetobject;1,4bc708d14f05c584d960a58dcd98f2ed:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18006,monster;5,skin;2;1,skin m18006,assetobject;1,45df2fa7ca683bf4ba97e79391ae3113:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18007,monster;5,skin;2;1,skin m18007,assetobject;1,cfbee2de75c2b514ba0234192b88822a:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18008,monster;5,skin;2;1,skin m18008,assetobject;1,0e80f813c67d6d045acdca6d2675ef1c:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18009,monster;5,skin;2;1,skin m18009,assetobject;1,5d56d9f784e265c4b96665062714ef5d:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18010,monster;5,skin;2;1,skin m18010,assetobject;1,3e9983319c5a93547bc8d3bb7ac1cfab:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18011,monster;5,skin;2;1,skin m18011,assetobject;1,a567f040a2d1fcc48af79c7e401d8b3b:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18012,monster;5,skin;2;1,skin m18012,assetobject;1,30a221706d7664e4da5a873df84f1c86:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18013,monster;5,skin;2;1,skin m18013,assetobject;1,3ebb45d28d167554383e1eb01c416048:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18014,monster;5,skin;2;1,skin m18014,assetobject;1,0ae1ac50aeb0e51459ffb01a229488b3:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18015,monster;5,skin;2;1,skin m18015,assetobject;1,d37f0ee6d13590743a6f432135f4043d:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18016,monster;5,skin;2;1,skin m18016,assetobject;1,484f2dd9aad639f489c73265ec27b15d:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18017,monster;5,skin;2;1,skin m18017,assetobject;1,ce70b2b75aeccd8478d3a9319b969948:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18018,monster;5,skin;2;1,skin m18018,assetobject;1,8fb27c4d583da6b42a3f1762b8ff9a8e:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18019,monster;5,skin;2;1,skin m18019,assetobject;1,9c06a3c618cd7cd41bd4c1f8b9e862c6:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18020,monster;5,skin;2;1,skin m18020,assetobject;1,9dcb593cb82b2be4f8e84077fc9eccb8:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18021,monster;5,skin;2;1,skin m18021,assetobject;1,5d6d219959aeafb499f871c5e9bc7a1d:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18022,monster;5,skin;2;1,skin m18022,assetobject;1,430581bf08d6cb5429262c4d99e3d456:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18023,monster;5,skin;2;1,skin m18023,assetobject;1,5f3bc4889cba32c45903ffb20d4b3889:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18024,monster;5,skin;2;1,skin m18024,assetobject;1,d96b70d0f9d7a5f4c9f0b7d11f802d71:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18025,monster;5,skin;2;1,skin m18025,assetobject;1,9aae974e360cfc141bbe4232a4105fdf:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18026,monster;5,skin;2;1,skin m18026,assetobject;1,f629689c4941e454a87826da5aa5c023:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18027,monster;5,skin;2;1,skin m18027,assetobject;1,0d726e8a444177a4c9b0e78a1cf354f4:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18028,monster;5,skin;2;1,skin m18028,assetobject;1,20fdfdd5c7fedbb45bdcb4ebeb45a14a:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18029,monster;5,skin;2;1,skin m18029,assetobject;1,df627ae627fb60a4782a27b469a56507:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18030,monster;5,skin;2;1,skin m18030,assetobject;1,a77799bc20f47ea4eb7e2984ad78e561:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18031,monster;5,skin;2;1,skin m18031,assetobject;1,5e249a34536b5a242a4792c4911c7fc0:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18032,monster;5,skin;2;1,skin m18032,assetobject;1,bea5fd8e33858eb49855f1dcf570d639:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
+18033,monster;5,skin;2;1,skin m18033,assetobject;1,5fea27059086556459e1b5a0d829541a:2100000,0,0,0,0,0,0,µ¶ÊÖ½©Ê¬Æ¤·ô
 1,body;6,mesh;1,body1 mesh,assetobject;1,53d344e8499846d4aabd95ae6ab5c41f:170376,0,0,0,0,0,0,ÃèÊö
 1,Jewelry;10,icon;2;1,jingji icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300012,0,0,0,0,0,0,ÃèÊö
 2,Jewelry;10,icon;2;1,lucky icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300020,0,0,0,0,0,0,ÃèÊö
@@ -527,6 +685,7 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 15,Jewelry;10,icon;2;1,mabiao icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300016,0,0,0,0,0,0,ÃèÊö
 16,Jewelry;10,icon;2;1,ti tui icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300032,0,0,0,0,0,0,ÃèÊö
 17,Jewelry;10,icon;2;1,heart icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300000,0,0,0,0,0,0,ÃèÊö
+19,Jewelry;10,icon;2;1,ya icon,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300112,0,0,0,0,0,0,ÃèÊö
 100,Jewelry;10,icon;2;1,tigerfinger icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300034,0,0,0,0,0,0,ÃèÊö
 0,weapon;1,mesh;1,arms@empty,assetbundle;2,3e311a6101c82fd4cb492f541739d648,0,-2.5,0,0,0,0,¿ÕÊÖÄ£ĞÍ
 1,weapon;1,mesh;1,arms@woodknife,assetbundle;2,e1182555a26a17246990d66031533153,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
@@ -541,7 +700,7 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 6,weapon;1,mesh;1,arms@Boomerang,assetbundle;2,920d2f34a94cfe440a11dbaeecbba387,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
 6,weapon;1,mesh;1;1,boomerangModel,assetbundle;2,ccfff31515a4cc042822fa0231832e72,0,0,0,0,0,0,ÄÃØ°Ê×½ÇÉ«
 7,weapon;1,mesh;1,arms@wrench01,assetbundle;2,01bd3f05e5c400c46a4b39db50d0d32f,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
-7,weapon;1,mesh;1;1,wrench_1,assetbundle;2,c57f24a43bbcb5d48b3911f463d6a526,0,0,0,0,0,-90,ÄÃØ°Ê×½ÇÉ«
+7,weapon;1,mesh;1;1,wrench_1,assetbundle;2,c57f24a43bbcb5d48b3911f463d6a526,0,0,0,0,0,0,ÄÃØ°Ê×½ÇÉ«
 8,weapon;1,mesh;1,arms@handaxe,assetbundle;2,d47759da336b1834ca4cf2a22d53735a,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
 8,weapon;1,mesh;1;1,Handaxe,assetbundle;2,55802a5c4cb41c84f8a19a120f43f1e7,0,0,0,0,0,0,ÄÃØ°Ê×½ÇÉ«
 9,weapon;1,mesh;1,arms@saw,assetbundle;2,8222bf5bd6fd70d43b389cad8661196a,0,-0.4,-0.5,0,0,0,ÄÃØ°Ê×½ÇÉ«
@@ -561,13 +720,13 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 23,weapon;1,mesh;1,arms@Pistol,assetbundle;2,80d221c80283c05439416d885894690b,-0.1,-0.4,-0.5,5,0,0,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
 23,weapon;1,mesh;1;1,Pistol,assetbundle;2,2b977819a12ceba4587431bfcf95320b,0,0,0,0,0,-90,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
 23,weapon;1,mesh;1;2,handgun_1,assetbundle;2,fd8bf623410b8dc44bbaa7dcee6cab94,0.118,0,0.062,0,90,90,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
-24,weapon;1,mesh;1,arms@GLOCK20,assetbundle;2,13c4b42ee3fde8048a328bf53fa7dce0,-0.1,-0.25,-0.5,5,0,0,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
+24,weapon;1,mesh;1,arms@GLOCK20,assetbundle;2,13c4b42ee3fde8048a328bf53fa7dce0,-0.1,-0.35,-0.5,5,0,0,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
 24,weapon;1,mesh;1;1,GLOCK20,assetbundle;2,ad8185acf3cabd64d969c372e889ddc0,0,0,0,0,0,-90,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
-25,weapon;1,mesh;1,arms@p228,assetbundle;2,1f7fc0b822438ca4fba2612ac9bf58a6,-0.1,-0.25,-0.5,5,0,0,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
+25,weapon;1,mesh;1,arms@p228,assetbundle;2,1f7fc0b822438ca4fba2612ac9bf58a6,-0.1,-0.35,-0.5,5,0,0,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
 25,weapon;1,mesh;1;1,p228,assetbundle;2,6029e4f1fe1e3314092cdeddd2d721bc,0,0,0,0,0,-90,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
-26,weapon;1,mesh;1,arms@BerettaElite,assetbundle;2,ac7e875ed4565b447bc3f0a64d72901d,-0.1,-0.25,-0.5,5,0,0,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
+26,weapon;1,mesh;1,arms@BerettaElite,assetbundle;2,ac7e875ed4565b447bc3f0a64d72901d,-0.1,-0.35,-0.5,5,0,0,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
 26,weapon;1,mesh;1;1,BerettaElite,assetbundle;2,a52513fb72a556745b4608f7fcc65b17,0,0,0,0,0,-90,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
-27,weapon;1,mesh;1,arms@DesertEagle,assetbundle;2,e40242870678db549966520723aa7f30,-0.1,-0.25,-0.5,5,0,0,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
+27,weapon;1,mesh;1,arms@DesertEagle,assetbundle;2,e40242870678db549966520723aa7f30,-0.1,-0.35,-0.5,5,0,0,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
 27,weapon;1,mesh;1;1,DesertEagle,assetbundle;2,bef1aef8eaf0f624c85535e4e7ac732c,0,0,0,0,0,-90,ÊÖÇ¹½ÇÉ«Ä£ĞÍ
 28,weapon;1,mesh;1,arms@sniper1,assetbundle;2,79a8cf4677fd3e845a113e75aa8e0bd4,0,-0.3,-0.1,5,0,0,²½Ç¹½ÇÉ«Ä£ĞÍ
 28,weapon;1,mesh;1;1,ThumperGrenadeLauncher,assetbundle;2,2768fcbe8d39e2c4a9283c2a347e2293,0,0,0,0,0,-90,²½Ç¹½ÇÉ«Ä£ĞÍ
@@ -640,7 +799,7 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 82,weapon;1,mesh;1;1,KSG,assetbundle;2,8a5a0b02290a0d64ab3253ef450e393a,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
 83,weapon;1,mesh;1,arms@sawnoff,assetbundle;2,6236038b6cc8ce946add8e6e2c90905d,0.1,-0.3,-0.4,5,0,0,Óã¸ÍĞÎÏó
 83,weapon;1,mesh;1;1,sawn_off_shotgun,assetbundle;2,18925afef2fff57439c79223c7b17e95,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
-84,weapon;1,mesh;1,arms@shot_gun,assetbundle;2,2b9612136ab995c45af07ede4f20b875,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
+84,weapon;1,mesh;1,arms@lever_action_shotgun,assetbundle;2,6cfe598d3584d274f8e6564182b66e9f,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
 84,weapon;1,mesh;1;1,shotgun,assetbundle;2,3e5ca7f426760b24ab6e8f32b6fa8129,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
 85,weapon;1,mesh;1,arms@SPAS-12,assetbundle;2,66242374e4bf4e944aec2743156ad25a,0.1,-0.3,-0.15,5,0,0,Óã¸ÍĞÎÏó
 85,weapon;1,mesh;1;1,SPAS-12,assetbundle;2,fb16985e98b94834088bb3cfc3f63c71,0,0,0,0,0,-90,Óã¸ÍĞÎÏó
@@ -697,8 +856,10 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 65,Armor;2,mesh;1;1,shoes6,assetbundle;2,0d4aa249a14844d4da5b5be12d492876,0,0,0,0,0,0,ÂÌÉ«´óÍ·Ğ¬
 69,Armor;2,mesh;1;1,shoes2,assetbundle;2,834a8e4f60e462f49901a9235115cff7,0,0,0,0,0,0,»ÆÉ«Æ¤Ñ¥
 80,Armor;2,mesh;1;1,gloves6,assetbundle;2,09557ca11876aa846a3d2e83cd1cd304,0,0,0,0,0,0,ÂÌÉ«ÊÖÌ×
-100,Armor;2,mesh;1;1,pack1,assetbundle;2,55e85a039036d3341b336ab9e4633fa0,0,0,0,0,0,0,ÊÖÌá±³°ü
-101,Armor;2,mesh;1;1,pack2,assetbundle;2,526e6fd137506984eb9f2f6d956b738a,0,0,0,0,0,0,ÊÖÌá±³°ü
+82,Armor;2,mesh;1;1,gloves1,assetbundle;2,a23566bd52b6c964ba7afddc06061499,0,0,0,0,0,0,¹¤×÷ÊÖÌ×
+100,Armor;2,mesh;1;1,Briefcase,assetbundle;2,2a60fa04722c2a64fa8e372007f174b2,0,0,0,0,0,0,ÊÖÌá°ü
+101,Armor;2,mesh;1;1,pack1,assetbundle;2,55e85a039036d3341b336ab9e4633fa0,0,0,0,0,0,0,Çá±ã±³°ü
+102,Armor;2,mesh;1;1,pack2,assetbundle;2,526e6fd137506984eb9f2f6d956b738a,0,0,0,0,0,0,¸ºÖØ±³°ü
 200,Armor;2,mesh;1;1,clothes5,assetbundle;2,2892357f4532ee1468986d48cfba4f30,0,0,0,0,0,0,·Àµ¯ÒÂ
 1,consume;3,mesh;1;1,CannedFood_01,assetbundle;2,940431e9cb589e34ea89e8cb643d910f,0,0,0,0,0,0,¶¹×Ó¹ŞÍ·
 2,consume;3,mesh;1;1,CannedFood_02,assetbundle;2,477931219785316469b839fb2c685025,0,0,0,0,0,0,¶¹×Ó¹ŞÍ·
@@ -730,7 +891,7 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 51,consume;3,mesh;1;1,Meat_Chicken,assetbundle;2,87704db4ffb26a14cb148733d26a16e8,0,0,0,0,0,0,¼¦Èâ
 55,consume;3,mesh;1;1,WaterMelon_01,assetbundle;2,1eab0f9429e75f34fa7923843123f891,0,0,0,0,0,0,Î÷¹Ï
 57,consume;3,mesh;1;1,TinySpider,assetbundle;2,ac2db9ab0ed2df64e8d68d589f949223,0,0,0,0,0,0,Ö©ÖëÈâ
-101,consume;3,mesh;1;1,HealthPack_01,assetbundle;2,c4bed2c51afa0b443bf5213340ec20d3,0,0,0,0,0,0,Ò½ÁÆÏä
+101,consume;3,mesh;1;1,AI_Item_MedKit,assetbundle;2,f87462cae1627254d9d135cb8df75e66,0,0,0,0,0,0,Ò½ÁÆÏä
 102,consume;3,mesh;1;1,Tape,assetbundle;2,2aa90df32a1af8b46b64007251c526cf,0,0,0,0,0,0,±Á´ø
 103,consume;3,mesh;1;1,Drug01,assetbundle;2,d6067f4ea5a729340984e0113337a858,0,0,0,0,0,0,½â¶¾¼Á
 105,consume;3,mesh;1;1,adrenaline,assetbundle;2,6fe2305a65b45a24bbd053441c7f44b0,0,0,0,0,0,0,ÉöÉÏÏÙËØ
@@ -750,6 +911,7 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 301,consume;3,mesh;1;1,MuscleCarA,assetbundle;2,c9303e3cd95c3f54d9e76e323a59bed7,0,0,0,0,0,0,world car
 1001,consume;3,mesh;1;1,wood,assetbundle;2,e00fdb8073a25184490e4beb876183ed,0,0,0,0,0,0,Ä¾²Ä
 1008,consume;3,mesh;1;1,cobweb,assetbundle;2,18192c4b4d5bf7644b17debdc6b63f31,0,0,0,0,0,0,wang
+1009,consume;3,mesh;1;1,Items_Iron,assetbundle;2,aa6f16b257fb9ec41a5ecd986504a1a7,0,0,0,0,0,0,wang
 0,monster;5,mesh;1,BaseZombie,assetbundle;2,9f15a51facac2e94abcc2586da38d231,0,0,0,0,0,0,²âÊÔ½©Ê¬
 1,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,¼ÙÈË
 2,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,ÅÀÊ¬
@@ -910,6 +1072,44 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 5035,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
 5036,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
 5037,monster;5,mesh;1,Runner,assetbundle;2,cc436db4e06dee1449da112678cb6bd8,0,0,0,0,0,0,ÅÜÊ¬
+6000,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6001,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6002,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6003,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6004,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6005,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6006,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6007,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6008,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6009,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6010,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6011,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6012,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6013,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6014,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6015,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6016,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6017,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6018,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6019,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6020,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6021,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6022,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6023,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6024,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6025,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6026,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6027,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6028,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6029,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6030,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6031,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6032,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6033,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6034,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6035,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6036,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
+6037,monster;5,mesh;1,Soldier,assetbundle;2,953e85592e5063a48812f2fd6c73712a,0,0,0,0,0,0,¾üÊ¬
 7000,monster;5,mesh;1,Vomitor,assetbundle;2,0863098c18199f642867498d730f129e,0,0,0,0,0,0,Å»ÍÂ½©Ê¬
 7001,monster;5,mesh;1,Vomitor,assetbundle;2,0863098c18199f642867498d730f129e,0,0,0,0,0,0,Å»ÍÂ½©Ê¬
 7002,monster;5,mesh;1,Vomitor,assetbundle;2,0863098c18199f642867498d730f129e,0,0,0,0,0,0,Å»ÍÂ½©Ê¬
@@ -920,6 +1120,11 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 7007,monster;5,mesh;1,Vomitor,assetbundle;2,0863098c18199f642867498d730f129e,0,0,0,0,0,0,Å»ÍÂ½©Ê¬
 7008,monster;5,mesh;1,Vomitor,assetbundle;2,0863098c18199f642867498d730f129e,0,0,0,0,0,0,Å»ÍÂ½©Ê¬
 7009,monster;5,mesh;1,Vomitor,assetbundle;2,0863098c18199f642867498d730f129e,0,0,0,0,0,0,Å»ÍÂ½©Ê¬
+8000,monster;5,mesh;1,ArmorZombie1,assetbundle;2,673e6a6ca5ce6c443841035b5db229e2,0,0,0,0,0,0,¿ø¼×
+8001,monster;5,mesh;1,ArmorZombie2,assetbundle;2,8dcf22ec1afe713439fd998a87adde99,0,0,0,0,0,0,¿ø¼×
+8002,monster;5,mesh;1,ArmorZombie3,assetbundle;2,29a988fc7a6c4ba489e18ce774a574b2,0,0,0,0,0,0,¿ø¼×
+8003,monster;5,mesh;1,ArmorZombie4,assetbundle;2,fd2bd203eb245e04ca03bfbcd996fd5a,0,0,0,0,0,0,¿ø¼×
+8004,monster;5,mesh;1,ArmorZombie5,assetbundle;2,de23a82aa689aa44798678a153a64eff,0,0,0,0,0,0,¿ø¼×
 10000,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
 10001,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
 10002,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
@@ -958,8 +1163,61 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 10035,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
 10036,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
 10037,monster;5,mesh;1,Giantor,assetbundle;2,acf2f33fdb9194a46907c0ad4fedff1e,0,0,0,0,0,0,¾ŞÊ¬
+12000,monster;5,mesh;1,Invisible,assetbundle;2,7fe4dfd3b4345804384adefb34130eed,0,0,0,0,0,0,Invisible
 16000,monster;5,mesh;1,Spider,assetbundle;2,34ee4bc1a6d58cf4ca6ecb4fa1099c9d,0,0,0,0,0,0,Spider
 17000,monster;5,mesh;1,Bomber,assetbundle;2,818a95b8d01db414cada4125babaadd2,0,0,0,0,0,0,Bomber
+18000,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18001,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18002,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18003,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18004,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18005,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18006,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18007,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18008,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18009,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18010,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18011,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18012,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18013,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18014,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18015,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18016,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18017,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18018,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18019,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18020,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18021,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18022,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18023,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18024,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18025,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18026,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18027,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18028,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18029,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18030,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18031,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18032,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+18033,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
 1,body;6,mesh;1,SimplePeople,assetbundle;2,c20a3f0e36f10e24db51b6884f8d28c9,0,0,0,0,0,0,body
 1,collet;8,mesh;1;1,beetroot,assetbundle;2,7813c34e1c587c24d89e213601752338,0,0,0,0,0,0,colloet
 2,collet;8,mesh;1;1,corpse,assetbundle;2,417b1a2e97bb5b845bdcfa9b38447035:102900000,0,0,0,0,0,0,corpse
+1,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
+2,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
+3,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
+4,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
+5,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
+6,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
+7,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
+8,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
+9,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
+10,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
+11,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
+12,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
+13,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
+15,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
+16,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
+17,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
+19,Jewelry;10,mesh;1;1,PoisonFang,assetbundle;2,bd832d312df3aa4499e81faca005684e,0,0,0,0,0,0,Ö©Öë¶¾ÑÀ
+100,Jewelry;10,mesh;1;1,Lockbox,assetbundle;2,c161159762b735742ae6f95dc3cdc4ce,0,0,0,0,0,0,ÃèÊö
