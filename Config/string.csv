@@ -1,25 +1,35 @@
 ﻿KEY,chs,english
-on_terrain_notify,只能在室外呼出载具!,
-YouDie,你死了!,
-DeleteItemMsg,销毁[%s],
-DecomposeMsg,分解[%s],
-FractureStateMsg,你骨折了!,
-BleedingStateMsg,你出血了!,
-PoisonStateMsg,你中毒了!,
-BulletThroughStateMsg,你被贯穿了!,
-SoulDrainStateMsg,你被精神控制了!,
-LeaveStuck,/stuck 卡住自救,
-CloseChat,/disable 隐藏聊天框,
-EnterGame,成功进入游戏!,
-FishingGuide,制作一支鱼竿就可以去钓鱼了!,
-CrafeGuide,用获得的木材制作武器和工具!,
-CutGuide,砍树可以获得木材!,
-GatherGuide,发现附近有一些红色的野果!,
-no_enough_name,%s不足!,
-no_more_building,不能放置更多建筑物!,
-no_enough_stuff,材料不足!,
-equip_damaged,身上的部分装备已经损坏!,
-level_up,升级了!,
+Chinese,中文,Chinese
+English,英文,English
+exit_app,确定退出游戏?,Do you really want to exit the game?
+someone_kill_you,%s击杀了你,%s killed you
+you_kill_someone,你击杀了%s,you killed %s
+nick_name,游戏昵称,nick name
+invaild_ip,IP地址的格式不正确!,The format of the ip address is incorrect!
+WAN,广域网,WAN
+LAN,局域网,LAN
+ClientConnectLost,与服务器的连接已经中断!,The connection to the server has been interrupted!
+on_terrain_notify,只能在室外呼出载具!,This item can only be used outdoors!
+YouDie,你死了!,You Dead!
+DeleteItemMsg,销毁[%s],Destroy [%s]
+DecomposeMsg,分解[%s],Salvage [%s]
+FractureStateMsg,你骨折了!,You fractured!
+BleedingStateMsg,你出血了!,You are bleeding!
+PoisonStateMsg,你中毒了!,You are poisoned!
+BulletThroughStateMsg,你被贯穿了!,You are penetrated!
+SoulDrainStateMsg,你被精神控制了!,You are mind controlled!
+LeaveStuck,/stuck 卡住自救,/stuck command
+CloseChat,/disable 隐藏聊天框,/disable command
+EnterGame,成功进入游戏!,Successfully entered the game!
+FishingGuide,制作一支鱼竿就可以去钓鱼了!,Make a fishing rod and you can go fishing!
+CrafeGuide,用获得的木材制作武器和工具!,Use the wood to make weapons and tools!
+CutGuide,砍树可以获得木材!,Cut trees to get wood!
+GatherGuide,发现附近有一些红色的野果!,Found some red wild fruits nearby!
+no_enough_name,%s不足!,Not enough %s!
+no_more_building,不能放置更多建筑物!,Cannot place more buildings!
+no_enough_stuff,材料不足!,Insufficient material!
+equip_damaged,身上的部分装备已经损坏!,Some equipment on the body has been damaged!
+level_up,升级了!,You level up!
 ID_USER,用户,user
 ID_PASS,密码,password
 slime,史萊姆,slime
@@ -30,100 +40,103 @@ skill,技 能,skill
 Grid,格子数,grid
 craft,制 作,craft
 click_fetch,(点击拾取),click fetch
-gain_item,获得[%s],get<color=#c1f019ff>%s</color>
-Pants,裤子,
-Pistol,手枪,
-Rifle,步枪,
-AssaultRifle,突击步枪,
-SubmachineGun,冲锋枪,
-Shotgun,散弹枪,
-SniperRifle,狙击步枪,
-Grenade,手雷,
-Cannon,炮,
-Knife,匕首,
-Axe,斧子,
-Saw,锯子,
-Hammer,锤子,
-Stick,棍子,
-Sword,刀,
-LongBow,弓,
-CrossBow,弩,
-WindStick,回旋镖,
-Capacity,容量,
-Dart,飞镖,
-bait,鱼饵,
-FishRod,鱼竿,
-Tool,工具,
+gain_item,获得[%s],Obtain [%s]
+Pants,裤子,Pants
+Pistol,手枪,Pistol
+Rifle,步枪,Rifle
+AssaultRifle,突击步枪,Assault Rifle
+SubmachineGun,冲锋枪,Submachine Gun
+Shotgun,散弹枪,Shotgun
+SniperRifle,狙击步枪,Sniper Rifle
+Grenade,手雷,Grenade
+Cannon,炮,Cannon
+Knife,匕首,Knife
+Axe,斧子,Axe
+Saw,锯子,Saw
+Hammer,锤子,Hammer
+Stick,棍子,Club
+Sword,刀,Sword
+LongBow,弓,Bow
+CrossBow,弩,CrossBow
+WindStick,回旋镖,Boomerang
+Capacity,容量,Capacity
+Dart,飞镖,Dart
+bait,鱼饵,Bait
+FishRod,鱼竿,Fishing Rod
+Tool,工具,Tool
 gain_exp,<color=#d69414ff>经验值+%d</color>,<color=#d69414ff>EXP+%d</color>
-weapon,武器,
-equip,装备,
-armor,防具,
-gloves,手套,
-upper,上衣,
-pants,裤子,
-shoes,鞋子,
-cap,帽子,
-decorate,饰品,
-material,材料,
-Item,物品,
-consume,消耗品,
-consume_other,其它,
-trap,陷阱,
-drug,药品,
-food,食物,
-drink,饮料,
-strengthen,增强,
-ammo,弹药,
-building_materials,建造材料,
-attack,攻击力,
-defense,防御力,
-fetch_item_failed,拾取物品失败,
-forgetskill_notify,需要能力回收胶囊,
-prevskill_notify,需要先学习前置技能,
-armor_penetration,%.1f%%的伤害穿透护甲,
-poisoning_ratio,%.1f%%的几率使目标中毒,
-globle_resistance,全体抗性 +%.1f%%,
-poisoning_resistance,中毒抗性 +%.1f%%,
-fracture_resistance,骨折抗性 +%.1f%%,
-hemorrhagic_resistance,出血抗性 +%.1f%%,
-life_percent,最大生命值增加%.1f%%,
-durable,耐久度,
-durable_extra,耐久度 +%d,
-reduce_weight,物品重量减少%.1f%%,
-attack_extra,攻击力 +%.1f,
-attack_percent,全局伤害增加%.1f%%,
-evasion_extra,闪避力 +%d,
-defense_extra,防御力 +%d,
-defense_percent,防御力增加%.1f%%,
-critical_damage,暴击伤害增加%.1f%%,
-critical_strike,致命一击几率增加%.1f%%,
-reduce_injury,受到的伤害减少%.1f%%,
-attack_speed,攻击速度增加%.1f%%,
-reload_speed,装弹速度增加%.1f%%,
-move_speed,移动速度增加%.1f%%,
-lucky_extra,幸运值 +%d,
-range_percent,攻击距离增加%.1f%%,
-life_extra,生命值 +%d,
-grid_extra,格子数 +%d,
-use_splints,使用: 解除骨折状态,
-use_antidote,使用: 解除中毒状态,
-use_bandage,使用: 解除流血状态,
-treat_debuff,使用: 解除负面状态,
-use_drug,使用: 恢复%d点生命值,
-use_water,使用: 恢复%d点口渴值,
-use_food,使用: 恢复%d点饥饿值,
-use_food_water,使用: 恢复%d点饥饿值和%d点口渴值,
-use_strengthen,使用: 永久提高身体的某项基本属性,
-decompose_extra,分解得到的材料更多,
-no_attribute,普通的白色物品,
-material_desc,生存必须的基本材料,
-ammo_desc,武器的弹药,
-trap_desc,在狩猎中使用的辅助工具,
-other_consume_desc,生存必要的消耗品,
-bait_desc,钓鱼用的鱼饵,
-no_enough_grid,背包格子不足,
-container,容器,
-explode_timer,爆炸倒计时,
+weapon,武器,Weapon
+equip,装备,Equip
+armor,防具,Armor
+gloves,手套,Gloves
+upper,上衣,Upper
+pants,裤子,Pants
+shoes,鞋子,Shoes
+cap,帽子,Hat
+decorate,饰品,Accessories
+material,材料,Material
+Item,物品,Item
+consume,消耗品,Consume
+consume_other,其它,Other
+trap,陷阱,Trap
+drug,药品,Drug
+food,食物,Food
+drink,饮料,Drink
+strengthen,增强,Strengthen
+ammo,弹药,Ammo
+building_materials,建造材料,Building Materials
+portal,地图,Map
+attack,攻击力,attack
+defense,防御力,defense
+fetch_item_failed,拾取物品失败!,Failed to pick up the item!
+forgetskill_notify,需要能力回收胶囊,You need ability recovery capsules!
+prevskill_notify,需要先学习前置技能,You need to learn previous skill!
+armor_penetration,%.1f%%的伤害穿透护甲,%.1f%% damage will ignore armor
+poisoning_ratio,%.1f%%的几率使目标中毒,%.1f%% chance to poison the target
+globle_resistance,全体抗性 +%.1f%%,all resistance +%.1f%%
+poisoning_resistance,中毒抗性 +%.1f%%,poisoning resistance +%.1f%%
+fracture_resistance,骨折抗性 +%.1f%%,fracture resistance +%.1f%%
+hemorrhagic_resistance,出血抗性 +%.1f%%,bleeding resistance +%.1f%%
+life_percent,最大生命值增加%.1f%%,maximum health increased %.1f%%
+durable,耐久度,durability
+durable_extra,耐久度 +%d,durability +%d
+reduce_weight,物品重量减少%.1f%%,item weight reduction %.1f%%
+weight_extra,负重能力 +%d,weight capacity +%d
+attack_extra,攻击力 +%.1f,attack +%.1f
+attack_percent,全局伤害增加%.1f%%,global damage increased %.1f%%
+evasion_extra,闪避力 +%d,evasion +%d
+defense_extra,防御力 +%d,defense +%d
+defense_percent,防御力增加%.1f%%,defense increased %.1f%%
+critical_damage,暴击伤害增加%.1f%%,critical damage increased %.1f%%
+critical_strike,致命一击几率增加%.1f%%,critical strike chance Increased %.1f%%
+reduce_injury,受到的伤害减少%.1f%%,reduces damage taken by %.1f%%
+attack_speed,攻击速度增加%.1f%%,attack speed increased by %.1f%%
+reload_speed,装弹速度增加%.1f%%,reload speed increased by %.1f%%
+move_speed,移动速度增加%.1f%%,movement speed increased by %.1f%%
+lucky_extra,幸运值 +%d,lucky +%d
+range_percent,攻击距离增加%.1f%%,attack range increased by %.1f%%
+life_extra,生命值 +%d,+%d health
+grid_extra,格子数 +%d,+%d grid
+use_splints,使用: 解除骨折状态,Use: Fracture recovery
+use_antidote,使用: 解除中毒状态,Use: Recovery from poisoning
+use_bandage,使用: 解除流血状态,Use: Bleeding recovery
+treat_debuff,使用: 解除负面状态,Use: Recovery negative state
+use_drug,使用: 恢复%d点生命值,Use: Restores %d health
+use_water,使用: 恢复%d点口渴值,Use: Restores %d water
+use_food,使用: 恢复%d点饥饿值,Use: Restores %d food
+use_food_water,使用: 恢复%d点饥饿值和%d点口渴值,Use: Restores %d food and %d water
+use_strengthen,使用: 永久提高身体的某项基本属性,Use: Improve basic attribute
+decompose_extra,分解得到的材料更多,salvage more materials
+no_attribute,普通的白色物品,Commonly used items
+material_desc,生存必须的基本材料,Basic items necessary for survival
+ammo_desc,武器的弹药,Ammunition for weapons
+trap_desc,在狩猎中使用的辅助工具,Auxiliary tools used in hunting
+other_consume_desc,生存必要的消耗品,Consumables necessary for survival
+bait_desc,钓鱼用的鱼饵,Bait for fishing
+portal_desc,使用: 移动到目标区域,Use: teleport to target area
+no_enough_grid,背包格子不足!,Insufficient backpack space!
+container,容器,container
+explode_timer,爆炸倒计时,Countdown to explosion
 lucky_day,幸运之神降临!,Today is a lucky day!
 Skill_0,腕力,Wrist Force
 Skill_1,投掷精通,Throwing Mastery
@@ -164,374 +177,376 @@ Skill_35,螺旋弹,Spiral Bullet
 Skill_36,快速装弹,Quick Reload
 Skill_37,鹰眼,Eagle Eyes
 Skill_38,神射手,Marksman
-SkillDesc_0,增加投掷武器的飞行距离,腕力
-SkillDesc_1,投掷武器的伤害更加稳定,投掷精通
-SkillDesc_2,使用近战武器时有更快的攻击速度,攻速强化
-SkillDesc_3,生命值增加,生命强化
-SkillDesc_4,全局生命力增加,血泵
-SkillDesc_5,角色的基础攻击力增加,武器精通
-SkillDesc_6,未实装技能,战斗精通
-SkillDesc_7,全局伤害提高,内脏打击
-SkillDesc_8,未实装技能,超运
-SkillDesc_9,全局幸运值提高,幸运星
-SkillDesc_10,移动速度提高,快速移动
-SkillDesc_11,能量的回复速度提高,快速充能
-SkillDesc_12,能量的消耗速度减少,持久续航
-SkillDesc_13,基础暴击率提高,弱点探测
-SkillDesc_14,基础暴击伤害提高,完美伤害
-SkillDesc_15,提高角色对毒性的抵抗能力,洁净
-SkillDesc_16,未实装技能,抗体
-SkillDesc_17,提高角色对出血的抵抗能力,血小板
-SkillDesc_18,未实装技能,血屏障
-SkillDesc_19,提高角色对骨折的抵抗能力,胫骨强化
-SkillDesc_20,未实装技能,精钢铁骨
-SkillDesc_21,角色的基础防御能力增加,防御增强
-SkillDesc_22,角色的全局防御能力增加,钢铁皮肤
-SkillDesc_23,未实装技能,完美防御
-SkillDesc_24,角色的基础闪避能力增加,敏捷
-SkillDesc_25,角色的全局闪避能力增加,躲避
-SkillDesc_26,生命大于攻击者的基础伤害遭受其致命打击时不会死亡,战士意志
-SkillDesc_27,药物的治疗效果提高,药剂师
-SkillDesc_28,食物和赢料的效果提高,美食家
-SkillDesc_29,基础的生存能力提高,生存专家
-SkillDesc_30,获得使用钝器敲碎骨头的能力,碎骨
-SkillDesc_31,攻击骨折的目标能够造成更多伤害,关节拆卸
-SkillDesc_32,获得使用利刃割开血管的能力,放血
-SkillDesc_33,攻击出血的目标能够造成更多伤害,动脉切割
-SkillDesc_34,获得使用射击武器贯穿目标的能力,贯穿射击
-SkillDesc_35,攻击被贯穿的目标能够造成更多伤害,螺旋弹
-SkillDesc_36,装弹速度提高,快速装弹
-SkillDesc_37,增加射击武器的射程,鹰眼
-SkillDesc_38,射击武器的伤害稳定性增加,神射手
-Armor_1,灰色休闲帽,
-Armor_2,防暴头盔,
-Armor_3,摩托盔,
-Armor_4,安全帽,
-Armor_5,蒙面巾,
-Armor_6,小丑帽,
-Armor_7,魔术帽,
-Armor_8,消防盔,
-Armor_9,军用头盔,
-Armor_10,棒球帽,
-Armor_11,礼帽,
-Armor_12,登山帽,
-Armor_13,丛林原住民帽,
-Armor_14,箬笠,
-Armor_15,曼斯特头盔,
-Armor_16,钛合金头盔,
-Armor_17,电焊盔(三级头盔),
-Armor_18,小丑面具,
-Armor_19,恐怖面具,
-Armor_20,黑框眼镜,
-Armor_21,心心眼镜,
-Armor_22,比基尼泳装,
-Armor_23,抹胸,
-Armor_24,88黄色背心,
-Armor_25,红色T恤,
-Armor_26,黑色西装,
-Armor_27,白色医护服,
-Armor_28,黑色夹克,
-Armor_29,灰色囚服,
-Armor_30,防暴盔甲,
-Armor_31,黄色休闲外套,
-Armor_32,蓝色运动外套,
-Armor_33,黄色衬衫,
-Armor_34,蓝色警察制服,
-Armor_35,修路工制服,
-Armor_36,紫色格子毛衣,
-Armor_37,白色T恤,
-Armor_38,消防服,
-Armor_39,军用外套,
-Armor_40,曼斯特盔甲,
-Armor_41,钛合金盔甲,
-Armor_42,西裤,
-Armor_43,防暴护腿,
-Armor_44,灰色短裤,
-Armor_45,斑点短裤,
-Armor_46,条纹短裤,
-Armor_47,花纹短裤,
-Armor_48,西装长裤,
-Armor_49,运动裤,
-Armor_50,休闲裤,
-Armor_51,牛仔裤,
-Armor_52,警察制服（裤子）,
-Armor_53,维修工制服（裤子）,
-Armor_54,工作服（裤子）,
-Armor_55,消防护腿,
-Armor_56,军用护腿,
-Armor_57,曼斯特护腿,
-Armor_58,钛合金护腿,
-Armor_59,普通鞋子,
-Armor_60,皮鞋,
-Armor_61,帆布休闲鞋,
-Armor_62,运动鞋,
-Armor_63,塑胶拖鞋,
-Armor_64,塑胶凉鞋,
-Armor_65,大头鞋,
-Armor_66,木屐,
-Armor_67,忍者鞋,
-Armor_68,防暴靴,
-Armor_69,皮靴,
-Armor_70,穿梭鞋,
-Armor_71,火箭鞋,
-Armor_72,消防靴,
-Armor_73,军用皮靴,
-Armor_74,人字拖,
-Armor_75,可爱兔子拖鞋,
-Armor_76,曼斯特战靴,
-Armor_77,钛合金战靴,
-Armor_78,外星人战靴,
-Armor_79,远古科技战靴,
-Armor_80,丝质手套,
-Armor_81,皮手套,
-Armor_82,工作手套,
-Armor_83,格子手套,
-Armor_84,防暴手套,
-Armor_85,消防手套,
-Armor_86,军用手套,
-Armor_87,曼斯特手套,
-Armor_88,钛合金手套,
-Armor_89,外星人护手,
-Armor_90,远古科技护手,
-Armor_100,手提包,
-Armor_101,轻便背包,
-Armor_102,负重背包,
-Armor_103,登山包,
-Armor_104,旅行者背包,
-Armor_200,防弹衣,
-Weapon_1,木制小刀,
-Weapon_2,匕首,
-Weapon_3,菜刀,
-Weapon_4,十字架(回旋镖),
-Weapon_5,飞盘,
-Weapon_6,回旋镖,
-Weapon_7,扳手,
-Weapon_8,手斧,
-Weapon_9,钢锯,
-Weapon_10,电锯,
-Weapon_11,钉锤,
-Weapon_12,铁锤,
-Weapon_13,木棍,
-Weapon_14,铁棍,
-Weapon_15,暂时保留,
-Weapon_16,木弓,
-Weapon_17,长弓,
-Weapon_18,反曲弓,
-Weapon_19,复合弓,
-Weapon_20,木质轻弩,
-Weapon_21,混合轻弩,
-Weapon_22,复合重弩,
-Weapon_23,自制手枪,
-Weapon_24,M1911手枪,
-Weapon_25,CZ83手枪,
-Weapon_26,精英手枪,
-Weapon_27,沙漠之鹰,
-Weapon_28,自制猎枪,
-Weapon_29,ak47步枪,
-Weapon_30,火箭炮,
-Weapon_31,激光炮,
-Weapon_32,电浆炮,
-Weapon_33,反物质炮,
-Weapon_34,远古炮,
-Weapon_35,棒球棒,
-Weapon_36,曲棍球棒,
-Weapon_37,高尔夫球杆,
-Weapon_38,大砍刀,
-Weapon_39,警棍,
-Weapon_40,平底锅,
-Weapon_41,铁铲,
-Weapon_42,铁管,
-Weapon_43,撬棍,
-Weapon_44,船桨,
-Weapon_45,草叉,
-Weapon_46,暂时保留,
-Weapon_47,十字镐,
-Weapon_48,钉耙,
-Weapon_49,暂时保留,
-Weapon_50,暂时保留,
-Weapon_51,手雷,
-Weapon_52,地雷,
-Weapon_53,空手,
-Weapon_54,消防斧,
-Weapon_55,蛛网发射器,
-Weapon_56,电击器,
-Weapon_57,射钉枪,
-Weapon_58,双头剑,
-Weapon_59,标枪,
-Weapon_60,暂时保留,
-Weapon_61,雷管,
-Weapon_62,手里剑,
-Weapon_63,园丁的大剪刀,
-Weapon_64,镭射手电筒,
-Weapon_65,鱼竿,
-Weapon_66,飞镖,
-Weapon_67,破碎的酒瓶,
-Weapon_68,圆锯棒球棒,
-Weapon_69,板球棒,
-Weapon_70,钢锯发射器,
-Weapon_71,ColtAnaconda,
-Weapon_72,DetectiveRevolver,
-Weapon_73,PPK,
-Weapon_74,USP45,
-Weapon_75,AR15,
-Weapon_76,AUG,
-Weapon_77,FAL,
-Weapon_78,G36C,
-Weapon_79,M4A1,
-Weapon_80,M16,
-Weapon_81,SCARL,
-Weapon_82,KSG,
-Weapon_83,双管霰弹枪,
-Weapon_84,温彻斯特MX霰弹枪,
-Weapon_85,SPAS-12,
-Weapon_86,XM1014,
-Weapon_87,FMG-9,
-Weapon_88,MP5,
-Weapon_89,MP5SD,
-Weapon_90,MP40,
-Weapon_91,TEC-9,
-Weapon_92,TommyGun,
-Weapon_93,UMP9,
-Weapon_94,UZI,
-Weapon_95,VZ61,
-Weapon_96,AWM,
-Weapon_97,AWP,
-Weapon_98,BarrettSniper,
-Weapon_99,KAR98K,
-Weapon_100,Sniper,
-Consume_1,罐装豆子,
-Consume_2,罐装西红柿汤,
-Consume_3,罐装鸡汤,
-Consume_4,金枪鱼罐头,
-Consume_5,听装可乐,
-Consume_6,意大利面罐头,
-Consume_7,培根罐头,
-Consume_8,牛肉罐头,
-Consume_9,沙丁鱼罐头,
-Consume_10,瓶装水,
-Consume_11,苹果汁,
-Consume_12,葡萄汁,
-Consume_13,红牛,
-Consume_14,椰子汁,
-Consume_15,盒装牛奶,
-Consume_16,橙汁,
-Consume_17,瓶装可乐,
-Consume_18,瓶装苏打水,
-Consume_19,巧克力,
-Consume_20,能量棒,
-Consume_21,胡萝卜,
-Consume_22,玉米,
-Consume_23,军粮,
-Consume_24,三明治,
-Consume_25,奶酪,
-Consume_26,火腿罐头,
-Consume_27,牛肉,
-Consume_28,甜甜圈,
-Consume_29,野蘑菇,
-Consume_30,苹果,
-Consume_31,甜根菜,
-Consume_32,甜根菜沙拉,
-Consume_33,浆果,
-Consume_34,啤酒,
-Consume_35,果酱,
-Consume_36,威士忌,
-Consume_37,香蕉,
-Consume_38,汉堡,
-Consume_39,鸡腿,
-Consume_40,曲奇饼干,
-Consume_41,纸杯蛋糕,
-Consume_42,听装苏打水,
-Consume_43,热狗,
-Consume_44,瓶装牛奶,
-Consume_45,英格兰松饼,
-Consume_46,馅饼,
-Consume_47,披萨,
-Consume_48,杯装可乐,
-Consume_49,taco饼,
-Consume_50,培根,
-Consume_51,火鸡肉,
-Consume_52,排骨,
-Consume_53,火腿肠,
-Consume_54,牛排,
-Consume_55,西瓜,
-Consume_56,沙丁鱼,
-Consume_57,蜘蛛肉,
-Consume_58,鲤鱼,
-Consume_59,鳕鱼,
-Consume_100,止血草,
-Consume_101,医药箱,
-Consume_102,绷带,
-Consume_103,解毒剂,
-Consume_104,疫苗,
-Consume_105,肾上腺素,
-Consume_106,吗啡,
-Consume_107,抗生素,
-Consume_108,止痛药,
-Consume_109,维生素,
-Consume_110,血袋,
-Consume_111,缝合包,
-Consume_112,急救包,
-Consume_113,生命胶囊(x胶囊),
-Consume_114,药用糖浆,
-Consume_115,止血剂,
-Consume_116,夹板,
-Consume_117,生命力强化胶囊,
-Consume_118,战斗力强化胶囊,
-Consume_119,防御力强化胶囊,
-Consume_200,铁钉,
-Consume_201,箭矢,
-Consume_202,手枪子弹,
-Consume_203,步枪子弹,
-Consume_204,散弹枪子弹,
-Consume_205,绳子,
-Consume_206,篝火,
-Consume_207,捕兽夹,
-Consume_208,鱼饵,
-Consume_209,蚯蚓,
-Consume_210,毛毛虫,
-Consume_211,狙击枪子弹,
-Consume_300,摩托车钥匙,
-Consume_301,黑色汽车,
-Consume_400,水壶,
-Consume_500,地板,
-Consume_501,天花板,
-Consume_502,木制墙壁,
-Consume_503,木制墙壁(门),
-Consume_504,木制墙壁(窗户),
-Consume_505,地基,
-Consume_506,楼梯,
-Consume_507,L型楼梯,
-Consume_508,柱子,
-Consume_600,木箱子,
-Consume_1000,石块,
-Consume_1001,木材,
-Consume_1002,铁锭,
-Consume_1003,塑胶块,
-Consume_1004,布料,
-Consume_1005,空瓶,
-Consume_1006,电池,
-Consume_1007,火药,
-Consume_1008,蛛网,
-Consume_1009,铁片,
-Collet_1,甜根菜,
-Collet_2,尸体,
-Jewelry_1,荆棘手环,
-Jewelry_2,四叶草护符,
-Jewelry_3,红蔷薇胸花,
-Jewelry_4,忏悔者的十字架,
-Jewelry_5,钛合金盔甲,
-Jewelry_6,防御力强化器,
-Jewelry_7,攻击力强化器,
-Jewelry_8,生命力强化器,
-Jewelry_9,防御力转化器,
-Jewelry_10,攻击力转化器,
-Jewelry_11,生命力转化器,
-Jewelry_12,运动眼镜,
-Jewelry_13,分裂的面具,
-Jewelry_14,幸运金币,
-Jewelry_15,精致的马表,
-Jewelry_16,钛合金仿生腿,
-Jewelry_17,心脏起搏器,
-Jewelry_18,超能力芯片,
-Jewelry_19,蜘蛛毒牙,
-Jewelry_100,虎指,
+SkillDesc_0,增加投掷武器的飞行距离,Increase the flying distance of thrown weapons
+SkillDesc_1,投掷武器的伤害更加稳定,The damage of thrown weapons is more stable
+SkillDesc_2,使用近战武器时有更快的攻击速度,Faster attack speed when using melee weapons
+SkillDesc_3,生命值增加,Health increased
+SkillDesc_4,全局生命力增加,Increased global vitality
+SkillDesc_5,角色的基础攻击力增加,Base attack power increased
+SkillDesc_6,未实装技能,Uninstalled skills
+SkillDesc_7,全局伤害提高,Global damage increased
+SkillDesc_8,未实装技能,Uninstalled skills
+SkillDesc_9,全局幸运值提高,Global lucky increased
+SkillDesc_10,移动速度提高,Movement speed increased
+SkillDesc_11,能量的回复速度提高,Increased energy recovery speed
+SkillDesc_12,能量的消耗速度减少,Reduced energy consumption rate
+SkillDesc_13,基础暴击率提高,Critical strike rate increased
+SkillDesc_14,基础暴击伤害提高,Critical damage increased
+SkillDesc_15,提高角色对毒性的抵抗能力,Improve resistance to toxicity
+SkillDesc_16,未实装技能,Uninstalled skills
+SkillDesc_17,提高角色对出血的抵抗能力,Improve resistance to bleeding
+SkillDesc_18,未实装技能,Uninstalled skills
+SkillDesc_19,提高角色对骨折的抵抗能力,Improve resistance to fractures
+SkillDesc_20,未实装技能,Uninstalled skills
+SkillDesc_21,角色的基础防御能力增加,Basic defense ability increased
+SkillDesc_22,角色的全局防御能力增加,Global defense ability increased
+SkillDesc_23,未实装技能,Uninstalled skills
+SkillDesc_24,角色的基础闪避能力增加,basic evasion ability increased
+SkillDesc_25,角色的全局闪避能力增加,global evasion ability increased
+SkillDesc_26,生命大于攻击者的基础伤害遭受其致命打击时不会死亡,Suffer a fatal blow not die if life is greater than the base damage of the attacker
+SkillDesc_27,药物的治疗效果提高,Improved therapeutic effect of drugs
+SkillDesc_28,食物和饮料的效果提高,Improved effects of food and drink
+SkillDesc_29,基础的生存能力提高,Improved basic survivability
+SkillDesc_30,获得使用钝器敲碎骨头的能力,Gain the ability to use blunt tools to break bones
+SkillDesc_31,攻击骨折的目标能够造成更多伤害,Attacking the fractured target can cause more damage
+SkillDesc_32,获得使用利刃割开血管的能力,Gain the ability to cut blood vessels with a sharp blade
+SkillDesc_33,攻击出血的目标能够造成更多伤害,Attacking the bleeding target can cause more damage
+SkillDesc_34,获得使用射击武器贯穿目标的能力,Gain the ability to use shooting weapons to penetrate the target
+SkillDesc_35,攻击被贯穿的目标能够造成更多伤害,Attacking the penetrated target can cause more damage
+SkillDesc_36,装弹速度提高,Increased reload speed
+SkillDesc_37,增加射击武器的射程,Increase the range of shooting weapons
+SkillDesc_38,射击武器的伤害稳定性增加,Increased damage stability of shooting weapons
+Armor_1,灰色休闲帽,Gray casual hat
+Armor_2,防暴头盔,Riot helmet
+Armor_3,摩托盔,Motorcycle helmet
+Armor_4,安全帽,helmet
+Armor_5,蒙面巾,Mask
+Armor_6,小丑帽,Clown hat
+Armor_7,魔术帽,Magic Hat
+Armor_8,消防盔,Fire helmet
+Armor_9,军用头盔,Military helmet
+Armor_10,棒球帽,Baseball cap
+Armor_11,礼帽,Top hat
+Armor_12,登山帽,Mountaineering hat
+Armor_13,丛林原住民帽,Jungle Native Hat
+Armor_14,箬笠,Ruo Li
+Armor_15,曼斯特头盔,Monster helmet
+Armor_16,钛合金头盔,Titanium helmet
+Armor_17,电焊盔(三级头盔),Welding helmet
+Armor_18,小丑面具,clown mask
+Armor_19,恐怖面具,Horror mask
+Armor_20,黑框眼镜,Black-rimmed glasses
+Armor_21,心心眼镜,hearts glasses
+Armor_22,比基尼泳装,Bikini
+Armor_23,抹胸,Tube top
+Armor_24,88黄色背心,NO.88 Yellow vest
+Armor_25,红色T恤,Red T-shirt
+Armor_26,黑色西装,Black suit
+Armor_27,白色医护服,White medical suit
+Armor_28,黑色夹克,Black jacket
+Armor_29,灰色囚服,Gray prison uniform
+Armor_30,防暴盔甲,Riot armor
+Armor_31,黄色休闲外套,Yellow casual jacket
+Armor_32,蓝色运动外套,Blue sports jacket
+Armor_33,黄色衬衫,Yellow shirt
+Armor_34,蓝色警察制服,Blue police uniform
+Armor_35,修路工制服,Roadman uniform
+Armor_36,紫色格子毛衣,Purple plaid sweater
+Armor_37,白色T恤,White T-shirt
+Armor_38,消防服,Fire suit
+Armor_39,军用外套,Military jacket
+Armor_40,曼斯特盔甲,Monster armor
+Armor_41,钛合金盔甲,Titanium armor
+Armor_42,西裤,Trousers
+Armor_43,防暴护腿,Riot Leggings
+Armor_44,灰色短裤,Grey shorts
+Armor_45,斑点短裤,Spotted shorts
+Armor_46,条纹短裤,Striped shorts
+Armor_47,花纹短裤,Pattern shorts
+Armor_48,西装长裤,Suit trousers
+Armor_49,运动裤,Sweatpants
+Armor_50,休闲裤,casual pants
+Armor_51,牛仔裤,jeans
+Armor_52,警察制服（裤子）,Police uniform (pants)
+Armor_53,维修工制服（裤子）,Maintenance worker uniform (trousers)
+Armor_54,工作服（裤子）,worker uniform (trousers)
+Armor_55,消防护腿,Defensive leg
+Armor_56,军用护腿,Military Leggings
+Armor_57,曼斯特护腿,Monster Leggings
+Armor_58,钛合金护腿,Titanium Leggings
+Armor_59,普通鞋子,Ordinary shoes
+Armor_60,皮鞋,leather shoes
+Armor_61,帆布休闲鞋,Canvas casual shoes
+Armor_62,运动鞋,sports shoes
+Armor_63,塑胶拖鞋,Plastic slippers
+Armor_64,塑胶凉鞋,Plastic sandals
+Armor_65,洞洞鞋,Crocs
+Armor_66,木屐,Geta
+Armor_67,忍者鞋,Ninja shoes
+Armor_68,防暴靴,Riot boots
+Armor_69,皮靴,Leather boots
+Armor_70,穿梭鞋,shuttle shoes
+Armor_71,火箭鞋,Rocket shoes
+Armor_72,消防靴,Fire boots
+Armor_73,军用皮靴,Military leather boots
+Armor_74,人字拖,flip flops
+Armor_75,可爱兔子拖鞋,Bunny slippers
+Armor_76,曼斯特战靴,Monster Boots
+Armor_77,钛合金战靴,Titanium boots
+Armor_78,外星人战靴,Alien Boots
+Armor_79,远古科技战靴,Ancient Tech Boots
+Armor_80,丝质手套,Silk gloves
+Armor_81,皮手套,leather gloves
+Armor_82,工作手套,Working gloves
+Armor_83,格子手套,Plaid gloves
+Armor_84,防暴手套,Riot gloves
+Armor_85,消防手套,Fire gloves
+Armor_86,军用手套,Military gloves
+Armor_87,曼斯特手套,Monster gloves
+Armor_88,钛合金手套,Titanium alloy gloves
+Armor_89,外星人护手,Alien Gauntlets
+Armor_90,远古科技护手,Ancient Tech Gauntlets
+Armor_100,手提包,handbag
+Armor_101,轻便背包,Lightweight backpack
+Armor_102,负重背包,Weight backpack
+Armor_103,登山包,Mountaineering backpack
+Armor_104,旅行者背包,Traveler backpack
+Armor_200,防弹衣,Body armor
+Weapon_1,木制小刀,Wooden knife
+Weapon_2,匕首,Knife
+Weapon_3,菜刀,kitchen knife
+Weapon_4,十字架(回旋镖),Wooden cross
+Weapon_5,飞盘,Frisbee
+Weapon_6,回旋镖,Boomerang
+Weapon_7,扳手,wrench
+Weapon_8,手斧,Hand axe
+Weapon_9,钢锯,Hacksaw
+Weapon_10,电锯,Chainsaw
+Weapon_11,钉锤,claw hammer
+Weapon_12,铁锤,Two-handed hammer
+Weapon_13,木棍,Wooden stick
+Weapon_14,铁棍,Iron rod
+Weapon_15,暂时保留,reserved
+Weapon_16,木弓,Wooden bow
+Weapon_17,长弓,longbow
+Weapon_18,反曲弓,Recurve bow
+Weapon_19,复合弓,Compound bow
+Weapon_20,木质轻弩,Wooden Light Crossbow
+Weapon_21,混合轻弩,Hybrid Light Crossbow
+Weapon_22,复合重弩,Composite heavy crossbow
+Weapon_23,自制手枪,Homemade pistol
+Weapon_24,M1911手枪,M1911
+Weapon_25,CZ83手枪,CZ83
+Weapon_26,精英手枪,Delta Elite
+Weapon_27,沙漠之鹰,Desert Eagle
+Weapon_28,自制猎枪,Homemade shotgun
+Weapon_29,ak47步枪,AK47
+Weapon_30,火箭炮,Rocket launcher
+Weapon_31,激光炮,Laser Cannon
+Weapon_32,电浆炮,Plasma gun
+Weapon_33,反物质炮,Antimatter Cannon
+Weapon_34,远古炮,Ancient Cannon
+Weapon_35,棒球棒,bat
+Weapon_36,曲棍球棒,Hockey stick
+Weapon_37,高尔夫球杆,Golf clubs
+Weapon_38,大砍刀,Machete
+Weapon_39,警棍,baton
+Weapon_40,平底锅,Saucepan
+Weapon_41,铁铲,Shovel
+Weapon_42,铁管,iron tube
+Weapon_43,撬棍,Crowbar
+Weapon_44,船桨,paddle
+Weapon_45,草叉,Pitchfork
+Weapon_46,暂时保留,reserved
+Weapon_47,十字镐,Pickaxe
+Weapon_48,钉耙,Rake
+Weapon_49,暂时保留,reserved
+Weapon_50,暂时保留,reserved
+Weapon_51,手雷,Grenade
+Weapon_52,地雷,Landmine
+Weapon_53,空手,Punch
+Weapon_54,消防斧,Fire axe
+Weapon_55,蛛网发射器,Cobweb Launcher
+Weapon_56,电击器,Taser
+Weapon_57,射钉枪,Nail gun
+Weapon_58,双头剑,Double-headed sword
+Weapon_59,标枪,javelin
+Weapon_60,暂时保留,reserved
+Weapon_61,雷管,detonator
+Weapon_62,手里剑,Shuriken
+Weapon_63,园丁的大剪刀,Gardener's Shears
+Weapon_64,镭射手电筒,Laser flashlight
+Weapon_65,鱼竿,Fishing Rod
+Weapon_66,飞镖,Darts
+Weapon_67,破碎的酒瓶,Broken wine bottle
+Weapon_68,圆锯棒球棒,saw baseball bat
+Weapon_69,板球棒,Cricket bat
+Weapon_70,钢锯发射器,Hacksaw Launcher
+Weapon_71,ColtAnaconda,Anaconda
+Weapon_72,DetectiveRevolver,Detective Revolver
+Weapon_73,PPK,PPK
+Weapon_74,USP45,USP45
+Weapon_75,AR15突击步枪,AR15
+Weapon_76,AUG突击步枪,AUG
+Weapon_77,FAL突击步枪,FAL
+Weapon_78,G36C,G36C
+Weapon_79,M4A1突击步枪,M4A1
+Weapon_80,M16突击步枪,M16
+Weapon_81,SCARL突击步枪,SCARL
+Weapon_82,KSG,KSG
+Weapon_83,双管霰弹枪,sawn-off shotgun
+Weapon_84,温彻斯特MX霰弹枪,M1887
+Weapon_85,SPAS-12霰弹枪,SPAS-12
+Weapon_86,XM1014霰弹枪,XM1014
+Weapon_87,FMG-9,FMG-9
+Weapon_88,MP5冲锋枪,MP5
+Weapon_89,MP5SD冲锋枪,MP5SD
+Weapon_90,MP40冲锋枪,MP40
+Weapon_91,TEC-9冲锋枪,TEC-9
+Weapon_92,TommyGun冲锋枪,Tommy Gun
+Weapon_93,UMP9冲锋枪,UMP9
+Weapon_94,UZI冲锋枪,UZI
+Weapon_95,VZ61冲锋枪,VZ61
+Weapon_96,AWM狙击枪,AWM
+Weapon_97,AWP狙击枪,AWP
+Weapon_98,BarrettSniper狙击枪,Barrett M100
+Weapon_99,KAR98K狙击枪,KAR98K
+Weapon_100,Sniper,Sniper
+Consume_1,罐装豆子,Canned beans
+Consume_2,罐装西红柿汤,Canned tomato soup
+Consume_3,罐装鸡汤,Canned chicken soup
+Consume_4,金枪鱼罐头,Canned tuna
+Consume_5,听装可乐,Canned coke
+Consume_6,意大利面罐头,Canned pasta
+Consume_7,培根罐头,Canned bacon
+Consume_8,牛肉罐头,Canned beef
+Consume_9,沙丁鱼罐头,Canned sardines
+Consume_10,瓶装水,bottled water
+Consume_11,苹果汁,Apple juice
+Consume_12,葡萄汁,Grape juice
+Consume_13,红牛,Red Bull
+Consume_14,椰子汁,Coconut milk
+Consume_15,盒装牛奶,Boxed milk
+Consume_16,橙汁,Orange juice
+Consume_17,瓶装可乐,Bottled cola
+Consume_18,瓶装苏打水,Bottled soda
+Consume_19,巧克力,chocolate
+Consume_20,能量棒,Energy bar
+Consume_21,胡萝卜,carrot
+Consume_22,玉米,corn
+Consume_23,军粮,MRE
+Consume_24,三明治,sandwich
+Consume_25,奶酪,cheese
+Consume_26,火腿罐头,Canned ham
+Consume_27,牛肉,beef
+Consume_28,甜甜圈,Donuts
+Consume_29,野蘑菇,Wild mushroom
+Consume_30,苹果,Apple
+Consume_31,甜根菜,Beetroot
+Consume_32,甜根菜沙拉,Beetroot Salad
+Consume_33,浆果,berry
+Consume_34,啤酒,beer
+Consume_35,果酱,jam
+Consume_36,威士忌,Whiskey
+Consume_37,香蕉,banana
+Consume_38,汉堡,Hamburg
+Consume_39,鸡腿,Chicken leg
+Consume_40,曲奇饼干,Cookies
+Consume_41,纸杯蛋糕,Cup cake
+Consume_42,听装苏打水,Canned soda
+Consume_43,热狗,hot dog
+Consume_44,瓶装牛奶,Bottled milk
+Consume_45,英格兰松饼,English Muffins
+Consume_46,馅饼,pie
+Consume_47,披萨,Pizza
+Consume_48,杯装可乐,Cup of Coke
+Consume_49,taco饼,taco
+Consume_50,培根,Bacon
+Consume_51,火鸡肉,Turkey
+Consume_52,排骨,Ribs
+Consume_53,火腿肠,Ham sausage
+Consume_54,牛排,steak
+Consume_55,西瓜,watermelon
+Consume_56,沙丁鱼,sardine
+Consume_57,蜘蛛肉,Spider meat
+Consume_58,鲤鱼,carp
+Consume_59,鳕鱼,Cod
+Consume_100,止血草,Hemostasis
+Consume_101,医药箱,Medicine cabinet
+Consume_102,绷带,bandage
+Consume_103,解毒剂,Antidote
+Consume_104,疫苗,vaccine
+Consume_105,肾上腺素,Adrenaline
+Consume_106,吗啡,morphine
+Consume_107,抗生素,antibiotic
+Consume_108,止痛药,painkiller
+Consume_109,维生素,Vitamins
+Consume_110,血袋,Blood bag
+Consume_111,缝合包,Stitched bag
+Consume_112,急救包,First aid kit
+Consume_113,生命胶囊(x胶囊),Life capsule
+Consume_114,药用糖浆,Medicinal syrup
+Consume_115,止血剂,Hemostatic agent
+Consume_116,夹板,Splint
+Consume_117,生命力强化胶囊,Vitality Strengthening Capsule
+Consume_118,战斗力强化胶囊,Combat Strength Capsule
+Consume_119,防御力强化胶囊,Defense strengthening capsule
+Consume_200,铁钉,Nails
+Consume_201,箭矢,Arrow
+Consume_202,手枪子弹,Pistol bullet
+Consume_203,步枪子弹,Rifle bullet
+Consume_204,散弹枪子弹,Shotgun bullets
+Consume_205,绳子,rope
+Consume_206,篝火,bonfire
+Consume_207,捕兽夹,Trap
+Consume_208,鱼饵,Bait
+Consume_209,蚯蚓,earthworm
+Consume_210,毛毛虫,Caterpillar
+Consume_211,狙击枪子弹,Sniper bullet
+Consume_300,摩托车钥匙,Motorcycle key
+Consume_301,黑色汽车,Black car
+Consume_400,水壶,kettle
+Consume_500,地板,Wooden floor
+Consume_501,天花板,Wooden ceiling
+Consume_502,木制墙壁,Wooden wall
+Consume_503,木制墙壁(门),Wooden wall(door)
+Consume_504,木制墙壁(窗户),Wooden wall(window)
+Consume_505,地基,foundation
+Consume_506,楼梯,stairs
+Consume_507,L型楼梯,L stairs
+Consume_508,柱子,Wooden pillar
+Consume_600,木箱子,wooden box
+Consume_1000,石块,stone
+Consume_1001,木材,wood
+Consume_1002,铁锭,Iron ingot
+Consume_1003,塑胶块,Plastic block
+Consume_1004,布料,Cloth
+Consume_1005,空瓶,Empty bottle
+Consume_1006,电池,battery
+Consume_1007,火药,gunpowder
+Consume_1008,蛛网,Cobweb
+Consume_1009,铁片,Iron sheet
+Consume_2000,撤离路线图,Evacuation route map
+Consume_2001,废弃避难所,Abandoned refuge
+Collet_1,甜根菜,Beetroot
+Collet_2,尸体,corpse
+Jewelry_1,荆棘手环,Thorny bracelet
+Jewelry_2,四叶草护符,Lucky charm
+Jewelry_3,红蔷薇胸花,Red rose corsage
+Jewelry_4,忏悔者的十字架,Confessor's cross
+Jewelry_5,钛合金盔甲,Titanium armor
+Jewelry_6,防御力强化器,enhancer
+Jewelry_7,攻击力强化器,enhancer
+Jewelry_8,生命力强化器,enhancer
+Jewelry_9,防御力转化器,enhancer
+Jewelry_10,攻击力转化器,enhancer
+Jewelry_11,生命力转化器,enhancer
+Jewelry_12,运动眼镜,Sports Glasses
+Jewelry_13,分裂的面具,Split mask
+Jewelry_14,幸运金币,Lucky coin
+Jewelry_15,精致的马表,Exquisite stopwatch
+Jewelry_16,钛合金仿生腿,Bionic leg
+Jewelry_17,心脏起搏器,Pacemaker
+Jewelry_18,超能力芯片,Super chip
+Jewelry_19,蜘蛛毒牙,Spider fangs
+Jewelry_100,虎指,Brass knuckles

@@ -44,7 +44,7 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 43,normal;0,normal;0,z_run_sd,assetobject;1,879a9d3709f271c4db002a8a3120707a:8300000,0,0,0,0,0,0,描述
 44,normal;0,normal;0,zombie_server,assetobject;1,73da0717f99e05b4ca45407c26843604:100038,0,0,0,0,0,0,描述
 45,normal;0,normal;0,viewknife_s,assetobject;1,cca80f9427136764fb94a11152265eaa:100024,0,0,0,0,0,0,描述
-46,normal;0,normal;0,Muzzle,assetobject;1,478609f0cbbfd724790437470feba256:175908,0,0,0,0,0,0,描述
+46,normal;0,normal;0,Muzzle,assetobject;1,d584ed3562708614a87272ca1334f7a7:100006,0,0,0,0,0,0,描述
 47,normal;0,normal;0,BloodFXOther,assetobject;1,e74036a2fec47604d8d89a76268aaf5d:100000,0,0,0,0,0,0,描述
 48,normal;0,normal;0,joyPanel,assetobject;1,ce27f21eb08c92841886bca6ae8f3ffc:189048,0,0,0,0,0,0,描述
 49,normal;0,normal;0,impat_wall2,assetobject;1,985029ea531ea504d9ebc2e9ac36cd4a:100002,0,0,0,0,0,0,描述
@@ -106,6 +106,11 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 105,normal;0,normal;0,buildwood,assetobject;1,afee9f5dbb1308349bec5e7c21691df3:100000,0,0,0,0,0,0,描述
 106,normal;0,normal;0,HitWoodBuilding,assetobject;1,6c17d3498cc9d5a4783997af1216335d:100000,0,0,0,0,0,0,描述
 107,normal;0,normal;0,BuildingDisable,assetobject;1,d29060229cf1de84c9b1bbac19eef3cd:100000,0,0,0,0,0,0,描述
+108,normal;0,normal;0,OpenBox,assetobject;1,88eff2409cee66847b76d40f64dd5c04:100000,0,0,0,0,0,0,描述
+109,normal;0,normal;0,CloseBox,assetobject;1,bfbd4bfeeb9354347adcb143d0116974:100000,0,0,0,0,0,0,描述
+110,normal;0,normal;0,level1.tome,assetobject;1,ce3ecfc37a0e10246b085bd760ea064f:4900000,0,0,0,0,0,0,描述
+111,normal;0,normal;0,ServerListItem,assetobject;1,2572b08b1f9aacb4b9b2d371009562a2:100000,0,0,0,0,0,0,描述
+112,normal;0,normal;0,StepSound,assetobject;1,3f690fc178bad274bb1b1b2a3332539a:100000,0,0,0,0,0,0,描述
 0,weapon;1,mesh;1;1,no weapon 1person,assetobject;1,75aa758f1bad7df41b28d8f990ba20d1:100022,0,0,0,0,0,90,描述
 1,weapon;1,icon;2,knife1 icon,assetobject;1,0b7ee1047d4171d4d8d85f5f3c066a72:175832,0,0,0,0,0,90,描述
 1,weapon;1,icon;2;1,knife1 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300042,0,0,0,0,0,90,描述
@@ -428,6 +433,8 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 1007,Consume;3,icon;2;1,material8 sp,assetobject;1,63a200981045be149b3618abb459cbe1:21300008,0,0,0,0,0,0,描述
 1008,Consume;3,icon;2;1,material9 sp,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300096,0,0,0,0,0,0,描述
 1009,Consume;3,icon;2;1,material10 sp,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300124,0,0,0,0,0,0,描述
+2000,Consume;3,icon;2;1,map0 sp,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300130,0,0,0,0,0,0,描述
+2001,Consume;3,icon;2;1,map1 sp,assetobject;1,b84a5c63a24a74943a8d280025f54579:21300128,0,0,0,0,0,0,描述
 1000,monster;5,skin;2;1,m1000 skin,assetobject;1,c9d763f339ced4f4bba37cad458124e5:2100000,0,0,0,0,0,0,描述
 1001,monster;5,skin;2;1,m1001 skin,assetobject;1,bfa1aaed27bc995418f9b21096a255bc:2100000,0,0,0,0,0,0,描述
 1002,monster;5,skin;2;1,m1002 skin,assetobject;1,2e79dbe9d6090f544a40d2803d64facd:2100000,0,0,0,0,0,0,描述
@@ -668,7 +675,12 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 18031,monster;5,skin;2;1,skin m18031,assetobject;1,5e249a34536b5a242a4792c4911c7fc0:2100000,0,0,0,0,0,0,刀手僵尸皮肤
 18032,monster;5,skin;2;1,skin m18032,assetobject;1,bea5fd8e33858eb49855f1dcf570d639:2100000,0,0,0,0,0,0,刀手僵尸皮肤
 18033,monster;5,skin;2;1,skin m18033,assetobject;1,5fea27059086556459e1b5a0d829541a:2100000,0,0,0,0,0,0,刀手僵尸皮肤
-1,body;6,mesh;1,body1 mesh,assetobject;1,53d344e8499846d4aabd95ae6ab5c41f:170376,0,0,0,0,0,0,描述
+0,body;6,skin;2;1,body base Material,assetobject;1,ca6f06e651924ad45a95b416788650a9:2100000,0,0,0,0,0,0,描述
+1,body;6,skin;2;1,body1 Material,assetobject;1,da07161de52807c408da7b1fa9a06906:2100000,0,0,0,0,0,0,黑西装
+2,body;6,skin;2;1,body2 Material,assetobject;1,5df5b27187e6bb846b4329217cfc22bf:2100000,0,0,0,0,0,0,医物服
+3,body;6,skin;2;1,body3 Material,assetobject;1,9a5e23a74567e0546b5248862822534f:2100000,0,0,0,0,0,0,夹克
+4,body;6,skin;2;1,body4 Material,assetobject;1,d30c2eb8cfbd2b247b7534e859c09898:2100000,0,0,0,0,0,0,黄色休闲外套
+5,body;6,skin;2;1,body5 Material,assetobject;1,12cc827219ae4d44497080cd38d4bf56:2100000,0,0,0,0,0,0,蓝色运动外套
 1,Jewelry;10,icon;2;1,jingji icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300012,0,0,0,0,0,0,描述
 2,Jewelry;10,icon;2;1,lucky icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300020,0,0,0,0,0,0,描述
 3,Jewelry;10,icon;2;1,redqiangwei icon,assetobject;1,ccf77d6dab79aa2488a798b104676c1c:21300002,0,0,0,0,0,0,描述
@@ -690,89 +702,124 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 0,weapon;1,mesh;1,arms@empty,assetbundle;2,3e311a6101c82fd4cb492f541739d648,0,-2.5,0,0,0,0,空手模型
 1,weapon;1,mesh;1,arms@woodknife,assetbundle;2,e1182555a26a17246990d66031533153,0,-0.4,-0.5,0,0,0,拿匕首角色
 1,weapon;1,mesh;1;1,woodKnife,assetbundle;2,62998a47e2643b046924123a44b43815,0,0,0,0,0,-90,拿匕首角色
-1,weapon;1;2,mesh;1;2,knife_1,assetbundle;2,ccc60bd8260cab74690469e801f6df73,0.053,0,0,0,0,90,拿匕首角色
+1,weapon;1;2,mesh;1;2,woodKnife,assetbundle;2,62998a47e2643b046924123a44b43815,0.138,0,-0.051,0,0,90,拿匕首角色
 2,weapon;1,mesh;1,arms@knife01,assetbundle;2,4cfeb8d7d7ddf154594740c68f9caeb8,0,-0.4,-0.5,0,0,0,拿匕首角色
 2,weapon;1,mesh;1;1,knife_1,assetbundle;2,ccc60bd8260cab74690469e801f6df73,0,0,0,0,0,-90,拿匕首角色
+2,weapon;1,mesh;1;2,knife_1,assetbundle;2,ccc60bd8260cab74690469e801f6df73,0.13,0.02,0,0,0,90,拿匕首角色
 3,weapon;1,mesh;1,arms@ButcherKnife,assetbundle;2,430f28687500dab478260469cef0f06f,0,-0.4,-0.5,0,0,0,拿匕首角色
 3,weapon;1,mesh;1;1,ButcherKnife,assetbundle;2,de1c46e50da246f4abf9fb1723af5647,0,0,0,0,0,-90,拿匕首角色
-4,weapon;1,mesh;1,arms@windstick_1,assetbundle;2,31d0fd70c312a9c4cb63d0895bf0b910,0,-0.4,-0.5,0,0,0,拿匕首角色
+3,weapon;1,mesh;1;2,ButcherKnife,assetbundle;2,de1c46e50da246f4abf9fb1723af5647,0.13,0,0,0,0,90,拿匕首角色
+4,weapon;1,mesh;1,arms@windstick01,assetbundle;2,abe2d1341f91e534a84184922ef2e51b,0,-0.4,-0.5,0,0,0,拿匕首角色
+4,weapon;1,mesh;1;2,windstick,assetbundle;2,abe2d1341f91e534a84184922ef2e51b,0.11,0,0,0,0,0,拿匕首角色
 4,weapon;1,mesh;1;1,Projectiles01,assetbundle;2,166d41e076d83d84a85f9aa7e87596a3,0,0,0,0,0,0,拿匕首角色
 6,weapon;1,mesh;1,arms@Boomerang,assetbundle;2,920d2f34a94cfe440a11dbaeecbba387,0,-0.4,-0.5,0,0,0,拿匕首角色
 6,weapon;1,mesh;1;1,boomerangModel,assetbundle;2,ccfff31515a4cc042822fa0231832e72,0,0,0,0,0,0,拿匕首角色
+6,weapon;1,mesh;1;2,boomerangModel,assetbundle;2,ccfff31515a4cc042822fa0231832e72,0.025,0,0.218,0,90,0,拿匕首角色
 7,weapon;1,mesh;1,arms@wrench01,assetbundle;2,01bd3f05e5c400c46a4b39db50d0d32f,0,-0.4,-0.5,0,0,0,拿匕首角色
 7,weapon;1,mesh;1;1,wrench_1,assetbundle;2,c57f24a43bbcb5d48b3911f463d6a526,0,0,0,0,0,0,拿匕首角色
+7,weapon;1,mesh;1;2,wrench_1,assetbundle;2,c57f24a43bbcb5d48b3911f463d6a526,0.035,0,0.385,0,0,180,拿匕首角色
 8,weapon;1,mesh;1,arms@handaxe,assetbundle;2,d47759da336b1834ca4cf2a22d53735a,0,-0.4,-0.5,0,0,0,拿匕首角色
 8,weapon;1,mesh;1;1,Handaxe,assetbundle;2,55802a5c4cb41c84f8a19a120f43f1e7,0,0,0,0,0,0,拿匕首角色
+8,weapon;1,mesh;1;2,Handaxe,assetbundle;2,55802a5c4cb41c84f8a19a120f43f1e7,0.185,0,0.292,0,0,180,拿匕首角色
 9,weapon;1,mesh;1,arms@saw,assetbundle;2,8222bf5bd6fd70d43b389cad8661196a,0,-0.4,-0.5,0,0,0,拿匕首角色
 9,weapon;1,mesh;1;1,saw,assetbundle;2,3be09d9d5fb59144d86e1709efc0f862,0,0,0,0,0,-90,拿匕首角色
+9,weapon;1,mesh;1;2,saw,assetbundle;2,3be09d9d5fb59144d86e1709efc0f862,0.057,0,-0.023,0,0,90,拿匕首角色
 10,weapon;1,mesh;1,arms@chainsaw,assetbundle;2,025596a3e7e2def41841529a763f53fc,0,-0.4,-0.5,0,0,0,拿匕首角色
 10,weapon;1,mesh;1;1,chainsaw_1,assetbundle;2,5c83087219753f34190ee98b9d3365c5,0,0,0,0,0,-90,拿匕首角色
+10,weapon;1,mesh;1;2,chainsaw_1,assetbundle;2,5c83087219753f34190ee98b9d3365c5,0.393,-0.015,-0.28,0,15,90,拿匕首角色
 11,weapon;1,mesh;1,arms@hammer01,assetbundle;2,80e642e6958826a4d8d966c81ed68564,0,-0.4,-0.5,0,0,0,拿匕首角色
 11,weapon;1,mesh;1;1,Hammer,assetbundle;2,2424838c85c5f664a85d9243e5b6569f,0,0,0,0,0,-90,拿匕首角色
+11,weapon;1,mesh;1;2,Hammer,assetbundle;2,2424838c85c5f664a85d9243e5b6569f,0.135,0,0.014,0,0,90,拿匕首角色
 12,weapon;1,mesh;1,arms@sledgehammer01,assetbundle;2,b16553fa5c013cc45b1701d9f09eb732,0,-0.4,-0.5,0,0,0,拿匕首角色
 12,weapon;1,mesh;1;1,sledge_hammer_2,assetbundle;2,7f637a59525cc5d4088eb2ce800df23a,0,0,0,0,0,-90,拿匕首角色
+12,weapon;1,mesh;1;2,sledge_hammer_2,assetbundle;2,7f637a59525cc5d4088eb2ce800df23a,0.0127,0,0,0,0,90,拿匕首角色
 13,weapon;1,mesh;1,arms@woodPipe,assetbundle;2,a9ec4958a11869945bbf357955c9400a,0,-0.4,-0.5,0,0,0,拿匕首角色
 13,weapon;1,mesh;1;1,woodStick,assetbundle;2,1eb449a63ad101d4883cd0413b478544,0,0,0,0,0,-90,拿匕首角色
+13,weapon;1,mesh;1;2,woodStick,assetbundle;2,1eb449a63ad101d4883cd0413b478544,0.126,0,0,0,0,-90,拿匕首角色
 14,weapon;1,mesh;1,arms@ironPipe,assetbundle;2,ceba7afcb020bb741a7c058736ade8e7,0,-0.4,-0.5,0,0,0,拿匕首角色
 14,weapon;1,mesh;1;1,ironPipe,assetbundle;2,08e13add95da1804fa8798f4f0c9c535,0,0,0,0,0,-90,拿匕首角色
+14,weapon;1,mesh;1;2,ironPipe,assetbundle;2,08e13add95da1804fa8798f4f0c9c535,0.126,0,0,0,0,0,拿匕首角色
 16,weapon;1,mesh;1,arms@LongBow,assetbundle;2,a5f7bec1d05279b44bb4f8a7162362d8,0,-0.4,-0.5,0,0,0,拿匕首角色
 16,weapon;1,mesh;1;1,Bow,assetbundle;2,85aedf7cd2cbc5241b69c54a17155d0a,0,0,0,0,0,-90,拿匕首角色
+16,weapon;1,mesh;1;2,Bow,assetbundle;2,85aedf7cd2cbc5241b69c54a17155d0a,0.152,-0.075,-0.045,0,90,90,拿匕首角色
 23,weapon;1,mesh;1,arms@Pistol,assetbundle;2,80d221c80283c05439416d885894690b,-0.1,-0.4,-0.5,5,0,0,手枪角色模型
 23,weapon;1,mesh;1;1,Pistol,assetbundle;2,2b977819a12ceba4587431bfcf95320b,0,0,0,0,0,-90,手枪角色模型
-23,weapon;1,mesh;1;2,handgun_1,assetbundle;2,fd8bf623410b8dc44bbaa7dcee6cab94,0.118,0,0.062,0,90,90,手枪角色模型
+23,weapon;1,mesh;1;2,Pistol,assetbundle;2,2b977819a12ceba4587431bfcf95320b,0.118,0,0.062,0,90,90,手枪角色模型
 24,weapon;1,mesh;1,arms@GLOCK20,assetbundle;2,13c4b42ee3fde8048a328bf53fa7dce0,-0.1,-0.35,-0.5,5,0,0,手枪角色模型
 24,weapon;1,mesh;1;1,GLOCK20,assetbundle;2,ad8185acf3cabd64d969c372e889ddc0,0,0,0,0,0,-90,手枪角色模型
+24,weapon;1,mesh;1;2,GLOCK20,assetbundle;2,ad8185acf3cabd64d969c372e889ddc0,0.175,0,0.121,0,90,90,手枪角色模型
 25,weapon;1,mesh;1,arms@p228,assetbundle;2,1f7fc0b822438ca4fba2612ac9bf58a6,-0.1,-0.35,-0.5,5,0,0,手枪角色模型
 25,weapon;1,mesh;1;1,p228,assetbundle;2,6029e4f1fe1e3314092cdeddd2d721bc,0,0,0,0,0,-90,手枪角色模型
+25,weapon;1,mesh;1;2,p228,assetbundle;2,6029e4f1fe1e3314092cdeddd2d721bc,0.135,0,0.106,0,90,90,手枪角色模型
 26,weapon;1,mesh;1,arms@BerettaElite,assetbundle;2,ac7e875ed4565b447bc3f0a64d72901d,-0.1,-0.35,-0.5,5,0,0,手枪角色模型
 26,weapon;1,mesh;1;1,BerettaElite,assetbundle;2,a52513fb72a556745b4608f7fcc65b17,0,0,0,0,0,-90,手枪角色模型
+26,weapon;1,mesh;1;2,BerettaElite,assetbundle;2,a52513fb72a556745b4608f7fcc65b17,0.171,0,0.144,0,90,90,手枪角色模型
 27,weapon;1,mesh;1,arms@DesertEagle,assetbundle;2,e40242870678db549966520723aa7f30,-0.1,-0.35,-0.5,5,0,0,手枪角色模型
 27,weapon;1,mesh;1;1,DesertEagle,assetbundle;2,bef1aef8eaf0f624c85535e4e7ac732c,0,0,0,0,0,-90,手枪角色模型
+27,weapon;1,mesh;1;2,DesertEagle,assetbundle;2,bef1aef8eaf0f624c85535e4e7ac732c,0.225,0,0.052,0,90,90,手枪角色模型
 28,weapon;1,mesh;1,arms@sniper1,assetbundle;2,79a8cf4677fd3e845a113e75aa8e0bd4,0,-0.3,-0.1,5,0,0,步枪角色模型
 28,weapon;1,mesh;1;1,ThumperGrenadeLauncher,assetbundle;2,2768fcbe8d39e2c4a9283c2a347e2293,0,0,0,0,0,-90,步枪角色模型
+28,weapon;1,mesh;1;2,ThumperGrenadeLauncher,assetbundle;2,2768fcbe8d39e2c4a9283c2a347e2293,0.063,0,0.105,0,90,90,步枪角色模型
 29,weapon;1,mesh;1,arms@AK47,assetbundle;2,45df29770d1f7a74eb2d41bba3fc1ffd,0.15,-0.4,-0.1,10,0,0,步枪角色模型
 29,weapon;1,mesh;1;1,AK47,assetbundle;2,b7c3fb2ee8032c2479bdd985ba86c546,0,0,0,0,0,-90,步枪角色模型
-29,weapon;1,mesh;1;2,assault_rifle_3,assetbundle;2,21c2e494ad0b7cc429fa6fac89fe9f5b,0.16,-0.002,0.114,0,90,90,步枪角色模型
+29,weapon;1,mesh;1;2,AK47,assetbundle;2,b7c3fb2ee8032c2479bdd985ba86c546,0.16,-0.002,0.114,0,90,90,步枪角色模型
 35,weapon;1,mesh;1,arms@baseball,assetbundle;2,150d8fcac87007641bfeca26b2370bc9,0,-0.5,-0.5,5,0,0,步枪角色模型
 35,weapon;1,mesh;1;1,baseball_bat_5,assetbundle;2,2cac3451c1815fa4480fa8f8f1303c60,0,0,0,0,0,-90,步枪角色模型
+35,weapon;1,mesh;1;2,baseball_bat_5,assetbundle;2,2cac3451c1815fa4480fa8f8f1303c60,0.114,0,0.024,0,90,90,步枪角色模型
 36,weapon;1,mesh;1,arms@HockeyStick,assetbundle;2,36bc063f7735678408ed0abb29dd9bf8,0,-0.5,-0.5,5,0,0,步枪角色模型
 36,weapon;1,mesh;1;1,HockeyStick,assetbundle;2,4933e36edddafdf40a9d1f64db92b96c,0,0,0,0,0,-90,步枪角色模型
+36,weapon;1,mesh;1;2,HockeyStick,assetbundle;2,4933e36edddafdf40a9d1f64db92b96c,0.0123,0,0,0,0,90,步枪角色模型
 37,weapon;1,mesh;1,arms@golfclub,assetbundle;2,95e778d4daf0fbf4f9205b80cd0dd5c7,0,-0.5,-0.5,5,0,0,步枪角色模型
 37,weapon;1,mesh;1;1,golf_club,assetbundle;2,a5df70b2e3b699f43a07a729261cef73,0.1,-0.3,-0.15,5,0,-90,步枪角色模型
+37,weapon;1,mesh;1;2,golf_club,assetbundle;2,a5df70b2e3b699f43a07a729261cef73,0.12,0,0,0,0,90,步枪角色模型
 38,weapon;1,mesh;1,arms@Machete,assetbundle;2,23fe24e3a24be7d4e97ec791c2c619de,0,-0.5,-0.5,5,0,0,步枪角色模型
 38,weapon;1,mesh;1;1,SA_Wep_Machete,assetbundle;2,f84941fb9e08d73418a825a279fb6ef2,0,0,0,0,0,-90,步枪角色模型
+38,weapon;1,mesh;1;2,SA_Wep_Machete,assetbundle;2,f84941fb9e08d73418a825a279fb6ef2,0.12,0,0.023,0,0,90,步枪角色模型
 39,weapon;1,mesh;1,arms@policebaton,assetbundle;2,a5e91157c3225dc47b5af2e1360875a3,0,-0.5,-0.5,5,0,0,步枪角色模型
 39,weapon;1,mesh;1;1,police_baton,assetbundle;2,d539266b805c553439fdf61d30eb67b4,0,0,0,0,0,-90,步枪角色模型
+39,weapon;1,mesh;1;2,police_baton,assetbundle;2,d539266b805c553439fdf61d30eb67b4,0.147,0,0,0,0,90,步枪角色模型
 40,weapon;1,mesh;1,arms@pan,assetbundle;2,c332053aa8298c74b8ef7d01bdc5733d,0,-0.5,-0.5,5,0,0,步枪角色模型
 40,weapon;1,mesh;1;1,SA_Wep_Pan,assetbundle;2,401c4e004f3b397418c4a02b971c1ad9,0,0,0,0,0,-90,步枪角色模型
+40,weapon;1,mesh;1;2,SA_Wep_Pan,assetbundle;2,401c4e004f3b397418c4a02b971c1ad9,0.168,0,0,0,0,90,步枪角色模型
 41,weapon;1,mesh;1,arms@ToolSpade,assetbundle;2,35519e6befd36074a8ff523809e28f81,0,-0.5,-0.5,5,0,0,步枪角色模型
 41,weapon;1,mesh;1;1,ToolSpade,assetbundle;2,00252a8ddb9154d40b9c24845fe82abc,0,0,0,0,0,-90,步枪角色模型
+41,weapon;1,mesh;1;2,ToolSpade,assetbundle;2,00252a8ddb9154d40b9c24845fe82abc,0.221,0,0.955,0,0,0,步枪角色模型
 42,weapon;1,mesh;1,arms@ironPipe,assetbundle;2,ceba7afcb020bb741a7c058736ade8e7,0,-0.5,-0.5,5,0,0,步枪角色模型
 42,weapon;1,mesh;1;1,ironPipe,assetbundle;2,08e13add95da1804fa8798f4f0c9c535,0,0,0,0,0,-90,步枪角色模型
+42,weapon;1,mesh;1;2,ironPipe,assetbundle;2,08e13add95da1804fa8798f4f0c9c535,0.138,0,-0.148,0,0,0,步枪角色模型
 43,weapon;1,mesh;1,arms@crowbar,assetbundle;2,06ab98832d1bbe947b5cf717d4882668,0,-0.5,-0.5,5,0,0,步枪角色模型
 43,weapon;1,mesh;1;1,crowbar_1,assetbundle;2,811e7d1ec8eb3a94c8b213badce00276,0,0,0,0,0,-90,步枪角色模型
+43,weapon;1,mesh;1;2,crowbar_1,assetbundle;2,811e7d1ec8eb3a94c8b213badce00276,0.114,0,0.414,0,270,270,步枪角色模型
 44,weapon;1,mesh;1,arms@Paddle,assetbundle;2,95b858ef295e2b24696db1237b62a114,0,-0.5,-0.5,5,0,0,步枪角色模型
 44,weapon;1,mesh;1;1,Paddle,assetbundle;2,998d2898b18abcf4fb0133d9efe794a3,0,0,0,0,0,-90,步枪角色模型
+44,weapon;1,mesh;1;2,Paddle,assetbundle;2,998d2898b18abcf4fb0133d9efe794a3,0.113,0,0,0,0,0,步枪角色模型
 45,weapon;1,mesh;1,arms@pitchfork01,assetbundle;2,4849f1472b79d4744984b4089a025956,0,-0.5,-0.5,5,0,0,步枪角色模型
 45,weapon;1,mesh;1;1,pitchfork,assetbundle;2,b061f5ff01925e3489835a2f91cd7bf5,0,0,0,0,0,-90,步枪角色模型
+45,weapon;1,mesh;1;2,pitchfork,assetbundle;2,b061f5ff01925e3489835a2f91cd7bf5,0.131,0,0,0,0,90,步枪角色模型
 47,weapon;1,mesh;1,arms@Pickaxe,assetbundle;2,275784a281b27b449aea90fcda29724b,0,-0.5,-0.5,0,0,0,步枪角色模型
 47,weapon;1,mesh;1;1,Pickaxe,assetbundle;2,95eb44b03b226d747acb9a9d0e287428,0,0,0,0,0,-90,步枪角色模型
+47,weapon;1,mesh;1;2,Pickaxe,assetbundle;2,95eb44b03b226d747acb9a9d0e287428,0.148,0,0.026,0,0,90,步枪角色模型
 48,weapon;1,mesh;1,arms@Rake,assetbundle;2,743bfbb0c2ed44c4aad0ab52c719daec,0,-0.5,-0.5,0,0,0,步枪角色模型
 48,weapon;1,mesh;1;1,Rake,assetbundle;2,1e62a2ce3a7ac2840b2c1056e331bba2,0,0,0,0,0,-90,步枪角色模型
+48,weapon;1,mesh;1;2,Rake,assetbundle;2,1e62a2ce3a7ac2840b2c1056e331bba2,0.137,0,0,0,0,90,步枪角色模型
 51,weapon;1,mesh;1,arms@grenade,assetbundle;2,29082e1a9df46b245ae84790feb20ff5,0,-0.4,-0.5,5,0,0,手雷形象
-51,weapon;1,mesh;1;1,hand_grenade,assetbundle;2,df7492d5701ac1248a1447647d589866,0,0,0,0,0,0,地上手雷
+51,weapon;1,mesh;1;1,Grenade,assetbundle;2,1aa10ec830f9e1f4f8bc06fbffc811ca,0,0,0,0,0,0,地上手雷
+51,weapon;1,mesh;1;2,Grenade,assetbundle;2,1aa10ec830f9e1f4f8bc06fbffc811ca,0.12,-0.11,0,0,90,90,地上手雷
 54,weapon;1,mesh;1,arms@axe01,assetbundle;2,9b0c40832df5f8c4989524adb5b74462,0,-0.4,-0.5,5,0,0,手雷形象
 54,weapon;1,mesh;1;1,Fireaxe,assetbundle;2,efb75c1fdf3e11c44b1a4b47c0d6a725,0,0,0,0,0,-90,手雷形象
+54,weapon;1,mesh;1;2,Fireaxe,assetbundle;2,efb75c1fdf3e11c44b1a4b47c0d6a725,0.134,-0.03,-0.538,0,0,90,手雷形象
 57,weapon;1,mesh;1,arms@Nailgun,assetbundle;2,9a2951273e528fb408d05ea60e3f430e,-0.1,-0.4,-0.5,5,0,0,手雷形象
 57,weapon;1,mesh;1;1,Nailgun,assetbundle;2,84a7e62d9d9bb65489641e004af1ba4f,0,0,0,0,0,-90,手雷形象
 65,weapon;1,mesh;1,arms@FishingRod,assetbundle;2,62a9dfcd24058e34eb04abed409f6b05,-0.1,-0.5,-0.15,0,0,0,鱼竿形象
 65,weapon;1,mesh;1;1,FishingRod,assetbundle;2,288dfeac45a8f66489f5c062ed2c4314,0,0,0,0,0,0,鱼竿形象
+65,weapon;1,mesh;1;2,FishingRod,assetbundle;2,288dfeac45a8f66489f5c062ed2c4314,0.115,0,0.428,0,0,90,鱼竿形象
 66,weapon;1,mesh;1,arms@Darts,assetbundle;2,bbddd9f4011416d489b7783153c6ca0d,-0.1,-0.4,-0.5,0,0,0,鱼竿形象
 66,weapon;1,mesh;1;1,Darts01Model,assetbundle;2,620372a8bb18e1f4da1bff7f341bc903,0,0,0,0,0,0,鱼竿形象
 67,weapon;1,mesh;1,arms@BrokenBottle,assetbundle;2,bd9bdeb0c04d79d4aadaa800fd891781,-0.1,-0.4,-0.5,0,0,0,鱼竿形象
 67,weapon;1,mesh;1;1,BrokenBottleModel,assetbundle;2,e3e3142826489604194021b73c255cb6,0,0,0,0,0,0,鱼竿形象
 69,weapon;1,mesh;1,arms@CriketBat,assetbundle;2,46fd8ee400aaac546a99def4f9943de1,0,-0.4,-0.5,0,0,0,鱼竿形象
 69,weapon;1,mesh;1;1,CriketBat,assetbundle;2,63c1d9269aec18e47b752fe38f4b9dff,0,0,0,0,0,0,鱼竿形象
+69,weapon;1,mesh;1;2,CriketBat,assetbundle;2,63c1d9269aec18e47b752fe38f4b9dff,0.114,0,0,0,0,0,鱼竿形象
 71,weapon;1,mesh;1,arms@ColtAnaconda,assetbundle;2,33edd12ba30bbf44ba6a3b74f2145bf8,0.1,-0.3,-0.15,5,0,0,鱼竿形象
 71,weapon;1,mesh;1;1,ColtAnaconda,assetbundle;2,2d12cdd3cb927874a8d45dc51334f999,0,0,0,0,0,-90,鱼竿形象
 72,weapon;1,mesh;1,arms@DetectiveRevolver,assetbundle;2,90378b1f2531cdf4db00ee67cff5d35f,0.1,-0.3,-0.15,5,0,0,鱼竿形象
@@ -795,10 +842,12 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 80,weapon;1,mesh;1;1,M16,assetbundle;2,4279614b7e6cd294aa8c92c3b181222b,0,0,0,0,0,-90,鱼竿形象
 81,weapon;1,mesh;1,arms@SCARL,assetbundle;2,5ddc1d98b44c9864eb0272b830af3ed2,0.1,-0.3,-0.15,5,0,0,鱼竿形象
 81,weapon;1,mesh;1;1,SCARL,assetbundle;2,e2a73d15ae1aeae4fb674177abd8f2e2,0,0,0,0,0,-90,鱼竿形象
+81,weapon;1,mesh;1;2,SCARL,assetbundle;2,e2a73d15ae1aeae4fb674177abd8f2e2,0.258,0,0.2,0,90,90,鱼竿形象
 82,weapon;1,mesh;1,arms@KSG,assetbundle;2,a79a18657990f074cacb8f67d8449dbc,0.1,-0.3,-0.15,5,0,0,鱼竿形象
 82,weapon;1,mesh;1;1,KSG,assetbundle;2,8a5a0b02290a0d64ab3253ef450e393a,0,0,0,0,0,-90,鱼竿形象
 83,weapon;1,mesh;1,arms@sawnoff,assetbundle;2,6236038b6cc8ce946add8e6e2c90905d,0.1,-0.3,-0.4,5,0,0,鱼竿形象
 83,weapon;1,mesh;1;1,sawn_off_shotgun,assetbundle;2,18925afef2fff57439c79223c7b17e95,0,0,0,0,0,-90,鱼竿形象
+83,weapon;1,mesh;1;2,sawn_off_shotgun,assetbundle;2,18925afef2fff57439c79223c7b17e95,0.372,0,0.164,0,90,90,鱼竿形象
 84,weapon;1,mesh;1,arms@lever_action_shotgun,assetbundle;2,6cfe598d3584d274f8e6564182b66e9f,0.1,-0.3,-0.15,5,0,0,鱼竿形象
 84,weapon;1,mesh;1;1,shotgun,assetbundle;2,3e5ca7f426760b24ab6e8f32b6fa8129,0,0,0,0,0,-90,鱼竿形象
 85,weapon;1,mesh;1,arms@SPAS-12,assetbundle;2,66242374e4bf4e944aec2743156ad25a,0.1,-0.3,-0.15,5,0,0,鱼竿形象
@@ -833,6 +882,7 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 99,weapon;1,mesh;1;1,KAR98K,assetbundle;2,8279e84c5368f494c9203e9c200a8cd2,0,0,0,0,0,-90,鱼竿形象
 100,weapon;1,mesh;1,arms@Sniper,assetbundle;2,ed8d990246509af47aa8b9f58b06f6e3,0.1,-0.3,-0.15,5,0,0,武器
 100,weapon;1,mesh;1;1,Sniper,assetbundle;2,26a3c20cafbed844e8e81d54a4f83a78,0,0,0,0,0,-90,武器
+100,weapon;1,mesh;1;2,Sniper,assetbundle;2,26a3c20cafbed844e8e81d54a4f83a78,0.634,0,0.351,0,90,90,武器
 1,Armor;2,mesh;1;1,cap1,assetbundle;2,e396cde1fe201e743926f987589c4d63,0,0,0,0,0,0,地上灰色休闲帽
 3,Armor;2,mesh;1;1,cap5,assetbundle;2,fc25a8c1221d7664bb7d4bc7ca647873,0,0,0,0,0,0,地上摩托头盔
 4,Armor;2,mesh;1;1,cap2,assetbundle;2,a2cf4ad56143aa346b001d61e5c62013,0,0,0,0,0,0,地上安全帽
@@ -906,12 +956,14 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 205,consume;3,mesh;1;1,Rope,assetbundle;2,d064de97e8fc3844f89668921788857f,0,0,0,0,0,0,绳子
 207,consume;3,mesh;1;1,BearTrap,assetbundle;2,a022e7480d5b66d46a69ce3a2939a707,0,0,0,0,0,0,捕兽夹
 208,consume;3,mesh;1;1,CannedFood_03,assetbundle;2,ff7dc155f087bb348a1b4ff0667aa59b,0,0,0,0,0,0,鱼饵
+211,consume;3,mesh;1;1,Ammo_SniperRifle,assetbundle;2,4760f3a05007329438f6bd20a640a74f,0,0,0,0,0,0,鱼饵
 300,consume;3,mesh;1;1,Moto,assetbundle;2,b28dec3b8d664ec4593fc9b580f0c14e,0,0,0,0,0,0,鱼竿形象
 301,consume;3,mesh;1,CarFPS,assetbundle;2,24b17eb700b845a44bc1083f35f6c76f,0.75,-2.2,-0.4,0,0,0,car
 301,consume;3,mesh;1;1,MuscleCarA,assetbundle;2,c9303e3cd95c3f54d9e76e323a59bed7,0,0,0,0,0,0,world car
 1001,consume;3,mesh;1;1,wood,assetbundle;2,e00fdb8073a25184490e4beb876183ed,0,0,0,0,0,0,木材
 1008,consume;3,mesh;1;1,cobweb,assetbundle;2,18192c4b4d5bf7644b17debdc6b63f31,0,0,0,0,0,0,wang
 1009,consume;3,mesh;1;1,Items_Iron,assetbundle;2,aa6f16b257fb9ec41a5ecd986504a1a7,0,0,0,0,0,0,wang
+2001,consume;3,mesh;1;1,SA_Item_Map,assetbundle;2,110675e916dfa554c8d078253403fbd0,0,0,0,0,0,0,地图
 0,monster;5,mesh;1,BaseZombie,assetbundle;2,9f15a51facac2e94abcc2586da38d231,0,0,0,0,0,0,测试僵尸
 1,monster;5,mesh;1,Dummy,assetbundle;2,4a55ba9c440e30c41953080571d138d6,0,0,0,0,0,0,假人
 2,monster;5,mesh;1,crawl,assetbundle;2,49c4a35d6c2da394cb277504b1fddfa6,0,0,0,0,0,0,爬尸
@@ -1200,6 +1252,7 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 18031,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
 18032,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
 18033,monster;5,mesh;1,Saber,assetbundle;2,93436be1ce535f6419dfcf66cd5c78c5,0,0,0,0,0,0,Saber
+0,body;6,mesh;1,SimplePeople,assetbundle;2,c20a3f0e36f10e24db51b6884f8d28c9,0,0,0,0,0,0,body
 1,body;6,mesh;1,SimplePeople,assetbundle;2,c20a3f0e36f10e24db51b6884f8d28c9,0,0,0,0,0,0,body
 1,collet;8,mesh;1;1,beetroot,assetbundle;2,7813c34e1c587c24d89e213601752338,0,0,0,0,0,0,colloet
 2,collet;8,mesh;1;1,corpse,assetbundle;2,417b1a2e97bb5b845bdcfa9b38447035:102900000,0,0,0,0,0,0,corpse
