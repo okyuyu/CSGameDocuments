@@ -3,7 +3,7 @@ category,0;ACT_IDLE,1;ACT_JUMP,2;ACT_RUN,3;ACT_DUCK,4;ACT_DEPLOY,5;ACT_SHOOT,6;A
 1;Pistol,pistol_aim_idle,jump,PistolAimRun,duck,pistol_deploy,pistol_shoot,pistol_reload,,,PistolDash,,,eat,drink,bandage,pistol_aim_idle,PistolAimRun
 2;Rifle,rifle_aim_idle,jump,RifleAimRun,duck,rifle_deploy,rifle_shoot,rifle_reload,,,RifleDash,,,eat,drink,bandage,rifle_aim_idle,RifleAimRun
 3;AssaultRifle,rifle_aim_idle,jump,RifleAimRun,duck,rifle_deploy,rifle_shoot,rifle_reload,,,RifleDash,,,eat,drink,bandage,rifle_aim_idle,RifleAimRun
-4;SubmachineGun,rifle_aim_idle,jump,RifleAimRun,duck,submachinegun_deploy,submachinegun_shoot,submachinegun_reload,,,RifleDash,,,eat,drink,bandage,rifle_aim_idle,RifleAimRun
+4;SubmachineGun,rifle_aim_idle,jump,RifleAimRun,duck,rifle_deploy,smg_shoot,smg_reload,,,RifleDash,,,eat,drink,bandage,rifle_aim_idle,RifleAimRun
 5;Shotgun,rifle_aim_idle,jump,RifleAimRun,duck,shotgun_deploy,shotgun_shoot,shotgun_reload_start;shotgun_reload_loop;shotgun_reload_end,,,RifleDash,,,eat,drink,bandage,rifle_aim_idle,RifleAimRun
 6;SniperRifle,rifle_aim_idle,jump,RifleAimRun,duck,rifle_deploy,sniperrifle_shoot,sniperrifle_reload,,,RifleDash,,,eat,drink,bandage,rifle_aim_idle,RifleAimRun
 7;Grenade,grenade_idle,jump,MeleeRun,duck,,,grenade_reload,,,MeleeRun,grenade_hold,grenade_fire,eat,drink,bandage,grenade_idle,MeleeRun

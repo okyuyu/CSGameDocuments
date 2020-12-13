@@ -1,4 +1,58 @@
 KEY,chs,english
+fish_strength,鱼的体力,Fish Strength
+tension,鱼线张力,Fishing Line Tension
+btn_shortcut,快  捷,Shortcut
+btn_repair,修  理,Repair
+btn_use,使  用,Use
+forget,遗  忘,Forget
+learn,学  习,Learn
+skill_title,技  能,Skill
+craft,合  成,Craft
+equip_title,装  备,Equip
+dmg_inc_through:,击中贯穿目标增加伤害:,Increase Shot Through Damage:
+dmg_inc_fractured:,击中骨折目标增加伤害:,Increase Fracture Damage:
+dmg_inc_bleeding:,击中出血目标增加伤害:,Increase Bleeding Damage:
+dmg_inc_poisoning:,击中中毒目标增加伤害:,Increase Poisoning Damage:
+hit_poisoning_chance:,涂毒攻击使目标中毒几率:,Chance To Cause Poisoning:
+hit_bleeding_chance:,切割攻击使目标出血几率:,Chance To Cause Bleeding:
+hit_fracture_chance:,钝器攻击使目标骨折几率:,Chance To Fracture Enemies:
+shoot_through_target:,射击使目标被贯穿几率:,Chance To Shot Through:
+dmg_reduced_through:,贯穿时受击伤害减少:,Reduce Shot Through Damage:
+dmg_reduced_fractured:,骨折时受击伤害减少:,Reduce Fractured Damage:
+dmg_reduced_bleeding:,出血时受击伤害减少:,Reduce Bleeding Damage:
+dmg_reduced_poisoning:,中毒时受击伤害减少:,Reduce Poisoning Damage:
+shoot_through:,贯穿抗性:,Shot Through Resistance:
+poisoning_resistance:,中毒抗性:,Poison Resistance:
+bleeding_resistance:,出血抗性:,Bleeding Resistance:
+fracture_resistance:,骨折抗性:,Fracture Resistance:
+other,其  他,Other
+critical_damage:,致命伤害:,Critical Damage:
+skill_points:,技能点:,Skill Points:
+experience:,经验值:,Experience:
+weight_bearing:,负 重:,Weight Bearing:
+attribute,属  性,Attribute
+damage_reduction:,伤害减免:,Damage Reduction:
+grid:,栏 位:,Grid:
+lucky:,幸 运:,Lucky:
+critical_strike:,致命几率:,Critical Strike Chance:
+move_speed:,移动速度:,Movement Speed:
+reload_speed:,装弹速度:,Reload Speed:
+attack_speed:,攻击速度:,Attack Speed:
+defense:,防御力:,Defense:
+attack:,攻击力:,Attack:
+water:,口 渴:,Water:
+food:,饥 饿:,Food:
+life:,生 命:,Life:
+level:,等 级:,Level:
+storage_item,存取物品,Storage Or Take out
+durability,耐久度,Durability
+weight,重量,Weight
+storage,仓  库,Storage
+backpack,背  包,Backpack
+processing,正在进行中...,Processing...
+vehicle_durability,载具耐久度,Durability
+map,地  图,Map
+scene_loading,正在加载场景中...,Loading Scene...
 revive,复  活,REVIVE
 ip_input,请输入IP地址...,Please enter IP address...
 connect_manually,手动连接,Connect Manually
@@ -90,9 +144,11 @@ Pants,裤子,Pants
 Pistol,手枪,Pistol
 Rifle,步枪,Rifle
 AR,突击步枪,AR
+AssaultRifle,突击步枪,AR
 SMG,冲锋枪,SMG
 SG,散弹枪,SG
 Shotgun,散弹枪,Shotgun
+SniperRifle,狙击步枪,SR
 SR,狙击步枪,SR
 HMG,重机枪,HMG
 grenade,手雷,Grenade
@@ -120,7 +176,7 @@ upper,上衣,Upper
 pants,裤子,Pants
 shoes,鞋子,Shoes
 cap,帽子,Hat
-decorate,饰品,Accessories
+decorate,饰品,Accessory
 material,材料,Material
 Item,物品,Item
 consume,消耗品,Consume
@@ -131,10 +187,10 @@ food,食物,Food
 drink,饮料,Drink
 strengthen,增强,Strengthen
 ammo,弹药,Ammo
-building_materials,建造材料,Building Materials
+building_materials,建造材料,Material(B)
 portal,地图,Map
-attack,攻击力,attack
-defense,防御力,defense
+attack,攻击力,Attack
+defense,防御力,Defense
 fetch_item_failed,拾取物品失败!,Failed to pick up the item!
 forgetskill_notify,需要能力回收胶囊,You need ability recovery capsules!
 prevskill_notify,需要先学习前置技能,You need to learn previous skill!
@@ -145,8 +201,8 @@ poisoning_resistance,中毒抗性 +%.1f%%,+%.1f%% to poisoning resistance
 fracture_resistance,骨折抗性 +%.1f%%,+%.1f%% to fracture resistance
 hemorrhagic_resistance,出血抗性 +%.1f%%,+%.1f%% to bleeding resistance
 life_percent,最大生命值增加%.1f%%,%.1f%% increased maximum health
-durable,耐久度,durability
-durable_extra,耐久度 +%d,durability +%d
+durable,耐久度,Durability
+durable_extra,耐久度 +%d,Durability +%d
 reduce_weight,物品重量减少%.1f%%,%.1f%% reduced item weight
 weight_extra,负重能力 +%d,+%d to weight bearing capacity
 attack_extra,攻击力 +%.1f,+%.1f to attack
@@ -187,26 +243,26 @@ explode_timer,爆炸倒计时,Countdown to explosion
 lucky_day,幸运之神降临!,Today is a lucky day!
 Skill_0,腕力,Wrist Force
 Skill_1,投掷精通,Throwing Mastery
-Skill_2,攻速强化,AttackRate Increase
+Skill_2,攻速强化,Melee Mastery
 Skill_3,生命强化,Supervital
 Skill_4,血泵,Blood Pump
 Skill_5,武器精通,Weapon Mastery
 Skill_6,战斗精通,Combat Mastery
-Skill_7,内脏打击,Viscera Strike
+Skill_7,内脏打击,Kidney Shot
 Skill_8,超运,Super Lucky
 Skill_9,幸运星,Lucky Star
 Skill_10,快速移动,Fast Moving
 Skill_11,快速充能,Quick Charge
 Skill_12,持久续航,Endurance
-Skill_13,弱点探测,Weakness Detection
-Skill_14,完美伤害,Perfect Damage
+Skill_13,弱点探测,Heart Strike
+Skill_14,完美伤害,Head Shot
 Skill_15,洁净,Clean Body
 Skill_16,抗体,Anti Body
 Skill_17,血小板,Blood Platelet
 Skill_18,血屏障,Blood Barrier
-Skill_19,胫骨强化,Tibial Reinforcement
+Skill_19,胫骨强化,Bone Enhancement
 Skill_20,精钢铁骨,Iron Bone
-Skill_21,防御增强,Defense Enhancement
+Skill_21,防御增强,Defense Mastery
 Skill_22,钢铁皮肤,Iron Skin
 Skill_23,完美防御,Perfect Defense
 Skill_24,敏捷,Agility
@@ -224,10 +280,10 @@ Skill_35,螺旋弹,Spiral Bullet
 Skill_36,快速装弹,Quick Reload
 Skill_37,鹰眼,Eagle Eyes
 Skill_38,神射手,Marksman
-SkillDesc_0,增加投掷武器的飞行距离,Increase the flying distance of thrown weapons
-SkillDesc_1,投掷武器的伤害更加稳定,The damage of thrown weapons is more stable
-SkillDesc_2,使用近战武器时有更快的攻击速度,Faster attack speed when using melee weapons
-SkillDesc_3,生命值增加,Health increased
+SkillDesc_0,增加投掷武器的飞行距离,Increase the flying distance of \n thrown weapons
+SkillDesc_1,投掷武器的伤害更加稳定,The damage of thrown weapons is \n more stable
+SkillDesc_2,使用近战武器时有更快的攻击速度,Attack speed Increased when using \n melee weapons
+SkillDesc_3,生命值增加,Life increased
 SkillDesc_4,全局生命力增加,Increased global vitality
 SkillDesc_5,角色的基础攻击力增加,Base attack power increased
 SkillDesc_6,未实装技能,Uninstalled skills
@@ -237,7 +293,7 @@ SkillDesc_9,全局幸运值提高,Global lucky increased
 SkillDesc_10,移动速度提高,Movement speed increased
 SkillDesc_11,能量的回复速度提高,Increased energy recovery speed
 SkillDesc_12,能量的消耗速度减少,Reduced energy consumption rate
-SkillDesc_13,基础暴击率提高,Critical strike rate increased
+SkillDesc_13,基础暴击率提高,Critical strike chance increased
 SkillDesc_14,基础暴击伤害提高,Critical damage increased
 SkillDesc_15,提高角色对毒性的抵抗能力,Improve resistance to toxicity
 SkillDesc_16,未实装技能,Uninstalled skills
@@ -248,18 +304,18 @@ SkillDesc_20,未实装技能,Uninstalled skills
 SkillDesc_21,角色的基础防御能力增加,Basic defense ability increased
 SkillDesc_22,角色的全局防御能力增加,Global defense ability increased
 SkillDesc_23,未实装技能,Uninstalled skills
-SkillDesc_24,角色的基础闪避能力增加,basic evasion ability increased
-SkillDesc_25,角色的全局闪避能力增加,global evasion ability increased
-SkillDesc_26,生命大于攻击者的基础伤害遭受其致命打击时不会死亡,Suffer a fatal blow not die if life is greater than the base damage of the attacker
+SkillDesc_24,角色的基础闪避能力增加,Basic evasion ability increased
+SkillDesc_25,角色的全局闪避能力增加,Global evasion ability increased
+SkillDesc_26,生命大于攻击者的基础伤害遭受其致命打击时不会死亡,Suffer a fatal blow not die if life is \n greater than the base damage of the attacker
 SkillDesc_27,药物的治疗效果提高,Improved therapeutic effect of drugs
 SkillDesc_28,食物和饮料的效果提高,Improved effects of food and drink
 SkillDesc_29,基础的生存能力提高,Improved basic survivability
-SkillDesc_30,获得使用钝器敲碎骨头的能力,Gain the ability to use blunt tools to break bones
-SkillDesc_31,攻击骨折的目标能够造成更多伤害,Attacking the fractured target can cause more damage
-SkillDesc_32,获得使用利刃割开血管的能力,Gain the ability to cut blood vessels with a sharp blade
-SkillDesc_33,攻击出血的目标能够造成更多伤害,Attacking the bleeding target can cause more damage
-SkillDesc_34,获得使用射击武器贯穿目标的能力,Gain the ability to use shooting weapons to penetrate the target
-SkillDesc_35,攻击被贯穿的目标能够造成更多伤害,Attacking the penetrated target can cause more damage
+SkillDesc_30,获得使用钝器敲碎骨头的能力,Gain the ability to use blunt tools to \n break bones
+SkillDesc_31,攻击骨折的目标能够造成更多伤害,Attacking the fractured target can cause \n more damage
+SkillDesc_32,获得使用利刃割开血管的能力,Gain the ability to cut blood vessels \n with a sharp blade
+SkillDesc_33,攻击出血的目标能够造成更多伤害,Attacking the bleeding target can cause \n more damage
+SkillDesc_34,获得使用射击武器贯穿目标的能力,Gain the ability to use shooting weapons \n to penetrate the target
+SkillDesc_35,攻击被贯穿的目标能够造成更多伤害,Attacking the penetrated target can cause \n more damage
 SkillDesc_36,装弹速度提高,Increased reload speed
 SkillDesc_37,增加射击武器的射程,Increase the range of shooting weapons
 SkillDesc_38,射击武器的伤害稳定性增加,Increased damage stability of shooting weapons
@@ -459,6 +515,7 @@ Weapon_97,AWP狙击枪,AWP
 Weapon_98,BarrettSniper狙击枪,Barrett M100
 Weapon_99,KAR98K狙击枪,KAR98K
 Weapon_100,Sniper,Sniper
+Weapon_101,雷明顿M870,Super Boy
 Consume_1,罐装豆子,Canned beans
 Consume_2,罐装西红柿汤,Canned tomato soup
 Consume_3,罐装鸡汤,Canned chicken soup

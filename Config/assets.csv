@@ -278,15 +278,21 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 86,weapon;1,icon;2;1,w86sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300024,0,0,0,0,0,0,描述
 87,weapon;1,icon;2;1,w87sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300020,0,0,0,0,0,0,描述
 88,weapon;1,icon;2;1,w88sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300006,0,0,0,0,0,0,描述
+88,weapon;1,sound;3;0,w88_shoot,assetobject;1,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,描述
+88,weapon;1,sound;3;4,w88_draw,assetobject;1,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,描述
 89,weapon;1,icon;2;1,w89sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300028,0,0,0,0,0,0,描述
 90,weapon;1,icon;2;1,w90sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300056,0,0,0,0,0,0,描述
 91,weapon;1,icon;2;1,w91sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300074,0,0,0,0,0,0,描述
 92,weapon;1,icon;2;1,w92sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300050,0,0,0,0,0,0,描述
+92,weapon;1,sound;3;0,w92_shoot,assetobject;1,e9aa869d24edf9640ae6f287de1f02fe:169536,0,0,0,0,0,0,描述
+92,weapon;1,sound;3;4,w92_draw,assetobject;1,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,描述
 93,weapon;1,icon;2;1,w93sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300004,0,0,0,0,0,0,描述
 94,weapon;1,icon;2;1,w94sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300054,0,0,0,0,0,0,描述
 95,weapon;1,icon;2;1,w95sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300002,0,0,0,0,0,0,描述
 96,weapon;1,icon;2;1,w96sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300000,0,0,0,0,0,0,描述
 97,weapon;1,icon;2;1,w97sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300016,0,0,0,0,0,0,描述
+97,weapon;1,sound;3;0,w97_shoot,assetobject;1,499ba76c96a1b004b906ade729f93655:100000,0,0,0,0,0,0,描述
+97,weapon;1,sound;3;4,w97_draw,assetobject;1,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,描述
 98,weapon;1,icon;2;1,w98sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300008,0,0,0,0,0,0,描述
 98,weapon;1,sound;3;0,w98_shoot,assetobject;1,499ba76c96a1b004b906ade729f93655:100000,0,0,0,0,0,0,描述
 98,weapon;1,sound;3;1,w98_reload1,assetobject;1,8dcfb9a5fdea9c641a75fff607b95511:100000,0,0,0,0,0,0,描述
@@ -305,6 +311,9 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 100,weapon;1,sound;3;2,w100_reload2,assetobject;1,e45237c1d2a47d14db68b6b770afe846:100000,0,0,0,0,0,0,描述
 100,weapon;1,sound;3;3,w100_reload3,assetobject;1,a4c7eccb787580c448f62515cd07cf05:100000,0,0,0,0,0,0,描述
 100,weapon;1,sound;3;4,w100_draw,assetobject;1,e43c62fdf50a7384caa901bf06cdb59a:100000,0,0,0,0,0,0,描述
+101,weapon;1,icon;2;1,w101sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300084,0,0,0,0,0,0,描述
+101,weapon;1,sound;3;0,w101_shoot,assetobject;1,92f935782c19f2a4ea91a3463f2e9a67:100000,0,0,0,0,0,0,描述
+101,weapon;1,sound;3;4,w101_draw,assetobject;1,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,描述
 1000,weapon;1,effect;4,w1000effect,assetobject;1,f038f7623e484e14983c1b38a06ff1eb:100000,0,0,0,0,0,0,屠刀特效
 1001,weapon;1,effect;4,effect w1001,assetobject;1,2df474cbe5486a04cb6fb9d7d6c5078c:100000,0,0,0,0,0,0,酸液
 1002,weapon;1,effect;4,effect w1002,assetobject;1,0b648a9a861426148b12e1fdde3fe7ff:100000,0,0,0,50,0,0,投石
@@ -849,7 +858,8 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 83,weapon;1,mesh;1;1,sawn_off_shotgun,assetbundle;2,18925afef2fff57439c79223c7b17e95,0,0,0,0,0,-90,鱼竿形象
 83,weapon;1,mesh;1;2,sawn_off_shotgun,assetbundle;2,18925afef2fff57439c79223c7b17e95,0.372,0,0.164,0,90,90,鱼竿形象
 84,weapon;1,mesh;1,arms@lever_action_shotgun,assetbundle;2,6cfe598d3584d274f8e6564182b66e9f,0.1,-0.3,-0.15,5,0,0,鱼竿形象
-84,weapon;1,mesh;1;1,shotgun,assetbundle;2,3e5ca7f426760b24ab6e8f32b6fa8129,0,0,0,0,0,-90,鱼竿形象
+84,weapon;1,mesh;1;1,lever_action_rifle,assetbundle;2,655e2a8f9d31f1f4986a19c8044a9af4,0,0,0,0,0,90,鱼竿形象
+84,weapon;1,mesh;1;2,lever_action_rifle,assetbundle;2,655e2a8f9d31f1f4986a19c8044a9af4,0.678,0,0.145,0,270,270,鱼竿形象
 85,weapon;1,mesh;1,arms@SPAS-12,assetbundle;2,66242374e4bf4e944aec2743156ad25a,0.1,-0.3,-0.15,5,0,0,鱼竿形象
 85,weapon;1,mesh;1;1,SPAS-12,assetbundle;2,fb16985e98b94834088bb3cfc3f63c71,0,0,0,0,0,-90,鱼竿形象
 86,weapon;1,mesh;1,arms@XM1014,assetbundle;2,9de17596636761f4fb4350d25ef04f8f,0.1,-0.3,-0.15,5,0,0,鱼竿形象
@@ -858,6 +868,7 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 87,weapon;1,mesh;1;1,FMG-9,assetbundle;2,da35a107c0539f34eb7f7e49b8f2e6a6,0,0,0,0,0,-90,鱼竿形象
 88,weapon;1,mesh;1,arms@MP5,assetbundle;2,b37e0b6c6c4653b4cb637d67f02b46b1,0.15,-0.4,-0.1,10,0,0,鱼竿形象
 88,weapon;1,mesh;1;1,MP5,assetbundle;2,73e6779e81e7c154f948451db8a38e9b,0,0,0,0,0,-90,鱼竿形象
+88,weapon;1,mesh;1;2,MP5,assetbundle;2,73e6779e81e7c154f948451db8a38e9b,0.27,0.04,0.24,0,90,90,鱼竿形象
 89,weapon;1,mesh;1,arms@MP5SD,assetbundle;2,a5504fb2a0f785640bee9c37e1f68c4d,0.1,-0.3,-0.15,5,0,0,鱼竿形象
 89,weapon;1,mesh;1;1,MP5SD,assetbundle;2,9adc85f0ddb3d5b4ab277197c63ace6b,0,0,0,0,0,-90,鱼竿形象
 90,weapon;1,mesh;1,arms@MP40,assetbundle;2,dd10325c4fe2c77498412218f731224c,0.1,-0.3,-0.15,5,0,0,鱼竿形象
@@ -866,6 +877,7 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 91,weapon;1,mesh;1;1,TEC-9,assetbundle;2,8ad4bd1c473f1d944b0eaea090b73e9f,0,0,0,0,0,-90,鱼竿形象
 92,weapon;1,mesh;1,arms@TommyGun,assetbundle;2,fd64de07b8184ab46894f7de8aae1552,0.1,-0.3,-0.15,5,0,0,鱼竿形象
 92,weapon;1,mesh;1;1,TommyGun,assetbundle;2,3e82dfd72813d3c43a9f51b9e71fe047,0,0,0,0,0,-90,鱼竿形象
+92,weapon;1,mesh;1;2,TommyGun,assetbundle;2,3e82dfd72813d3c43a9f51b9e71fe047,0.18,0.03,0.11,0,90,90,鱼竿形象
 93,weapon;1,mesh;1,arms@UMP9,assetbundle;2,2ec76ef80a302714f86b7aec8e19d618,0.1,-0.3,-0.15,5,0,0,鱼竿形象
 93,weapon;1,mesh;1;1,UMP9,assetbundle;2,b7ad3422ac76b984f9474abb4f5cbb60,0,0,0,0,0,-90,鱼竿形象
 94,weapon;1,mesh;1,arms@UZI,assetbundle;2,e53b6753d15419d4b8bce7d9176ca7db,0.1,-0.3,-0.15,5,0,0,鱼竿形象
@@ -876,13 +888,18 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 96,weapon;1,mesh;1;1,AWM,assetbundle;2,338f3f248fd4176458e5f130cb08f43b,0,0,0,0,0,-90,鱼竿形象
 97,weapon;1,mesh;1,arms@AWP,assetbundle;2,c344ae57e72dbef4cb2c70d42b889772,0.1,-0.3,-0.15,5,0,0,鱼竿形象
 97,weapon;1,mesh;1;1,AWP,assetbundle;2,ae50c1dde3872264286da0f22f9807bd,0,0,0,0,0,-90,鱼竿形象
+97,weapon;1,mesh;1;2,AWP,assetbundle;2,ae50c1dde3872264286da0f22f9807bd,0.025,-0.0065,0.163,0,90,90,鱼竿形象
 98,weapon;1,mesh;1,arms@BarrettSniper,assetbundle;2,5a3467a311727d447bf4ad3887a2910d,0.1,-0.3,-0.15,5,0,0,鱼竿形象
 98,weapon;1,mesh;1;1,BarrettSniper,assetbundle;2,57d37f5544dc6b44f94c754ffdffdab9,0,0,0,0,0,-90,鱼竿形象
 99,weapon;1,mesh;1,arms@KAR98K,assetbundle;2,f8266099de3e11944bc6c133c9a3de29,0.15,-0.3,-0.1,5,0,0,鱼竿形象
 99,weapon;1,mesh;1;1,KAR98K,assetbundle;2,8279e84c5368f494c9203e9c200a8cd2,0,0,0,0,0,-90,鱼竿形象
+99,weapon;1,mesh;1;2,KAR98K,assetbundle;2,8279e84c5368f494c9203e9c200a8cd2,0.45,0.022,0.214,0,90,90,鱼竿形象
 100,weapon;1,mesh;1,arms@Sniper,assetbundle;2,ed8d990246509af47aa8b9f58b06f6e3,0.1,-0.3,-0.15,5,0,0,武器
 100,weapon;1,mesh;1;1,Sniper,assetbundle;2,26a3c20cafbed844e8e81d54a4f83a78,0,0,0,0,0,-90,武器
 100,weapon;1,mesh;1;2,Sniper,assetbundle;2,26a3c20cafbed844e8e81d54a4f83a78,0.634,0,0.351,0,90,90,武器
+101,weapon;1,mesh;1,arms@shot_gun,assetbundle;2,2b9612136ab995c45af07ede4f20b875,0.1,-0.3,-0.15,5,0,0,鱼竿形象
+101,weapon;1,mesh;1;1,shotgun,assetbundle;2,3e5ca7f426760b24ab6e8f32b6fa8129,0,0.1,0,0,0,90,鱼竿形象
+101,weapon;1,mesh;1;2,shotgun,assetbundle;2,3e5ca7f426760b24ab6e8f32b6fa8129,0.5,0.034,0.22,0,90,90,鱼竿形象
 1,Armor;2,mesh;1;1,cap1,assetbundle;2,e396cde1fe201e743926f987589c4d63,0,0,0,0,0,0,地上灰色休闲帽
 3,Armor;2,mesh;1;1,cap5,assetbundle;2,fc25a8c1221d7664bb7d4bc7ca647873,0,0,0,0,0,0,地上摩托头盔
 4,Armor;2,mesh;1;1,cap2,assetbundle;2,a2cf4ad56143aa346b001d61e5c62013,0,0,0,0,0,0,地上安全帽
