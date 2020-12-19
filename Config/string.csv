@@ -1,656 +1,662 @@
-KEY,chs,english
-fish_strength,ÓãµÄÌåÁ¦,Fish Strength
-tension,ÓãÏßÕÅÁ¦,Fishing Line Tension
-btn_shortcut,¿ì  ½İ,Shortcut
-btn_repair,ĞŞ  Àí,Repair
-btn_use,Ê¹  ÓÃ,Use
-forget,ÒÅ  Íü,Forget
-learn,Ñ§  Ï°,Learn
-skill_title,¼¼  ÄÜ,Skill
-craft,ºÏ  ³É,Craft
-equip_title,×°  ±¸,Equip
-dmg_inc_through:,»÷ÖĞ¹á´©Ä¿±êÔö¼ÓÉËº¦:,Increase Shot Through Damage:
-dmg_inc_fractured:,»÷ÖĞ¹ÇÕÛÄ¿±êÔö¼ÓÉËº¦:,Increase Fracture Damage:
-dmg_inc_bleeding:,»÷ÖĞ³öÑªÄ¿±êÔö¼ÓÉËº¦:,Increase Bleeding Damage:
-dmg_inc_poisoning:,»÷ÖĞÖĞ¶¾Ä¿±êÔö¼ÓÉËº¦:,Increase Poisoning Damage:
-hit_poisoning_chance:,Í¿¶¾¹¥»÷Ê¹Ä¿±êÖĞ¶¾¼¸ÂÊ:,Chance To Cause Poisoning:
-hit_bleeding_chance:,ÇĞ¸î¹¥»÷Ê¹Ä¿±ê³öÑª¼¸ÂÊ:,Chance To Cause Bleeding:
-hit_fracture_chance:,¶ÛÆ÷¹¥»÷Ê¹Ä¿±ê¹ÇÕÛ¼¸ÂÊ:,Chance To Fracture Enemies:
-shoot_through_target:,Éä»÷Ê¹Ä¿±ê±»¹á´©¼¸ÂÊ:,Chance To Shot Through:
-dmg_reduced_through:,¹á´©Ê±ÊÜ»÷ÉËº¦¼õÉÙ:,Reduce Shot Through Damage:
-dmg_reduced_fractured:,¹ÇÕÛÊ±ÊÜ»÷ÉËº¦¼õÉÙ:,Reduce Fractured Damage:
-dmg_reduced_bleeding:,³öÑªÊ±ÊÜ»÷ÉËº¦¼õÉÙ:,Reduce Bleeding Damage:
-dmg_reduced_poisoning:,ÖĞ¶¾Ê±ÊÜ»÷ÉËº¦¼õÉÙ:,Reduce Poisoning Damage:
-shoot_through:,¹á´©¿¹ĞÔ:,Shot Through Resistance:
-poisoning_resistance:,ÖĞ¶¾¿¹ĞÔ:,Poison Resistance:
-bleeding_resistance:,³öÑª¿¹ĞÔ:,Bleeding Resistance:
-fracture_resistance:,¹ÇÕÛ¿¹ĞÔ:,Fracture Resistance:
-other,Æä  Ëû,Other
-critical_damage:,ÖÂÃüÉËº¦:,Critical Damage:
-skill_points:,¼¼ÄÜµã:,Skill Points:
-experience:,¾­ÑéÖµ:,Experience:
-weight_bearing:,¸º ÖØ:,Weight Bearing:
-attribute,Êô  ĞÔ,Attribute
-damage_reduction:,ÉËº¦¼õÃâ:,Damage Reduction:
-grid:,À¸ Î»:,Grid:
-lucky:,ĞÒ ÔË:,Lucky:
-critical_strike:,ÖÂÃü¼¸ÂÊ:,Critical Strike Chance:
-move_speed:,ÒÆ¶¯ËÙ¶È:,Movement Speed:
-reload_speed:,×°µ¯ËÙ¶È:,Reload Speed:
-attack_speed:,¹¥»÷ËÙ¶È:,Attack Speed:
-defense:,·ÀÓùÁ¦:,Defense:
-attack:,¹¥»÷Á¦:,Attack:
-water:,¿Ú ¿Ê:,Water:
-food:,¼¢ ¶ö:,Food:
-life:,Éú Ãü:,Life:
-level:,µÈ ¼¶:,Level:
-storage_item,´æÈ¡ÎïÆ·,Storage Or Take out
-durability,ÄÍ¾Ã¶È,Durability
-weight,ÖØÁ¿,Weight
-storage,²Ö  ¿â,Storage
-backpack,±³  °ü,Backpack
-processing,ÕıÔÚ½øĞĞÖĞ...,Processing...
-vehicle_durability,ÔØ¾ßÄÍ¾Ã¶È,Durability
-map,µØ  Í¼,Map
-scene_loading,ÕıÔÚ¼ÓÔØ³¡¾°ÖĞ...,Loading Scene...
-revive,¸´  »î,REVIVE
-ip_input,ÇëÊäÈëIPµØÖ·...,Please enter IP address...
-connect_manually,ÊÖ¶¯Á¬½Ó,Connect Manually
-exit,ÍË  ³ö,Exit
-help,°ï  Öú,Help
-game_net,ÁªÍøÄ£Ê½,Net
-combat_mode,Õ½¶·Ä£Ê½,Combat Mode
-max_players,×î´óÈËÊı,Max Players
-game_pass,ÓÎÏ·ÃÜÂë,Password
-language,¹ú¼ÒÓïÑÔ,Language
-look_sensitivity,³¯ÏòÁéÃô¶È,Aim Sensitivity
-move_sensitivity,ÒÆ¶¯ÁéÃô¶È,Move Sensitivity
-settings,Éè  ÖÃ,Settings
-notice,Ìá  Ê¾,Notice
-cancel,È¡  Ïû,Cancel
-okay,È·  ¶¨,Ok
-empty,ÎŞ,empty
-defualt_map,Ä¬ÈÏµØÍ¼,defualt
-combat_mode:,Õ½¶·Ä£Ê½:,Combat Mode:
-game_net:,ÓÎÏ·ÍøÂç:,Net Mode:
-game_pass:,ÓÎÏ·ÃÜÂë:,Password:
-max_players:,×î´óÈËÊı:,Max Players:
-game_map:,ÓÎÏ·µØÍ¼:,Game Map:
-game_mode:,ÓÎÏ·Ä£Ê½:,Game Mode:
-defualt_title,ÈÃÎÒÃÇÒ»ÆğÓÎÏ·°É!,Let's play together!
-game_title,ÓÎÏ·±êÌâ,Game Title
-create_game,´´½¨ÓÎÏ·,Create Game
-server_list,·şÎñÆ÷ÁĞ±í,Server List
-kd,KDÖµ,K/D
-deaths,È«¾ÖËÀÍö,Deaths
-score,·ÖÊı,Score
-kill_count,»÷É±Êı,Kill Count
-accuracy,ÃüÖĞÂÊ,Accuracy
-weapon_category,ÎäÆ÷ÖÖÀà,Weapon
-community_game,ÉçÇøÓÎÏ·,Community Game
-break,´ò¶Ï,Break
-survival,Éú´æ,Survival
-secondary_attack,Öú¹¥,Assist
-headshot,±¬Í·,Head Shot
-tech,¼¼ÇÉ,Tech
-statistics,Êı¾İÍ³¼Æ,Statistics
-survival_mode,Éú´æÄ£Ê½,Survival
-game_mode,ÓÎÏ·Ä£Ê½,Game Mode
-dressing,×°°ç,Dressing
-Chinese,ÖĞÎÄ,Chinese
-English,Ó¢ÎÄ,English
-exit_app,È·¶¨ÍË³öÓ¦ÓÃ?,Do you really want to exit the app?
-exit_game,È·¶¨ÍË³öÓÎÏ·?,Do you really want to exit the game?
-someone_kill_you,%s»÷É±ÁËÄã,%s killed you
-you_kill_someone,Äã»÷É±ÁË%s,you killed %s
-nick_name,ÓÎÏ·êÇ³Æ,Nick Name
-invaild_ip,IPµØÖ·µÄ¸ñÊ½²»ÕıÈ·!,The format of the ip address is incorrect!
-wan,¹ãÓòÍø,WAN
-lan,¾ÖÓòÍø,LAN
-ClientConnectLost,Óë·şÎñÆ÷µÄÁ¬½ÓÒÑ¾­ÖĞ¶Ï!,The connection to the server has been interrupted!
-on_terrain_notify,Ö»ÄÜÔÚÊÒÍâºô³öÔØ¾ß!,This item can only be used outdoors!
-YouDie,ÄãËÀÁË!,You Dead!
-DeleteItemMsg,Ïú»Ù[%s],[%s] destroyed
-DecomposeMsg,·Ö½â[%s],[%s] salvaged
-FractureStateMsg,Äã¹ÇÕÛÁË!,You fractured!
-BleedingStateMsg,Äã³öÑªÁË!,You are bleeding!
-PoisonStateMsg,ÄãÖĞ¶¾ÁË!,You are poisoned!
-BulletThroughStateMsg,Äã±»¹á´©ÁË!,You are penetrated!
-SoulDrainStateMsg,Äã±»¾«Éñ¿ØÖÆÁË!,You are mind controlled!
-LeaveStuck,/stuck ¿¨×¡×Ô¾È,/stuck command
-CloseChat,/disable Òş²ØÁÄÌì¿ò,/disable command
-EnterGame,³É¹¦½øÈëÓÎÏ·!,Successfully entered the game!
-FishingGuide,ÖÆ×÷Ò»Ö§Óã¸Í¾Í¿ÉÒÔÈ¥µöÓãÁË!,Make a fishing rod and you can go fishing!
-CrafeGuide,ÓÃ»ñµÃµÄÄ¾²ÄÖÆ×÷ÎäÆ÷ºÍ¹¤¾ß!,Use the wood to make weapons and tools!
-CutGuide,¿³Ê÷¿ÉÒÔ»ñµÃÄ¾²Ä!,Cut trees to get wood!
-GatherGuide,·¢ÏÖ¸½½üÓĞÒ»Ğ©ºìÉ«µÄÒ°¹û!,Found some red wild fruits nearby!
-no_enough_name,%s²»×ã!,Not enough %s!
-no_more_building,²»ÄÜ·ÅÖÃ¸ü¶à½¨ÖşÎï!,Cannot place more buildings!
-no_enough_stuff,²ÄÁÏ²»×ã!,Insufficient material!
-equip_damaged,ÉíÉÏµÄ²¿·Ö×°±¸ÒÑ¾­Ëğ»µ!,Some equipment on the body has been damaged!
-level_up,Éı¼¶ÁË!,You level up!
-ID_USER,ÓÃ»§,user
-ID_PASS,ÃÜÂë,password
-slime,Ê·ÈRÄ·,slime
-char,½Ç É«,char
-bag,±³ °ü,pack
-instance,¸± ±¾,instance
-skill,¼¼ ÄÜ,skill
-grid,¸ñ×ÓÊı,grid
-craft,ÖÆ ×÷,craft
-click_fetch,(µã»÷Ê°È¡),click fetch
-gain_item,»ñµÃ[%s],Obtain [%s]
-Pants,¿ã×Ó,Pants
-Pistol,ÊÖÇ¹,Pistol
-Rifle,²½Ç¹,Rifle
-AR,Í»»÷²½Ç¹,AR
-AssaultRifle,Í»»÷²½Ç¹,AR
-SMG,³å·æÇ¹,SMG
-SG,É¢µ¯Ç¹,SG
-Shotgun,É¢µ¯Ç¹,Shotgun
-SniperRifle,¾Ñ»÷²½Ç¹,SR
-SR,¾Ñ»÷²½Ç¹,SR
-HMG,ÖØ»úÇ¹,HMG
-grenade,ÊÖÀ×,Grenade
-Cannon,ÅÚ,Cannon
-Knife,Ø°Ê×,Knife
-Axe,¸«×Ó,Axe
-Saw,¾â×Ó,Saw
-Hammer,´¸×Ó,Hammer
-Stick,¹÷×Ó,Stick
-Sword,µ¶,Sword
-LongBow,¹­,Bow
-CrossBow,åó,CrossBow
-WindStick,»ØĞıïÚ,Boomerang
-Capacity,ÈİÁ¿,Capacity
-Dart,·ÉïÚ,Dart
-bait,Óã¶ü,Bait
-FishRod,Óã¸Í,Fishing Rod
-Tool,¹¤¾ß,Tool
-gain_exp,<color=#d69414ff>¾­ÑéÖµ+%d</color>,<color=#d69414ff>EXP+%d</color>
-weapon,ÎäÆ÷,Weapon
-equip,×°±¸,Equip
-armor,·À¾ß,Armor
-gloves,ÊÖÌ×,Gloves
-upper,ÉÏÒÂ,Upper
-pants,¿ã×Ó,Pants
-shoes,Ğ¬×Ó,Shoes
-cap,Ã±×Ó,Hat
-decorate,ÊÎÆ·,Accessory
-material,²ÄÁÏ,Material
-Item,ÎïÆ·,Item
-consume,ÏûºÄÆ·,Consume
-consume_other,ÆäËü,Other
-trap,ÏİÚå,Trap
-drug,Ò©Æ·,Drug
-food,Ê³Îï,Food
-drink,ÒûÁÏ,Drink
-strengthen,ÔöÇ¿,Strengthen
-ammo,µ¯Ò©,Ammo
-building_materials,½¨Ôì²ÄÁÏ,Material(B)
-portal,µØÍ¼,Map
-attack,¹¥»÷Á¦,Attack
-defense,·ÀÓùÁ¦,Defense
-fetch_item_failed,Ê°È¡ÎïÆ·Ê§°Ü!,Failed to pick up the item!
-forgetskill_notify,ĞèÒªÄÜÁ¦»ØÊÕ½ºÄÒ,You need ability recovery capsules!
-prevskill_notify,ĞèÒªÏÈÑ§Ï°Ç°ÖÃ¼¼ÄÜ,You need to learn previous skill!
-armor_penetration,%.1f%%µÄÉËº¦´©Í¸»¤¼×,%.1f%% damage will ignore armor
-poisoning_ratio,%.1f%%µÄ¼¸ÂÊÊ¹Ä¿±êÖĞ¶¾,%.1f%% chance to poison the target
-globle_resistance,È«Ìå¿¹ĞÔ +%.1f%%,+%.1f%% to all resistance
-poisoning_resistance,ÖĞ¶¾¿¹ĞÔ +%.1f%%,+%.1f%% to poisoning resistance
-fracture_resistance,¹ÇÕÛ¿¹ĞÔ +%.1f%%,+%.1f%% to fracture resistance
-hemorrhagic_resistance,³öÑª¿¹ĞÔ +%.1f%%,+%.1f%% to bleeding resistance
-life_percent,×î´óÉúÃüÖµÔö¼Ó%.1f%%,%.1f%% increased maximum health
-durable,ÄÍ¾Ã¶È,Durability
-durable_extra,ÄÍ¾Ã¶È +%d,Durability +%d
-reduce_weight,ÎïÆ·ÖØÁ¿¼õÉÙ%.1f%%,%.1f%% reduced item weight
-weight_extra,¸ºÖØÄÜÁ¦ +%d,+%d to weight bearing capacity
-attack_extra,¹¥»÷Á¦ +%.1f,+%.1f to attack
-attack_percent,È«¾ÖÉËº¦Ôö¼Ó%.1f%%,%.1f%% increased global damage
-evasion_extra,ÉÁ±ÜÁ¦ +%d,+%d to evasion
-defense_extra,·ÀÓùÁ¦ +%d,+%d to defense
-defense_percent,·ÀÓùÁ¦Ôö¼Ó%.1f%%,%.1f%% increased global defense
-critical_damage,±©»÷ÉËº¦Ôö¼Ó%.1f%%,%.1f%% increased critical damage
-critical_strike,ÖÂÃüÒ»»÷¼¸ÂÊÔö¼Ó%.1f%%,%.1f%% increased critical strike chance
-reduce_injury,ÊÜµ½µÄÉËº¦¼õÉÙ%.1f%%,%.1f%% reduced damage taken
-attack_speed,¹¥»÷ËÙ¶ÈÔö¼Ó%.1f%%,%.1f%% increased attack speed
-reload_speed,×°µ¯ËÙ¶ÈÔö¼Ó%.1f%%,%.1f%% increased reload speed
-move_speed,ÒÆ¶¯ËÙ¶ÈÔö¼Ó%.1f%%,%.1f%% increased movement speed
-lucky_extra,ĞÒÔËÖµ +%d,+%d to lucky
-range_percent,¹¥»÷¾àÀëÔö¼Ó%.1f%%,%.1f%% increased attack range
-life_extra,ÉúÃüÖµ +%d,+%d to life
-grid_extra,¸ñ×ÓÊı +%d,+%d to backpack grid
-use_splints,Ê¹ÓÃ: ½â³ı¹ÇÕÛ×´Ì¬,Use: Fracture recovery
-use_antidote,Ê¹ÓÃ: ½â³ıÖĞ¶¾×´Ì¬,Use: Recovery from poisoning
-use_bandage,Ê¹ÓÃ: ½â³ıÁ÷Ñª×´Ì¬,Use: Bleeding recovery
-treat_debuff,Ê¹ÓÃ: ½â³ı¸ºÃæ×´Ì¬,Use: Recovery negative state
-use_drug,Ê¹ÓÃ: »Ö¸´%dµãÉúÃüÖµ,Use: Restores %d health
-use_water,Ê¹ÓÃ: »Ö¸´%dµã¿Ú¿ÊÖµ,Use: Restores %d water
-use_food,Ê¹ÓÃ: »Ö¸´%dµã¼¢¶öÖµ,Use: Restores %d food
-use_food_water,Ê¹ÓÃ: »Ö¸´%dµã¼¢¶öÖµºÍ%dµã¿Ú¿ÊÖµ,Use: Restores %d food and %d water
-use_strengthen,Ê¹ÓÃ: ÓÀ¾ÃÌá¸ßÉíÌåµÄÄ³Ïî»ù±¾ÊôĞÔ,Use: Improve basic attribute
-decompose_extra,·Ö½âµÃµ½µÄ²ÄÁÏ¸ü¶à,obtain more materials when salvage
-no_attribute,ÆÕÍ¨µÄ°×É«ÎïÆ·,Commonly used items
-material_desc,Éú´æ±ØĞëµÄ»ù±¾²ÄÁÏ,Basic items necessary for survival
-ammo_desc,ÎäÆ÷µÄµ¯Ò©,Ammunition for weapons
-trap_desc,ÔÚá÷ÁÔÖĞÊ¹ÓÃµÄ¸¨Öú¹¤¾ß,Auxiliary tools used in hunting
-other_consume_desc,Éú´æ±ØÒªµÄÏûºÄÆ·,Consumables necessary for survival
-bait_desc,µöÓãÓÃµÄÓã¶ü,Bait for fishing
-portal_desc,Ê¹ÓÃ: ÒÆ¶¯µ½Ä¿±êÇøÓò,Use: teleport to target area
-no_enough_grid,±³°ü¸ñ×Ó²»×ã!,Insufficient backpack space!
-container,ÈİÆ÷,container
-explode_timer,±¬Õ¨µ¹¼ÆÊ±,Countdown to explosion
-lucky_day,ĞÒÔËÖ®Éñ½µÁÙ!,Today is a lucky day!
-Skill_0,ÍóÁ¦,Wrist Force
-Skill_1,Í¶ÖÀ¾«Í¨,Throwing Mastery
-Skill_2,¹¥ËÙÇ¿»¯,Melee Mastery
-Skill_3,ÉúÃüÇ¿»¯,Supervital
-Skill_4,Ñª±Ã,Blood Pump
-Skill_5,ÎäÆ÷¾«Í¨,Weapon Mastery
-Skill_6,Õ½¶·¾«Í¨,Combat Mastery
-Skill_7,ÄÚÔà´ò»÷,Kidney Shot
-Skill_8,³¬ÔË,Super Lucky
-Skill_9,ĞÒÔËĞÇ,Lucky Star
-Skill_10,¿ìËÙÒÆ¶¯,Fast Moving
-Skill_11,¿ìËÙ³äÄÜ,Quick Charge
-Skill_12,³Ö¾ÃĞøº½,Endurance
-Skill_13,ÈõµãÌ½²â,Heart Strike
-Skill_14,ÍêÃÀÉËº¦,Head Shot
-Skill_15,½à¾»,Clean Body
-Skill_16,¿¹Ìå,Anti Body
-Skill_17,ÑªĞ¡°å,Blood Platelet
-Skill_18,ÑªÆÁÕÏ,Blood Barrier
-Skill_19,ëÖ¹ÇÇ¿»¯,Bone Enhancement
-Skill_20,¾«¸ÖÌú¹Ç,Iron Bone
-Skill_21,·ÀÓùÔöÇ¿,Defense Mastery
-Skill_22,¸ÖÌúÆ¤·ô,Iron Skin
-Skill_23,ÍêÃÀ·ÀÓù,Perfect Defense
-Skill_24,Ãô½İ,Agility
-Skill_25,¶ã±Ü,Dodge
-Skill_26,Õ½Ê¿ÒâÖ¾,Warrior Willpower
-Skill_27,Ò©¼ÁÊ¦,Pharmaceutist
-Skill_28,ÃÀÊ³¼Ò,Foodie
-Skill_29,Éú´æ×¨¼Ò,Survivalist
-Skill_30,Ëé¹Ç,Bone Crusher
-Skill_31,¹Ø½Ú²ğĞ¶,Joint Disassembly
-Skill_32,·ÅÑª,Blood letting
-Skill_33,¶¯ÂöÇĞ¸î,Arteriotomy
-Skill_34,¹á´©Éä»÷,Shoot Through
-Skill_35,ÂİĞıµ¯,Spiral Bullet
-Skill_36,¿ìËÙ×°µ¯,Quick Reload
-Skill_37,Ó¥ÑÛ,Eagle Eyes
-Skill_38,ÉñÉäÊÖ,Marksman
-SkillDesc_0,Ôö¼ÓÍ¶ÖÀÎäÆ÷µÄ·ÉĞĞ¾àÀë,Increase the flying distance of \n thrown weapons
-SkillDesc_1,Í¶ÖÀÎäÆ÷µÄÉËº¦¸ü¼ÓÎÈ¶¨,The damage of thrown weapons is \n more stable
-SkillDesc_2,Ê¹ÓÃ½üÕ½ÎäÆ÷Ê±ÓĞ¸ü¿ìµÄ¹¥»÷ËÙ¶È,Attack speed Increased when using \n melee weapons
-SkillDesc_3,ÉúÃüÖµÔö¼Ó,Life increased
-SkillDesc_4,È«¾ÖÉúÃüÁ¦Ôö¼Ó,Increased global vitality
-SkillDesc_5,½ÇÉ«µÄ»ù´¡¹¥»÷Á¦Ôö¼Ó,Base attack power increased
-SkillDesc_6,Î´Êµ×°¼¼ÄÜ,Uninstalled skills
-SkillDesc_7,È«¾ÖÉËº¦Ìá¸ß,Global damage increased
-SkillDesc_8,Î´Êµ×°¼¼ÄÜ,Uninstalled skills
-SkillDesc_9,È«¾ÖĞÒÔËÖµÌá¸ß,Global lucky increased
-SkillDesc_10,ÒÆ¶¯ËÙ¶ÈÌá¸ß,Movement speed increased
-SkillDesc_11,ÄÜÁ¿µÄ»Ø¸´ËÙ¶ÈÌá¸ß,Increased energy recovery speed
-SkillDesc_12,ÄÜÁ¿µÄÏûºÄËÙ¶È¼õÉÙ,Reduced energy consumption rate
-SkillDesc_13,»ù´¡±©»÷ÂÊÌá¸ß,Critical strike chance increased
-SkillDesc_14,»ù´¡±©»÷ÉËº¦Ìá¸ß,Critical damage increased
-SkillDesc_15,Ìá¸ß½ÇÉ«¶Ô¶¾ĞÔµÄµÖ¿¹ÄÜÁ¦,Improve resistance to toxicity
-SkillDesc_16,Î´Êµ×°¼¼ÄÜ,Uninstalled skills
-SkillDesc_17,Ìá¸ß½ÇÉ«¶Ô³öÑªµÄµÖ¿¹ÄÜÁ¦,Improve resistance to bleeding
-SkillDesc_18,Î´Êµ×°¼¼ÄÜ,Uninstalled skills
-SkillDesc_19,Ìá¸ß½ÇÉ«¶Ô¹ÇÕÛµÄµÖ¿¹ÄÜÁ¦,Improve resistance to fractures
-SkillDesc_20,Î´Êµ×°¼¼ÄÜ,Uninstalled skills
-SkillDesc_21,½ÇÉ«µÄ»ù´¡·ÀÓùÄÜÁ¦Ôö¼Ó,Basic defense ability increased
-SkillDesc_22,½ÇÉ«µÄÈ«¾Ö·ÀÓùÄÜÁ¦Ôö¼Ó,Global defense ability increased
-SkillDesc_23,Î´Êµ×°¼¼ÄÜ,Uninstalled skills
-SkillDesc_24,½ÇÉ«µÄ»ù´¡ÉÁ±ÜÄÜÁ¦Ôö¼Ó,Basic evasion ability increased
-SkillDesc_25,½ÇÉ«µÄÈ«¾ÖÉÁ±ÜÄÜÁ¦Ôö¼Ó,Global evasion ability increased
-SkillDesc_26,ÉúÃü´óÓÚ¹¥»÷ÕßµÄ»ù´¡ÉËº¦ÔâÊÜÆäÖÂÃü´ò»÷Ê±²»»áËÀÍö,Suffer a fatal blow not die if life is \n greater than the base damage of the attacker
-SkillDesc_27,Ò©ÎïµÄÖÎÁÆĞ§¹ûÌá¸ß,Improved therapeutic effect of drugs
-SkillDesc_28,Ê³ÎïºÍÒûÁÏµÄĞ§¹ûÌá¸ß,Improved effects of food and drink
-SkillDesc_29,»ù´¡µÄÉú´æÄÜÁ¦Ìá¸ß,Improved basic survivability
-SkillDesc_30,»ñµÃÊ¹ÓÃ¶ÛÆ÷ÇÃËé¹ÇÍ·µÄÄÜÁ¦,Gain the ability to use blunt tools to \n break bones
-SkillDesc_31,¹¥»÷¹ÇÕÛµÄÄ¿±êÄÜ¹»Ôì³É¸ü¶àÉËº¦,Attacking the fractured target can cause \n more damage
-SkillDesc_32,»ñµÃÊ¹ÓÃÀûÈĞ¸î¿ªÑª¹ÜµÄÄÜÁ¦,Gain the ability to cut blood vessels \n with a sharp blade
-SkillDesc_33,¹¥»÷³öÑªµÄÄ¿±êÄÜ¹»Ôì³É¸ü¶àÉËº¦,Attacking the bleeding target can cause \n more damage
-SkillDesc_34,»ñµÃÊ¹ÓÃÉä»÷ÎäÆ÷¹á´©Ä¿±êµÄÄÜÁ¦,Gain the ability to use shooting weapons \n to penetrate the target
-SkillDesc_35,¹¥»÷±»¹á´©µÄÄ¿±êÄÜ¹»Ôì³É¸ü¶àÉËº¦,Attacking the penetrated target can cause \n more damage
-SkillDesc_36,×°µ¯ËÙ¶ÈÌá¸ß,Increased reload speed
-SkillDesc_37,Ôö¼ÓÉä»÷ÎäÆ÷µÄÉä³Ì,Increase the range of shooting weapons
-SkillDesc_38,Éä»÷ÎäÆ÷µÄÉËº¦ÎÈ¶¨ĞÔÔö¼Ó,Increased damage stability of shooting weapons
-Armor_1,»ÒÉ«ĞİÏĞÃ±,Gray casual hat
-Armor_2,·À±©Í·¿ø,Riot helmet
-Armor_3,Ä¦ÍĞ¿ø,Motorcycle helmet
-Armor_4,°²È«Ã±,helmet
-Armor_5,ÃÉÃæ½í,Mask
-Armor_6,Ğ¡³óÃ±,Clown hat
-Armor_7,Ä§ÊõÃ±,Magic Hat
-Armor_8,Ïû·À¿ø,Fire helmet
-Armor_9,¾üÓÃÍ·¿ø,Military helmet
-Armor_10,°ôÇòÃ±,Baseball cap
-Armor_11,ÀñÃ±,Top hat
-Armor_12,µÇÉ½Ã±,Mountaineering hat
-Armor_13,´ÔÁÖÔ­×¡ÃñÃ±,Jungle Native Hat
-Armor_14,óèóÒ,Ruo Li
-Armor_15,ÂüË¹ÌØÍ·¿ø,Monster helmet
-Armor_16,îÑºÏ½ğÍ·¿ø,Titanium helmet
-Armor_17,µçº¸¿ø(Èı¼¶Í·¿ø),Welding helmet
-Armor_18,Ğ¡³óÃæ¾ß,clown mask
-Armor_19,¿Ö²ÀÃæ¾ß,Horror mask
-Armor_20,ºÚ¿òÑÛ¾µ,Black-rimmed glasses
-Armor_21,ĞÄĞÄÑÛ¾µ,hearts glasses
-Armor_22,±È»ùÄáÓ¾×°,Bikini
-Armor_23,Ä¨ĞØ,Tube top
-Armor_24,88»ÆÉ«±³ĞÄ,NO.88 Yellow vest
-Armor_25,ºìÉ«TĞô,Red T-shirt
-Armor_26,ºÚÉ«Î÷×°,Black suit
-Armor_27,°×É«Ò½»¤·ş,White medical suit
-Armor_28,ºÚÉ«¼Ğ¿Ë,Black jacket
-Armor_29,»ÒÉ«Çô·ş,Gray prison uniform
-Armor_30,·À±©¿ø¼×,Riot armor
-Armor_31,»ÆÉ«ĞİÏĞÍâÌ×,Yellow casual jacket
-Armor_32,À¶É«ÔË¶¯ÍâÌ×,Blue sports jacket
-Armor_33,»ÆÉ«³ÄÉÀ,Yellow shirt
-Armor_34,À¶É«¾¯²ìÖÆ·ş,Blue police uniform
-Armor_35,ĞŞÂ·¹¤ÖÆ·ş,Roadman uniform
-Armor_36,×ÏÉ«¸ñ×ÓÃ«ÒÂ,Purple plaid sweater
-Armor_37,°×É«TĞô,White T-shirt
-Armor_38,Ïû·À·ş,Fire suit
-Armor_39,¾üÓÃÍâÌ×,Military jacket
-Armor_40,ÂüË¹ÌØ¿ø¼×,Monster armor
-Armor_41,îÑºÏ½ğ¿ø¼×,Titanium armor
-Armor_42,Î÷¿ã,Trousers
-Armor_43,·À±©»¤ÍÈ,Riot Leggings
-Armor_44,»ÒÉ«¶Ì¿ã,Grey shorts
-Armor_45,°ßµã¶Ì¿ã,Spotted shorts
-Armor_46,ÌõÎÆ¶Ì¿ã,Striped shorts
-Armor_47,»¨ÎÆ¶Ì¿ã,Pattern shorts
-Armor_48,Î÷×°³¤¿ã,Suit trousers
-Armor_49,ÔË¶¯¿ã,Sweatpants
-Armor_50,ĞİÏĞ¿ã,casual pants
-Armor_51,Å£×Ğ¿ã,jeans
-Armor_52,¾¯²ìÖÆ·ş£¨¿ã×Ó£©,Police uniform (pants)
-Armor_53,Î¬ĞŞ¹¤ÖÆ·ş£¨¿ã×Ó£©,Maintenance worker uniform (trousers)
-Armor_54,¹¤×÷·ş£¨¿ã×Ó£©,worker uniform (trousers)
-Armor_55,Ïû·À»¤ÍÈ,Defensive leg
-Armor_56,¾üÓÃ»¤ÍÈ,Military Leggings
-Armor_57,ÂüË¹ÌØ»¤ÍÈ,Monster Leggings
-Armor_58,îÑºÏ½ğ»¤ÍÈ,Titanium Leggings
-Armor_59,ÆÕÍ¨Ğ¬×Ó,Ordinary shoes
-Armor_60,Æ¤Ğ¬,leather shoes
-Armor_61,·«²¼ĞİÏĞĞ¬,Canvas casual shoes
-Armor_62,ÔË¶¯Ğ¬,sports shoes
-Armor_63,ËÜ½ºÍÏĞ¬,Plastic slippers
-Armor_64,ËÜ½ºÁ¹Ğ¬,Plastic sandals
-Armor_65,¶´¶´Ğ¬,Crocs
-Armor_66,Ä¾åì,Geta
-Armor_67,ÈÌÕßĞ¬,Ninja shoes
-Armor_68,·À±©Ñ¥,Riot boots
-Armor_69,Æ¤Ñ¥,Leather boots
-Armor_70,´©ËóĞ¬,shuttle shoes
-Armor_71,»ğ¼ıĞ¬,Rocket shoes
-Armor_72,Ïû·ÀÑ¥,Fire boots
-Armor_73,¾üÓÃÆ¤Ñ¥,Military leather boots
-Armor_74,ÈË×ÖÍÏ,flip flops
-Armor_75,¿É°®ÍÃ×ÓÍÏĞ¬,Bunny slippers
-Armor_76,ÂüË¹ÌØÕ½Ñ¥,Monster Boots
-Armor_77,îÑºÏ½ğÕ½Ñ¥,Titanium boots
-Armor_78,ÍâĞÇÈËÕ½Ñ¥,Alien Boots
-Armor_79,Ô¶¹Å¿Æ¼¼Õ½Ñ¥,Ancient Tech Boots
-Armor_80,Ë¿ÖÊÊÖÌ×,Silk gloves
-Armor_81,Æ¤ÊÖÌ×,leather gloves
-Armor_82,¹¤×÷ÊÖÌ×,Working gloves
-Armor_83,¸ñ×ÓÊÖÌ×,Plaid gloves
-Armor_84,·À±©ÊÖÌ×,Riot gloves
-Armor_85,Ïû·ÀÊÖÌ×,Fire gloves
-Armor_86,¾üÓÃÊÖÌ×,Military gloves
-Armor_87,ÂüË¹ÌØÊÖÌ×,Monster gloves
-Armor_88,îÑºÏ½ğÊÖÌ×,Titanium alloy gloves
-Armor_89,ÍâĞÇÈË»¤ÊÖ,Alien Gauntlets
-Armor_90,Ô¶¹Å¿Æ¼¼»¤ÊÖ,Ancient Tech Gauntlets
-Armor_100,ÊÖÌá°ü,handbag
-Armor_101,Çá±ã±³°ü,Lightweight backpack
-Armor_102,¸ºÖØ±³°ü,Weight backpack
-Armor_103,µÇÉ½°ü,Mountaineering backpack
-Armor_104,ÂÃĞĞÕß±³°ü,Traveler backpack
-Armor_200,·Àµ¯ÒÂ,Body armor
-Weapon_1,Ä¾ÖÆĞ¡µ¶,Wooden knife
-Weapon_2,Ø°Ê×,Knife
-Weapon_3,²Ëµ¶,kitchen knife
-Weapon_4,Ê®×Ö¼Ü(»ØĞıïÚ),Wooden cross
-Weapon_5,·ÉÅÌ,Frisbee
-Weapon_6,»ØĞıïÚ,Boomerang
-Weapon_7,°âÊÖ,wrench
-Weapon_8,ÊÖ¸«,Hand axe
-Weapon_9,¸Ö¾â,Hacksaw
-Weapon_10,µç¾â,Chainsaw
-Weapon_11,¶¤´¸,claw hammer
-Weapon_12,Ìú´¸,Two-handed hammer
-Weapon_13,Ä¾¹÷,Wooden stick
-Weapon_14,Ìú¹÷,Iron rod
-Weapon_15,ÔİÊ±±£Áô,reserved
-Weapon_16,Ä¾¹­,Wooden bow
-Weapon_17,³¤¹­,longbow
-Weapon_18,·´Çú¹­,Recurve bow
-Weapon_19,¸´ºÏ¹­,Compound bow
-Weapon_20,Ä¾ÖÊÇáåó,Wooden Light Crossbow
-Weapon_21,»ìºÏÇáåó,Hybrid Light Crossbow
-Weapon_22,¸´ºÏÖØåó,Composite heavy crossbow
-Weapon_23,×ÔÖÆÊÖÇ¹,Homemade pistol
-Weapon_24,M1911ÊÖÇ¹,M1911
-Weapon_25,CZ83ÊÖÇ¹,CZ83
-Weapon_26,¾«Ó¢ÊÖÇ¹,Delta Elite
-Weapon_27,É³Ä®Ö®Ó¥,Desert Eagle
-Weapon_28,×ÔÖÆÁÔÇ¹,Homemade shotgun
-Weapon_29,ak47²½Ç¹,AK47
-Weapon_30,»ğ¼ıÅÚ,Rocket launcher
-Weapon_31,¼¤¹âÅÚ,Laser Cannon
-Weapon_32,µç½¬ÅÚ,Plasma gun
-Weapon_33,·´ÎïÖÊÅÚ,Antimatter Cannon
-Weapon_34,Ô¶¹ÅÅÚ,Ancient Cannon
-Weapon_35,°ôÇò°ô,bat
-Weapon_36,Çú¹÷Çò°ô,Hockey stick
-Weapon_37,¸ß¶û·òÇò¸Ë,Golf clubs
-Weapon_38,´ó¿³µ¶,Machete
-Weapon_39,¾¯¹÷,baton
-Weapon_40,Æ½µ×¹ø,Saucepan
-Weapon_41,Ìú²ù,Shovel
-Weapon_42,Ìú¹Ü,iron tube
-Weapon_43,ÇË¹÷,Crowbar
-Weapon_44,´¬½°,paddle
-Weapon_45,²İ²æ,Pitchfork
-Weapon_46,ÔİÊ±±£Áô,reserved
-Weapon_47,Ê®×Ö¸ä,Pickaxe
-Weapon_48,¶¤°Ò,Rake
-Weapon_49,ÔİÊ±±£Áô,reserved
-Weapon_50,ÔİÊ±±£Áô,reserved
-Weapon_51,ÊÖÀ×,Grenade
-Weapon_52,µØÀ×,Landmine
-Weapon_53,¿ÕÊÖ,Punch
-Weapon_54,Ïû·À¸«,Fire axe
-Weapon_55,ÖëÍø·¢ÉäÆ÷,Cobweb Launcher
-Weapon_56,µç»÷Æ÷,Taser
-Weapon_57,Éä¶¤Ç¹,Nail gun
-Weapon_58,Ë«Í·½£,Double-headed sword
-Weapon_59,±êÇ¹,javelin
-Weapon_60,ÔİÊ±±£Áô,reserved
-Weapon_61,À×¹Ü,detonator
-Weapon_62,ÊÖÀï½£,Shuriken
-Weapon_63,Ô°¶¡µÄ´ó¼ôµ¶,Gardener's Shears
-Weapon_64,ÀØÉäÊÖµçÍ²,Laser flashlight
-Weapon_65,Óã¸Í,Fishing Rod
-Weapon_66,·ÉïÚ,Darts
-Weapon_67,ÆÆËéµÄ¾ÆÆ¿,Broken wine bottle
-Weapon_68,Ô²¾â°ôÇò°ô,saw baseball bat
-Weapon_69,°åÇò°ô,Cricket bat
-Weapon_70,¸Ö¾â·¢ÉäÆ÷,Hacksaw Launcher
+ï»¿KEY,chs,english
+question1,1.å±€åŸŸç½‘å¤šäººæ¸¸æˆ:,1.LAN Multiplayer Games:
+help1,ä½ å¯ä»¥é€šè¿‡æœåŠ¡å™¨åˆ—è¡¨æˆ–è€…åœ¨è®¾ç½®ç•Œé¢æ‰‹åŠ¨è¾“å…¥IP\nåœ°å€è¿›å…¥å…¶ä»–ç©å®¶çš„æ¸¸æˆ,You can enter other player's games by Server List Interface or input IP manually\n connect to other player's games by Settings Interface.
+question2,2.å¹¿åŸŸç½‘è”ç½‘æ¸¸æˆ:,2.WAN Multiplayer Games:
+help2,æ•¬è¯·æœŸå¾….,Coming Soon.
+lan_title,[å±€åŸŸç½‘]è®©æˆ‘ä»¬ä¸€èµ·æ¸¸æˆå§!,[LAN]Let's play the game!
+fish_strength,é±¼çš„ä½“åŠ›,Fish Strength
+tension,é±¼çº¿å¼ åŠ›,Fishing Line Tension
+btn_shortcut,å¿«  æ·,Shortcut
+btn_repair,ä¿®  ç†,Repair
+btn_use,ä½¿  ç”¨,Use
+forget,é—  å¿˜,Forget
+learn,å­¦  ä¹ ,Learn
+skill_title,æŠ€  èƒ½,Skill
+craft,åˆ  æˆ,Craft
+equip_title,è£…  å¤‡,Equip
+dmg_inc_through:,å‡»ä¸­è´¯ç©¿ç›®æ ‡å¢åŠ ä¼¤å®³:,Increase Shot Through Damage:
+dmg_inc_fractured:,å‡»ä¸­éª¨æŠ˜ç›®æ ‡å¢åŠ ä¼¤å®³:,Increase Fracture Damage:
+dmg_inc_bleeding:,å‡»ä¸­å‡ºè¡€ç›®æ ‡å¢åŠ ä¼¤å®³:,Increase Bleeding Damage:
+dmg_inc_poisoning:,å‡»ä¸­ä¸­æ¯’ç›®æ ‡å¢åŠ ä¼¤å®³:,Increase Poisoning Damage:
+hit_poisoning_chance:,æ¶‚æ¯’æ”»å‡»ä½¿ç›®æ ‡ä¸­æ¯’å‡ ç‡:,Chance To Cause Poisoning:
+hit_bleeding_chance:,åˆ‡å‰²æ”»å‡»ä½¿ç›®æ ‡å‡ºè¡€å‡ ç‡:,Chance To Cause Bleeding:
+hit_fracture_chance:,é’å™¨æ”»å‡»ä½¿ç›®æ ‡éª¨æŠ˜å‡ ç‡:,Chance To Fracture Enemies:
+shoot_through_target:,å°„å‡»ä½¿ç›®æ ‡è¢«è´¯ç©¿å‡ ç‡:,Chance To Shot Through:
+dmg_reduced_through:,è´¯ç©¿æ—¶å—å‡»ä¼¤å®³å‡å°‘:,Reduce Shot Through Damage:
+dmg_reduced_fractured:,éª¨æŠ˜æ—¶å—å‡»ä¼¤å®³å‡å°‘:,Reduce Fractured Damage:
+dmg_reduced_bleeding:,å‡ºè¡€æ—¶å—å‡»ä¼¤å®³å‡å°‘:,Reduce Bleeding Damage:
+dmg_reduced_poisoning:,ä¸­æ¯’æ—¶å—å‡»ä¼¤å®³å‡å°‘:,Reduce Poisoning Damage:
+shoot_through:,è´¯ç©¿æŠ—æ€§:,Shot Through Resistance:
+poisoning_resistance:,ä¸­æ¯’æŠ—æ€§:,Poison Resistance:
+bleeding_resistance:,å‡ºè¡€æŠ—æ€§:,Bleeding Resistance:
+fracture_resistance:,éª¨æŠ˜æŠ—æ€§:,Fracture Resistance:
+other,å…¶  ä»–,Other
+critical_damage:,è‡´å‘½ä¼¤å®³:,Critical Damage:
+skill_points:,æŠ€èƒ½ç‚¹:,Skill Points:
+experience:,ç»éªŒå€¼:,Experience:
+weight_bearing:,è´Ÿ é‡:,Weight Bearing:
+attribute,å±  æ€§,Attribute
+damage_reduction:,ä¼¤å®³å‡å…:,Damage Reduction:
+grid:,æ  ä½:,Grid:
+lucky:,å¹¸ è¿:,Lucky:
+critical_strike:,è‡´å‘½å‡ ç‡:,Critical Strike Chance:
+move_speed:,ç§»åŠ¨é€Ÿåº¦:,Movement Speed:
+reload_speed:,è£…å¼¹é€Ÿåº¦:,Reload Speed:
+attack_speed:,æ”»å‡»é€Ÿåº¦:,Attack Speed:
+defense:,é˜²å¾¡åŠ›:,Defense:
+attack:,æ”»å‡»åŠ›:,Attack:
+water:,å£ æ¸´:,Water:
+food:,é¥¥ é¥¿:,Food:
+life:,ç”Ÿ å‘½:,Life:
+level:,ç­‰ çº§:,Level:
+storage_item,å­˜å–ç‰©å“,Storage Or Take out
+durability,è€ä¹…åº¦,Durability
+weight,é‡é‡,Weight
+storage,ä»“  åº“,Storage
+backpack,èƒŒ  åŒ…,Backpack
+processing,æ­£åœ¨è¿›è¡Œä¸­...,Processing...
+vehicle_durability,è½½å…·è€ä¹…åº¦,Durability
+map,åœ°  å›¾,Map
+scene_loading,æ­£åœ¨åŠ è½½åœºæ™¯ä¸­...,Loading Scene...
+revive,å¤  æ´»,REVIVE
+ip_input,è¯·è¾“å…¥IPåœ°å€...,Please enter IP address...
+connect_manually,æ‰‹åŠ¨è¿æ¥,Connect Manually
+exit,é€€  å‡º,Exit
+help,å¸®  åŠ©,Help
+game_net,è”ç½‘æ¨¡å¼,Net
+combat_mode,æˆ˜æ–—æ¨¡å¼,Combat Mode
+max_players,æœ€å¤§äººæ•°,Max Players
+game_pass,æ¸¸æˆå¯†ç ,Password
+language,å›½å®¶è¯­è¨€,Language
+look_sensitivity,æœå‘çµæ•åº¦,Aim Sensitivity
+move_sensitivity,ç§»åŠ¨çµæ•åº¦,Move Sensitivity
+settings,è®¾  ç½®,Settings
+notice,æ  ç¤º,Notice
+cancel,å–  æ¶ˆ,CANCEL
+okay,ç¡®  å®š,OK
+empty,æ— ,Empty
+defualt_map,é»˜è®¤åœ°å›¾,Defualt
+combat_mode:,æˆ˜æ–—æ¨¡å¼:,Combat Mode:
+game_net:,æ¸¸æˆç½‘ç»œ:,Net Mode:
+game_pass:,æ¸¸æˆå¯†ç :,Password:
+max_players:,æœ€å¤§äººæ•°:,Max Players:
+game_map:,æ¸¸æˆåœ°å›¾:,Game Map:
+game_mode:,æ¸¸æˆæ¨¡å¼:,Game Mode:
+defualt_title,è®©æˆ‘ä»¬ä¸€èµ·æ¸¸æˆå§!,Let's play games together!
+game_title,æ¸¸æˆæ ‡é¢˜,Game Title
+create_game,åˆ›å»ºæ¸¸æˆ,Create Game
+server_list,æœåŠ¡å™¨åˆ—è¡¨,Server List
+kd,KDå€¼,K/D
+deaths,å…¨å±€æ­»äº¡,Deaths
+score,åˆ†æ•°,Score
+kill_count,å‡»æ€æ•°,Kill Count
+accuracy,å‘½ä¸­ç‡,Accuracy
+weapon_category,æ­¦å™¨ç§ç±»,Weapon
+community_game,ç¤¾åŒºæ¸¸æˆ,Community Game
+break,æ‰“æ–­,Break
+survival,ç”Ÿå­˜,Survival
+secondary_attack,åŠ©æ”»,Assist
+headshot,çˆ†å¤´,Head Shot
+tech,æŠ€å·§,Tech
+statistics,æ•°æ®ç»Ÿè®¡,Statistics
+survival_mode,ç”Ÿå­˜æ¨¡å¼,Survival
+game_mode,æ¸¸æˆæ¨¡å¼,Game Mode
+dressing,è£…æ‰®,Dressing
+Chinese,ä¸­æ–‡,Chinese
+English,è‹±æ–‡,English
+exit_app,ç¡®å®šé€€å‡ºåº”ç”¨?,Do you really want to exit the APP?
+exit_game,ç¡®å®šé€€å‡ºæ¸¸æˆ?,Do you really want to exit the game?
+someone_kill_you,%så‡»æ€äº†ä½ ,%s killed You
+you_kill_someone,ä½ å‡»æ€äº†%s,You killed %s
+nick_name,æ¸¸æˆæ˜µç§°,Nick Name
+invaild_ip,IPåœ°å€çš„æ ¼å¼ä¸æ­£ç¡®!,The format of the ip address is incorrect!
+wan,å¹¿åŸŸç½‘,WAN
+lan,å±€åŸŸç½‘,LAN
+ClientConnectLost,ä¸æœåŠ¡å™¨çš„è¿æ¥å·²ç»ä¸­æ–­!,The connection to the server has been interrupted!
+on_terrain_notify,åªèƒ½åœ¨å®¤å¤–å‘¼å‡ºè½½å…·!,This item can only be used outdoors!
+YouDie,ä½ æ­»äº†!,You Died!
+DeleteItemMsg,é”€æ¯[%s],[%s] destroyed
+DecomposeMsg,åˆ†è§£[%s],[%s] salvaged
+FractureStateMsg,ä½ éª¨æŠ˜äº†!,You fractured!
+BleedingStateMsg,ä½ å‡ºè¡€äº†!,You are bleeding!
+PoisonStateMsg,ä½ ä¸­æ¯’äº†!,You are poisoned!
+BulletThroughStateMsg,ä½ è¢«è´¯ç©¿äº†!,You are penetrated!
+SoulDrainStateMsg,ä½ è¢«ç²¾ç¥æ§åˆ¶äº†!,You are mind controlled!
+LeaveStuck,/stuck å¡ä½è‡ªæ•‘,/stuck command
+CloseChat,/disable éšè—èŠå¤©æ¡†,/disable command
+EnterGame,æˆåŠŸè¿›å…¥æ¸¸æˆ!,Successfully entered the game!
+FishingGuide,åˆ¶ä½œä¸€æ”¯é±¼ç«¿å°±å¯ä»¥å»é’“é±¼äº†!,Make a fishing rod and you can go fishing!
+CrafeGuide,ç”¨è·å¾—çš„æœ¨æåˆ¶ä½œæ­¦å™¨å’Œå·¥å…·!,Use the wood to make weapons and tools!
+CutGuide,ç æ ‘å¯ä»¥è·å¾—æœ¨æ!,Cut trees to get wood!
+GatherGuide,å‘ç°é™„è¿‘æœ‰ä¸€äº›çº¢è‰²çš„é‡æœ!,Found some red wild fruits nearby!
+no_enough_name,%sä¸è¶³!,Not enough %s!
+no_more_building,ä¸èƒ½æ”¾ç½®æ›´å¤šå»ºç­‘ç‰©!,Cannot place more buildings!
+no_enough_stuff,ææ–™ä¸è¶³!,Insufficient material!
+equip_damaged,èº«ä¸Šçš„éƒ¨åˆ†è£…å¤‡å·²ç»æŸå!,Some equipment on the body has been damaged!
+level_up,å‡çº§äº†!,You level up!
+ID_USER,ç”¨æˆ·,user
+ID_PASS,å¯†ç ,password
+slime,å²èŠå§†,slime
+char,è§’ è‰²,char
+bag,èƒŒ åŒ…,pack
+instance,å‰¯ æœ¬,instance
+skill,æŠ€ èƒ½,skill
+grid,æ ¼å­æ•°,Grid
+craft,åˆ¶ ä½œ,craft
+click_fetch,(ç‚¹å‡»æ‹¾å–),click fetch
+gain_item,è·å¾—[%s],Obtain [%s]
+Pants,è£¤å­,Pants
+Pistol,æ‰‹æª,Pistol
+Rifle,æ­¥æª,Rifle
+AR,çªå‡»æ­¥æª,AR
+AssaultRifle,çªå‡»æ­¥æª,AR
+SMG,å†²é”‹æª,SMG
+SG,æ•£å¼¹æª,SG
+Shotgun,æ•£å¼¹æª,Shotgun
+SniperRifle,ç‹™å‡»æ­¥æª,SR
+SR,ç‹™å‡»æ­¥æª,SR
+HMG,é‡æœºæª,HMG
+grenade,æ‰‹é›·,Grenade
+Cannon,ç‚®,Cannon
+Knife,åŒ•é¦–,Knife
+Axe,æ–§å­,Axe
+Saw,é”¯å­,Saw
+Hammer,é”¤å­,Hammer
+Stick,æ£å­,Stick
+Sword,åˆ€,Sword
+LongBow,å¼“,Bow
+CrossBow,å¼©,CrossBow
+WindStick,å›æ—‹é•–,Boomerang
+Capacity,å®¹é‡,Capacity
+Dart,é£é•–,Dart
+bait,é±¼é¥µ,Bait
+FishRod,é±¼ç«¿,Fishing Rod
+Tool,å·¥å…·,Tool
+gain_exp,<color=#d69414ff>ç»éªŒå€¼+%d</color>,<color=#d69414ff>EXP+%d</color>
+weapon,æ­¦å™¨,Weapon
+equip,è£…å¤‡,Equip
+armor,é˜²å…·,Armor
+gloves,æ‰‹å¥—,Gloves
+upper,ä¸Šè¡£,Upper
+pants,è£¤å­,Pants
+shoes,é‹å­,Shoes
+cap,å¸½å­,Hat
+decorate,é¥°å“,Accessory
+material,ææ–™,Material
+Item,ç‰©å“,Item
+consume,æ¶ˆè€—å“,Consume
+consume_other,å…¶å®ƒ,Other
+trap,é™·é˜±,Trap
+drug,è¯å“,Drug
+food,é£Ÿç‰©,Food
+drink,é¥®æ–™,Drink
+strengthen,å¢å¼º,Strengthen
+ammo,å¼¹è¯,Ammo
+building_materials,å»ºé€ ææ–™,Material(B)
+portal,åœ°å›¾,Map
+attack,æ”»å‡»åŠ›,Attack
+defense,é˜²å¾¡åŠ›,Defense
+evasion,é—ªé¿åŠ›,Evasion
+fetch_item_failed,æ‹¾å–ç‰©å“å¤±è´¥!,Failed to pick up the item!
+forgetskill_notify,éœ€è¦èƒ½åŠ›å›æ”¶èƒ¶å›Š,You need Ability Recovery Capsules!
+prevskill_notify,éœ€è¦å…ˆå­¦ä¹ å‰ç½®æŠ€èƒ½,You need to learn previous skill!
+armor_penetration,%.1f%%çš„ä¼¤å®³ç©¿é€æŠ¤ç”²,%.1f%% Damage Will Ignore Armor
+poisoning_ratio,%.1f%%çš„å‡ ç‡ä½¿ç›®æ ‡ä¸­æ¯’,%.1f%% Chance To Poison Enemies
+globle_resistance,å…¨ä½“æŠ—æ€§ +%.1f%%,+%.1f%% To All Resistance
+poisoning_resistance,ä¸­æ¯’æŠ—æ€§ +%.1f%%,+%.1f%% To Poisoning Resistance
+fracture_resistance,éª¨æŠ˜æŠ—æ€§ +%.1f%%,+%.1f%% To Fracture Resistance
+hemorrhagic_resistance,å‡ºè¡€æŠ—æ€§ +%.1f%%,+%.1f%% To Bleeding Resistance
+life_percent,æœ€å¤§ç”Ÿå‘½å€¼å¢åŠ %.1f%%,%.1f%% Increased Maximum Health
+durable,è€ä¹…åº¦,Durability
+durable_extra,è€ä¹…åº¦ +%d,Durability +%d
+reduce_weight,ç‰©å“é‡é‡å‡å°‘%.1f%%,%.1f%% Reduced Item Weight
+weight_extra,è´Ÿé‡èƒ½åŠ› +%d,+%d To Weight Bearing Capacity
+attack_extra,æ”»å‡»åŠ› +%.1f,+%.1f To Attack
+attack_percent,å…¨å±€ä¼¤å®³å¢åŠ %.1f%%,%.1f%% Increased Global Damage
+evasion_extra,é—ªé¿åŠ› +%d,+%d To Evasion
+defense_extra,é˜²å¾¡åŠ› +%d,+%d To Defense
+defense_percent,é˜²å¾¡åŠ›å¢åŠ %.1f%%,%.1f%% Increased Global Defense
+critical_damage,æš´å‡»ä¼¤å®³å¢åŠ %.1f%%,%.1f%% Increased Critical Damage
+critical_strike,è‡´å‘½ä¸€å‡»å‡ ç‡å¢åŠ %.1f%%,%.1f%% Increased Critical Strike Chance
+reduce_injury,å—åˆ°çš„ä¼¤å®³å‡å°‘%.1f%%,%.1f%% Reduced Damage Taken
+attack_speed,æ”»å‡»é€Ÿåº¦å¢åŠ %.1f%%,%.1f%% Increased Attack Speed
+reload_speed,è£…å¼¹é€Ÿåº¦å¢åŠ %.1f%%,%.1f%% Increased Reload Speed
+move_speed,ç§»åŠ¨é€Ÿåº¦å¢åŠ %.1f%%,%.1f%% Increased Movement Speed
+lucky_extra,å¹¸è¿å€¼ +%d,+%d To Lucky
+range_percent,æ”»å‡»è·ç¦»å¢åŠ %.1f%%,%.1f%% Increased Attack Range
+life_extra,ç”Ÿå‘½å€¼ +%d,+%d To Life
+grid_extra,æ ¼å­æ•° +%d,+%d To Backpack Grid
+use_splints,ä½¿ç”¨: è§£é™¤éª¨æŠ˜çŠ¶æ€,Use: Fracture recovery
+use_antidote,ä½¿ç”¨: è§£é™¤ä¸­æ¯’çŠ¶æ€,Use: Recovery from poisoning
+use_bandage,ä½¿ç”¨: è§£é™¤æµè¡€çŠ¶æ€,Use: Bleeding recovery
+treat_debuff,ä½¿ç”¨: è§£é™¤è´Ÿé¢çŠ¶æ€,Use: Recovery negative state
+use_drug,ä½¿ç”¨: æ¢å¤%dç‚¹ç”Ÿå‘½å€¼,Use: Restores %d health
+use_water,ä½¿ç”¨: æ¢å¤%dç‚¹å£æ¸´å€¼,Use: Restores %d water
+use_food,ä½¿ç”¨: æ¢å¤%dç‚¹é¥¥é¥¿å€¼,Use: Restores %d food
+use_food_water,ä½¿ç”¨: æ¢å¤%dç‚¹é¥¥é¥¿å€¼å’Œ%dç‚¹å£æ¸´å€¼,Use: Restores %d food and %d water
+use_strengthen,ä½¿ç”¨: æ°¸ä¹…æé«˜èº«ä½“çš„æŸé¡¹åŸºæœ¬å±æ€§,Use: Improve basic attribute
+decompose_extra,åˆ†è§£å¾—åˆ°çš„ææ–™æ›´å¤š,More Materials When Salvage
+no_attribute,æ™®é€šçš„ç™½è‰²ç‰©å“,Commonly used items
+material_desc,ç”Ÿå­˜å¿…é¡»çš„åŸºæœ¬ææ–™,Basic items necessary for survival
+ammo_desc,æ­¦å™¨çš„å¼¹è¯,Ammunition for weapons
+trap_desc,åœ¨ç‹©çŒä¸­ä½¿ç”¨çš„è¾…åŠ©å·¥å…·,Auxiliary tools used in hunting
+other_consume_desc,ç”Ÿå­˜å¿…è¦çš„æ¶ˆè€—å“,Consumables necessary for survival
+bait_desc,é’“é±¼ç”¨çš„é±¼é¥µ,Bait for fishing
+portal_desc,ä½¿ç”¨: ç§»åŠ¨åˆ°ç›®æ ‡åŒºåŸŸ,Use: Teleport to target area
+no_enough_grid,èƒŒåŒ…æ ¼å­ä¸è¶³!,Insufficient backpack space!
+container,å®¹å™¨,Container
+explode_timer,çˆ†ç‚¸å€’è®¡æ—¶,Countdown to explosion
+lucky_day,å¹¸è¿ä¹‹ç¥é™ä¸´!,Today is a lucky day!
+Skill_0,è…•åŠ›,Wrist Force
+Skill_1,æŠ•æ·ç²¾é€š,Throwing Mastery
+Skill_2,æ”»é€Ÿå¼ºåŒ–,Melee Mastery
+Skill_3,ç”Ÿå‘½å¼ºåŒ–,Supervital
+Skill_4,è¡€æ³µ,Blood Pump
+Skill_5,æ­¦å™¨ç²¾é€š,Weapon Mastery
+Skill_6,æˆ˜æ–—ç²¾é€š,Combat Mastery
+Skill_7,å†…è„æ‰“å‡»,Kidney Shot
+Skill_8,è¶…è¿,Super Lucky
+Skill_9,å¹¸è¿æ˜Ÿ,Lucky Star
+Skill_10,å¿«é€Ÿç§»åŠ¨,Fast Moving
+Skill_11,å¿«é€Ÿå……èƒ½,Quick Charge
+Skill_12,æŒä¹…ç»­èˆª,Endurance
+Skill_13,å¼±ç‚¹æ¢æµ‹,Heart Strike
+Skill_14,å®Œç¾ä¼¤å®³,Head Shot
+Skill_15,æ´å‡€,Clean Body
+Skill_16,æŠ—ä½“,Anti Body
+Skill_17,è¡€å°æ¿,Blood Platelet
+Skill_18,è¡€å±éšœ,Blood Barrier
+Skill_19,èƒ«éª¨å¼ºåŒ–,Bone Enhancement
+Skill_20,ç²¾é’¢é“éª¨,Iron Bone
+Skill_21,é˜²å¾¡å¢å¼º,Defense Mastery
+Skill_22,é’¢é“çš®è‚¤,Iron Skin
+Skill_23,å®Œç¾é˜²å¾¡,Perfect Defense
+Skill_24,æ•æ·,Agility
+Skill_25,èº²é¿,Dodge
+Skill_26,æˆ˜å£«æ„å¿—,Warrior Willpower
+Skill_27,è¯å‰‚å¸ˆ,Pharmaceutist
+Skill_28,ç¾é£Ÿå®¶,Foodie
+Skill_29,ç”Ÿå­˜ä¸“å®¶,Survivalist
+Skill_30,ç¢éª¨,Bone Crusher
+Skill_31,å…³èŠ‚æ‹†å¸,Joint Disassembly
+Skill_32,æ”¾è¡€,Blood letting
+Skill_33,åŠ¨è„‰åˆ‡å‰²,Arteriotomy
+Skill_34,è´¯ç©¿å°„å‡»,Shoot Through
+Skill_35,èºæ—‹å¼¹,Spiral Bullet
+Skill_36,å¿«é€Ÿè£…å¼¹,Quick Reload
+Skill_37,é¹°çœ¼,Eagle Eyes
+Skill_38,ç¥å°„æ‰‹,Marksman
+SkillDesc_0,å¢åŠ æŠ•æ·æ­¦å™¨çš„é£è¡Œè·ç¦»,Increase the flying distance of \n thrown weapons
+SkillDesc_1,æŠ•æ·æ­¦å™¨çš„ä¼¤å®³æ›´åŠ ç¨³å®š,The damage of thrown weapons is \n more stable
+SkillDesc_2,ä½¿ç”¨è¿‘æˆ˜æ­¦å™¨æ—¶æœ‰æ›´å¿«çš„æ”»å‡»é€Ÿåº¦,Increased Attack Speed when using \n melee weapons
+SkillDesc_3,ç”Ÿå‘½å€¼å¢åŠ ,Increased maximum life
+SkillDesc_4,å…¨å±€ç”Ÿå‘½åŠ›å¢åŠ ,Increased Global Vitality
+SkillDesc_5,è§’è‰²çš„åŸºç¡€æ”»å‡»åŠ›å¢åŠ ,Increased Base Attack Power
+SkillDesc_6,æœªå®è£…æŠ€èƒ½,Uninstalled skills
+SkillDesc_7,å…¨å±€ä¼¤å®³æé«˜,Increased Global damage
+SkillDesc_8,æœªå®è£…æŠ€èƒ½,Uninstalled skills
+SkillDesc_9,å…¨å±€å¹¸è¿å€¼æé«˜,Increased Global Lucky
+SkillDesc_10,ç§»åŠ¨é€Ÿåº¦æé«˜,Increased Movement Speed
+SkillDesc_11,èƒ½é‡çš„å›å¤é€Ÿåº¦æé«˜,Increased energy recovery speed
+SkillDesc_12,èƒ½é‡çš„æ¶ˆè€—é€Ÿåº¦å‡å°‘,Reduced energy consumption rate
+SkillDesc_13,åŸºç¡€æš´å‡»ç‡æé«˜,Increased Critical Strike Chance
+SkillDesc_14,åŸºç¡€æš´å‡»ä¼¤å®³æé«˜,Increased Critical Damage
+SkillDesc_15,æé«˜è§’è‰²å¯¹æ¯’æ€§çš„æŠµæŠ—èƒ½åŠ›,Improve resistance to Toxicity
+SkillDesc_16,æœªå®è£…æŠ€èƒ½,Uninstalled skills
+SkillDesc_17,æé«˜è§’è‰²å¯¹å‡ºè¡€çš„æŠµæŠ—èƒ½åŠ›,Improve resistance to Bleeding
+SkillDesc_18,æœªå®è£…æŠ€èƒ½,Uninstalled skills
+SkillDesc_19,æé«˜è§’è‰²å¯¹éª¨æŠ˜çš„æŠµæŠ—èƒ½åŠ›,Improve resistance to Fractures
+SkillDesc_20,æœªå®è£…æŠ€èƒ½,Uninstalled skills
+SkillDesc_21,è§’è‰²çš„åŸºç¡€é˜²å¾¡èƒ½åŠ›å¢åŠ ,Increased Basic Defense Ability
+SkillDesc_22,è§’è‰²çš„å…¨å±€é˜²å¾¡èƒ½åŠ›å¢åŠ ,Increased Global Defense Ability
+SkillDesc_23,æœªå®è£…æŠ€èƒ½,Uninstalled skills
+SkillDesc_24,è§’è‰²çš„åŸºç¡€é—ªé¿èƒ½åŠ›å¢åŠ ,Increased Basic Evasion Ability
+SkillDesc_25,è§’è‰²çš„å…¨å±€é—ªé¿èƒ½åŠ›å¢åŠ ,Increased Global Evasion Ability
+SkillDesc_26,ç”Ÿå‘½å¤§äºæ”»å‡»è€…ä¼¤å®³æ€»é‡çš„85%\né­å—å…¶è‡´å‘½æ‰“å‡»æ—¶ä¸ä¼šæ­»äº¡,Suffer a fatal blow not die when the life \nis greater than 85% of the attacker's damage
+SkillDesc_27,è¯ç‰©çš„æ²»ç–—æ•ˆæœæé«˜,Improved therapeutic effect of drugs
+SkillDesc_28,é£Ÿç‰©å’Œé¥®æ–™çš„æ•ˆæœæé«˜,Improved effects of Food and Drink
+SkillDesc_29,åŸºç¡€çš„ç”Ÿå­˜èƒ½åŠ›æé«˜,Improved basic survivability
+SkillDesc_30,è·å¾—ä½¿ç”¨é’å™¨æ•²ç¢éª¨å¤´çš„èƒ½åŠ›,Gain the ability to use blunt tools to \n break bones
+SkillDesc_31,æ”»å‡»éª¨æŠ˜çš„ç›®æ ‡èƒ½å¤Ÿé€ æˆæ›´å¤šä¼¤å®³,Attack the fractured target can cause \n more damage
+SkillDesc_32,è·å¾—ä½¿ç”¨åˆ©åˆƒå‰²å¼€è¡€ç®¡çš„èƒ½åŠ›,Gain the ability to cut blood vessels \n with a sharp blade
+SkillDesc_33,æ”»å‡»å‡ºè¡€çš„ç›®æ ‡èƒ½å¤Ÿé€ æˆæ›´å¤šä¼¤å®³,Attack the bleeding target can cause \n more damage
+SkillDesc_34,è·å¾—ä½¿ç”¨å°„å‡»æ­¦å™¨è´¯ç©¿ç›®æ ‡çš„èƒ½åŠ›,Gain the ability to use shooting weapons \n to penetrate the target
+SkillDesc_35,æ”»å‡»è¢«è´¯ç©¿çš„ç›®æ ‡èƒ½å¤Ÿé€ æˆæ›´å¤šä¼¤å®³,Attack the penetrated target can cause \n more damage
+SkillDesc_36,è£…å¼¹é€Ÿåº¦æé«˜,Increased Reload Speed
+SkillDesc_37,å¢åŠ å°„å‡»æ­¦å™¨çš„å°„ç¨‹,Increase the range of shooting weapons
+SkillDesc_38,å°„å‡»æ­¦å™¨çš„ä¼¤å®³ç¨³å®šæ€§å¢åŠ ,Increased damage stability of shooting weapons
+Armor_1,ç°è‰²ä¼‘é—²å¸½,Gray Casual Hat
+Armor_2,é˜²æš´å¤´ç›”,Riot Helmet
+Armor_3,æ‘©æ‰˜ç›”,Motorcycle Helmet
+Armor_4,å®‰å…¨å¸½,Helmet
+Armor_5,è’™é¢å·¾,Mask
+Armor_6,å°ä¸‘å¸½,Clown Hat
+Armor_7,é­”æœ¯å¸½,Magic Hat
+Armor_8,æ¶ˆé˜²ç›”,Fire Helmet
+Armor_9,å†›ç”¨å¤´ç›”,Military Helmet
+Armor_10,æ£’çƒå¸½,Baseball Cap
+Armor_11,ç¤¼å¸½,Top Hat
+Armor_12,ç™»å±±å¸½,Mountaineering Hat
+Armor_13,ä¸›æ—åŸä½æ°‘å¸½,Jungle Native Hat
+Armor_14,ç®¬ç¬ ,Ruo Li
+Armor_15,æ›¼æ–¯ç‰¹å¤´ç›”,Monster Helmet
+Armor_16,é’›åˆé‡‘å¤´ç›”,Titanium Helmet
+Armor_17,ç”µç„Šç›”(ä¸‰çº§å¤´ç›”),Welding Helmet
+Armor_18,å°ä¸‘é¢å…·,Clown Mask
+Armor_19,ææ€–é¢å…·,Horror Mask
+Armor_20,é»‘æ¡†çœ¼é•œ,Black-rimmed Glasses
+Armor_21,å¿ƒå¿ƒçœ¼é•œ,Hearts Glasses
+Armor_22,æ¯”åŸºå°¼æ³³è£…,Bikini
+Armor_23,æŠ¹èƒ¸,Tube Top
+Armor_24,88é»„è‰²èƒŒå¿ƒ,NO.88 Yellow Vest
+Armor_25,çº¢è‰²Tæ¤,Red T-shirt
+Armor_26,é»‘è‰²è¥¿è£…,Black Suit
+Armor_27,ç™½è‰²åŒ»æŠ¤æœ,White Medical Suit
+Armor_28,é»‘è‰²å¤¹å…‹,Black Jacket
+Armor_29,ç°è‰²å›šæœ,Gray Prison Uniform
+Armor_30,é˜²æš´ç›”ç”²,Riot Armor
+Armor_31,é»„è‰²ä¼‘é—²å¤–å¥—,Yellow Casual Jacket
+Armor_32,è“è‰²è¿åŠ¨å¤–å¥—,Blue Sports Jacket
+Armor_33,é»„è‰²è¡¬è¡«,Yellow Shirt
+Armor_34,è“è‰²è­¦å¯Ÿåˆ¶æœ,Blue Police Uniform
+Armor_35,ä¿®è·¯å·¥åˆ¶æœ,Roadman Uniform
+Armor_36,ç´«è‰²æ ¼å­æ¯›è¡£,Purple Plaid Sweater
+Armor_37,ç™½è‰²Tæ¤,White T-shirt
+Armor_38,æ¶ˆé˜²æœ,Fire Suit
+Armor_39,å†›ç”¨å¤–å¥—,Military Jacket
+Armor_40,æ›¼æ–¯ç‰¹ç›”ç”²,Monster Armor
+Armor_41,é’›åˆé‡‘ç›”ç”²,Titanium Armor
+Armor_42,è¥¿è£¤,Trousers
+Armor_43,é˜²æš´æŠ¤è…¿,Riot Leggings
+Armor_44,ç°è‰²çŸ­è£¤,Grey Shorts
+Armor_45,æ–‘ç‚¹çŸ­è£¤,Spotted Shorts
+Armor_46,æ¡çº¹çŸ­è£¤,Striped Shorts
+Armor_47,èŠ±çº¹çŸ­è£¤,Pattern Shorts
+Armor_48,è¥¿è£…é•¿è£¤,Suit Trousers
+Armor_49,è¿åŠ¨è£¤,Sweat Pants
+Armor_50,ä¼‘é—²è£¤,Casual Pants
+Armor_51,ç‰›ä»”è£¤,Jeans
+Armor_52,è­¦å¯Ÿåˆ¶æœï¼ˆè£¤å­ï¼‰,Police Uniform (Pants)
+Armor_53,ç»´ä¿®å·¥åˆ¶æœï¼ˆè£¤å­ï¼‰,Maintenance Worker Uniform (Trousers)
+Armor_54,å·¥ä½œæœï¼ˆè£¤å­ï¼‰,Worker Uniform (Trousers)
+Armor_55,æ¶ˆé˜²æŠ¤è…¿,Fire Leg Guards
+Armor_56,å†›ç”¨æŠ¤è…¿,Military Leggings
+Armor_57,æ›¼æ–¯ç‰¹æŠ¤è…¿,Monster Leggings
+Armor_58,é’›åˆé‡‘æŠ¤è…¿,Titanium Leggings
+Armor_59,æ™®é€šé‹å­,Ordinary Shoes
+Armor_60,çš®é‹,Leather Shoes
+Armor_61,å¸†å¸ƒä¼‘é—²é‹,Canvas Casual Shoes
+Armor_62,è¿åŠ¨é‹,Sports Shoes
+Armor_63,å¡‘èƒ¶æ‹–é‹,Plastic Slippers
+Armor_64,å¡‘èƒ¶å‡‰é‹,Plastic Sandals
+Armor_65,æ´æ´é‹,Crocs
+Armor_66,æœ¨å±,Geta
+Armor_67,å¿è€…é‹,Ninja Shoes
+Armor_68,é˜²æš´é´,Riot Boots
+Armor_69,çš®é´,Leather Boots
+Armor_70,ç©¿æ¢­é‹,Shuttle Shoes
+Armor_71,ç«ç®­é‹,Rocket Shoes
+Armor_72,æ¶ˆé˜²é´,Fire Boots
+Armor_73,å†›ç”¨çš®é´,Military Leather boots
+Armor_74,äººå­—æ‹–,Flip Flops
+Armor_75,å¯çˆ±å…”å­æ‹–é‹,Bunny Slippers
+Armor_76,æ›¼æ–¯ç‰¹æˆ˜é´,Monster Boots
+Armor_77,é’›åˆé‡‘æˆ˜é´,Titanium Boots
+Armor_78,å¤–æ˜Ÿäººæˆ˜é´,Alien Boots
+Armor_79,è¿œå¤ç§‘æŠ€æˆ˜é´,Ancient Tech Boots
+Armor_80,ä¸è´¨æ‰‹å¥—,Silk Gloves
+Armor_81,çš®æ‰‹å¥—,Leather Gloves
+Armor_82,å·¥ä½œæ‰‹å¥—,Working Gloves
+Armor_83,æ ¼å­æ‰‹å¥—,Plaid Gloves
+Armor_84,é˜²æš´æ‰‹å¥—,Riot Gloves
+Armor_85,æ¶ˆé˜²æ‰‹å¥—,Fire Gloves
+Armor_86,å†›ç”¨æ‰‹å¥—,Military Gloves
+Armor_87,æ›¼æ–¯ç‰¹æ‰‹å¥—,Monster Gloves
+Armor_88,é’›åˆé‡‘æ‰‹å¥—,Titanium Alloy Gloves
+Armor_89,å¤–æ˜ŸäººæŠ¤æ‰‹,Alien Gauntlets
+Armor_90,è¿œå¤ç§‘æŠ€æŠ¤æ‰‹,Ancient Tech Gauntlets
+Armor_100,æ‰‹æåŒ…,Handbag
+Armor_101,è½»ä¾¿èƒŒåŒ…,Lightweight Backpack
+Armor_102,è´Ÿé‡èƒŒåŒ…,Weight Backpack
+Armor_103,ç™»å±±åŒ…,Mountaineering Backpack
+Armor_104,æ—…è¡Œè€…èƒŒåŒ…,Traveler Backpack
+Armor_200,é˜²å¼¹è¡£,Body Armor
+Weapon_1,æœ¨åˆ¶å°åˆ€,Wooden Knife
+Weapon_2,åŒ•é¦–,Knife
+Weapon_3,èœåˆ€,kitchen knife
+Weapon_4,åå­—æ¶(å›æ—‹é•–),Wooden Cross
+Weapon_5,é£ç›˜,Frisbee
+Weapon_6,å›æ—‹é•–,Boomerang
+Weapon_7,æ‰³æ‰‹,Wrench
+Weapon_8,æ‰‹æ–§,Hand Axe
+Weapon_9,é’¢é”¯,Hacksaw
+Weapon_10,ç”µé”¯,Chainsaw
+Weapon_11,é’‰é”¤,Claw Hammer
+Weapon_12,é“é”¤,Two-handed Hammer
+Weapon_13,æœ¨æ£,Wooden Stick
+Weapon_14,é“æ£,Iron Rod
+Weapon_15,æš‚æ—¶ä¿ç•™,reserved
+Weapon_16,æœ¨å¼“,Wooden Bow
+Weapon_17,é•¿å¼“,Longbow
+Weapon_18,åæ›²å¼“,Recurve Bow
+Weapon_19,å¤åˆå¼“,Compound Bow
+Weapon_20,æœ¨è´¨è½»å¼©,Wooden Light Crossbow
+Weapon_21,æ··åˆè½»å¼©,Hybrid Light Crossbow
+Weapon_22,å¤åˆé‡å¼©,Composite Heavy Crossbow
+Weapon_23,è‡ªåˆ¶æ‰‹æª,Homemade Pistol
+Weapon_24,M1911æ‰‹æª,M1911
+Weapon_25,CZ83æ‰‹æª,CZ83
+Weapon_26,ç²¾è‹±æ‰‹æª,Delta Elite
+Weapon_27,æ²™æ¼ ä¹‹é¹°,Desert Eagle
+Weapon_28,è‡ªåˆ¶çŒæª,Homemade Shotgun
+Weapon_29,ak47æ­¥æª,AK47
+Weapon_30,ç«ç®­ç‚®,Rocket Launcher
+Weapon_31,æ¿€å…‰ç‚®,Laser Cannon
+Weapon_32,ç”µæµ†ç‚®,Plasma Gun
+Weapon_33,åç‰©è´¨ç‚®,Antimatter Cannon
+Weapon_34,è¿œå¤ç‚®,Ancient Cannon
+Weapon_35,æ£’çƒæ£’,Bat
+Weapon_36,æ›²æ£çƒæ£’,Hockey Stick
+Weapon_37,é«˜å°”å¤«çƒæ†,Golf Clubs
+Weapon_38,å¤§ç åˆ€,Machete
+Weapon_39,è­¦æ£,Baton
+Weapon_40,å¹³åº•é”…,Saucepan
+Weapon_41,é“é“²,Shovel
+Weapon_42,é“ç®¡,Iron Tube
+Weapon_43,æ’¬æ£,Crowbar
+Weapon_44,èˆ¹æ¡¨,Paddle
+Weapon_45,è‰å‰,Pitchfork
+Weapon_46,æš‚æ—¶ä¿ç•™,reserved
+Weapon_47,åå­—é•,Pickaxe
+Weapon_48,é’‰è€™,Rake
+Weapon_49,æš‚æ—¶ä¿ç•™,reserved
+Weapon_50,æš‚æ—¶ä¿ç•™,reserved
+Weapon_51,æ‰‹é›·,Grenade
+Weapon_52,åœ°é›·,Landmine
+Weapon_53,ç©ºæ‰‹,Punch
+Weapon_54,æ¶ˆé˜²æ–§,Fire Axe
+Weapon_55,è››ç½‘å‘å°„å™¨,Cobweb Launcher
+Weapon_56,ç”µå‡»å™¨,Taser
+Weapon_57,å°„é’‰æª,Nailgun
+Weapon_58,åŒå¤´å‰‘,Double-headed Sword
+Weapon_59,æ ‡æª,Javelin
+Weapon_60,æš‚æ—¶ä¿ç•™,reserved
+Weapon_61,é›·ç®¡,Detonator
+Weapon_62,æ‰‹é‡Œå‰‘,Shuriken
+Weapon_63,å›­ä¸çš„å¤§å‰ªåˆ€,Gardener's Shears
+Weapon_64,é•­å°„æ‰‹ç”µç­’,Laser Flashlight
+Weapon_65,é±¼ç«¿,Fishing Rod
+Weapon_66,é£é•–,Darts
+Weapon_67,ç ´ç¢çš„é…’ç“¶,Broken Wine Bottle
+Weapon_68,åœ†é”¯æ£’çƒæ£’,Saw Baseball Bat
+Weapon_69,æ¿çƒæ£’,Cricket Bat
+Weapon_70,é’¢é”¯å‘å°„å™¨,Hacksaw Launcher
 Weapon_71,ColtAnaconda,Anaconda
 Weapon_72,DetectiveRevolver,Detective Revolver
 Weapon_73,PPK,PPK
 Weapon_74,USP45,USP45
-Weapon_75,AR15Í»»÷²½Ç¹,AR15
-Weapon_76,AUGÍ»»÷²½Ç¹,AUG
-Weapon_77,FALÍ»»÷²½Ç¹,FAL
+Weapon_75,AR15çªå‡»æ­¥æª,AR15
+Weapon_76,AUGçªå‡»æ­¥æª,AUG
+Weapon_77,FALçªå‡»æ­¥æª,FAL
 Weapon_78,G36C,G36C
-Weapon_79,M4A1Í»»÷²½Ç¹,M4A1
-Weapon_80,M16Í»»÷²½Ç¹,M16
-Weapon_81,SCARLÍ»»÷²½Ç¹,SCARL
+Weapon_79,M4A1çªå‡»æ­¥æª,M4A1
+Weapon_80,M16çªå‡»æ­¥æª,M16
+Weapon_81,SCARLçªå‡»æ­¥æª,SCARL
 Weapon_82,KSG,KSG
-Weapon_83,Ë«¹Üö±µ¯Ç¹,sawn-off shotgun
-Weapon_84,ÎÂ³¹Ë¹ÌØMXö±µ¯Ç¹,M1887
-Weapon_85,SPAS-12ö±µ¯Ç¹,SPAS-12
-Weapon_86,XM1014ö±µ¯Ç¹,XM1014
+Weapon_83,åŒç®¡éœ°å¼¹æª,Sawn-off Shotgun
+Weapon_84,æ¸©å½»æ–¯ç‰¹MXéœ°å¼¹æª,M1887
+Weapon_85,SPAS-12éœ°å¼¹æª,SPAS-12
+Weapon_86,XM1014éœ°å¼¹æª,XM1014
 Weapon_87,FMG-9,FMG-9
-Weapon_88,MP5³å·æÇ¹,MP5
-Weapon_89,MP5SD³å·æÇ¹,MP5SD
-Weapon_90,MP40³å·æÇ¹,MP40
-Weapon_91,TEC-9³å·æÇ¹,TEC-9
-Weapon_92,TommyGun³å·æÇ¹,Tommy Gun
-Weapon_93,UMP9³å·æÇ¹,UMP9
-Weapon_94,UZI³å·æÇ¹,UZI
-Weapon_95,VZ61³å·æÇ¹,VZ61
-Weapon_96,AWM¾Ñ»÷Ç¹,AWM
-Weapon_97,AWP¾Ñ»÷Ç¹,AWP
-Weapon_98,BarrettSniper¾Ñ»÷Ç¹,Barrett M100
-Weapon_99,KAR98K¾Ñ»÷Ç¹,KAR98K
+Weapon_88,MP5å†²é”‹æª,MP5
+Weapon_89,MP5SDå†²é”‹æª,MP5SD
+Weapon_90,MP40å†²é”‹æª,MP40
+Weapon_91,TEC-9å†²é”‹æª,TEC-9
+Weapon_92,TommyGunå†²é”‹æª,Tommy Gun
+Weapon_93,UMP9å†²é”‹æª,UMP9
+Weapon_94,UZIå†²é”‹æª,UZI
+Weapon_95,VZ61å†²é”‹æª,VZ61
+Weapon_96,AWMç‹™å‡»æª,AWM
+Weapon_97,AWPç‹™å‡»æª,AWP
+Weapon_98,BarrettSniperç‹™å‡»æª,Barrett M100
+Weapon_99,KAR98Kç‹™å‡»æª,KAR98K
 Weapon_100,Sniper,Sniper
-Weapon_101,À×Ã÷¶ÙM870,Super Boy
-Consume_1,¹Ş×°¶¹×Ó,Canned beans
-Consume_2,¹Ş×°Î÷ºìÊÁÌÀ,Canned tomato soup
-Consume_3,¹Ş×°¼¦ÌÀ,Canned chicken soup
-Consume_4,½ğÇ¹Óã¹ŞÍ·,Canned tuna
-Consume_5,Ìı×°¿ÉÀÖ,Canned coke
-Consume_6,Òâ´óÀûÃæ¹ŞÍ·,Canned pasta
-Consume_7,Åà¸ù¹ŞÍ·,Canned bacon
-Consume_8,Å£Èâ¹ŞÍ·,Canned beef
-Consume_9,É³¶¡Óã¹ŞÍ·,Canned sardines
-Consume_10,Æ¿×°Ë®,bottled water
-Consume_11,Æ»¹ûÖ­,Apple juice
-Consume_12,ÆÏÌÑÖ­,Grape juice
-Consume_13,ºìÅ£,Red Bull
-Consume_14,Ò¬×ÓÖ­,Coconut milk
-Consume_15,ºĞ×°Å£ÄÌ,Boxed milk
-Consume_16,³ÈÖ­,Orange juice
-Consume_17,Æ¿×°¿ÉÀÖ,Bottled cola
-Consume_18,Æ¿×°ËÕ´òË®,Bottled soda
-Consume_19,ÇÉ¿ËÁ¦,chocolate
-Consume_20,ÄÜÁ¿°ô,Energy bar
-Consume_21,ºúÂÜ²·,carrot
-Consume_22,ÓñÃ×,corn
-Consume_23,¾üÁ¸,MRE
-Consume_24,ÈıÃ÷ÖÎ,sandwich
-Consume_25,ÄÌÀÒ,cheese
-Consume_26,»ğÍÈ¹ŞÍ·,Canned ham
-Consume_27,Å£Èâ,beef
-Consume_28,ÌğÌğÈ¦,Donuts
-Consume_29,Ò°Ä¢¹½,Wild mushroom
-Consume_30,Æ»¹û,Apple
-Consume_31,Ìğ¸ù²Ë,Beetroot
-Consume_32,Ìğ¸ù²ËÉ³À­,Beetroot Salad
-Consume_33,½¬¹û,berry
-Consume_34,Æ¡¾Æ,beer
-Consume_35,¹û½´,jam
-Consume_36,ÍşÊ¿¼É,Whiskey
-Consume_37,Ïã½¶,banana
-Consume_38,ºº±¤,Hamburg
-Consume_39,¼¦ÍÈ,Chicken leg
-Consume_40,ÇúÆæ±ı¸É,Cookies
-Consume_41,Ö½±­µ°¸â,Cup cake
-Consume_42,Ìı×°ËÕ´òË®,Canned soda
-Consume_43,ÈÈ¹·,hot dog
-Consume_44,Æ¿×°Å£ÄÌ,Bottled milk
-Consume_45,Ó¢¸ñÀ¼ËÉ±ı,English Muffins
-Consume_46,ÏÚ±ı,pie
-Consume_47,ÅûÈø,Pizza
-Consume_48,±­×°¿ÉÀÖ,Cup of Coke
-Consume_49,taco±ı,taco
-Consume_50,Åà¸ù,Bacon
-Consume_51,»ğ¼¦Èâ,Turkey
-Consume_52,ÅÅ¹Ç,Ribs
-Consume_53,»ğÍÈ³¦,Ham sausage
-Consume_54,Å£ÅÅ,steak
-Consume_55,Î÷¹Ï,watermelon
-Consume_56,É³¶¡Óã,sardine
-Consume_57,Ö©ÖëÈâ,Spider meat
-Consume_58,ÀğÓã,carp
-Consume_59,÷¨Óã,Cod
-Consume_100,Ö¹Ñª²İ,Hemostasis
-Consume_101,Ò½Ò©Ïä,Medicine cabinet
-Consume_102,±Á´ø,bandage
-Consume_103,½â¶¾¼Á,Antidote
-Consume_104,ÒßÃç,vaccine
-Consume_105,ÉöÉÏÏÙËØ,Adrenaline
-Consume_106,Âğ·È,morphine
-Consume_107,¿¹ÉúËØ,antibiotic
-Consume_108,Ö¹Í´Ò©,painkiller
-Consume_109,Î¬ÉúËØ,Vitamins
-Consume_110,Ñª´ü,Blood bag
-Consume_111,·ìºÏ°ü,Stitched bag
-Consume_112,¼±¾È°ü,First aid kit
-Consume_113,ÉúÃü½ºÄÒ(x½ºÄÒ),Life capsule
-Consume_114,Ò©ÓÃÌÇ½¬,Medicinal syrup
-Consume_115,Ö¹Ñª¼Á,Hemostatic agent
-Consume_116,¼Ğ°å,Splint
-Consume_117,ÉúÃüÁ¦Ç¿»¯½ºÄÒ,Vitality Capsule
-Consume_118,Õ½¶·Á¦Ç¿»¯½ºÄÒ,Combat Capsule
-Consume_119,·ÀÓùÁ¦Ç¿»¯½ºÄÒ,Defense capsule
-Consume_200,Ìú¶¤,Nails
-Consume_201,¼ıÊ¸,Arrow
-Consume_202,ÊÖÇ¹×Óµ¯,Pistol bullet
-Consume_203,²½Ç¹×Óµ¯,Rifle bullet
-Consume_204,É¢µ¯Ç¹×Óµ¯,Shotgun bullets
-Consume_205,Éş×Ó,rope
-Consume_206,óô»ğ,bonfire
-Consume_207,²¶ÊŞ¼Ğ,Trap
-Consume_208,Óã¶ü,Bait
-Consume_209,òÇò¾,earthworm
-Consume_210,Ã«Ã«³æ,Caterpillar
-Consume_211,¾Ñ»÷Ç¹×Óµ¯,Sniper bullet
-Consume_300,Ä¦ÍĞ³µÔ¿³×,Motorcycle key
-Consume_301,ºÚÉ«Æû³µ,Black car
-Consume_400,Ë®ºø,kettle
-Consume_500,µØ°å,Wooden floor
-Consume_501,Ìì»¨°å,Wooden ceiling
-Consume_502,Ä¾ÖÆÇ½±Ú,Wooden wall
-Consume_503,Ä¾ÖÆÇ½±Ú(ÃÅ),Wooden wall(door)
-Consume_504,Ä¾ÖÆÇ½±Ú(´°»§),Wooden wall(window)
-Consume_505,µØ»ù,foundation
-Consume_506,Â¥Ìİ,stairs
-Consume_507,LĞÍÂ¥Ìİ,L stairs
-Consume_508,Öù×Ó,Wooden pillar
-Consume_600,Ä¾Ïä×Ó,wooden box
-Consume_1000,Ê¯¿é,stone
-Consume_1001,Ä¾²Ä,wood
-Consume_1002,Ìú¶§,Iron ingot
-Consume_1003,ËÜ½º¿é,Plastic block
-Consume_1004,²¼ÁÏ,Cloth
-Consume_1005,¿ÕÆ¿,Empty bottle
-Consume_1006,µç³Ø,battery
-Consume_1007,»ğÒ©,gunpowder
-Consume_1008,ÖëÍø,Cobweb
-Consume_1009,ÌúÆ¬,Iron sheet
-Consume_2000,³·ÀëÂ·ÏßÍ¼,Evacuation route map
-Consume_2001,·ÏÆú±ÜÄÑËù,Abandoned refuge
-Collet_1,Ìğ¸ù²Ë,Beetroot
-Collet_2,Ê¬Ìå,corpse
-Jewelry_1,¾£¼¬ÊÖ»·,Thorny bracelet
-Jewelry_2,ËÄÒ¶²İ»¤·û,Lucky charm
-Jewelry_3,ºìÇ¾Ş±ĞØ»¨,Red rose corsage
-Jewelry_4,âã»ÚÕßµÄÊ®×Ö¼Ü,Confessor's cross
-Jewelry_5,îÑºÏ½ğ¿ø¼×,Titanium armor
-Jewelry_6,·ÀÓùÁ¦Ç¿»¯Æ÷,enhancer
-Jewelry_7,¹¥»÷Á¦Ç¿»¯Æ÷,enhancer
-Jewelry_8,ÉúÃüÁ¦Ç¿»¯Æ÷,enhancer
-Jewelry_9,·ÀÓùÁ¦×ª»¯Æ÷,enhancer
-Jewelry_10,¹¥»÷Á¦×ª»¯Æ÷,enhancer
-Jewelry_11,ÉúÃüÁ¦×ª»¯Æ÷,enhancer
-Jewelry_12,ÔË¶¯ÑÛ¾µ,Sports Glasses
-Jewelry_13,·ÖÁÑµÄÃæ¾ß,Split mask
-Jewelry_14,ĞÒÔË½ğ±Ò,Lucky coin
-Jewelry_15,¾«ÖÂµÄÂí±í,Stopwatch
-Jewelry_16,îÑºÏ½ğ·ÂÉúÍÈ,Bionic leg
-Jewelry_17,ĞÄÔàÆğ²«Æ÷,Pacemaker
-Jewelry_18,³¬ÄÜÁ¦Ğ¾Æ¬,Super chip
-Jewelry_19,Ö©Öë¶¾ÑÀ,Spider fangs
-Jewelry_100,»¢Ö¸,Brass knuckles
+Weapon_101,é›·æ˜é¡¿M870,Super Boy
+Consume_1,ç½è£…è±†å­,Canned Beans
+Consume_2,ç½è£…è¥¿çº¢æŸ¿æ±¤,Canned Tomato Soup
+Consume_3,ç½è£…é¸¡æ±¤,Canned Chicken Soup
+Consume_4,é‡‘æªé±¼ç½å¤´,Canned Tuna
+Consume_5,å¬è£…å¯ä¹,Canned Coke
+Consume_6,æ„å¤§åˆ©é¢ç½å¤´,Canned Pasta
+Consume_7,åŸ¹æ ¹ç½å¤´,Canned Bacon
+Consume_8,ç‰›è‚‰ç½å¤´,Canned Beef
+Consume_9,æ²™ä¸é±¼ç½å¤´,Canned Sardines
+Consume_10,ç“¶è£…æ°´,Bottled Water
+Consume_11,è‹¹æœæ±,Apple Juice
+Consume_12,è‘¡è„æ±,Grape Juice
+Consume_13,çº¢ç‰›,Red Bull
+Consume_14,æ¤°å­æ±,Coconut Milk
+Consume_15,ç›’è£…ç‰›å¥¶,Boxed Milk
+Consume_16,æ©™æ±,Orange Juice
+Consume_17,ç“¶è£…å¯ä¹,Bottled Cola
+Consume_18,ç“¶è£…è‹æ‰“æ°´,Bottled Soda
+Consume_19,å·§å…‹åŠ›,Chocolate
+Consume_20,èƒ½é‡æ£’,Energy Bar
+Consume_21,èƒ¡èåœ,Carrot
+Consume_22,ç‰ç±³,Corn
+Consume_23,å†›ç²®,MRE
+Consume_24,ä¸‰æ˜æ²»,Sandwich
+Consume_25,å¥¶é…ª,Cheese
+Consume_26,ç«è…¿ç½å¤´,Canned Ham
+Consume_27,ç‰›è‚‰,Beef
+Consume_28,ç”œç”œåœˆ,Donuts
+Consume_29,é‡è˜‘è‡,Wild Mushroom
+Consume_30,è‹¹æœ,Apple
+Consume_31,ç”œæ ¹èœ,Beetroot
+Consume_32,ç”œæ ¹èœæ²™æ‹‰,Beetroot Salad
+Consume_33,æµ†æœ,Berry
+Consume_34,å•¤é…’,Beer
+Consume_35,æœé…±,Jam
+Consume_36,å¨å£«å¿Œ,Whiskey
+Consume_37,é¦™è•‰,Banana
+Consume_38,æ±‰å ¡,Hamburg
+Consume_39,é¸¡è…¿,Chicken Leg
+Consume_40,æ›²å¥‡é¥¼å¹²,Cookies
+Consume_41,çº¸æ¯è›‹ç³•,Cup Cake
+Consume_42,å¬è£…è‹æ‰“æ°´,Canned Soda
+Consume_43,çƒ­ç‹—,Hot Dog
+Consume_44,ç“¶è£…ç‰›å¥¶,Bottled Milk
+Consume_45,è‹±æ ¼å…°æ¾é¥¼,English Muffins
+Consume_46,é¦…é¥¼,Pie
+Consume_47,æŠ«è¨,Pizza
+Consume_48,æ¯è£…å¯ä¹,Cup of Coke
+Consume_49,tacoé¥¼,Taco
+Consume_50,åŸ¹æ ¹,Bacon
+Consume_51,ç«é¸¡è‚‰,Turkey
+Consume_52,æ’éª¨,Ribs
+Consume_53,ç«è…¿è‚ ,Ham Sausage
+Consume_54,ç‰›æ’,Steak
+Consume_55,è¥¿ç“œ,Watermelon
+Consume_56,æ²™ä¸é±¼,Sardine
+Consume_57,èœ˜è››è‚‰,Spider Meat
+Consume_58,é²¤é±¼,Carp
+Consume_59,é³•é±¼,Cod
+Consume_100,æ­¢è¡€è‰,Hemostasis
+Consume_101,åŒ»è¯ç®±,Medicine Cabinet
+Consume_102,ç»·å¸¦,Bandage
+Consume_103,è§£æ¯’å‰‚,Antidote
+Consume_104,ç–«è‹—,Vaccine
+Consume_105,è‚¾ä¸Šè…ºç´ ,Adrenaline
+Consume_106,å—å•¡,Morphine
+Consume_107,æŠ—ç”Ÿç´ ,Antibiotic
+Consume_108,æ­¢ç—›è¯,Painkiller
+Consume_109,ç»´ç”Ÿç´ ,Vitamins
+Consume_110,è¡€è¢‹,Blood Bag
+Consume_111,ç¼åˆåŒ…,Stitched Bag
+Consume_112,æ€¥æ•‘åŒ…,First Aid Kit
+Consume_113,ç”Ÿå‘½èƒ¶å›Š(xèƒ¶å›Š),Life Capsule
+Consume_114,è¯ç”¨ç³–æµ†,Medicinal Syrup
+Consume_115,æ­¢è¡€å‰‚,Hemostatic Agent
+Consume_116,å¤¹æ¿,Splint
+Consume_117,ç”Ÿå‘½åŠ›å¼ºåŒ–èƒ¶å›Š,Vitality Capsule
+Consume_118,æˆ˜æ–—åŠ›å¼ºåŒ–èƒ¶å›Š,Combat Capsule
+Consume_119,é˜²å¾¡åŠ›å¼ºåŒ–èƒ¶å›Š,Defense capsule
+Consume_200,é“é’‰,Nails
+Consume_201,ç®­çŸ¢,Arrow
+Consume_202,æ‰‹æªå­å¼¹,Pistol Bullet
+Consume_203,æ­¥æªå­å¼¹,Rifle Bullet
+Consume_204,æ•£å¼¹æªå­å¼¹,Shotgun Bullets
+Consume_205,ç»³å­,Rope
+Consume_206,ç¯ç«,Bonfire
+Consume_207,æ•å…½å¤¹,Trap
+Consume_208,é±¼é¥µ,Bait
+Consume_209,èš¯èš“,Earthworm
+Consume_210,æ¯›æ¯›è™«,Caterpillar
+Consume_211,ç‹™å‡»æªå­å¼¹,Sniper Bullet
+Consume_300,æ‘©æ‰˜è½¦é’¥åŒ™,Motorcycle Key
+Consume_301,é»‘è‰²æ±½è½¦,Black Car
+Consume_400,æ°´å£¶,Kettle
+Consume_500,åœ°æ¿,Wooden Floor
+Consume_501,å¤©èŠ±æ¿,Wooden Ceiling
+Consume_502,æœ¨åˆ¶å¢™å£,Wooden Wall
+Consume_503,æœ¨åˆ¶å¢™å£(é—¨),Wooden Wall(Door)
+Consume_504,æœ¨åˆ¶å¢™å£(çª—æˆ·),Wooden Wall(Window)
+Consume_505,åœ°åŸº,Foundation
+Consume_506,æ¥¼æ¢¯,Stairs
+Consume_507,Lå‹æ¥¼æ¢¯,L Stairs
+Consume_508,æŸ±å­,Wooden Pillar
+Consume_600,æœ¨ç®±å­,Wooden Box
+Consume_1000,çŸ³å—,Stone
+Consume_1001,æœ¨æ,Wood
+Consume_1002,é“é”­,Iron Ingot
+Consume_1003,å¡‘èƒ¶å—,Plastic Block
+Consume_1004,å¸ƒæ–™,Cloth
+Consume_1005,ç©ºç“¶,Empty Bottle
+Consume_1006,ç”µæ± ,Battery
+Consume_1007,ç«è¯,Gunpowder
+Consume_1008,è››ç½‘,Cobweb
+Consume_1009,é“ç‰‡,Iron Sheet
+Consume_2000,æ’¤ç¦»è·¯çº¿å›¾,Evacuation Route Map
+Consume_2001,åºŸå¼ƒé¿éš¾æ‰€,Abandoned Refuge
+Collet_1,ç”œæ ¹èœ,Beetroot
+Collet_2,å°¸ä½“,Corpse
+Jewelry_1,è†æ£˜æ‰‹ç¯,Thorny Bracelet
+Jewelry_2,å››å¶è‰æŠ¤ç¬¦,Lucky Charm
+Jewelry_3,çº¢è”·è–‡èƒ¸èŠ±,Red Rose Corsage
+Jewelry_4,å¿æ‚”è€…çš„åå­—æ¶,Confessor's Cross
+Jewelry_5,é’›åˆé‡‘ç›”ç”²,Titanium Armor
+Jewelry_6,é˜²å¾¡åŠ›å¼ºåŒ–å™¨,enhancer
+Jewelry_7,æ”»å‡»åŠ›å¼ºåŒ–å™¨,enhancer
+Jewelry_8,ç”Ÿå‘½åŠ›å¼ºåŒ–å™¨,enhancer
+Jewelry_9,é˜²å¾¡åŠ›è½¬åŒ–å™¨,enhancer
+Jewelry_10,æ”»å‡»åŠ›è½¬åŒ–å™¨,enhancer
+Jewelry_11,ç”Ÿå‘½åŠ›è½¬åŒ–å™¨,enhancer
+Jewelry_12,è¿åŠ¨çœ¼é•œ,Sports Glasses
+Jewelry_13,åˆ†è£‚çš„é¢å…·,Split Mask
+Jewelry_14,å¹¸è¿é‡‘å¸,Lucky Coin
+Jewelry_15,ç²¾è‡´çš„é©¬è¡¨,Stopwatch
+Jewelry_16,é’›åˆé‡‘ä»¿ç”Ÿè…¿,Bionic Leg
+Jewelry_17,å¿ƒè„èµ·æå™¨,Pacemaker
+Jewelry_18,è¶…èƒ½åŠ›èŠ¯ç‰‡,Super Chip
+Jewelry_19,èœ˜è››æ¯’ç‰™,Spider Fangs
+Jewelry_100,è™æŒ‡,Brass Knuckles

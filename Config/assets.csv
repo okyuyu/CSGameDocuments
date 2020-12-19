@@ -290,7 +290,7 @@ id,type,category,name,asset_category,fileid,posx,posy,posz,anglex,angley,anglez,
 94,weapon;1,icon;2;1,w94sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300054,0,0,0,0,0,0,ÃèÊö
 95,weapon;1,icon;2;1,w95sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300002,0,0,0,0,0,0,ÃèÊö
 96,weapon;1,icon;2;1,w96sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300000,0,0,0,0,0,0,ÃèÊö
-97,weapon;1,icon;2;1,w97sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300016,0,0,0,0,0,0,ÃèÊö
+97,weapon;1,icon;2;1,w97sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300010,0,0,0,0,0,0,ÃèÊö
 97,weapon;1,sound;3;0,w97_shoot,assetobject;1,499ba76c96a1b004b906ade729f93655:100000,0,0,0,0,0,0,ÃèÊö
 97,weapon;1,sound;3;4,w97_draw,assetobject;1,afad0cc1cf6c2ec49a5bf18d7686aab9:100000,0,0,0,0,0,0,ÃèÊö
 98,weapon;1,icon;2;1,w98sp,assetobject;1,961d2ffa3bf4c1e438a674322767b896:21300008,0,0,0,0,0,0,ÃèÊö

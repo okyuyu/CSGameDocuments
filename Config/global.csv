@@ -18,10 +18,11 @@ dash_speed,10,
 craft_delay,1,
 default_name,player,
 audio_enable,0,
-testbag,1,0表示没有;大于1表示测试背包id
-one_drink,200,一口消耗的毫升数量
+language,1,默认语言
+pvp,1,玩家伤害
 max_level,50,最大等级
 master_server,118.31.186.141,nat服务器
 move_sensitivity,0.5,"默认灵敏度,相当于起点"
 rotate_sensitivity,0.5,默认灵敏度
 server_mode,0,0:主机模式;1:服务器模式
+ad_tick,1500,广告循环时间

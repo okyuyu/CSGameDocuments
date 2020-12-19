@@ -11,7 +11,7 @@ category,0;ACT_IDLE,1;ACT_JUMP,2;ACT_RUN,3;ACT_DUCK,4;ACT_DEPLOY,5;ACT_SHOOT,6;A
 9;Knife,MeleeIdle,jump,MeleeRun,duck,MeleeIdle,,,RightSlashOneHand,,MeleeRun,,,eat,drink,bandage,MeleeIdle,MeleeRun
 10;Axe,MeleeIdle,jump,MeleeRun,duck,MeleeIdle,,,RightSlashOneHand,,MeleeRun,,,eat,drink,bandage,MeleeIdle,MeleeRun
 11;Saw,MeleeIdle,jump,MeleeRun,duck,MeleeIdle,,,RightSlashOneHand,,MeleeRun,,,eat,drink,bandage,MeleeIdle,MeleeRun
-12;Hammer,MeleeIdle,jump,MeleeRun,duck,MeleeIdle,,,SwingTwoHand,,MeleeRun,,,eat,drink,bandage,MeleeIdle,MeleeRun
+12;Hammer,MeleeIdle,jump,MeleeRun,duck,MeleeIdle,,,RightSlashOneHand,,MeleeRun,,,eat,drink,bandage,MeleeIdle,MeleeRun
 13;Stick,MeleeIdle,jump,MeleeRun,duck,MeleeIdle,,,RightSlashOneHand,,MeleeRun,,,eat,drink,bandage,MeleeIdle,MeleeRun
 14;Sword,MeleeIdle,jump,MeleeRun,duck,MeleeIdle,,,,,MeleeRun,,,eat,drink,bandage,MeleeIdle,MeleeRun
 15;LongBow,MeleeIdle,jump,MeleeRun,duck,bow_deploy,,bow_reload,,,MeleeRun,bow_hold,bow_fire,eat,drink,bandage,bow_idle,BowRun
